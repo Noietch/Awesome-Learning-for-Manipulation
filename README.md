@@ -1,6 +1,6 @@
-# Awesome Embodied AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/Noietch/Awesome-Embodied-AI)
+# Awesome Learning for Manipulation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/Noietch/Awesome-Learning-for-Manipulation)
 
-> A comprehensive curated list of papers and resources on Embodied AI, covering VLA, VA, VLN, World Models, Benchmarks, Surveys, and leading Companies & Labs.
+> A curated list of papers on learning-based robot manipulation, covering VLA, video-action models, visuomotor policies, world models, simulators, benchmarks, and industry tech reports.
 > Maintained by [@Noietch](https://github.com/Noietch). PRs welcome!
 
 ## Table of Contents
@@ -9,17 +9,14 @@
 - [🎬 VA — Video-Action Models](#-va--video-action-models)
 - [🦾 Visuomotor Policies](#-visuomotor-policies)
 - [🏭 Robot Foundation Model Tech Reports](#-robot-foundation-model-tech-reports)
-- [🧭 VLN — Vision-Language Navigation](#-vln--vision-language-navigation)
 - [🌍 World Models](#-world-models)
 - [📊 Benchmarks & Datasets](#-benchmarks--datasets)
   - [Manipulation Benchmarks](#manipulation-benchmarks)
   - [Robot Datasets](#robot-datasets)
   - [Whole-body / Humanoid Benchmarks](#whole-body--humanoid-benchmarks)
-  - [Autonomous Driving Benchmarks](#autonomous-driving-benchmarks)
 - [📚 Survey](#-survey)
   - [Manipulation & Robot Learning](#manipulation--robot-learning-survey)
   - [Embodied AI General](#embodied-ai-general-survey)
-  - [Autonomous Driving](#autonomous-driving-survey)
 - [🏢 Companies & Labs](#-companies--labs)
 - [Contributing](#contributing)
 
@@ -219,67 +216,6 @@
 
 ---
 
-## 🧭 VLN — Vision-Language Navigation
-
-### Seminal / Foundational
-
-| Paper | Venue | Year | Links | TL;DR |
-|-------|-------|------|-------|-------|
-| [VLN-BERT: Improving Vision-and-Language Navigation with Image-Text Pairs from the Web](https://arxiv.org/abs/2004.14973) | CVPR | 2021 | [Paper](https://arxiv.org/abs/2004.14973) | BERT pretrained on image-text for VLN |
-| [DUET: Dual-Scale Graph Transformer for Vision-and-Language Navigation](https://arxiv.org/abs/2202.11742) | CVPR | 2022 | [Paper](https://arxiv.org/abs/2202.11742) | Fine- and coarse-grained dual-scale navigation transformer |
-| [NavGPT: Explicit Reasoning in Vision-and-Language Navigation with LLMs](https://arxiv.org/abs/2305.16986) | AAAI | 2024 | [Paper](https://arxiv.org/abs/2305.16986) | GPT-based zero-shot navigation via explicit reasoning |
-| [MapGPT: Map-Guided Prompting with Adaptive Path Planning for VLN](https://arxiv.org/abs/2401.07314) | ACL | 2024 | [Paper](https://arxiv.org/abs/2401.07314) | Map-conditioned LLM prompting for VLN path planning |
-| [EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite for Embodied AI](https://arxiv.org/abs/2312.16170) | CVPR | 2024 | [Paper](https://arxiv.org/abs/2312.16170) | Multi-modal 3D scene understanding for embodied agents |
-
-### 2023–2024
-
-| Paper | Venue | Year | Links | TL;DR |
-|-------|-------|------|-------|-------|
-| [Bridging Zero-shot Object Navigation and Foundation Models through Pixel-Guided Navigation Skill](https://arxiv.org/abs/2309.10309) | ICRA | 2024 | [Paper](https://arxiv.org/abs/2309.10309) | Pixel-level affordance for zero-shot object navigation |
-| [Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs](https://arxiv.org/abs/2407.07775) | — | 2024 | [Paper](https://arxiv.org/abs/2407.07775) | Long-context VLM over topological graph for navigation |
-| [NaViD: Video-based VLM Plans the Next Step for Vision-and-Language Navigation](https://arxiv.org/abs/2402.15852) | RSS | 2024 | [Paper](https://arxiv.org/abs/2402.15852) | Video-conditioned VLM plans navigation waypoints |
-| [The One RING: a Robotic Indoor Navigation Generalist](https://arxiv.org/abs/2412.14401) | — | 2024 | [Paper](https://arxiv.org/abs/2412.14401) | Generalist indoor navigation model |
-| [CANVAS: Commonsense-Aware Navigation System for Intuitive Human-Robot Interaction](https://arxiv.org/abs/2410.01273) | — | 2024 | [Paper](https://arxiv.org/abs/2410.01273) \| [Project](https://worv-ai.github.io/canvas/) | Commonsense-guided navigation for human-robot interaction |
-
-### 2025
-
-| Paper | Venue | Year | Links | TL;DR |
-|-------|-------|------|-------|-------|
-| [NaVILA: Legged Robot Vision-Language-Action Model for Navigation](https://arxiv.org/abs/2412.04453) | RSS | 2025 | [Paper](https://arxiv.org/abs/2412.04453) \| [Project](https://navila-bot.github.io/) | VLA adapted for legged robot navigation |
-| [OctoNav: Towards Generalist Embodied Navigation](https://arxiv.org/abs/2506.09839) | — | 2025 | [Paper](https://arxiv.org/abs/2506.09839) \| [Project](https://buaa-colalab.github.io/OctoNav/) | Generalist navigation model for diverse tasks |
-| [UniGoal: Towards Universal Zero-shot Goal-oriented Navigation](https://arxiv.org/abs/2503.10630) | — | 2025 | [Paper](https://arxiv.org/abs/2503.10630) \| [Project](https://bagh2178.github.io/UniGoal/) | Zero-shot universal goal-oriented navigation |
-| [WMNav: Integrating VLMs into World Models for Object Goal Navigation](https://arxiv.org/abs/2503.02247) | — | 2025 | [Paper](https://arxiv.org/abs/2503.02247) \| [Project](https://b0b8k1ng.github.io/WMNav/) | World model-guided VLM for object navigation |
-| [MapNav: Memory Representation via Annotated Semantic Maps for VLM-based VLN](https://arxiv.org/abs/2502.13451) | — | 2025 | [Paper](https://arxiv.org/abs/2502.13451) | Semantic map memory for VLM-based navigation |
-| [OpenFly: Large-scale Benchmark for Aerial Vision-Language Navigation](https://arxiv.org/abs/2502.18041) | — | 2025 | [Paper](https://arxiv.org/abs/2502.18041) | UAV VLN benchmark with diverse aerial scenarios |
-| [ApexNav: Adaptive Exploration Strategy for Zero-Shot Object Navigation](https://arxiv.org/abs/2504.14478) | RA-L | 2025 | [Paper](https://arxiv.org/abs/2504.14478) \| [Project](https://robotics-star.com/ApexNav) | Adaptive semantic fusion for zero-shot navigation |
-| [TopV-Nav: Top-View Spatial Reasoning for Zero-shot Object Navigation](https://arxiv.org/abs/2411.16425) | — | 2025 | [Paper](https://arxiv.org/abs/2411.16425) | Bird's-eye view spatial reasoning for MLLM navigation |
-| [VL-Nav: Real-time Vision-Language Navigation with Spatial Reasoning](https://arxiv.org/abs/2502.00931) | — | 2025 | [Paper](https://arxiv.org/abs/2502.00931) | Spatial reasoning VLN for real-time robot navigation |
-| [CityNavAgent: Aerial VLN with Hierarchical Semantic Planning](https://arxiv.org/abs/2505.05622) | — | 2025 | [Paper](https://arxiv.org/abs/2505.05622) \| [Code](https://github.com/VinceOuti/CityNavAgent) | Hierarchical planning for city-scale aerial navigation |
-| [Embodied Navigation Foundation Model](https://arxiv.org/abs/2509.12129) | — | 2025 | [Paper](https://arxiv.org/abs/2509.12129) \| [Project](https://pku-epic.github.io/NavFoM-Web/) | Large foundation model for embodied navigation |
-| [GC-VLN: Instruction as Graph Constraints for Training-free VLN](https://arxiv.org/abs/2509.10454) | CoRL | 2025 | [Paper](https://arxiv.org/abs/2509.10454) \| [Code](https://github.com/bagh2178/GC-VLN) | Graph constraint-based training-free VLN |
-| [OmniVLA: Omni-Modal VLA Model for Robot Navigation](https://arxiv.org/abs/2509.19480) | — | 2025 | [Paper](https://arxiv.org/abs/2509.19480) \| [Code](https://github.com/NHirose/OmniVLA) | Omni-modal inputs for unified robot navigation |
-| [Ground Slow, Move Fast: Dual-System Foundation Model for Generalizable VLN](https://arxiv.org/abs/2512.08186) | — | 2025 | [Paper](https://arxiv.org/abs/2512.08186) \| [Code](https://github.com/InternRobotics/InternNav) | System 1/2 VLN: fast movement + slow grounding |
-| [JanusVLN: Decoupling Semantics and Spatiality for Vision-Language Navigation](https://arxiv.org/abs/2509.22548) | — | 2025 | [Paper](https://arxiv.org/abs/2509.22548) \| [Code](https://github.com/MIV-XJTU/JanusVLN) | Dual implicit memory for semantic/spatial decoupling |
-| [ForesightNav: Learning Scene Imagination for Efficient Exploration](https://arxiv.org/abs/2504.16062) | — | 2025 | [Paper](https://arxiv.org/abs/2504.16062) \| [Code](https://github.com/uzh-rpg/foresight-nav) | Future scene imagination for efficient navigation |
-| [NavDP: Sim-to-Real Navigation Diffusion Policy](https://arxiv.org/abs/2505.08712) | — | 2025 | [Paper](https://arxiv.org/abs/2505.08712) | Diffusion policy with privileged info for robot navigation |
-| [TRAVEL: Training-Free Retrieval and Alignment for VLN](https://arxiv.org/abs/2502.07306) | — | 2025 | [Paper](https://arxiv.org/abs/2502.07306) | Training-free retrieval augmentation for VLN agents |
-| [LOVON: Legged Open-Vocabulary Object Navigator](https://arxiv.org/abs/2507.06747) | — | 2025 | [Paper](https://arxiv.org/abs/2507.06747) \| [Project](https://daojiepeng.github.io/LOVON/) | Legged robot open-vocabulary object navigation |
-| [CorrectNav: Self-Correction Flywheel for Vision-Language-Action Navigation](https://arxiv.org/abs/2508.10416) | — | 2025 | [Paper](https://arxiv.org/abs/2508.10416) \| [Project](https://correctnav.github.io/) | Self-correction loop for robust VLA navigation |
-| [TrackVLA++: Reasoning and Memory for Embodied Visual Tracking](https://arxiv.org/abs/2510.07134) | — | 2025 | [Paper](https://arxiv.org/abs/2510.07134) \| [Project](https://pku-epic.github.io/TrackVLA-plus-plus-Web/) | Extended VLA for visual object tracking in navigation |
-
-### 2026
-
-| Paper | Venue | Year | Links | TL;DR |
-|-------|-------|------|-------|-------|
-| [LatentPilot: Scene-Aware VLN by Dreaming Ahead with Latent Visual Reasoning](https://arxiv.org/abs/2603.29165) | — | 2026 | [Paper](https://arxiv.org/abs/2603.29165) | Flywheel training + action-conditioned latent tokens let agent dream ahead without future frames |
-| [AgentVLN: Towards Agentic Vision-and-Language Navigation](https://arxiv.org/abs/2603.17670) | — | 2026 | [Paper](https://arxiv.org/abs/2603.17670) | VLM-as-Brain with cross-space 3D waypoint mapping and QD-PCoT for edge deployment |
-| [OmniVLN: Omnidirectional 3D Perception for VLN across Air and Ground Platforms](https://arxiv.org/abs/2603.17351) | — | 2026 | [Paper](https://arxiv.org/abs/2603.17351) | LiDAR + panoramic vision with hierarchical DSG reasoning for token-efficient navigation |
-| [Language-Conditioned World Modeling for Visual Navigation (LCVN)](https://arxiv.org/abs/2603.26741) | — | 2026 | [Paper](https://arxiv.org/abs/2603.26741) | Diffusion world model + actor-critic trained in latent space for instruction-conditioned navigation |
-| [PiJEPA: Policy-Guided World Model Planning for Language-Conditioned Visual Navigation](https://arxiv.org/abs/2603.25981) | — | 2026 | [Paper](https://arxiv.org/abs/2603.25981) | Policy priors warm-start MPPI planning over JEPA world model for faster convergence |
-| [SpatialPoint: Spatial-aware Point Prediction for Embodied Localization](https://arxiv.org/abs/2603.26690) | — | 2026 | [Paper](https://arxiv.org/abs/2603.26690) | RGB-D VLM framework predicting 3D touchable/air points for navigation and grasping |
-
----
-
 ## 🌍 World Models
 
 ### Seminal / Foundational
@@ -384,18 +320,6 @@
 
 | [HumanPlus: Humanoid Shadowing and Imitation from Humans](https://arxiv.org/abs/2406.10454) | CoRL | 2024 | [Paper](https://arxiv.org/abs/2406.10454) \| [Code](https://github.com/MarkFzp/humanplus) | Whole-body humanoid policy from human shadowing |
 
-### Autonomous Driving Benchmarks
-
-| Benchmark | Year | Links | Description |
-|-----------|------|-------|-------------|
-| [nuScenes: A Multimodal Dataset for Autonomous Driving](https://arxiv.org/abs/1812.01051) | CVPR | 2020 | [Paper](https://arxiv.org/abs/1812.01051) \| [Project](https://www.nuscenes.org/) | 1000 scenes with 3D object detection and tracking |
-| [CARLA: An Open Urban Driving Simulator](https://arxiv.org/abs/1711.03938) | CoRL | 2017 | [Paper](https://arxiv.org/abs/1711.03938) \| [Code](https://github.com/carla-simulator/carla) | Open-source urban driving simulation environment |
-| [nuPlan: A Closed-Loop ML-Based Planning Benchmark for Autonomous Driving](https://arxiv.org/abs/2106.11810) | ECCV | 2021 | [Paper](https://arxiv.org/abs/2106.11810) \| [Project](https://www.nuplan.org/) | Closed-loop autonomous driving planning benchmark |
-| [DriveLM: Driving with Graph Visual Question Answering](https://arxiv.org/abs/2312.14150) | ECCV | 2024 | [Paper](https://arxiv.org/abs/2312.14150) \| [Code](https://github.com/OpenDriveLab/DriveLM) | Language-driven driving understanding via scene graphs |
-| [NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation](https://arxiv.org/abs/2406.15349) | NeurIPS | 2024 | [Paper](https://arxiv.org/abs/2406.15349) \| [Code](https://github.com/autonomousvision/navsim) | Reactive simulation benchmark for autonomous driving |
-| [Bench2Drive: Are We Ready for Autonomous Driving? The CARLA Benchmark](https://arxiv.org/abs/2406.03877) | NeurIPS | 2024 | [Paper](https://arxiv.org/abs/2406.03877) \| [Code](https://github.com/Thinklab-SJTU/Bench2Drive) | Comprehensive CARLA-based autonomous driving benchmark |
-| [WOMD: Waymo Open Motion Dataset: An Interactive Motion Prediction Challenge](https://arxiv.org/abs/2104.10133) | ICRA | 2022 | [Paper](https://arxiv.org/abs/2104.10133) \| [Project](https://waymo.com/open/data/motion/) | Large-scale real-world motion prediction dataset |
-| [Waymax: An Accelerated, Data-Driven Simulator for Large-Scale Autonomous Driving Research](https://arxiv.org/abs/2310.08710) | NeurIPS | 2023 | [Paper](https://arxiv.org/abs/2310.08710) \| [Code](https://github.com/waymo-research/waymax) | JAX-based accelerated autonomous driving simulator |
 
 ---
 
@@ -424,15 +348,6 @@
 | [Embodied Intelligence via Learning and Evolution](https://arxiv.org/abs/2102.02202) | Nature Comm. | 2021 | [Paper](https://arxiv.org/abs/2102.02202) | Evolution and learning for embodied intelligence |
 | [Semantic Mapping in Indoor Embodied AI: A Comprehensive Survey](https://arxiv.org/abs/2501.05750) | — | 2025 | [Paper](https://arxiv.org/abs/2501.05750) | Survey of indoor semantic mapping for embodied AI |
 
-### Autonomous Driving Survey
-
-| Paper | Venue | Year | Links | TL;DR |
-|-------|-------|------|-------|-------|
-| [End-to-End Autonomous Driving: Challenges and Frontiers](https://arxiv.org/abs/2306.16927) | IEEE TPAMI | 2023 | [Paper](https://arxiv.org/abs/2306.16927) | Comprehensive survey on end-to-end AD methods |
-| [A Survey on Multimodal Large Language Models for Autonomous Driving](https://arxiv.org/abs/2311.12320) | WACV | 2024 | [Paper](https://arxiv.org/abs/2311.12320) | MLLMs for perception, planning, and control in AD |
-| [DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models](https://arxiv.org/abs/2402.12289) | CoRL | 2024 | [Paper](https://arxiv.org/abs/2402.12289) | VLMs as reasoning modules for autonomous driving |
-| [Generalized Autonomous Driving: A Survey on Vision-Centric Methods](https://arxiv.org/abs/2312.04512) | — | 2023 | [Paper](https://arxiv.org/abs/2312.04512) | Survey on camera-centric methods for autonomous driving |
-| [World Models for Autonomous Driving: An Initial Survey](https://arxiv.org/abs/2403.02622) | — | 2024 | [Paper](https://arxiv.org/abs/2403.02622) | Survey on world models applied to autonomous driving |
 
 ---
 
