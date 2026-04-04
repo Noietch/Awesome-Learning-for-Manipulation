@@ -21,14 +21,11 @@
   - [Embodied AI General](#embodied-ai-general-survey)
   - [Autonomous Driving](#autonomous-driving-survey)
 - [🏢 Companies & Labs](#-companies--labs)
-- [🔗 Related Resources](#-related-resources)
 - [Contributing](#contributing)
 
 ---
 
 ## 🤖 VLA — Vision-Language-Action Models
-
-> Vision-Language-Action models that jointly process visual observations and language instructions to produce robot actions.
 
 ### Seminal / Foundational
 
@@ -104,8 +101,6 @@
 
 ## 🎬 VA — Video-Action Models
 
-> Models where video generation or video prediction is the core mechanism — video frames are the primary output or intermediate representation for robot action.
-
 ### Seminal / Foundational
 
 | Paper | Venue | Year | Links | TL;DR |
@@ -145,8 +140,6 @@
 ---
 
 ## 🦾 Visuomotor Policies
-
-> Action policy models using diffusion, flow matching, or transformer-based imitation learning — without video generation as a core component.
 
 ### Seminal / Foundational
 
@@ -210,8 +203,6 @@
 
 ## 🏭 Robot Foundation Model Tech Reports
 
-> Technical reports and system papers from industry organizations and robot companies, describing large-scale foundation models for robotics.
-
 | System | Organization | Year | Links | TL;DR |
 |--------|-------------|------|-------|-------|
 | [π0: A Vision-Language-Action Flow Model for General Robot Control](https://arxiv.org/abs/2410.24164) | Physical Intelligence | 2024 | [Paper](https://arxiv.org/abs/2410.24164) | Flow-matching VLA; dexterous multi-task control |
@@ -229,8 +220,6 @@
 ---
 
 ## 🧭 VLN — Vision-Language Navigation
-
-> Models for navigating environments guided by natural language instructions.
 
 ### Seminal / Foundational
 
@@ -292,8 +281,6 @@
 ---
 
 ## 🌍 World Models
-
-> Models that learn to simulate the world, predict future states, or enable planning through internal simulation.
 
 ### Seminal / Foundational
 
@@ -480,45 +467,6 @@
 | [PKU EPIC Lab](https://pku-epic.github.io/) | Academic | Dexterous manipulation, embodied AI, GraspNet | [Website](https://pku-epic.github.io/) |
 | [OpenRobotics / Open Source Robotics Foundation](https://www.openrobotics.org/) | Non-profit | ROS, Gazebo, open-source robot infrastructure | [Website](https://www.openrobotics.org/) |
 | [AgiBot World](https://agibot-world.com/) | Startup | Large-scale robot teleoperation data platform | [Website](https://agibot-world.com/) |
-
----
-
-## 🔗 Related Resources
-
-### Similar Awesome Lists
-
-- [jonyzhang2023/awesome-embodied-vla-va-vln](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln) — Regularly updated VLA/VA/VLN paper list
-- [haosulab/awesome-vision-language-action-model](https://github.com/haosulab/awesome-vision-language-action-model) — VLA model collection
-- [GT-RIPL/Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) — LLM for robotics resources
-- [robotics-survey/Awesome-Robotics-Foundation-Models](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models) — Foundation models for robotics
-- [knightnemo/Awesome-World-Models](https://github.com/knightnemo/Awesome-World-Models) — World models collection
-- [leofan90/Awesome-World-Models](https://github.com/leofan90/Awesome-World-Models) — World models for robotics
-- [cheryyunl/awesome-generalist-agents](https://github.com/cheryyunl/awesome-generalist-agents) — Generalist agent papers
-- [AoqunJin/Awesome-VLA-Post-Training](https://github.com/AoqunJin/Awesome-VLA-Post-Training) — VLA post-training methods
-- [XiaoWei-i/Awesome-VLA-RL](https://github.com/XiaoWei-i/Awesome-VLA-RL) — VLA with RL
-- [Jiaaqiliu/Awesome-VLA-Robotics](https://github.com/Jiaaqiliu/Awesome-VLA-Robotics) — VLA for robotics
-- [OpenDCAI/OpenWorldLib](https://github.com/OpenDCAI/OpenWorldLib) — Open world model library
-
-### Simulators
-
-| Simulator | Year | Links | Description |
-|-----------|------|-------|-------------|
-| [MuJoCo: A Physics Engine for Model-Based Control](https://mujoco.readthedocs.io/) | 2012 | [Docs](https://mujoco.readthedocs.io/) \| [Code](https://github.com/google-deepmind/mujoco) | State-of-the-art physics simulation for robotics |
-| [Genesis: A Generative and Universal Physics Engine](https://genesis-embodied-ai.github.io/) | 2024 | [Project](https://genesis-embodied-ai.github.io/) | Generative physics engine with GPU acceleration |
-| [ManiSkill3: GPU Parallelized Robotics Simulation](https://arxiv.org/abs/2410.00425) | 2024 | [Paper](https://arxiv.org/abs/2410.00425) \| [Code](https://github.com/haosulab/ManiSkill) | GPU-parallel manipulation simulation (v1-v3) |
-| [NVIDIA Isaac Lab](https://github.com/isaac-sim/IsaacLab) | 2024 | [Docs](https://isaac-sim.github.io/IsaacLab/) \| [Code](https://github.com/isaac-sim/IsaacLab) | Isaac Sim-based GPU robot learning framework |
-| [PyBullet](https://pybullet.org/) | 2016 | [Docs](https://pybullet.org/) \| [Code](https://github.com/bulletphysics/bullet3) | Python bindings for Bullet physics engine |
-| [Gazebo / Ignition](https://gazebosim.org/) | 2002 | [Website](https://gazebosim.org/) | Open-source 3D robot simulation for ROS |
-| [MuJoCo MJX (Jax-accelerated)](https://mujoco.readthedocs.io/en/stable/mjx.html) | 2024 | [Docs](https://mujoco.readthedocs.io/en/stable/mjx.html) | JAX-native MuJoCo for GPU-accelerated simulation |
-| [MuJoCo Playground](https://arxiv.org/abs/2502.08844) | 2025 | [Paper](https://arxiv.org/abs/2502.08844) | Interactive playground for robot learning in MuJoCo |
-| [CARLA Simulator](https://github.com/carla-simulator/carla) | 2017 | [Docs](https://carla.readthedocs.io/) \| [Code](https://github.com/carla-simulator/carla) | Open-source urban driving simulation |
-
-### Tools & Libraries
-
-| Tool | Links | Description |
-|------|-------|-------------|
-| [LeRobot](https://github.com/huggingface/lerobot) | [GitHub](https://github.com/huggingface/lerobot) \| [HuggingFace](https://huggingface.co/lerobot) | HuggingFace open-source robot learning library |
-| [Lerobot Datasets](https://huggingface.co/datasets?search=lerobot) | [HuggingFace](https://huggingface.co/datasets?search=lerobot) | Community robot datasets on HuggingFace |
 
 ---
 
