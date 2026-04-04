@@ -8,6 +8,7 @@
 - [🤖 VLA — Vision-Language-Action Models](#-vla--vision-language-action-models)
 - [🎬 VA — Video-Action Models](#-va--video-action-models)
 - [🦾 Visuomotor Policies](#-visuomotor-policies)
+- [🏭 Robot Foundation Model Tech Reports](#-robot-foundation-model-tech-reports)
 - [🧭 VLN — Vision-Language Navigation](#-vln--vision-language-navigation)
 - [🌍 World Models](#-world-models)
 - [📊 Benchmarks & Datasets](#-benchmarks--datasets)
@@ -45,7 +46,6 @@
 
 | Paper | Venue | Year | Links | TL;DR |
 |-------|-------|------|-------|-------|
-| [π0: A Vision-Language-Action Flow Model for General Robot Control](https://arxiv.org/abs/2410.24164) | — | 2024 | [Paper](https://www.physicalintelligence.company/download/pi0.pdf) | Flow-matching VLA from Physical Intelligence; dexterous multi-task |
 | [RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation](https://arxiv.org/abs/2410.07864) | ICLR | 2025 | [Paper](https://arxiv.org/abs/2410.07864) \| [Project](https://rdt-robotics.github.io/rdt-robotics/) | 1B diffusion transformer for bimanual robot arms |
 | [CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action](https://arxiv.org/abs/2411.19650) | — | 2024 | [Paper](https://arxiv.org/abs/2411.19650) | Decouples cognition (VLM) from action via diffusion head |
 | [HPT: Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-Training](https://arxiv.org/abs/2409.20537) | NeurIPS | 2024 | [Paper](https://arxiv.org/abs/2409.20537) | Unified pre-training for diverse robot embodiments |
@@ -70,10 +70,6 @@
 | Paper | Venue | Year | Links | TL;DR |
 |-------|-------|------|-------|-------|
 | [π0-FAST: Efficient Action Tokenization for Vision-Language-Action Models](https://arxiv.org/abs/2501.09747) | — | 2025 | [Paper](https://arxiv.org/abs/2501.09747) | Frequency-based action tokenization for fast π0 inference |
-| [π0.5: A Vision-Language-Action Model with Open-World Generalization](https://arxiv.org/abs/2504.16054) | — | 2025 | [Paper](https://arxiv.org/abs/2504.16054) \| [Project](https://www.pi.website/blog/pi05) \| [Code](https://github.com/Physical-Intelligence/openpi) | π0 generalized to open-world settings |
-| [GR00T N1: An Open Foundation Model for Generalist Humanoid Robots](https://arxiv.org/abs/2503.14734) | — | 2025 | [Paper](https://arxiv.org/abs/2503.14734) \| [Code](https://github.com/NVIDIA/Isaac-GR00T) | NVIDIA's open humanoid foundation model |
-| [Gemini Robotics: Bringing AI into the Physical World](https://storage.googleapis.com/deepmind-media/gemini-robotics/gemini_robotics_report.pdf) | — | 2025 | [Report](https://storage.googleapis.com/deepmind-media/gemini-robotics/gemini_robotics_report.pdf) | Google DeepMind multimodal robot control system |
-| [Helix: A Vision-Language-Action Model for Generalist Humanoid Control](https://www.figure.ai/news/helix) | — | 2025 | [Report](https://www.figure.ai/news/helix) | Figure AI's dual-system VLA for humanoid control |
 | [SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Model](https://arxiv.org/abs/2501.15830) | — | 2025 | [Paper](https://arxiv.org/abs/2501.15830) | 3D-aware spatial tokens for better manipulation |
 | [CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models](https://arxiv.org/abs/2503.22020) | CVPR | 2025 | [Paper](https://arxiv.org/abs/2503.22020) \| [Project](https://cot-vla.github.io/) | Explicit visual reasoning chain improves VLA performance |
 | [RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete](https://arxiv.org/abs/2502.21257) | CVPR | 2025 | [Paper](https://arxiv.org/abs/2502.21257) \| [Project](https://superrobobrain.github.io/) | Unified cognition-to-action model for manipulation |
@@ -85,19 +81,14 @@
 | [VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable RL](https://arxiv.org/abs/2505.18719) | — | 2025 | [Paper](https://arxiv.org/abs/2505.18719) \| [Code](https://github.com/GuanxingLu/vlarl) | RL fine-tuning of VLA for general manipulation |
 | [WorldVLA: Towards Autoregressive Action World Model](https://arxiv.org/abs/2506.21539) | — | 2025 | [Paper](https://arxiv.org/abs/2506.21539) \| [Code](https://github.com/alibaba-damo-academy/WorldVLA) | Unifies world model prediction with VLA action generation |
 | [SmolVLA: A vision-language-action model for affordable and efficient robotics](https://arxiv.org/abs/2506.01844) | — | 2025 | [Paper](https://arxiv.org/abs/2506.01844) \| [Code](https://github.com/huggingface/lerobot) | HuggingFace compact VLA; integrates with LeRobot |
-| [Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos](https://arxiv.org/abs/2507.15597) | — | 2025 | [Paper](https://arxiv.org/abs/2507.15597) \| [Code](https://github.com/BeingBeyond/Being-H0) | Humanoid pretraining from egocentric human video |
-| [GR-3 Technical Report](https://arxiv.org/abs/2507.15493) | — | 2025 | [Paper](https://arxiv.org/abs/2507.15493) \| [Project](https://seed.bytedance.com/GR3) | ByteDance Seed's third-gen generative robot policy |
 | [ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy](https://arxiv.org/abs/2502.05450) | RSS | 2025 | [Paper](https://arxiv.org/abs/2502.05450) \| [Project](https://cccedric.github.io/conrft/) | Consistency-based RL fine-tuning improves VLA robustness |
 | [NORA: A Small Open-Sourced Generalist VLA Model for Embodied Tasks](https://arxiv.org/abs/2504.19854) | — | 2025 | [Paper](https://arxiv.org/abs/2504.19854) \| [Project](https://declare-lab.github.io/nora) | Lightweight open-source VLA for diverse robot tasks |
-| [EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation](https://arxiv.org/abs/2501.01895) | — | 2025 | [Paper](https://arxiv.org/abs/2501.01895) | AgiBot's generative future-state model for manipulation |
 | [Embodied-R1: Reinforced Embodied Reasoning for General Robotic Manipulation](https://arxiv.org/abs/2508.13998) | — | 2025 | [Paper](https://arxiv.org/abs/2508.13998) \| [Code](https://github.com/pickxiguapi/Embodied-R1) | R1-style reasoning reinforcement for embodied manipulation |
 | [InternVLA-M1: Spatially Guided VLA Framework for Generalist Robot Policy](https://arxiv.org/abs/2510.13778) | — | 2025 | [Paper](https://arxiv.org/abs/2510.13778) \| [Code](https://github.com/InternRobotics/InternVLA-M1) | InternRobotics' spatially grounded VLA framework |
 | [X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment VLA](https://arxiv.org/abs/2510.10274) | — | 2025 | [Paper](https://arxiv.org/abs/2510.10274) \| [Code](https://github.com/2toinf/X-VLA) | Cross-embodiment VLA via soft prompt adaptation |
 | [RoboMonkey: Scaling Test-Time Sampling and Verification for VLAs](https://arxiv.org/abs/2506.17811) | CoRL | 2025 | [Paper](https://arxiv.org/abs/2506.17811) \| [Code](https://github.com/robomonkey-vla/RoboMonkey) | Test-time compute scaling via sampling+verification |
 | [GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Data](https://arxiv.org/abs/2505.03233) | CoRL | 2025 | [Paper](https://arxiv.org/abs/2505.03233) \| [Code](https://github.com/PKU-EPIC/GraspVLA) | Billion-scale synthetic pre-training for universal grasping |
 | [Long-VLA: Unleashing Long-Horizon Capability for Robot Manipulation](https://arxiv.org/abs/2508.19958) | CoRL | 2025 | [Paper](https://arxiv.org/abs/2508.19958) \| [Project](https://long-vla.github.io/) | VLA for long-horizon multi-step manipulation tasks |
-| [GigaBrain-0: A World Model-Powered Vision-Language-Action Model](https://arxiv.org/abs/2510.19430) | — | 2025 | [Paper](https://arxiv.org/abs/2510.19430) \| [Code](https://github.com/open-gigaai/giga-brain-0) | World model-powered VLA with video generation backbone |
-
 ### 2026 (Preprints)
 
 | Paper | Venue | Year | Links | TL;DR |
@@ -187,6 +178,24 @@
 | [GauDP: Multi-Agent Collaboration through Gaussian-Image Synergy in Diffusion Policies](https://arxiv.org/abs/2511.00998) | NeurIPS | 2025 | [Paper](https://arxiv.org/abs/2511.00998) \| [Project](https://ziyeeee.github.io/gaudp.io/) | Gaussian splatting + diffusion for multi-robot policies |
 | [ASAP: Aligning Simulation and Real-World Physics for Humanoid Whole-Body Skills](https://arxiv.org/abs/2502.01143) | — | 2025 | [Paper](https://arxiv.org/abs/2502.01143) | Sim-to-real alignment for agile humanoid locomotion |
 | [ManipTrans: Efficient Dexterous Bimanual Manipulation Transfer via Residual Learning](https://arxiv.org/abs/2503.21860) | — | 2025 | [Paper](https://arxiv.org/abs/2503.21860) \| [Project](https://maniptrans.github.io/) | Residual learning for bimanual dexterous transfer |
+
+---
+
+## 🏭 Robot Foundation Model Tech Reports
+
+> Technical reports and system papers from industry organizations and robot companies, describing large-scale foundation models for robotics.
+
+| System | Organization | Year | Links | TL;DR |
+|--------|-------------|------|-------|-------|
+| [π0: A Vision-Language-Action Flow Model for General Robot Control](https://arxiv.org/abs/2410.24164) | Physical Intelligence | 2024 | [Paper](https://arxiv.org/abs/2410.24164) | Flow-matching VLA; dexterous multi-task control |
+| [π0.5: A Vision-Language-Action Model with Open-World Generalization](https://arxiv.org/abs/2504.16054) | Physical Intelligence | 2025 | [Paper](https://arxiv.org/abs/2504.16054) \| [Project](https://www.pi.website/blog/pi05) | π0 generalized to open-world settings |
+| [GR00T N1: An Open Foundation Model for Generalist Humanoid Robots](https://arxiv.org/abs/2503.14734) | NVIDIA | 2025 | [Paper](https://arxiv.org/abs/2503.14734) \| [Code](https://github.com/NVIDIA/Isaac-GR00T) | NVIDIA open humanoid foundation model |
+| [Gemini Robotics: Bringing AI into the Physical World](https://storage.googleapis.com/deepmind-media/gemini-robotics/gemini_robotics_report.pdf) | Google DeepMind | 2025 | [Report](https://storage.googleapis.com/deepmind-media/gemini-robotics/gemini_robotics_report.pdf) | Google DeepMind multimodal robot control system |
+| [Helix: A Vision-Language-Action Model for Generalist Humanoid Control](https://www.figure.ai/news/helix) | Figure AI | 2025 | [Report](https://www.figure.ai/news/helix) | Figure AI's dual-system VLA for humanoid control |
+| [GR-3 Technical Report](https://arxiv.org/abs/2507.15493) | ByteDance Seed | 2025 | [Paper](https://arxiv.org/abs/2507.15493) \| [Project](https://seed.bytedance.com/GR3) | ByteDance Seed's third-gen generative robot policy |
+| [EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation](https://arxiv.org/abs/2501.01895) | AgiBot (星动纪元) | 2025 | [Paper](https://arxiv.org/abs/2501.01895) | AgiBot's generative future-state model for manipulation |
+| [Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos](https://arxiv.org/abs/2507.15597) | BeingBeyond | 2025 | [Paper](https://arxiv.org/abs/2507.15597) \| [Code](https://github.com/BeingBeyond/Being-H0) | Humanoid pretraining from egocentric human video |
+| [GigaBrain-0: A World Model-Powered Vision-Language-Action Model](https://arxiv.org/abs/2510.19430) | GigaAI | 2025 | [Paper](https://arxiv.org/abs/2510.19430) \| [Code](https://github.com/open-gigaai/giga-brain-0) | World model-powered VLA |
 
 ---
 
