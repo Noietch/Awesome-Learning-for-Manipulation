@@ -7,6 +7,7 @@
 
 - [🤖 VLA — Vision-Language-Action Models](#-vla--vision-language-action-models)
 - [🎬 VA — Video-Action Models](#-va--video-action-models)
+- [🦾 Visuomotor Policies](#-visuomotor-policies)
 - [🧭 VLN — Vision-Language Navigation](#-vln--vision-language-navigation)
 - [🌍 World Models](#-world-models)
 - [📊 Benchmarks & Datasets](#-benchmarks--datasets)
@@ -107,7 +108,38 @@
 
 ## 🎬 VA — Video-Action Models
 
-> Vision-Action models that use video generation, diffusion, or flow matching to predict or predict-then-execute robot actions.
+> Models where video generation or video prediction is the core mechanism — video frames are the primary output or intermediate representation for robot action.
+
+### Seminal / Foundational
+
+| Paper | Venue | Year | Links | TL;DR |
+|-------|-------|------|-------|-------|
+| [GR-1: Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation](https://arxiv.org/abs/2312.13139) | ICLR | 2024 | [Paper](https://arxiv.org/abs/2312.13139) | Video prediction pretraining transferable to manipulation |
+| [GROOT: Learning to Follow Instructions by Watching How Things Are Done](https://arxiv.org/abs/2310.08235) | ICLR | 2024 | [Paper](https://arxiv.org/abs/2310.08235) | Segment-then-follow paradigm from observation videos |
+| [SuSIE: Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models](https://arxiv.org/abs/2311.01775) | ICLR | 2024 | [Paper](https://arxiv.org/abs/2311.01775) | Editing diffusion models as zero-shot robot subgoal generators |
+| [IRASim: Learning Interactive Real-Robot Action Simulators](https://arxiv.org/abs/2406.14540) | — | 2024 | [Paper](https://arxiv.org/abs/2406.14540) | Interactive video generation model for robot simulation |
+| [Video Generators Are Robot Policies](https://arxiv.org/abs/2406.16862) | — | 2025 | [Paper](https://arxiv.org/abs/2406.16862) \| [Project](https://videopolicy.cs.columbia.edu/) \| [Code](https://github.com/cvlab-columbia/videopolicy) | Video generation models directly serve as robot policies |
+
+### 2024
+
+| Paper | Venue | Year | Links | TL;DR |
+|-------|-------|------|-------|-------|
+| [Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations](https://arxiv.org/abs/2412.14803) | — | 2024 | [Paper](https://arxiv.org/abs/2412.14803) | Video future prediction as policy representation |
+
+### 2025
+
+| Paper | Venue | Year | Links | TL;DR |
+|-------|-------|------|-------|-------|
+| [Unified Video Action Model](https://arxiv.org/abs/2503.00200) | RSS | 2025 | [Paper](https://arxiv.org/abs/2503.00200) \| [Project](https://unified-video-action-model.github.io/) | Joint video+action model for scalable robot learning |
+| [Chain-of-Action: Trajectory Autoregressive Modeling for Robotic Manipulation](https://arxiv.org/abs/2506.09990) | — | 2025 | [Paper](https://arxiv.org/abs/2506.09990) \| [Project](https://chain-of-action.github.io/) | ByteDance Seed's autoregressive action trajectory model |
+| [Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation](https://arxiv.org/abs/2412.15109) | — | 2025 | [Paper](https://arxiv.org/abs/2412.15109) \| [Project](https://nimolty.github.io/Seer/) | Predictive inverse dynamics for scalable manipulation |
+| [Unified World Models: Coupling Video and Action Diffusion for Robot Pretraining](https://arxiv.org/abs/2504.02792) | — | 2025 | [Paper](https://arxiv.org/abs/2504.02792) \| [Project](https://weirdlabuw.github.io/uwm/) | Joint video-action diffusion for large-scale pretraining |
+
+---
+
+## 🦾 Visuomotor Policies
+
+> Action policy models using diffusion, flow matching, or transformer-based imitation learning — without video generation as a core component.
 
 ### Seminal / Foundational
 
@@ -115,11 +147,6 @@
 |-------|-------|------|-------|-------|
 | [Diffusion Policy: Visuomotor Policy Learning via Action Diffusion](https://arxiv.org/abs/2303.04137) | RSS | 2023 | [Paper](https://arxiv.org/abs/2303.04137) \| [Code](https://github.com/columbia-ai-robotics/diffusion_policy) | DDPM-based policy for robot manipulation |
 | [ACT: Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware](https://arxiv.org/abs/2304.13705) | RSS | 2023 | [Paper](https://arxiv.org/abs/2304.13705) \| [Code](https://github.com/tonyzhaozh/act) | CVAE + transformer for bimanual imitation |
-| [GR-1: Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation](https://arxiv.org/abs/2312.13139) | ICLR | 2024 | [Paper](https://arxiv.org/abs/2312.13139) | Video prediction pretraining transferable to manipulation |
-| [GROOT: Learning to Follow Instructions by Watching How Things Are Done](https://arxiv.org/abs/2310.08235) | ICLR | 2024 | [Paper](https://arxiv.org/abs/2310.08235) | Segment-then-follow paradigm from observation videos |
-| [SuSIE: Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models](https://arxiv.org/abs/2311.01775) | ICLR | 2024 | [Paper](https://arxiv.org/abs/2311.01775) | Editing diffusion models as zero-shot robot subgoal generators |
-| [IRASim: Learning Interactive Real-Robot Action Simulators](https://arxiv.org/abs/2406.14540) | — | 2024 | [Paper](https://arxiv.org/abs/2406.14540) | Interactive video generation model for robot simulation |
-| [Video Generators Are Robot Policies](https://arxiv.org/abs/2406.16862) | — | 2025 | [Paper](https://arxiv.org/abs/2406.16862) \| [Project](https://videopolicy.cs.columbia.edu/) \| [Code](https://github.com/cvlab-columbia/videopolicy) | Video generation models directly serve as robot policies |
 
 ### 2024
 
@@ -132,7 +159,6 @@
 | [In-Context Imitation Learning via Next-Token Prediction](https://arxiv.org/abs/2408.15980) | — | 2024 | [Paper](https://arxiv.org/abs/2408.15980) \| [Project](https://icrt.dev/) | In-context robot learning via demo-conditioned autoregression |
 | [Diffusion Policy Policy Optimization](https://arxiv.org/abs/2409.00588) | ICLR | 2025 | [Paper](https://arxiv.org/abs/2409.00588) | RL fine-tuning of diffusion policies |
 | [Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies](https://arxiv.org/abs/2410.10803) | — | 2024 | [Paper](https://arxiv.org/abs/2410.10803) | 3D diffusion policy adapted for humanoid whole-body |
-| [Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations](https://arxiv.org/abs/2412.14803) | — | 2024 | [Paper](https://arxiv.org/abs/2412.14803) | Video future prediction as policy representation |
 | [Bidirectional Decoding: Improving Action Chunking via Closed-Loop Resampling](https://arxiv.org/abs/2408.17355) | — | 2024 | [Paper](https://arxiv.org/abs/2408.17355) | Bidirectional rollout improves temporal consistency |
 | [GenDP: 3D Semantic Fields for Category-Level Generalizable Diffusion Policy](https://arxiv.org/abs/2410.17488) | — | 2024 | [Paper](https://arxiv.org/abs/2410.17488) | Generalizable diffusion via 3D semantic feature fields |
 | [Scaling Diffusion Transformer to 1B Parameters for Robotic Manipulation](https://arxiv.org/abs/2409.14411) | — | 2024 | [Paper](https://arxiv.org/abs/2409.14411) | Scaling study for diffusion transformer policies |
@@ -142,12 +168,8 @@
 
 | Paper | Venue | Year | Links | TL;DR |
 |-------|-------|------|-------|-------|
-| [Unified Video Action Model](https://arxiv.org/abs/2503.00200) | RSS | 2025 | [Paper](https://arxiv.org/abs/2503.00200) \| [Project](https://unified-video-action-model.github.io/) | Joint video+action model for scalable robot learning |
 | [Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy for Contact-Rich Manipulation](https://arxiv.org/abs/2503.02881) | RSS | 2025 | [Paper](https://arxiv.org/abs/2503.02881) \| [Project](https://reactive-diffusion-policy.github.io/) | Dual-speed diffusion policy with tactile feedback |
-| [AdaWorld: Learning Adaptable World Models with Latent Actions](https://arxiv.org/abs/2503.18938) | — | 2025 | [Paper](https://arxiv.org/abs/2503.18938) \| [Project](https://adaptable-world-model.github.io/) | Latent action world models for fast adaptation |
-| [DyWA: Dynamics-adaptive World Action Model for Non-prehensile Manipulation](https://arxiv.org/abs/2503.16806) | — | 2025 | [Paper](https://arxiv.org/abs/2503.16806) \| [Project](https://pku-epic.github.io/DyWA/) | Adaptive dynamics world model for pushing manipulation |
 | [Streaming Flow Policy: Treating Action Trajectories as Flow Trajectories](https://arxiv.org/abs/2505.21851) | CoRL Oral | 2025 | [Paper](https://arxiv.org/abs/2505.21851) \| [Project](https://siddancha.github.io/streaming-flow-policy/) | Simplifies diffusion policies via streaming flow |
-| [Chain-of-Action: Trajectory Autoregressive Modeling for Robotic Manipulation](https://arxiv.org/abs/2506.09990) | — | 2025 | [Paper](https://arxiv.org/abs/2506.09990) \| [Project](https://chain-of-action.github.io/) | ByteDance Seed's autoregressive action trajectory model |
 | [H3DP: Triply-Hierarchical Diffusion Policy for Visuomotor Learning](https://arxiv.org/abs/2505.07819) | — | 2025 | [Paper](https://arxiv.org/abs/2505.07819) \| [Project](https://lyy-iiis.github.io/h3dp/) | Three-level hierarchy in diffusion policy |
 | [MoDE: Mixture of Experts Diffusion Policy for Multitask Learning](https://arxiv.org/abs/2412.12953) | ICLR | 2025 | [Paper](https://arxiv.org/abs/2412.12953) \| [Project](https://mbreuss.github.io/MoDE_Diffusion_Policy/) | MoE-based diffusion transformer for multi-task policies |
 | [FlowPolicy: Fast 3D Flow-Based Policy via Consistency Flow Matching](https://arxiv.org/abs/2412.04987) | AAAI | 2025 | [Paper](https://arxiv.org/abs/2412.04987) \| [Code](https://github.com/zql-kk/FlowPolicy) | Consistency flow matching for fast 3D robot control |
@@ -160,10 +182,7 @@
 | [CLAM: Continuous Latent Action Models for Robot Learning from Unlabeled Demos](https://arxiv.org/abs/2505.04999) | — | 2025 | [Paper](https://arxiv.org/abs/2505.04999) \| [Project](https://clamrobot.github.io/) | Continuous latent actions learned from unlabeled video |
 | [Spatial Policy: Spatially-Aware Visuomotor Policy for Manipulation](https://arxiv.org/abs/2508.15874) | — | 2025 | [Paper](https://arxiv.org/abs/2508.15874) \| [Code](https://github.com/PlantPotatoOnMoon/SpatialPolicy) | Spatial reasoning integration into visuomotor policies |
 | [Latent Diffusion Planning for Imitation Learning](https://arxiv.org/abs/2504.16925) | — | 2025 | [Paper](https://arxiv.org/abs/2504.16925) \| [Project](https://amberxie88.github.io/ldp/) | Latent space diffusion for long-horizon robot planning |
-| [Unified World Models: Coupling Video and Action Diffusion for Robot Pretraining](https://arxiv.org/abs/2504.02792) | — | 2025 | [Paper](https://arxiv.org/abs/2504.02792) \| [Project](https://weirdlabuw.github.io/uwm/) | Joint video-action diffusion for large-scale pretraining |
 | [Sim-and-Real Co-Training: A Simple Recipe for Vision-Based Robotic Manipulation](https://arxiv.org/abs/2503.24361) | — | 2025 | [Paper](https://arxiv.org/abs/2503.24361) \| [Project](https://co-training.github.io/) | Simple co-training bridge between sim and real |
-| [Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation](https://arxiv.org/abs/2412.15109) | — | 2025 | [Paper](https://arxiv.org/abs/2412.15109) \| [Project](https://nimolty.github.io/Seer/) | Predictive inverse dynamics for scalable manipulation |
-| [Robotic World Model: A Neural Network Simulator for Robust Policy Optimization](https://arxiv.org/abs/2501.10100) | — | 2025 | [Paper](https://arxiv.org/abs/2501.10100) | Neural world model simulator for policy optimization |
 | [Humanoid Policy ~ Human Policy](https://arxiv.org/abs/2503.13441) | — | 2025 | [Paper](https://arxiv.org/abs/2503.13441) \| [Project](https://human-as-robot.github.io/) | Direct transfer from human motion policy to humanoid |
 | [GauDP: Multi-Agent Collaboration through Gaussian-Image Synergy in Diffusion Policies](https://arxiv.org/abs/2511.00998) | NeurIPS | 2025 | [Paper](https://arxiv.org/abs/2511.00998) \| [Project](https://ziyeeee.github.io/gaudp.io/) | Gaussian splatting + diffusion for multi-robot policies |
 | [ASAP: Aligning Simulation and Real-World Physics for Humanoid Whole-Body Skills](https://arxiv.org/abs/2502.01143) | — | 2025 | [Paper](https://arxiv.org/abs/2502.01143) | Sim-to-real alignment for agile humanoid locomotion |
@@ -318,6 +337,7 @@
 | [BEHAVIOR Robot Suite: Real-World Whole-Body Manipulation for Household Activities](https://arxiv.org/abs/2503.05652) | RSS | 2025 | [Paper](https://arxiv.org/abs/2503.05652) \| [Project](https://behavior-robot-suite.github.io/) | Real-world household whole-body manipulation tasks |
 | [OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation](https://arxiv.org/abs/2406.08858) | CoRL | 2024 | [Paper](https://arxiv.org/abs/2406.08858) \| [Code](https://github.com/LeCAR-Lab/human2humanoid) | Universal human-to-humanoid whole-body teleoperation |
 | [LocoMuJoCo: A Comprehensive Imitation Learning Benchmark for Locomotion](https://loco-mujoco.readthedocs.io/) | — | 2025 | [Docs](https://loco-mujoco.readthedocs.io/) \| [Code](https://github.com/robfiras/loco-mujoco) | Comprehensive locomotion benchmark in MuJoCo |
+
 | [HumanPlus: Humanoid Shadowing and Imitation from Humans](https://arxiv.org/abs/2406.10454) | CoRL | 2024 | [Paper](https://arxiv.org/abs/2406.10454) \| [Code](https://github.com/MarkFzp/humanplus) | Whole-body humanoid policy from human shadowing |
 
 ### Autonomous Driving Benchmarks
