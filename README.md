@@ -42,35 +42,34 @@
 | Paper | Venue | Year | Links | TL;DR |
 |-------|-------|------|-------|-------|
 | [RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation](https://arxiv.org/abs/2410.07864) | ICLR | 2025 | [Paper](https://arxiv.org/abs/2410.07864) \| [Project](https://rdt-robotics.github.io/rdt-robotics/) | 1B diffusion transformer for bimanual robot arms |
-| [CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action](https://arxiv.org/abs/2411.19650) | — | 2024 | [Paper](https://arxiv.org/abs/2411.19650) | Decouples cognition (VLM) from action via diffusion head |
 | [HPT: Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-Training](https://arxiv.org/abs/2409.20537) | NeurIPS | 2024 | [Paper](https://arxiv.org/abs/2409.20537) | Unified pre-training for diverse robot embodiments |
-| [GR-2: Generative Video-Language-Action Model with Web-Scale Knowledge](https://arxiv.org/abs/2410.06158) | — | 2024 | [Paper](https://arxiv.org/abs/2410.06158) | Video generation as world model for robot manipulation |
+| [GR-2: Generative Video-Language-Action Model with Web-Scale Knowledge](https://arxiv.org/abs/2410.06158) | Tech Report | 2024 | [Paper](https://arxiv.org/abs/2410.06158) | Video generation as world model for robot manipulation |
 | [3D-VLA: A 3D Vision-Language-Action Generative World Model](https://arxiv.org/abs/2403.09631) | ICML | 2024 | [Paper](https://arxiv.org/abs/2403.09631) | Grounded 3D perception with VLA and world model |
-| [TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models](https://arxiv.org/abs/2409.12514) | — | 2024 | [Paper](https://arxiv.org/abs/2409.12514) | Efficient VLA without large-scale robot pre-training |
-| [Diffusion-VLA: Scaling Robot Foundation Models via Unified Diffusion and Autoregression](https://arxiv.org/abs/2412.03293) | — | 2024 | [Paper](https://arxiv.org/abs/2412.03293) | Unifies diffusion and autoregressive VLA in one model |
-| [RT-H: Action Hierarchies Using Language](https://arxiv.org/abs/2403.01823) | — | 2024 | [Paper](https://arxiv.org/abs/2403.01823) | Hierarchical language-conditioned RT for long-horizon tasks |
+| [TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models](https://arxiv.org/abs/2409.12514) | RA-L | 2024 | [Paper](https://arxiv.org/abs/2409.12514) | Efficient VLA without large-scale robot pre-training |
+| [Diffusion-VLA: Scaling Robot Foundation Models via Unified Diffusion and Autoregression](https://arxiv.org/abs/2412.03293) | ICML 2025 | 2024 | [Paper](https://arxiv.org/abs/2412.03293) | Unifies diffusion and autoregressive VLA in one model |
+| [RT-H: Action Hierarchies Using Language](https://arxiv.org/abs/2403.01823) | RSS 2025 | 2024 | [Paper](https://arxiv.org/abs/2403.01823) | Hierarchical language-conditioned RT for long-horizon tasks |
 | [OpenVLA-OFT: Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success](https://arxiv.org/abs/2502.19645) | RSS | 2025 | [Paper](https://arxiv.org/abs/2502.19645) \| [Project](https://openvla-oft.github.io/) | Parallel decoding + fine-tuning for fast OpenVLA |
-| [Latent Action Pretraining from Videos](https://arxiv.org/abs/2410.11758) | — | 2024 | [Paper](https://arxiv.org/abs/2410.11758) | Learns latent actions from internet videos for zero-shot transfer |
-| [HiRT: Enhancing Robotic Control with Hierarchical Robot Transformers](https://arxiv.org/abs/2410.05273) | — | 2024 | [Paper](https://arxiv.org/abs/2410.05273) | Two-level hierarchy: high-level VLM + low-level policy |
-| [Robotic Control via Embodied Chain-of-Thought Reasoning](https://arxiv.org/abs/2407.08693) | — | 2024 | [Paper](https://arxiv.org/abs/2407.08693) | ECoT: step-by-step reasoning improves robot manipulation |
-| [Moto: Latent Motion Token as the Bridging Language for Robot Manipulation](https://arxiv.org/abs/2412.04445) | — | 2024 | [Paper](https://arxiv.org/abs/2412.04445) | Discrete latent motion tokens bridge VLM and action |
-| [TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness](https://arxiv.org/abs/2412.10345) | — | 2024 | [Paper](https://arxiv.org/abs/2412.10345) | Visual traces as prompts for better spatial reasoning |
-| [LLaRA: Supercharging Robot Learning Data for Vision-Language Policy](https://arxiv.org/abs/2406.20095) | — | 2024 | [Paper](https://arxiv.org/abs/2406.20095) | Data augmentation for VLA with interleaved language |
-| [QUAR-VLA: Vision-Language-Action Model for Quadruped Robots](https://arxiv.org/abs/2312.14457) | — | 2024 | [Paper](https://arxiv.org/abs/2312.14457) | VLA adapted for quadruped locomotion and navigation |
-| [General Flow as Foundation Affordance for Scalable Robot Learning](https://arxiv.org/abs/2401.11439) | — | 2024 | [Paper](https://arxiv.org/abs/2401.11439) \| [Project](https://general-flow.github.io/) | Optical flow as general robot affordance representation |
-| [Towards Generalist Robot Policies: What Matters in Building Vision-Language-Action Models](https://arxiv.org/abs/2412.14058) | — | 2024 | [Paper](https://arxiv.org/abs/2412.14058) | Systematic study of design choices for generalist VLA |
+| [Latent Action Pretraining from Videos](https://arxiv.org/abs/2410.11758) | ICLR 2025 | 2024 | [Paper](https://arxiv.org/abs/2410.11758) | Learns latent actions from internet videos for zero-shot transfer |
+| [HiRT: Enhancing Robotic Control with Hierarchical Robot Transformers](https://arxiv.org/abs/2410.05273) | CoRL 2024 | 2024 | [Paper](https://arxiv.org/abs/2410.05273) | Two-level hierarchy: high-level VLM + low-level policy |
+| [Robotic Control via Embodied Chain-of-Thought Reasoning](https://arxiv.org/abs/2407.08693) | CoRL 2024 | 2024 | [Paper](https://arxiv.org/abs/2407.08693) | ECoT: step-by-step reasoning improves robot manipulation |
+| [Moto: Latent Motion Token as the Bridging Language for Robot Manipulation](https://arxiv.org/abs/2412.04445) | ICCV 2025 | 2024 | [Paper](https://arxiv.org/abs/2412.04445) | Discrete latent motion tokens bridge VLM and action |
+| [TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness](https://arxiv.org/abs/2412.10345) | ICLR 2025 | 2024 | [Paper](https://arxiv.org/abs/2412.10345) | Visual traces as prompts for better spatial reasoning |
+| [LLaRA: Supercharging Robot Learning Data for Vision-Language Policy](https://arxiv.org/abs/2406.20095) | ICLR 2025 | 2024 | [Paper](https://arxiv.org/abs/2406.20095) | Data augmentation for VLA with interleaved language |
+| [QUAR-VLA: Vision-Language-Action Model for Quadruped Robots](https://arxiv.org/abs/2312.14457) | ECCV 2024 | 2024 | [Paper](https://arxiv.org/abs/2312.14457) | VLA adapted for quadruped locomotion and navigation |
+| [General Flow as Foundation Affordance for Scalable Robot Learning](https://arxiv.org/abs/2401.11439) | CoRL 2024 | 2024 | [Paper](https://arxiv.org/abs/2401.11439) \| [Project](https://general-flow.github.io/) | Optical flow as general robot affordance representation |
+| [Towards Generalist Robot Policies: What Matters in Building Vision-Language-Action Models](https://arxiv.org/abs/2412.14058) | Nature MI | 2024 | [Paper](https://arxiv.org/abs/2412.14058) | Systematic study of design choices for generalist VLA |
 
 ### 2025
 
 | Paper | Venue | Year | Links | TL;DR |
 |-------|-------|------|-------|-------|
 | [π0-FAST: Efficient Action Tokenization for Vision-Language-Action Models](https://arxiv.org/abs/2501.09747) | — | 2025 | [Paper](https://arxiv.org/abs/2501.09747) | Frequency-based action tokenization for fast π0 inference |
-| [SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Model](https://arxiv.org/abs/2501.15830) | — | 2025 | [Paper](https://arxiv.org/abs/2501.15830) | 3D-aware spatial tokens for better manipulation |
+| [SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Model](https://arxiv.org/abs/2501.15830) | MDPI Robotics | 2025 | [Paper](https://arxiv.org/abs/2501.15830) | 3D-aware spatial tokens for better manipulation |
 | [CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models](https://arxiv.org/abs/2503.22020) | CVPR | 2025 | [Paper](https://arxiv.org/abs/2503.22020) \| [Project](https://cot-vla.github.io/) | Explicit visual reasoning chain improves VLA performance |
 | [RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete](https://arxiv.org/abs/2502.21257) | CVPR | 2025 | [Paper](https://arxiv.org/abs/2502.21257) \| [Project](https://superrobobrain.github.io/) | Unified cognition-to-action model for manipulation |
 | [HybridVLA: Collaborative Diffusion and Autoregression in a Unified VLA Model](https://arxiv.org/abs/2503.10631) | — | 2025 | [Paper](https://arxiv.org/abs/2503.10631) \| [Project](https://hybrid-vla.github.io/) | Jointly leverages diffusion and AR for robust policies |
-| [Hi Robot: Open-Ended Instruction Following with Hierarchical VLAs](https://arxiv.org/abs/2502.19417) | — | 2025 | [Paper](https://arxiv.org/abs/2502.19417) \| [Project](https://www.pi.website/research/hirobot) | Two-level VLA: semantic planner + low-level controller |
-| [DexVLA: Vision-Language Model with Plug-In Diffusion Expert for Robot Control](https://arxiv.org/abs/2502.05855) | — | 2025 | [Paper](https://arxiv.org/abs/2502.05855) | Modular VLA with plug-in diffusion action expert |
+| [Hi Robot: Open-Ended Instruction Following with Hierarchical VLAs](https://arxiv.org/abs/2502.19417) | ICML 2025 | 2025 | [Paper](https://arxiv.org/abs/2502.19417) \| [Project](https://www.pi.website/research/hirobot) | Two-level VLA: semantic planner + low-level controller |
+| [DexVLA: Vision-Language Model with Plug-In Diffusion Expert for Robot Control](https://arxiv.org/abs/2502.05855) | CoRL 2025 | 2025 | [Paper](https://arxiv.org/abs/2502.05855) | Modular VLA with plug-in diffusion action expert |
 | [BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation](https://arxiv.org/abs/2506.07961) | NeurIPS | 2025 | [Paper](https://arxiv.org/abs/2506.07961) \| [Project](https://bridgevla.github.io/) | Aligns 3D inputs/outputs for efficient VLA learning |
 | [UniVLA: Unified Vision-Language-Action Model](https://arxiv.org/abs/2506.19850) | — | 2025 | [Paper](https://arxiv.org/abs/2506.19850) \| [Code](https://github.com/baaivision/UniVLA) | Single model unifying diverse manipulation tasks |
 | [VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable RL](https://arxiv.org/abs/2505.18719) | — | 2025 | [Paper](https://arxiv.org/abs/2505.18719) \| [Code](https://github.com/GuanxingLu/vlarl) | RL fine-tuning of VLA for general manipulation |
@@ -106,14 +105,14 @@
 | [GR-1: Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation](https://arxiv.org/abs/2312.13139) | ICLR | 2024 | [Paper](https://arxiv.org/abs/2312.13139) | Video prediction pretraining transferable to manipulation |
 | [GROOT: Learning to Follow Instructions by Watching How Things Are Done](https://arxiv.org/abs/2310.08235) | ICLR | 2024 | [Paper](https://arxiv.org/abs/2310.08235) | Segment-then-follow paradigm from observation videos |
 | [SuSIE: Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models](https://arxiv.org/abs/2311.01775) | ICLR | 2024 | [Paper](https://arxiv.org/abs/2311.01775) | Editing diffusion models as zero-shot robot subgoal generators |
-| [IRASim: Learning Interactive Real-Robot Action Simulators](https://arxiv.org/abs/2406.14540) | — | 2024 | [Paper](https://arxiv.org/abs/2406.14540) | Interactive video generation model for robot simulation |
-| [Video Generators Are Robot Policies](https://arxiv.org/abs/2406.16862) | — | 2025 | [Paper](https://arxiv.org/abs/2406.16862) \| [Project](https://videopolicy.cs.columbia.edu/) \| [Code](https://github.com/cvlab-columbia/videopolicy) | Video generation models directly serve as robot policies |
+| [IRASim: Learning Interactive Real-Robot Action Simulators](https://arxiv.org/abs/2406.14540) | ICCV 2025 | 2024 | [Paper](https://arxiv.org/abs/2406.14540) | Interactive video generation model for robot simulation |
+| [Video Generators Are Robot Policies](https://arxiv.org/abs/2406.16862) | CoRL 2024 | 2024 | [Paper](https://arxiv.org/abs/2406.16862) \| [Project](https://videopolicy.cs.columbia.edu/) \| [Code](https://github.com/cvlab-columbia/videopolicy) | Video generation models directly serve as robot policies |
 
 ### 2024
 
 | Paper | Venue | Year | Links | TL;DR |
 |-------|-------|------|-------|-------|
-| [Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations](https://arxiv.org/abs/2412.14803) | — | 2024 | [Paper](https://arxiv.org/abs/2412.14803) | Video future prediction as policy representation |
+| [Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations](https://arxiv.org/abs/2412.14803) | ICML 2025 | 2024 | [Paper](https://arxiv.org/abs/2412.14803) | Video future prediction as policy representation |
 
 ### 2025
 
@@ -121,7 +120,7 @@
 |-------|-------|------|-------|-------|
 | [Unified Video Action Model](https://arxiv.org/abs/2503.00200) | RSS | 2025 | [Paper](https://arxiv.org/abs/2503.00200) \| [Project](https://unified-video-action-model.github.io/) | Joint video+action model for scalable robot learning |
 | [Chain-of-Action: Trajectory Autoregressive Modeling for Robotic Manipulation](https://arxiv.org/abs/2506.09990) | — | 2025 | [Paper](https://arxiv.org/abs/2506.09990) \| [Project](https://chain-of-action.github.io/) | ByteDance Seed's autoregressive action trajectory model |
-| [Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation](https://arxiv.org/abs/2412.15109) | — | 2025 | [Paper](https://arxiv.org/abs/2412.15109) \| [Project](https://nimolty.github.io/Seer/) | Predictive inverse dynamics for scalable manipulation |
+| [Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation](https://arxiv.org/abs/2412.15109) | ICLR 2025 | 2025 | [Paper](https://arxiv.org/abs/2412.15109) \| [Project](https://nimolty.github.io/Seer/) | Predictive inverse dynamics for scalable manipulation |
 | [Unified World Models: Coupling Video and Action Diffusion for Robot Pretraining](https://arxiv.org/abs/2504.02792) | — | 2025 | [Paper](https://arxiv.org/abs/2504.02792) \| [Project](https://weirdlabuw.github.io/uwm/) | Joint video-action diffusion for large-scale pretraining |
 
 ### 2026
@@ -151,16 +150,16 @@
 | Paper | Venue | Year | Links | TL;DR |
 |-------|-------|------|-------|-------|
 | [3D Diffusion Policy: Generalizable Visuomotor Policy Learning via 3D Representations](https://arxiv.org/abs/2403.03954) | RSS | 2025 | [Paper](https://arxiv.org/abs/2403.03954) | Point cloud observations for 3D-aware diffusion policies |
-| [3D Diffuser Actor: Policy Diffusion with 3D Scene Representations](https://arxiv.org/abs/2402.10885) | — | 2024 | [Paper](https://arxiv.org/abs/2402.10885) | Language-conditioned diffusion in 3D scene feature space |
-| [Consistency Policy: Accelerated Visuomotor Policies via Consistency Distillation](https://arxiv.org/abs/2405.07503) | — | 2024 | [Paper](https://arxiv.org/abs/2405.07503) | One-step diffusion policy via consistency model distillation |
-| [One-Step Diffusion Policy: Fast Visuomotor Policies via Diffusion Distillation](https://arxiv.org/abs/2410.21257) | — | 2024 | [Paper](https://arxiv.org/abs/2410.21257) | Single-step inference for diffusion policy |
-| [In-Context Imitation Learning via Next-Token Prediction](https://arxiv.org/abs/2408.15980) | — | 2024 | [Paper](https://arxiv.org/abs/2408.15980) \| [Project](https://icrt.dev/) | In-context robot learning via demo-conditioned autoregression |
+| [3D Diffuser Actor: Policy Diffusion with 3D Scene Representations](https://arxiv.org/abs/2402.10885) | CoRL 2024 | 2024 | [Paper](https://arxiv.org/abs/2402.10885) | Language-conditioned diffusion in 3D scene feature space |
+| [Consistency Policy: Accelerated Visuomotor Policies via Consistency Distillation](https://arxiv.org/abs/2405.07503) | RSS 2025 | 2024 | [Paper](https://arxiv.org/abs/2405.07503) | One-step diffusion policy via consistency model distillation |
+| [One-Step Diffusion Policy: Fast Visuomotor Policies via Diffusion Distillation](https://arxiv.org/abs/2410.21257) | ICML 2025 | 2024 | [Paper](https://arxiv.org/abs/2410.21257) | Single-step inference for diffusion policy |
+| [In-Context Imitation Learning via Next-Token Prediction](https://arxiv.org/abs/2408.15980) | ICRA 2025 | 2024 | [Paper](https://arxiv.org/abs/2408.15980) \| [Project](https://icrt.dev/) | In-context robot learning via demo-conditioned autoregression |
 | [Diffusion Policy Policy Optimization](https://arxiv.org/abs/2409.00588) | ICLR | 2025 | [Paper](https://arxiv.org/abs/2409.00588) | RL fine-tuning of diffusion policies |
-| [Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies](https://arxiv.org/abs/2410.10803) | — | 2024 | [Paper](https://arxiv.org/abs/2410.10803) | 3D diffusion policy adapted for humanoid whole-body |
-| [Bidirectional Decoding: Improving Action Chunking via Closed-Loop Resampling](https://arxiv.org/abs/2408.17355) | — | 2024 | [Paper](https://arxiv.org/abs/2408.17355) | Bidirectional rollout improves temporal consistency |
-| [GenDP: 3D Semantic Fields for Category-Level Generalizable Diffusion Policy](https://arxiv.org/abs/2410.17488) | — | 2024 | [Paper](https://arxiv.org/abs/2410.17488) | Generalizable diffusion via 3D semantic feature fields |
-| [Scaling Diffusion Transformer to 1B Parameters for Robotic Manipulation](https://arxiv.org/abs/2409.14411) | — | 2024 | [Paper](https://arxiv.org/abs/2409.14411) | Scaling study for diffusion transformer policies |
-| [Data Scaling Laws in Imitation Learning for Robotic Manipulation](https://arxiv.org/abs/2410.18647) | — | 2024 | [Paper](https://arxiv.org/abs/2410.18647) | Empirical data scaling laws for imitation learning |
+| [Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies](https://arxiv.org/abs/2410.10803) | IROS 2025 | 2024 | [Paper](https://arxiv.org/abs/2410.10803) | 3D diffusion policy adapted for humanoid whole-body |
+| [Bidirectional Decoding: Improving Action Chunking via Closed-Loop Resampling](https://arxiv.org/abs/2408.17355) | ICLR 2025 | 2024 | [Paper](https://arxiv.org/abs/2408.17355) | Bidirectional rollout improves temporal consistency |
+| [GenDP: 3D Semantic Fields for Category-Level Generalizable Diffusion Policy](https://arxiv.org/abs/2410.17488) | CoRL 2024 | 2024 | [Paper](https://arxiv.org/abs/2410.17488) | Generalizable diffusion via 3D semantic feature fields |
+| [Scaling Diffusion Transformer to 1B Parameters for Robotic Manipulation](https://arxiv.org/abs/2409.14411) | ICRA 2025 | 2024 | [Paper](https://arxiv.org/abs/2409.14411) | Scaling study for diffusion transformer policies |
+| [Data Scaling Laws in Imitation Learning for Robotic Manipulation](https://arxiv.org/abs/2410.18647) | ICLR 2025 | 2024 | [Paper](https://arxiv.org/abs/2410.18647) | Empirical data scaling laws for imitation learning |
 
 ### 2025
 
@@ -174,17 +173,17 @@
 | [Dex1B: Learning with 1B Demonstrations for Dexterous Manipulation](https://arxiv.org/abs/2506.17198) | RSS | 2025 | [Paper](https://arxiv.org/abs/2506.17198) \| [Project](https://jianglongye.com/dex1b/) | 1-billion demo pre-training for dexterous hands |
 | [Dense Policy: Bidirectional Autoregressive Learning of Actions](https://arxiv.org/abs/2503.13217) | — | 2025 | [Paper](https://arxiv.org/abs/2503.13217) \| [Project](https://selen-suyue.github.io/DspNet/) | Bidirectional AR action sequence for rich action learning |
 | [Phantom: Training Robots Without Robots Using Only Human Videos](https://arxiv.org/abs/2503.00779) | — | 2025 | [Paper](https://arxiv.org/abs/2503.00779) \| [Project](https://phantom-human-videos.github.io/) | Robot policy from human videos without robot data |
-| [UniSkill: Imitating Human Videos via Cross-Embodiment Skill Representations](https://arxiv.org/abs/2505.08787) | — | 2025 | [Paper](https://arxiv.org/abs/2505.08787) \| [Project](https://kimhanjung.github.io/UniSkill/) | Cross-embodiment skill transfer from human video |
-| [ZeroMimic: Distilling Robotic Manipulation Skills from Web Videos](https://arxiv.org/abs/2503.23877) | — | 2025 | [Paper](https://arxiv.org/abs/2503.23877) \| [Project](https://zeromimic.github.io/) | Zero-shot manipulation from web video via distillation |
+| [UniSkill: Imitating Human Videos via Cross-Embodiment Skill Representations](https://arxiv.org/abs/2505.08787) | CoRL 2025 | 2025 | [Paper](https://arxiv.org/abs/2505.08787) \| [Project](https://kimhanjung.github.io/UniSkill/) | Cross-embodiment skill transfer from human video |
+| [ZeroMimic: Distilling Robotic Manipulation Skills from Web Videos](https://arxiv.org/abs/2503.23877) | ICRA 2025 | 2025 | [Paper](https://arxiv.org/abs/2503.23877) \| [Project](https://zeromimic.github.io/) | Zero-shot manipulation from web video via distillation |
 | [DiWA: Diffusion Policy Adaptation with World Models](https://arxiv.org/abs/2508.03645) | CoRL | 2025 | [Paper](https://arxiv.org/abs/2508.03645) \| [Code](https://github.com/acl21/diwa) | World model-guided diffusion policy adaptation |
 | [CLAM: Continuous Latent Action Models for Robot Learning from Unlabeled Demos](https://arxiv.org/abs/2505.04999) | — | 2025 | [Paper](https://arxiv.org/abs/2505.04999) \| [Project](https://clamrobot.github.io/) | Continuous latent actions learned from unlabeled video |
 | [Spatial Policy: Spatially-Aware Visuomotor Policy for Manipulation](https://arxiv.org/abs/2508.15874) | — | 2025 | [Paper](https://arxiv.org/abs/2508.15874) \| [Code](https://github.com/PlantPotatoOnMoon/SpatialPolicy) | Spatial reasoning integration into visuomotor policies |
-| [Latent Diffusion Planning for Imitation Learning](https://arxiv.org/abs/2504.16925) | — | 2025 | [Paper](https://arxiv.org/abs/2504.16925) \| [Project](https://amberxie88.github.io/ldp/) | Latent space diffusion for long-horizon robot planning |
+| [Latent Diffusion Planning for Imitation Learning](https://arxiv.org/abs/2504.16925) | ICML 2025 | 2025 | [Paper](https://arxiv.org/abs/2504.16925) \| [Project](https://amberxie88.github.io/ldp/) | Latent space diffusion for long-horizon robot planning |
 | [Sim-and-Real Co-Training: A Simple Recipe for Vision-Based Robotic Manipulation](https://arxiv.org/abs/2503.24361) | — | 2025 | [Paper](https://arxiv.org/abs/2503.24361) \| [Project](https://co-training.github.io/) | Simple co-training bridge between sim and real |
 | [Humanoid Policy ~ Human Policy](https://arxiv.org/abs/2503.13441) | — | 2025 | [Paper](https://arxiv.org/abs/2503.13441) \| [Project](https://human-as-robot.github.io/) | Direct transfer from human motion policy to humanoid |
 | [GauDP: Multi-Agent Collaboration through Gaussian-Image Synergy in Diffusion Policies](https://arxiv.org/abs/2511.00998) | NeurIPS | 2025 | [Paper](https://arxiv.org/abs/2511.00998) \| [Project](https://ziyeeee.github.io/gaudp.io/) | Gaussian splatting + diffusion for multi-robot policies |
-| [ASAP: Aligning Simulation and Real-World Physics for Humanoid Whole-Body Skills](https://arxiv.org/abs/2502.01143) | — | 2025 | [Paper](https://arxiv.org/abs/2502.01143) | Sim-to-real alignment for agile humanoid locomotion |
-| [ManipTrans: Efficient Dexterous Bimanual Manipulation Transfer via Residual Learning](https://arxiv.org/abs/2503.21860) | — | 2025 | [Paper](https://arxiv.org/abs/2503.21860) \| [Project](https://maniptrans.github.io/) | Residual learning for bimanual dexterous transfer |
+| [ASAP: Aligning Simulation and Real-World Physics for Humanoid Whole-Body Skills](https://arxiv.org/abs/2502.01143) | RSS 2025 | 2025 | [Paper](https://arxiv.org/abs/2502.01143) | Sim-to-real alignment for agile humanoid locomotion |
+| [ManipTrans: Efficient Dexterous Bimanual Manipulation Transfer via Residual Learning](https://arxiv.org/abs/2503.21860) | CVPR 2025 | 2025 | [Paper](https://arxiv.org/abs/2503.21860) \| [Project](https://maniptrans.github.io/) | Residual learning for bimanual dexterous transfer |
 
 ### 2026
 
@@ -223,16 +222,15 @@
 
 | Paper | Venue | Year | Links | TL;DR |
 |-------|-------|------|-------|-------|
-| [DreamerV3: Mastering Diverse Domains through World Models](https://arxiv.org/abs/2301.04104) | — | 2023 | [Paper](https://arxiv.org/abs/2301.04104) \| [Code](https://github.com/danijar/dreamerv3) | Learns world model in latent space; zero-shot transfer |
-| [Pandora: Towards General World Model with Natural Language Actions and Video States](https://arxiv.org/abs/2406.09455) | — | 2024 | [Paper](https://arxiv.org/abs/2406.09455) | Language-action conditioned video world model |
+| [DreamerV3: Mastering Diverse Domains through World Models](https://arxiv.org/abs/2301.04104) | arXiv | 2023 | [Paper](https://arxiv.org/abs/2301.04104) \| [Code](https://github.com/danijar/dreamerv3) | Learns world model in latent space; zero-shot transfer |
 
 ### 2023–2024
 
 | Paper | Venue | Year | Links | TL;DR |
 |-------|-------|------|-------|-------|
-| [RoboDreamer: Learning Compositional World Models for Robot Imagination](https://arxiv.org/abs/2404.12377) | — | 2024 | [Paper](https://arxiv.org/abs/2404.12377) | Compositional video-based world model for robot planning |
+| [RoboDreamer: Learning Compositional World Models for Robot Imagination](https://arxiv.org/abs/2404.12377) | ICML 2025 | 2024 | [Paper](https://arxiv.org/abs/2404.12377) | Compositional video-based world model for robot planning |
 | [UniSim: Learning Interactive Real-World Simulators](https://arxiv.org/abs/2310.06114) | ICLR | 2024 | [Paper](https://arxiv.org/abs/2310.06114) | Universal simulator trained on real-world video data |
-| [IRASim: Learning Interactive Real-Robot Action Simulators](https://arxiv.org/abs/2406.14540) | — | 2024 | [Paper](https://arxiv.org/abs/2406.14540) | Action-conditioned interactive simulation for robots |
+| [IRASim: Learning Interactive Real-Robot Action Simulators](https://arxiv.org/abs/2406.14540) | ICCV 2025 | 2024 | [Paper](https://arxiv.org/abs/2406.14540) | Action-conditioned interactive simulation for robots |
 | [Genesis: A Generative and Universal Physics Engine for Robotics](https://genesis-embodied-ai.github.io/) | — | 2024 | [Project](https://genesis-embodied-ai.github.io/) | Generative physics engine for robot simulation |
 
 
@@ -244,17 +242,17 @@
 | [Cosmos: World Foundation Model Platform for Physical AI](https://arxiv.org/abs/2501.03575) | — | 2025 | [Paper](https://arxiv.org/abs/2501.03575) \| [Code](https://github.com/nvidia-cosmos/cosmos-predict1) | NVIDIA's world foundation model for physical AI |
 
 | [EWMBench: Evaluating Scene, Motion, and Semantic Quality in Embodied World Models](https://arxiv.org/abs/2505.09694) | — | 2025 | [Paper](https://arxiv.org/abs/2505.09694) \| [Code](https://github.com/AgibotTech/EWMBench) | Benchmark for evaluating embodied world models |
-| [AdaWorld: Learning Adaptable World Models with Latent Actions](https://arxiv.org/abs/2503.18938) | — | 2025 | [Paper](https://arxiv.org/abs/2503.18938) \| [Project](https://adaptable-world-model.github.io/) | Adaptable world models via latent action discovery |
+| [AdaWorld: Learning Adaptable World Models with Latent Actions](https://arxiv.org/abs/2503.18938) | ICML 2025 | 2025 | [Paper](https://arxiv.org/abs/2503.18938) \| [Project](https://adaptable-world-model.github.io/) | Adaptable world models via latent action discovery |
 | [DyWA: Dynamics-adaptive World Action Model for Non-prehensile Manipulation](https://arxiv.org/abs/2503.16806) | — | 2025 | [Paper](https://arxiv.org/abs/2503.16806) \| [Project](https://pku-epic.github.io/DyWA/) | Dynamics-adaptive world model for pushing tasks |
 | [Generalist World Model Pre-Training for Efficient Reinforcement Learning](https://arxiv.org/abs/2502.19544) | — | 2025 | [Paper](https://arxiv.org/abs/2502.19544) | Generalist world model pretraining for RL policies |
 | [Unified World Models: Coupling Video and Action Diffusion for Robot Pretraining](https://arxiv.org/abs/2504.02792) | — | 2025 | [Paper](https://arxiv.org/abs/2504.02792) \| [Project](https://weirdlabuw.github.io/uwm/) | Joint video+action diffusion for world model pretraining |
-| [FlowDreamer: RGB-D World Model with Flow-based Motion for Manipulation](https://arxiv.org/abs/2505.10075) | — | 2025 | [Paper](https://arxiv.org/abs/2505.10075) \| [Project](https://sharinka0715.github.io/FlowDreamer/) | Optical flow-based RGB-D world model for manipulation |
+| [FlowDreamer: RGB-D World Model with Flow-based Motion for Manipulation](https://arxiv.org/abs/2505.10075) | RA-L 2025 | 2025 | [Paper](https://arxiv.org/abs/2505.10075) \| [Project](https://sharinka0715.github.io/FlowDreamer/) | Optical flow-based RGB-D world model for manipulation |
 | [WorldVLA: Towards Autoregressive Action World Model](https://arxiv.org/abs/2506.21539) | — | 2025 | [Paper](https://arxiv.org/abs/2506.21539) \| [Code](https://github.com/alibaba-damo-academy/WorldVLA) | Autoregressive VLA that jointly models world states |
 | [Robotic World Model: Neural Network Simulator for Policy Optimization](https://arxiv.org/abs/2501.10100) | — | 2025 | [Paper](https://arxiv.org/abs/2501.10100) | Neural network as high-fidelity robotic world simulator |
 | [World4Omni: Zero-Shot Framework from Image Generation World Model to Robotic Manipulation](https://arxiv.org/abs/2506.23919) | — | 2025 | [Paper](https://arxiv.org/abs/2506.23919) \| [Project](https://world4omni.github.io/) | Image generation world model for zero-shot manipulation |
 | [Evaluating Robot Policies in a World Model](https://arxiv.org/abs/2506.00613) | — | 2025 | [Paper](https://arxiv.org/abs/2506.00613) \| [Project](https://world-model-eval.github.io/) | World model as robot policy evaluation environment |
 | [3DFlowAction: Cross-Embodiment Manipulation from 3D Flow World Model](https://arxiv.org/abs/2506.06199) | — | 2025 | [Paper](https://arxiv.org/abs/2506.06199) \| [Code](https://github.com/Hoyyyaard/3DFlowAction/) | 3D flow world model for cross-embodiment manipulation |
-| [LaDi-WM: Latent Diffusion-based World Model for Predictive Manipulation](https://arxiv.org/abs/2505.11528) | — | 2025 | [Paper](https://arxiv.org/abs/2505.11528) | Latent diffusion world model for manipulation prediction |
+| [LaDi-WM: Latent Diffusion-based World Model for Predictive Manipulation](https://arxiv.org/abs/2505.11528) | CoRL 2025 | 2025 | [Paper](https://arxiv.org/abs/2505.11528) | Latent diffusion world model for manipulation prediction |
 | [PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation](https://arxiv.org/abs/2601.03782) | — | 2026 | [Paper](https://arxiv.org/abs/2601.03782) \| [Project](https://point-world.github.io/) | 3D point cloud world models at scale |
 | [GAF: Gaussian Action Field as a Dynamic World Model for Robotic Manipulation](https://arxiv.org/abs/2506.14135) | — | 2025 | [Paper](https://arxiv.org/abs/2506.14135) | Gaussian splatting as dynamic world model |
 
@@ -278,7 +276,7 @@
 | [MetaWorld: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning](https://arxiv.org/abs/1910.10897) | 2019 | [Paper](https://arxiv.org/abs/1910.10897) \| [Code](https://github.com/Farama-Foundation/Metaworld) | 50 diverse robot arm tasks for meta/multi-task RL |
 | [CALVIN: A Benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation](https://arxiv.org/abs/2112.03227) | ICRA 2022 | [Paper](https://arxiv.org/abs/2112.03227) \| [Code](https://github.com/mees/calvin) | Long-horizon language-conditioned manipulation chains |
 | [LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning](https://arxiv.org/abs/2306.03310) | NeurIPS 2023 | [Paper](https://arxiv.org/abs/2306.03310) \| [Code](https://github.com/Lifelong-Robot-Learning/LIBERO) | Lifelong learning benchmark with 130 robot manipulation tasks |
-| [SimplerEnv: Simulated Manipulation Policy Evaluation Environments for Real Robot Setups](https://arxiv.org/abs/2405.05941) | — | 2024 | [Paper](https://arxiv.org/abs/2405.05941) \| [Code](https://github.com/simpler-env/SimplerEnv) | Sim evaluation mirroring real-world robot setups |
+| [SimplerEnv: Simulated Manipulation Policy Evaluation Environments for Real Robot Setups](https://arxiv.org/abs/2405.05941) | CoRL 2024 | 2024 | [Paper](https://arxiv.org/abs/2405.05941) \| [Code](https://github.com/simpler-env/SimplerEnv) | Sim evaluation mirroring real-world robot setups |
 | [FurnitureBench: Reproducible Real-World Benchmark for Long-Horizon Complex Manipulation](https://arxiv.org/abs/2305.12556) | RSS | 2023 | [Paper](https://arxiv.org/abs/2305.12556) \| [Code](https://github.com/clvrai/furniture-bench) | Assembly of real IKEA furniture; long-horizon challenge |
 | [ManiSkill3: GPU Parallelized Robotics Simulation and Rendering](https://arxiv.org/abs/2410.00425) | — | 2024 | [Paper](https://arxiv.org/abs/2410.00425) \| [Code](https://github.com/haosulab/ManiSkill) | GPU-accelerated simulation benchmark; v1-v3 series |
 | [Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://arxiv.org/abs/2310.08864) | ICRA | 2024 | [Paper](https://arxiv.org/abs/2310.08864) \| [Project](https://robotics-transformer-x.github.io/) | Cross-embodiment dataset with 500k+ real-robot demos |
