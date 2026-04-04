@@ -126,6 +126,12 @@
 | [Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation](https://arxiv.org/abs/2412.15109) | — | 2025 | [Paper](https://arxiv.org/abs/2412.15109) \| [Project](https://nimolty.github.io/Seer/) | Predictive inverse dynamics for scalable manipulation |
 | [Unified World Models: Coupling Video and Action Diffusion for Robot Pretraining](https://arxiv.org/abs/2504.02792) | — | 2025 | [Paper](https://arxiv.org/abs/2504.02792) \| [Project](https://weirdlabuw.github.io/uwm/) | Joint video-action diffusion for large-scale pretraining |
 
+### 2026
+
+| Paper | Venue | Year | Links | TL;DR |
+|-------|-------|------|-------|-------|
+| [Causal World Modeling for Robot Control (LingBot-VA)](https://arxiv.org/abs/2601.21998) | — | 2026 | [Paper](https://arxiv.org/abs/2601.21998) \| [Code](https://github.com/robbyant/lingbot-va) | Causal video world model enables action learning without explicit action labels |
+
 ---
 
 ## 🦾 Visuomotor Policies
@@ -196,6 +202,8 @@
 | [EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation](https://arxiv.org/abs/2501.01895) | AgiBot (星动纪元) | 2025 | [Paper](https://arxiv.org/abs/2501.01895) | AgiBot's generative future-state model for manipulation |
 | [Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos](https://arxiv.org/abs/2507.15597) | BeingBeyond | 2025 | [Paper](https://arxiv.org/abs/2507.15597) \| [Code](https://github.com/BeingBeyond/Being-H0) | Humanoid pretraining from egocentric human video |
 | [GigaBrain-0: A World Model-Powered Vision-Language-Action Model](https://arxiv.org/abs/2510.19430) | GigaAI | 2025 | [Paper](https://arxiv.org/abs/2510.19430) \| [Code](https://github.com/open-gigaai/giga-brain-0) | World model-powered VLA |
+| [A Pragmatic VLA Foundation Model (LingBot-VLA)](https://arxiv.org/abs/2601.18692) | RobbyAnt (Xiaomi) | 2026 | [Paper](https://arxiv.org/abs/2601.18692) \| [Project](https://technology.robbyant.com/lingbot-vla/) \| [Code](https://github.com/Robbyant/lingbot-vla/) | Xiaomi RobbyAnt's pragmatic VLA foundation model for robot manipulation |
+| [Causal World Modeling for Robot Control (LingBot-VA)](https://arxiv.org/abs/2601.21998) | RobbyAnt (Xiaomi) | 2026 | [Paper](https://arxiv.org/abs/2601.21998) \| [Project](https://technology.robbyant.com/lingbot-va) \| [Code](https://github.com/robbyant/lingbot-va) | Video world modeling + VL pre-training for robot learning |
 
 ---
 
