@@ -94,6 +94,11 @@
 | Paper | Venue | Year | Links | TL;DR |
 |-------|-------|------|-------|-------|
 | [RDT2: Scaling Limit of UMI Data Towards Zero-Shot Cross-Embodiment](https://arxiv.org/abs/2602.03310) | — | 2026 | [Paper](https://arxiv.org/abs/2602.03310) \| [Code](https://github.com/thu-ml/RDT2) | Next-gen RDT scaling for cross-embodiment generalization |
+| [DIAL: Decoupling Intent and Action via Latent World Modeling for End-to-End VLA](https://arxiv.org/abs/2603.29844) | — | 2026 | [Paper](https://arxiv.org/abs/2603.29844) | Bridges high-level intent and low-level actions via latent world model bottleneck |
+| [FocusVLA: Focused Visual Utilization for Vision-Language-Action Models](https://arxiv.org/abs/2603.28740) | — | 2026 | [Paper](https://arxiv.org/abs/2603.28740) | Directs model attention to task-relevant visual patches to improve action quality |
+| [MMaDA-VLA: Large Diffusion VLA with Unified Multi-Modal Instruction and Generation](https://arxiv.org/abs/2603.25406) | — | 2026 | [Paper](https://arxiv.org/abs/2603.25406) | Native discrete diffusion unifies language, images, and robot actions in one backbone |
+| [ProgressVLA: Progress-Guided Diffusion Policy for Vision-Language Robotic Manipulation](https://arxiv.org/abs/2603.27670) | — | 2026 | [Paper](https://arxiv.org/abs/2603.27670) | Integrates task progress estimation as differentiable guidance for VLA policies |
+| [VLA-OPD: Bridging Offline SFT and Online RL for VLA Models via On-Policy Distillation](https://arxiv.org/abs/2603.26666) | — | 2026 | [Paper](https://arxiv.org/abs/2603.26666) | On-policy distillation with reverse-KL combines SFT efficiency and RL robustness |
 
 ---
 
@@ -131,6 +136,11 @@
 | Paper | Venue | Year | Links | TL;DR |
 |-------|-------|------|-------|-------|
 | [Causal World Modeling for Robot Control (LingBot-VA)](https://arxiv.org/abs/2601.21998) | — | 2026 | [Paper](https://arxiv.org/abs/2601.21998) \| [Code](https://github.com/robbyant/lingbot-va) | Causal video world model enables action learning without explicit action labels |
+| [VAMPO: Policy Optimization for Improving Visual Dynamics in Video Action Models](https://arxiv.org/abs/2603.19370) | — | 2026 | [Paper](https://arxiv.org/abs/2603.19370) | Post-trains video action models with GRPO rewards over visual dynamics quality |
+| [GigaWorld-Policy: An Efficient Action-Centered World-Action Model](https://arxiv.org/abs/2603.17240) | — | 2026 | [Paper](https://arxiv.org/abs/2603.17240) | Decouples video generation from action decoding for 9x faster inference |
+| [DiT4DiT: Jointly Modeling Video Dynamics and Actions for Generalizable Robot Control](https://arxiv.org/abs/2603.10448) | — | 2026 | [Paper](https://arxiv.org/abs/2603.10448) | Couples video DiT and action DiT in a cascaded framework for joint training |
+| [EVA: Aligning Video World Models with Executable Robot Actions via Inverse Dynamics Rewards](https://arxiv.org/abs/2603.17808) | — | 2026 | [Paper](https://arxiv.org/abs/2603.17808) | RL post-training aligns video generation with kinematically executable actions |
+| [EgoSim: Egocentric World Simulator for Embodied Interaction Generation](https://arxiv.org/abs/2604.01001) | — | 2026 | [Paper](https://arxiv.org/abs/2604.01001) | Closed-loop egocentric simulator with updatable 3D scene state for interaction |
 
 ---
 
@@ -184,6 +194,17 @@
 | [GauDP: Multi-Agent Collaboration through Gaussian-Image Synergy in Diffusion Policies](https://arxiv.org/abs/2511.00998) | NeurIPS | 2025 | [Paper](https://arxiv.org/abs/2511.00998) \| [Project](https://ziyeeee.github.io/gaudp.io/) | Gaussian splatting + diffusion for multi-robot policies |
 | [ASAP: Aligning Simulation and Real-World Physics for Humanoid Whole-Body Skills](https://arxiv.org/abs/2502.01143) | — | 2025 | [Paper](https://arxiv.org/abs/2502.01143) | Sim-to-real alignment for agile humanoid locomotion |
 | [ManipTrans: Efficient Dexterous Bimanual Manipulation Transfer via Residual Learning](https://arxiv.org/abs/2503.21860) | — | 2025 | [Paper](https://arxiv.org/abs/2503.21860) \| [Project](https://maniptrans.github.io/) | Residual learning for bimanual dexterous transfer |
+
+### 2026
+
+| Paper | Venue | Year | Links | TL;DR |
+|-------|-------|------|-------|-------|
+| [Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning](https://arxiv.org/abs/2601.16163) | — | 2026 | [Paper](https://arxiv.org/abs/2601.16163) | Adapts large pretrained video model into robot policy via single-stage fine-tuning |
+| [Robot-DIFT: Distilling Diffusion Features for Geometrically Consistent Visuomotor Control](https://arxiv.org/abs/2602.11934) | — | 2026 | [Paper](https://arxiv.org/abs/2602.11934) | Distills generative diffusion geometry priors into a deterministic control backbone |
+| [One-Step Flow Policy: Self-Distillation for Fast Visuomotor Policies](https://arxiv.org/abs/2603.12480) | — | 2026 | [Paper](https://arxiv.org/abs/2603.12480) | Single-step action generation via self-consistency + self-guided mode sharpening |
+| [Ada3Drift: Adaptive Training-Time Drifting for One-Step 3D Visuomotor Manipulation](https://arxiv.org/abs/2603.11984) | — | 2026 | [Paper](https://arxiv.org/abs/2603.11984) | Shifts iterative denoising from inference to training for 1-NFE 3D policy |
+| [HiFlow: Tokenization-Free Scale-Wise Autoregressive Policy Learning via Flow Matching](https://arxiv.org/abs/2603.27281) | — | 2026 | [Paper](https://arxiv.org/abs/2603.27281) | Coarse-to-fine autoregressive policy on continuous actions without tokenization |
+| [VPWEM: Non-Markovian Visuomotor Policy with Working and Episodic Memory](https://arxiv.org/abs/2603.04910) | — | 2026 | [Paper](https://arxiv.org/abs/2603.04910) | Combines sliding-window working memory and compressed episodic memory in diffusion policy |
 
 ---
 
@@ -257,6 +278,17 @@
 | [CorrectNav: Self-Correction Flywheel for Vision-Language-Action Navigation](https://arxiv.org/abs/2508.10416) | — | 2025 | [Paper](https://arxiv.org/abs/2508.10416) \| [Project](https://correctnav.github.io/) | Self-correction loop for robust VLA navigation |
 | [TrackVLA++: Reasoning and Memory for Embodied Visual Tracking](https://arxiv.org/abs/2510.07134) | — | 2025 | [Paper](https://arxiv.org/abs/2510.07134) \| [Project](https://pku-epic.github.io/TrackVLA-plus-plus-Web/) | Extended VLA for visual object tracking in navigation |
 
+### 2026
+
+| Paper | Venue | Year | Links | TL;DR |
+|-------|-------|------|-------|-------|
+| [LatentPilot: Scene-Aware VLN by Dreaming Ahead with Latent Visual Reasoning](https://arxiv.org/abs/2603.29165) | — | 2026 | [Paper](https://arxiv.org/abs/2603.29165) | Flywheel training + action-conditioned latent tokens let agent dream ahead without future frames |
+| [AgentVLN: Towards Agentic Vision-and-Language Navigation](https://arxiv.org/abs/2603.17670) | — | 2026 | [Paper](https://arxiv.org/abs/2603.17670) | VLM-as-Brain with cross-space 3D waypoint mapping and QD-PCoT for edge deployment |
+| [OmniVLN: Omnidirectional 3D Perception for VLN across Air and Ground Platforms](https://arxiv.org/abs/2603.17351) | — | 2026 | [Paper](https://arxiv.org/abs/2603.17351) | LiDAR + panoramic vision with hierarchical DSG reasoning for token-efficient navigation |
+| [Language-Conditioned World Modeling for Visual Navigation (LCVN)](https://arxiv.org/abs/2603.26741) | — | 2026 | [Paper](https://arxiv.org/abs/2603.26741) | Diffusion world model + actor-critic trained in latent space for instruction-conditioned navigation |
+| [PiJEPA: Policy-Guided World Model Planning for Language-Conditioned Visual Navigation](https://arxiv.org/abs/2603.25981) | — | 2026 | [Paper](https://arxiv.org/abs/2603.25981) | Policy priors warm-start MPPI planning over JEPA world model for faster convergence |
+| [SpatialPoint: Spatial-aware Point Prediction for Embodied Localization](https://arxiv.org/abs/2603.26690) | — | 2026 | [Paper](https://arxiv.org/abs/2603.26690) | RGB-D VLM framework predicting 3D touchable/air points for navigation and grasping |
+
 ---
 
 ## 🌍 World Models
@@ -303,6 +335,14 @@
 | [LaDi-WM: Latent Diffusion-based World Model for Predictive Manipulation](https://arxiv.org/abs/2505.11528) | — | 2025 | [Paper](https://arxiv.org/abs/2505.11528) | Latent diffusion world model for manipulation prediction |
 | [PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation](https://arxiv.org/abs/2601.03782) | — | 2026 | [Paper](https://arxiv.org/abs/2601.03782) \| [Project](https://point-world.github.io/) | 3D point cloud world models at scale |
 | [GAF: Gaussian Action Field as a Dynamic World Model for Robotic Manipulation](https://arxiv.org/abs/2506.14135) | — | 2025 | [Paper](https://arxiv.org/abs/2506.14135) | Gaussian splatting as dynamic world model |
+
+### 2026
+
+| Paper | Venue | Year | Links | TL;DR |
+|-------|-------|------|-------|-------|
+| [PlayWorld: Learning Robot World Models from Autonomous Play](https://arxiv.org/abs/2603.09030) | — | 2026 | [Paper](https://arxiv.org/abs/2603.09030) | Trains high-fidelity video world models entirely from unsupervised robot self-play |
+| [Kinema4D: Kinematic 4D World Modeling for Spatiotemporal Embodied Simulation](https://arxiv.org/abs/2603.16669) | — | 2026 | [Paper](https://arxiv.org/abs/2603.16669) | URDF-driven 4D robot trajectory controls generative model for robot-world interaction |
+| [HCLSM: Hierarchical Causal Latent State Machines for Object-Centric World Modeling](https://arxiv.org/abs/2603.29090) | — | 2026 | [Paper](https://arxiv.org/abs/2603.29090) | Three-level temporal dynamics with slot attention for causal object-centric world model |
 
 ---
 
