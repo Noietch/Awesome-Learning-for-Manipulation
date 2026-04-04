@@ -6,7 +6,7 @@
 ## Table of Contents
 
 - [🤖 VLA — Vision-Language-Action Models](#-vla--vision-language-action-models)
-- [🎬 VA — Video-Action / Diffusion Policy Models](#-va--video-action--diffusion-policy-models)
+- [🎬 VA — Video-Action Models](#-va--video-action-models)
 - [🧭 VLN — Vision-Language Navigation](#-vln--vision-language-navigation)
 - [🌍 World Models](#-world-models)
 - [📊 Benchmarks & Datasets](#-benchmarks--datasets)
@@ -108,7 +108,7 @@
 
 ---
 
-## 🎬 VA — Video-Action / Diffusion Policy Models
+## 🎬 VA — Video-Action Models
 
 > Vision-Action models that use video generation, diffusion, or flow matching to predict or predict-then-execute robot actions.
 
