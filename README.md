@@ -14,6 +14,7 @@
   - [Manipulation Benchmarks](#manipulation-benchmarks)
   - [Robot Datasets](#robot-datasets)
   - [Whole-body / Humanoid Benchmarks](#whole-body--humanoid-benchmarks)
+- [🔧 Simulators & Data Engines](#-simulators--data-engines)
 - [📚 Survey](#-survey)
   - [Manipulation & Robot Learning](#manipulation--robot-learning-survey)
   - [Embodied AI General](#embodied-ai-general-survey)
@@ -223,8 +224,6 @@
 | Paper | Venue | Year | Links | TL;DR |
 |-------|-------|------|-------|-------|
 | [DreamerV3: Mastering Diverse Domains through World Models](https://arxiv.org/abs/2301.04104) | — | 2023 | [Paper](https://arxiv.org/abs/2301.04104) \| [Code](https://github.com/danijar/dreamerv3) | Learns world model in latent space; zero-shot transfer |
-| [GAIA-1: A Generative World Model for Autonomous Driving](https://arxiv.org/abs/2309.17080) | — | 2023 | [Paper](https://arxiv.org/abs/2309.17080) | Waymo's generative video world model for autonomous driving |
-| [V-JEPA: Self-Supervised Learning from Video by Predicting Latent Representations](https://arxiv.org/abs/2404.08471) | NeurIPS | 2024 | [Paper](https://arxiv.org/abs/2404.08471) \| [Code](https://github.com/facebookresearch/jepa) | Efficient video understanding via latent prediction |
 | [Pandora: Towards General World Model with Natural Language Actions and Video States](https://arxiv.org/abs/2406.09455) | — | 2024 | [Paper](https://arxiv.org/abs/2406.09455) | Language-action conditioned video world model |
 
 ### 2023–2024
@@ -235,7 +234,7 @@
 | [UniSim: Learning Interactive Real-World Simulators](https://arxiv.org/abs/2310.06114) | ICLR | 2024 | [Paper](https://arxiv.org/abs/2310.06114) | Universal simulator trained on real-world video data |
 | [IRASim: Learning Interactive Real-Robot Action Simulators](https://arxiv.org/abs/2406.14540) | — | 2024 | [Paper](https://arxiv.org/abs/2406.14540) | Action-conditioned interactive simulation for robots |
 | [Genesis: A Generative and Universal Physics Engine for Robotics](https://genesis-embodied-ai.github.io/) | — | 2024 | [Project](https://genesis-embodied-ai.github.io/) | Generative physics engine for robot simulation |
-| [Wan2.1: Open and Advanced Large-Scale Video Generative Models](https://arxiv.org/abs/2503.20314) | — | 2025 | [Paper](https://arxiv.org/abs/2503.20314) \| [Code](https://github.com/Wan-Video/Wan2.1) | Wan2.1 powerful open video world model |
+
 
 ### 2025
 
@@ -243,7 +242,7 @@
 |-------|-------|------|-------|-------|
 | [V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning](https://arxiv.org/abs/2506.09985) | — | 2025 | [Paper](https://arxiv.org/abs/2506.09985) \| [Code](https://github.com/facebookresearch/vjepa2) | Action-conditioned V-JEPA for robot planning |
 | [Cosmos: World Foundation Model Platform for Physical AI](https://arxiv.org/abs/2501.03575) | — | 2025 | [Paper](https://arxiv.org/abs/2501.03575) \| [Code](https://github.com/nvidia-cosmos/cosmos-predict1) | NVIDIA's world foundation model for physical AI |
-| [Sora (Technical Report)](https://openai.com/sora) | — | 2024 | [Blog](https://openai.com/sora) | OpenAI's large-scale text-to-video world model |
+
 | [EWMBench: Evaluating Scene, Motion, and Semantic Quality in Embodied World Models](https://arxiv.org/abs/2505.09694) | — | 2025 | [Paper](https://arxiv.org/abs/2505.09694) \| [Code](https://github.com/AgibotTech/EWMBench) | Benchmark for evaluating embodied world models |
 | [AdaWorld: Learning Adaptable World Models with Latent Actions](https://arxiv.org/abs/2503.18938) | — | 2025 | [Paper](https://arxiv.org/abs/2503.18938) \| [Project](https://adaptable-world-model.github.io/) | Adaptable world models via latent action discovery |
 | [DyWA: Dynamics-adaptive World Action Model for Non-prehensile Manipulation](https://arxiv.org/abs/2503.16806) | — | 2025 | [Paper](https://arxiv.org/abs/2503.16806) \| [Project](https://pku-epic.github.io/DyWA/) | Dynamics-adaptive world model for pushing tasks |
@@ -320,6 +319,29 @@
 
 | [HumanPlus: Humanoid Shadowing and Imitation from Humans](https://arxiv.org/abs/2406.10454) | CoRL | 2024 | [Paper](https://arxiv.org/abs/2406.10454) \| [Code](https://github.com/MarkFzp/humanplus) | Whole-body humanoid policy from human shadowing |
 
+---
+
+## 🔧 Simulators & Data Engines
+
+### Simulators
+
+| Simulator | Organization | Year | Links | TL;DR |
+|-----------|-------------|------|-------|-------|
+| [Isaac Gym: High Performance GPU-Based Physics Simulation For Robot Learning](https://arxiv.org/abs/2108.10470) | NVIDIA | 2021 | [Paper](https://arxiv.org/abs/2108.10470) | GPU-accelerated physics sim for massively parallel robot RL |
+| [MuJoCo: A physics engine for model-based control](https://ieeexplore.ieee.org/document/6386109) | DeepMind | 2012 | [Paper](https://ieeexplore.ieee.org/document/6386109) \| [Docs](https://mujoco.org) | Fast, accurate physics engine; standard benchmark for robot learning |
+| [SAPIEN: A SimulAted Part-based Interactive ENvironment](https://arxiv.org/abs/2003.08515) | UCSD | 2020 | [Paper](https://arxiv.org/abs/2003.08515) \| [Project](https://sapien.ucsd.edu/) | Articulated object sim with realistic physics for manipulation |
+| [robosuite: A Modular Simulation Framework and Benchmark for Robot Learning](https://arxiv.org/abs/2009.12293) | ARISE | 2020 | [Paper](https://arxiv.org/abs/2009.12293) \| [Project](https://robosuite.ai/) | Modular robot manipulation benchmark built on MuJoCo |
+| [ManiSkill2: A Unified Benchmark for Generalizable Manipulation Skills](https://arxiv.org/abs/2302.04143) | UCSD | 2023 | [Paper](https://arxiv.org/abs/2302.04143) \| [Project](https://maniskill2.github.io/) | Large-scale manipulation benchmark with 2000+ object assets |
+| [Genesis: A Generative and Universal Physics Engine](https://arxiv.org/abs/2501.08949) | Genesis Team | 2025 | [Paper](https://arxiv.org/abs/2501.08949) \| [Project](https://genesis-embodied-ai.github.io/) | Ultra-fast generative physics engine for robot learning |
+
+### Data Generation Engines
+
+| Paper | Venue | Year | Links | TL;DR |
+|-------|-------|------|-------|-------|
+| [RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation](https://arxiv.org/abs/2311.01455) | ICML | 2024 | [Paper](https://arxiv.org/abs/2311.01455) \| [Project](https://robogen-ai.github.io/) | LLM-driven task + asset + reward generation in IsaacGym |
+| [GeniSim: Generalizing Robot Manipulation Skills via Large Language Model-Based Data Generation](https://arxiv.org/abs/2311.11714) | — | 2023 | [Paper](https://arxiv.org/abs/2311.11714) | LLM generates novel manipulation tasks in simulation for data augmentation |
+| [MimicGen: A Data Generation System for Scalable Robot Learning using Human Demonstrations](https://arxiv.org/abs/2310.17596) | CoRL | 2023 | [Paper](https://arxiv.org/abs/2310.17596) \| [Project](https://mimicgen.github.io/) | Automatically generates large-scale demos from few human examples |
+| [RoboVerse: Towards a Unified Platform, Dataset, and Benchmark for Scalable and Generalizable Robot Learning](https://arxiv.org/abs/2504.00461) | — | 2025 | [Paper](https://arxiv.org/abs/2504.00461) | Unified sim platform + dataset + benchmark for generalizable robot learning |
 
 ---
 
@@ -346,7 +368,7 @@
 | [A Survey on Large Language Models for Robotics](https://arxiv.org/abs/2311.07226) | — | 2023 | [Paper](https://arxiv.org/abs/2311.07226) | LLMs as planners, coders, and reasoners for robots |
 | [Towards Generalist Robots: A Survey on Foundation Models in Robotics](https://arxiv.org/abs/2312.08782) | — | 2024 | [Paper](https://arxiv.org/abs/2312.08782) | Broad survey on foundation model integration in robotics |
 | [Embodied Intelligence via Learning and Evolution](https://arxiv.org/abs/2102.02202) | Nature Comm. | 2021 | [Paper](https://arxiv.org/abs/2102.02202) | Evolution and learning for embodied intelligence |
-| [Semantic Mapping in Indoor Embodied AI: A Comprehensive Survey](https://arxiv.org/abs/2501.05750) | — | 2025 | [Paper](https://arxiv.org/abs/2501.05750) | Survey of indoor semantic mapping for embodied AI |
+
 
 
 ---
@@ -405,4 +427,4 @@ For companies/labs, include official website and brief description.
 
 ⭐ If you find this list helpful, please consider starring the repository!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Noietch/Awesome-Embodied-AI&type=Date)](https://star-history.com/#Noietch/Awesome-Embodied-AI&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Noietch/Awesome-Learning-for-Manipulation&type=Date)](https://star-history.com/#Noietch/Awesome-Learning-for-Manipulation&Date)
