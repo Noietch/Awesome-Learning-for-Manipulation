@@ -294,8 +294,8 @@
 
 ### Manipulation Benchmarks
 
-| Benchmark | Year | Links | Description |
-|-----------|------|-------|-------------|
+| Benchmark | Venue | Year | Links | Description |
+|-----------|-------|------|-------|-------------|
 | [RoboArena: Distributed Real-World Evaluation of Generalist Robot Policies](https://arxiv.org/abs/2506.18123) | — | 2025 | [Paper](https://arxiv.org/abs/2506.18123) \| [Project](https://robo-arena.github.io/) | Distributed real-world evaluation platform |
 | [RoboTwin 2.0: Scalable Data Generator and Benchmark with Strong Domain Randomization](https://arxiv.org/abs/2506.18088) | — | 2025 | [Paper](https://arxiv.org/abs/2506.18088) \| [Project](https://robotwin-platform.github.io/) | Extended RoboTwin with large-scale domain randomization |
 | [RoboCerebra: Large-scale Benchmark for Long-horizon Robotic Manipulation](https://arxiv.org/abs/2506.06677) | — | 2025 | [Paper](https://arxiv.org/abs/2506.06677) \| [Project](https://robocerebra.github.io/) | Long-horizon manipulation evaluation with dense annotations |
@@ -307,11 +307,11 @@
 | [RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins](https://arxiv.org/abs/2409.02920) | CVPR | 2025 | [Paper](https://arxiv.org/abs/2409.02920) \| [Code](https://github.com/TianxingChen/RoboTwin) | Dual-arm manipulation with generative digital twin data |
 | [SimplerEnv: Simulated Manipulation Policy Evaluation Environments for Real Robot Setups](https://arxiv.org/abs/2405.05941) | CoRL 2024 | 2024 | [Paper](https://arxiv.org/abs/2405.05941) \| [Code](https://github.com/simpler-env/SimplerEnv) | Sim evaluation mirroring real-world robot setups |
 | [Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://arxiv.org/abs/2310.08864) | ICRA | 2024 | [Paper](https://arxiv.org/abs/2310.08864) \| [Project](https://robotics-transformer-x.github.io/) | Cross-embodiment dataset with 500k+ real-robot demos |
-| [LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning](https://arxiv.org/abs/2306.03310) | NeurIPS 2023 | [Paper](https://arxiv.org/abs/2306.03310) \| [Code](https://github.com/Lifelong-Robot-Learning/LIBERO) | Lifelong learning benchmark with 130 robot manipulation tasks |
+| [LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning](https://arxiv.org/abs/2306.03310) | NeurIPS | 2023 | [Paper](https://arxiv.org/abs/2306.03310) \| [Code](https://github.com/Lifelong-Robot-Learning/LIBERO) | Lifelong learning benchmark with 130 robot manipulation tasks |
 | [FurnitureBench: Reproducible Real-World Benchmark for Long-Horizon Complex Manipulation](https://arxiv.org/abs/2305.12556) | RSS | 2023 | [Paper](https://arxiv.org/abs/2305.12556) \| [Code](https://github.com/clvrai/furniture-bench) | Assembly of real IKEA furniture; long-horizon challenge |
-| [CALVIN: A Benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation](https://arxiv.org/abs/2112.03227) | ICRA 2022 | [Paper](https://arxiv.org/abs/2112.03227) \| [Code](https://github.com/mees/calvin) | Long-horizon language-conditioned manipulation chains |
-| [MetaWorld: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning](https://arxiv.org/abs/1910.10897) | 2019 | [Paper](https://arxiv.org/abs/1910.10897) \| [Code](https://github.com/Farama-Foundation/Metaworld) | 50 diverse robot arm tasks for meta/multi-task RL |
-| [RLBench: The Robot Learning Benchmark & Learning Environment](https://arxiv.org/abs/1909.12271) | 2019 | [Paper](https://arxiv.org/abs/1909.12271) \| [Code](https://github.com/stepjam/RLBench) | 100 robot manipulation tasks in CoppeliaSim |
+| [CALVIN: A Benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation](https://arxiv.org/abs/2112.03227) | ICRA | 2022 | [Paper](https://arxiv.org/abs/2112.03227) \| [Code](https://github.com/mees/calvin) | Long-horizon language-conditioned manipulation chains |
+| [MetaWorld: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning](https://arxiv.org/abs/1910.10897) | — | 2019 | [Paper](https://arxiv.org/abs/1910.10897) \| [Code](https://github.com/Farama-Foundation/Metaworld) | 50 diverse robot arm tasks for meta/multi-task RL |
+| [RLBench: The Robot Learning Benchmark & Learning Environment](https://arxiv.org/abs/1909.12271) | — | 2019 | [Paper](https://arxiv.org/abs/1909.12271) \| [Code](https://github.com/stepjam/RLBench) | 100 robot manipulation tasks in CoppeliaSim |
 | [RoboVerse: Unified Platform, Dataset and Benchmark for Scalable Robot Learning](https://roboverseorg.github.io/) | — | 2025 | [Paper](https://roboverseorg.github.io/static/pdfs/paper_supp_20250405_1820.pdf) \| [Code](https://github.com/RoboVerseOrg/RoboVerse) | Unified sim-to-real benchmark and dataset platform |
 
 ### Robot Datasets
@@ -329,8 +329,8 @@
 
 ### Whole-body / Humanoid Benchmarks
 
-| Benchmark | Year | Links | Description |
-|-----------|------|-------|-------------|
+| Benchmark | Venue | Year | Links | Description |
+|-----------|-------|------|-------|-------------|
 | [BEHAVIOR Robot Suite: Real-World Whole-Body Manipulation for Household Activities](https://arxiv.org/abs/2503.05652) | RSS | 2025 | [Paper](https://arxiv.org/abs/2503.05652) \| [Project](https://behavior-robot-suite.github.io/) | Real-world household whole-body manipulation tasks |
 | [HumanPlus: Humanoid Shadowing and Imitation from Humans](https://arxiv.org/abs/2406.10454) | CoRL | 2024 | [Paper](https://arxiv.org/abs/2406.10454) \| [Code](https://github.com/MarkFzp/humanplus) | Whole-body humanoid policy from human shadowing |
 | [OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation](https://arxiv.org/abs/2406.08858) | CoRL | 2024 | [Paper](https://arxiv.org/abs/2406.08858) \| [Code](https://github.com/LeCAR-Lab/human2humanoid) | Universal human-to-humanoid whole-body teleoperation |
