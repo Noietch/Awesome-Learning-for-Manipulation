@@ -41,13 +41,11 @@
 
 | Paper | Venue | Year | Links | TL;DR |
 |-------|-------|------|-------|-------|
-| [OpenVLA-OFT: Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success](https://arxiv.org/abs/2502.19645) | RSS | 2025 | [Paper](https://arxiv.org/abs/2502.19645) \| [Project](https://openvla-oft.github.io/) | Parallel decoding + fine-tuning for fast OpenVLA |
 | [Towards Generalist Robot Policies: What Matters in Building Vision-Language-Action Models](https://arxiv.org/abs/2412.14058) | Nature MI | 2024 | [Paper](https://arxiv.org/abs/2412.14058) | Systematic study of design choices for generalist VLA |
 | [TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness](https://arxiv.org/abs/2412.10345) | ICLR 2025 | 2024 | [Paper](https://arxiv.org/abs/2412.10345) | Visual traces as prompts for better spatial reasoning |
 | [Moto: Latent Motion Token as the Bridging Language for Robot Manipulation](https://arxiv.org/abs/2412.04445) | ICCV 2025 | 2024 | [Paper](https://arxiv.org/abs/2412.04445) | Discrete latent motion tokens bridge VLM and action |
 | [Diffusion-VLA: Scaling Robot Foundation Models via Unified Diffusion and Autoregression](https://arxiv.org/abs/2412.03293) | ICML 2025 | 2024 | [Paper](https://arxiv.org/abs/2412.03293) | Unifies diffusion and autoregressive VLA in one model |
 | [Latent Action Pretraining from Videos](https://arxiv.org/abs/2410.11758) | ICLR 2025 | 2024 | [Paper](https://arxiv.org/abs/2410.11758) | Learns latent actions from internet videos for zero-shot transfer |
-| [RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation](https://arxiv.org/abs/2410.07864) | ICLR | 2025 | [Paper](https://arxiv.org/abs/2410.07864) \| [Project](https://rdt-robotics.github.io/rdt-robotics/) | 1B diffusion transformer for bimanual robot arms |
 | [GR-2: Generative Video-Language-Action Model with Web-Scale Knowledge](https://arxiv.org/abs/2410.06158) | Tech Report | 2024 | [Paper](https://arxiv.org/abs/2410.06158) | Video generation as world model for robot manipulation |
 | [HiRT: Enhancing Robotic Control with Hierarchical Robot Transformers](https://arxiv.org/abs/2410.05273) | CoRL 2024 | 2024 | [Paper](https://arxiv.org/abs/2410.05273) | Two-level hierarchy: high-level VLM + low-level policy |
 | [HPT: Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-Training](https://arxiv.org/abs/2409.20537) | NeurIPS | 2024 | [Paper](https://arxiv.org/abs/2409.20537) | Unified pre-training for diverse robot embodiments |
@@ -64,6 +62,8 @@
 
 | Paper | Venue | Year | Links | TL;DR |
 |-------|-------|------|-------|-------|
+| [OpenVLA-OFT: Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success](https://arxiv.org/abs/2502.19645) | RSS | 2025 | [Paper](https://arxiv.org/abs/2502.19645) \| [Project](https://openvla-oft.github.io/) | Parallel decoding + fine-tuning for fast OpenVLA |
+| [RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation](https://arxiv.org/abs/2410.07864) | ICLR | 2025 | [Paper](https://arxiv.org/abs/2410.07864) \| [Project](https://rdt-robotics.github.io/rdt-robotics/) | 1B diffusion transformer for bimanual robot arms |
 | [InternVLA-M1: Spatially Guided VLA Framework for Generalist Robot Policy](https://arxiv.org/abs/2510.13778) | — | 2025 | [Paper](https://arxiv.org/abs/2510.13778) \| [Code](https://github.com/InternRobotics/InternVLA-M1) | InternRobotics' spatially grounded VLA framework |
 | [X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment VLA](https://arxiv.org/abs/2510.10274) | — | 2025 | [Paper](https://arxiv.org/abs/2510.10274) \| [Code](https://github.com/2toinf/X-VLA) | Cross-embodiment VLA via soft prompt adaptation |
 | [Long-VLA: Unleashing Long-Horizon Capability for Robot Manipulation](https://arxiv.org/abs/2508.19958) | CoRL | 2025 | [Paper](https://arxiv.org/abs/2508.19958) \| [Project](https://long-vla.github.io/) | VLA for long-horizon multi-step manipulation tasks |
@@ -93,20 +93,20 @@
 | [VLA-RFT: Vision-Language-Action Reinforcement Fine-tuning with Verified Rewards in World Simulators](https://arxiv.org/abs/2510.00406) | — | 2025 | [Paper](https://arxiv.org/abs/2510.00406) | RL fine-tuning of VLAs using verified rewards from world simulators |
 | [World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training](https://arxiv.org/abs/2509.24948) | — | 2025 | [Paper](https://arxiv.org/abs/2509.24948) | World model as virtual env for scalable VLA post-training |
 | [RLinf: Reinforcement Learning Infrastructure for Agentic AI](https://arxiv.org/abs/2509.15965) | — | 2025 | [Paper](https://arxiv.org/abs/2509.15965) | Scalable RL infrastructure designed for agentic AI systems |
-| [Self-Improving Embodied Foundation Models](https://arxiv.org/abs/2509.15155) | NeurIPS 2025 | 2025 | [Paper](https://arxiv.org/abs/2509.15155) | Embodied models improve themselves via self-generated experience |
+| [Self-Improving Embodied Foundation Models](https://arxiv.org/abs/2509.15155) | NeurIPS | 2025 | [Paper](https://arxiv.org/abs/2509.15155) | Embodied models improve themselves via self-generated experience |
 | [SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning](https://arxiv.org/abs/2509.09674) | — | 2025 | [Paper](https://arxiv.org/abs/2509.09674) | Simple and scalable RL recipe for VLA training |
 | [Balancing Signal and Variance: Adaptive Offline RL Post-Training for VLA Flow Models](https://arxiv.org/abs/2509.04063) | — | 2025 | [Paper](https://arxiv.org/abs/2509.04063) | Adaptive offline RL balances reward signal and variance in flow VLAs |
 | [CO-RFT: Efficient Fine-Tuning of Vision-Language-Action Models through Chunked Offline Reinforcement Learning](https://arxiv.org/abs/2508.02219) | — | 2025 | [Paper](https://arxiv.org/abs/2508.02219) | Chunked offline RL for efficient VLA fine-tuning |
-| [What Can RL Bring to VLA Generalization? An Empirical Study](https://arxiv.org/abs/2505.19789) | NeurIPS 2025 | 2025 | [Paper](https://arxiv.org/abs/2505.19789) | Empirical analysis of RL's role in improving VLA generalization |
-| [ReinboT: Amplifying Robot Visual-Language Manipulation with Reinforcement Learning](https://arxiv.org/abs/2505.07395) | ICML2025 | 2025 | [Paper](https://arxiv.org/abs/2505.07395) | RL amplifies VL manipulation performance via reward-guided exploration |
-| [MoRE: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models](https://arxiv.org/abs/2503.08007) | ICRA2025 | 2025 | [Paper](https://arxiv.org/abs/2503.08007) | Scalable RL framework for quadruped VLA locomotion and manipulation |
-| [SafeVLA: Towards Safety Alignment of Vision-Language-Action Model via Constrained Learning](https://arxiv.org/abs/2503.03480) | NeurIPS 2025 | 2025 | [Paper](https://arxiv.org/abs/2503.03480) | Constrained RL aligns VLA models with safety objectives |
-| [Improving Vision-Language-Action Model with Online Reinforcement Learning](https://arxiv.org/abs/2501.16664) | RAL2025 | 2025 | [Paper](https://arxiv.org/abs/2501.16664) | Online RL fine-tuning boosts VLA performance on real robot tasks |
-| [RLDG: Robotic Generalist Policy Distillation via Reinforcement Learning](https://arxiv.org/abs/2412.09858) | RSS2025 | 2024 | [Paper](https://arxiv.org/abs/2412.09858) | RL distills task-specific experts into a generalist robot policy |
-| [Steering Your Generalists: Improving Robotic Foundation Models via Value Guidance](https://arxiv.org/abs/2410.13816) | CoRL2024 | 2024 | [Paper](https://arxiv.org/abs/2410.13816) | Value function guidance steers generalist robot policies at test time |
+| [What Can RL Bring to VLA Generalization? An Empirical Study](https://arxiv.org/abs/2505.19789) | NeurIPS | 2025 | [Paper](https://arxiv.org/abs/2505.19789) | Empirical analysis of RL's role in improving VLA generalization |
+| [ReinboT: Amplifying Robot Visual-Language Manipulation with Reinforcement Learning](https://arxiv.org/abs/2505.07395) | ICML | 2025 | [Paper](https://arxiv.org/abs/2505.07395) | RL amplifies VL manipulation performance via reward-guided exploration |
+| [MoRE: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models](https://arxiv.org/abs/2503.08007) | ICRA | 2025 | [Paper](https://arxiv.org/abs/2503.08007) | Scalable RL framework for quadruped VLA locomotion and manipulation |
+| [SafeVLA: Towards Safety Alignment of Vision-Language-Action Model via Constrained Learning](https://arxiv.org/abs/2503.03480) | NeurIPS | 2025 | [Paper](https://arxiv.org/abs/2503.03480) | Constrained RL aligns VLA models with safety objectives |
+| [Improving Vision-Language-Action Model with Online Reinforcement Learning](https://arxiv.org/abs/2501.16664) | RA-L | 2025 | [Paper](https://arxiv.org/abs/2501.16664) | Online RL fine-tuning boosts VLA performance on real robot tasks |
+| [RLDG: Robotic Generalist Policy Distillation via Reinforcement Learning](https://arxiv.org/abs/2412.09858) | RSS | 2024 | [Paper](https://arxiv.org/abs/2412.09858) | RL distills task-specific experts into a generalist robot policy |
+| [Steering Your Generalists: Improving Robotic Foundation Models via Value Guidance](https://arxiv.org/abs/2410.13816) | CoRL | 2024 | [Paper](https://arxiv.org/abs/2410.13816) | Value function guidance steers generalist robot policies at test time |
 | [FLaRe: Achieving Masterful and Adaptive Robot Policies with Large-Scale Reinforcement Learning Fine-Tuning](https://arxiv.org/abs/2409.16578) | ICRA 2025 Best Paper Finalist | 2024 | [Paper](https://arxiv.org/abs/2409.16578) | Large-scale RL fine-tuning achieves masterful dexterous robot control |
-| [GeRM: A Generalist Robotic Model with Mixture-of-experts for Quadruped Robot](https://arxiv.org/abs/2403.13358) | IROS2024 | 2024 | [Paper](https://arxiv.org/abs/2403.13358) | MoE-based generalist model for diverse quadruped locomotion tasks |
-| [Offline Actor-Critic Reinforcement Learning Scales to Large Models](https://arxiv.org/abs/2402.05546) | ICML2024 | 2024 | [Paper](https://arxiv.org/abs/2402.05546) | Offline actor-critic RL scales effectively to billion-parameter models |
+| [GeRM: A Generalist Robotic Model with Mixture-of-experts for Quadruped Robot](https://arxiv.org/abs/2403.13358) | IROS | 2024 | [Paper](https://arxiv.org/abs/2403.13358) | MoE-based generalist model for diverse quadruped locomotion tasks |
+| [Offline Actor-Critic Reinforcement Learning Scales to Large Models](https://arxiv.org/abs/2402.05546) | ICML | 2024 | [Paper](https://arxiv.org/abs/2402.05546) | Offline actor-critic RL scales effectively to billion-parameter models |
 
 ### 2026 (Preprints)
 
