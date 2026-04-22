@@ -117,6 +117,9 @@
 | [ProgressVLA: Progress-Guided Diffusion Policy for Vision-Language Robotic Manipulation](https://arxiv.org/abs/2603.27670) | — | 2026 | [Paper](https://arxiv.org/abs/2603.27670) | Integrates task progress estimation as differentiable guidance for VLA policies |
 | [VLA-OPD: Bridging Offline SFT and Online RL for VLA Models via On-Policy Distillation](https://arxiv.org/abs/2603.26666) | — | 2026 | [Paper](https://arxiv.org/abs/2603.26666) | On-policy distillation with reverse-KL combines SFT efficiency and RL robustness |
 | [MMaDA-VLA: Large Diffusion VLA with Unified Multi-Modal Instruction and Generation](https://arxiv.org/abs/2603.25406) | — | 2026 | [Paper](https://arxiv.org/abs/2603.25406) | Native discrete diffusion unifies language, images, and robot actions in one backbone |
+| [StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing](https://arxiv.org/abs/2604.05014) | — | 2026 | [Paper](https://arxiv.org/abs/2604.05014) \| [Project](https://starvla.github.io/) | Modular open-source codebase unifying VLA training across architectures |
+| [StarVLA-α: Reducing Complexity in Vision-Language-Action Systems](https://arxiv.org/abs/2604.11757) | — | 2026 | [Paper](https://arxiv.org/abs/2604.11757) | Systematic simplification of VLA training pipeline without sacrificing performance |
+| [Robotic Manipulation is Vision-to-Geometry Mapping (f(v)→G)](https://arxiv.org/abs/2604.12908) | — | 2026 | [Paper](https://arxiv.org/abs/2604.12908) | Argues geometry-aware backbones outperform language/video pretrained VLA backbones |
 | [RDT2: Scaling Limit of UMI Data Towards Zero-Shot Cross-Embodiment](https://arxiv.org/abs/2602.03310) | — | 2026 | [Paper](https://arxiv.org/abs/2602.03310) \| [Code](https://github.com/thu-ml/RDT2) | Next-gen RDT scaling for cross-embodiment generalization |
 
 ---
@@ -219,6 +222,8 @@
 | [Ada3Drift: Adaptive Training-Time Drifting for One-Step 3D Visuomotor Manipulation](https://arxiv.org/abs/2603.11984) | — | 2026 | [Paper](https://arxiv.org/abs/2603.11984) | Shifts iterative denoising from inference to training for 1-NFE 3D policy |
 | [VPWEM: Non-Markovian Visuomotor Policy with Working and Episodic Memory](https://arxiv.org/abs/2603.04910) | — | 2026 | [Paper](https://arxiv.org/abs/2603.04910) | Combines sliding-window working memory and compressed episodic memory in diffusion policy |
 | [Robot-DIFT: Distilling Diffusion Features for Geometrically Consistent Visuomotor Control](https://arxiv.org/abs/2602.11934) | — | 2026 | [Paper](https://arxiv.org/abs/2602.11934) | Distills generative diffusion geometry priors into a deterministic control backbone |
+| [Gated Memory Policy](https://arxiv.org/abs/2604.18933) | — | 2026 | [Paper](https://arxiv.org/abs/2604.18933) | Adaptive gating selects Markovian vs. history-dependent policy per task context |
+| [OmniUMI: Towards Physically Grounded Robot Learning via Human-Aligned Multimodal Interaction](https://arxiv.org/abs/2604.10647) | — | 2026 | [Paper](https://arxiv.org/abs/2604.10647) | Extends UMI with force/tactile sensing for contact-rich manipulation |
 | [Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning](https://arxiv.org/abs/2601.16163) | — | 2026 | [Paper](https://arxiv.org/abs/2601.16163) | Adapts large pretrained video model into robot policy via single-stage fine-tuning |
 
 ---
