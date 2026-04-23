@@ -121,6 +121,8 @@
 | [StarVLA-α: Reducing Complexity in Vision-Language-Action Systems](https://arxiv.org/abs/2604.11757) | — | 2026 | [Paper](https://arxiv.org/abs/2604.11757) | Systematic simplification of VLA training pipeline without sacrificing performance |
 | [Robotic Manipulation is Vision-to-Geometry Mapping (f(v)→G)](https://arxiv.org/abs/2604.12908) | — | 2026 | [Paper](https://arxiv.org/abs/2604.12908) | Argues geometry-aware backbones outperform language/video pretrained VLA backbones |
 | [RDT2: Scaling Limit of UMI Data Towards Zero-Shot Cross-Embodiment](https://arxiv.org/abs/2602.03310) | — | 2026 | [Paper](https://arxiv.org/abs/2602.03310) \| [Code](https://github.com/thu-ml/RDT2) | Next-gen RDT scaling for cross-embodiment generalization |
+| [PokeVLA: Empowering Pocket-Sized Vision-Language-Action Model with Comprehensive World Knowledge Guidance](https://arxiv.org/abs/2604.20834) | — | 2026 | [Paper](https://arxiv.org/abs/2604.20834) | Lightweight VLA infused with world knowledge for efficient embodied manipulation |
+| [VLA Foundry: A Unified Framework for Training Vision-Language-Action Models](https://arxiv.org/abs/2604.19728) | — | 2026 | [Paper](https://arxiv.org/abs/2604.19728) | Open-source unified LLM/VLM/VLA training stack from pretraining to action fine-tuning |
 
 ---
 
@@ -225,6 +227,7 @@
 | [Gated Memory Policy](https://arxiv.org/abs/2604.18933) | — | 2026 | [Paper](https://arxiv.org/abs/2604.18933) | Adaptive gating selects Markovian vs. history-dependent policy per task context |
 | [OmniUMI: Towards Physically Grounded Robot Learning via Human-Aligned Multimodal Interaction](https://arxiv.org/abs/2604.10647) | — | 2026 | [Paper](https://arxiv.org/abs/2604.10647) | Extends UMI with force/tactile sensing for contact-rich manipulation |
 | [Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning](https://arxiv.org/abs/2601.16163) | — | 2026 | [Paper](https://arxiv.org/abs/2601.16163) | Adapts large pretrained video model into robot policy via single-stage fine-tuning |
+| [VADF: Vision-Adaptive Diffusion Policy Framework for Efficient Robotic Manipulation](https://arxiv.org/abs/2604.15938) | — | 2026 | [Paper](https://arxiv.org/abs/2604.15938) | Vision-driven dual-adaptive diffusion policy reducing convergence time and inference timeouts |
 
 ---
 
@@ -243,6 +246,7 @@
 | [π0: A Vision-Language-Action Flow Model for General Robot Control](https://arxiv.org/abs/2410.24164) | Physical Intelligence | 2024 | [Paper](https://arxiv.org/abs/2410.24164) | Flow-matching VLA; dexterous multi-task control |
 | [Gemini Robotics: Bringing AI into the Physical World](https://storage.googleapis.com/deepmind-media/gemini-robotics/gemini_robotics_report.pdf) | Google DeepMind | 2025 | [Report](https://storage.googleapis.com/deepmind-media/gemini-robotics/gemini_robotics_report.pdf) | Google DeepMind multimodal robot control system |
 | [Helix: A Vision-Language-Action Model for Generalist Humanoid Control](https://www.figure.ai/news/helix) | Figure AI | 2025 | [Report](https://www.figure.ai/news/helix) | Figure AI's dual-system VLA for humanoid control |
+| [JoyAI-RA 0.1: A Foundation Model for Robotic Autonomy](https://arxiv.org/abs/2604.20100) | — | 2026 | [Paper](https://arxiv.org/abs/2604.20100) | VLA foundation model addressing data diversity and cross-embodiment generalization |
 
 ---
 
@@ -292,6 +296,9 @@
 | [Kinema4D: Kinematic 4D World Modeling for Spatiotemporal Embodied Simulation](https://arxiv.org/abs/2603.16669) | — | 2026 | [Paper](https://arxiv.org/abs/2603.16669) | URDF-driven 4D robot trajectory controls generative model for robot-world interaction |
 | [PlayWorld: Learning Robot World Models from Autonomous Play](https://arxiv.org/abs/2603.09030) | — | 2026 | [Paper](https://arxiv.org/abs/2603.09030) | Trains high-fidelity video world models entirely from unsupervised robot self-play |
 | [PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation](https://arxiv.org/abs/2601.03782) | — | 2026 | [Paper](https://arxiv.org/abs/2601.03782) \| [Project](https://point-world.github.io/) | 3D point cloud world models at scale |
+| [Cortex 2.0: Grounding World Models in Real-World Industrial Deployment](https://arxiv.org/abs/2604.20246) | — | 2026 | [Paper](https://arxiv.org/abs/2604.20246) | World model addressing compounding failures in long-horizon industrial manipulation |
+| [UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling](https://arxiv.org/abs/2604.19734) | — | 2026 | [Paper](https://arxiv.org/abs/2604.19734) \| [Project](https://arxiv.org/abs/2604.19734) | Unified latent action tokenizer bridging human-to-humanoid policy and world modeling |
+| [Mask World Model: Predicting What Matters for Robust Robot Policy Learning](https://arxiv.org/abs/2604.19683) | — | 2026 | [Paper](https://arxiv.org/abs/2604.19683) | Masks irrelevant factors in video world model prediction for better generalization |
 
 ---
 
