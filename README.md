@@ -247,6 +247,9 @@
 | [Gemini Robotics: Bringing AI into the Physical World](https://storage.googleapis.com/deepmind-media/gemini-robotics/gemini_robotics_report.pdf) | Google DeepMind | 2025 | [Report](https://storage.googleapis.com/deepmind-media/gemini-robotics/gemini_robotics_report.pdf) | Google DeepMind multimodal robot control system |
 | [Helix: A Vision-Language-Action Model for Generalist Humanoid Control](https://www.figure.ai/news/helix) | Figure AI | 2025 | [Report](https://www.figure.ai/news/helix) | Figure AI's dual-system VLA for humanoid control |
 | [JoyAI-RA 0.1: A Foundation Model for Robotic Autonomy](https://arxiv.org/abs/2604.20100) | — | 2026 | [Paper](https://arxiv.org/abs/2604.20100) | VLA foundation model addressing data diversity and cross-embodiment generalization |
+| [ST-π: Structured SpatioTemporal VLA for Robotic Manipulation](https://arxiv.org/abs/2604.17880) | arXiv | 2026 | [Paper](https://arxiv.org/abs/2604.17880) \| [Code](https://github.com/chuanhaoma/ST-pi) | Structured spatiotemporal VLA with spatial-temporal attention for manipulation |
+| [HiVLA: Hierarchical VLA for Long-Horizon Manipulation Tasks](https://arxiv.org/abs/2604.14125) | arXiv | 2026 | [Paper](https://arxiv.org/abs/2604.14125) \| [Project Page](https://tianshuoy.github.io/HiVLA-page/) | Hierarchical VLA combining high-level planning and low-level control |
+| [AnchorVLA: Anchored Diffusion for Efficient Mobile Manipulation](https://arxiv.org/abs/2604.01567) | arXiv | 2026 | [Paper](https://arxiv.org/abs/2604.01567) \| [Code](https://github.com/jason-lim26/AnchorVLA) | Anchored diffusion VLA for mobile manipulation with residual drift correction |
 
 ---
 
@@ -325,6 +328,7 @@
 | [MetaWorld: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning](https://arxiv.org/abs/1910.10897) | — | 2019 | [Paper](https://arxiv.org/abs/1910.10897) \| [Code](https://github.com/Farama-Foundation/Metaworld) | 50 diverse robot arm tasks for meta/multi-task RL |
 | [RLBench: The Robot Learning Benchmark & Learning Environment](https://arxiv.org/abs/1909.12271) | — | 2019 | [Paper](https://arxiv.org/abs/1909.12271) \| [Code](https://github.com/stepjam/RLBench) | 100 robot manipulation tasks in CoppeliaSim |
 | [RoboVerse: Unified Platform, Dataset and Benchmark for Scalable Robot Learning](https://roboverseorg.github.io/) | — | 2025 | [Paper](https://roboverseorg.github.io/static/pdfs/paper_supp_20250405_1820.pdf) \| [Code](https://github.com/RoboVerseOrg/RoboVerse) | Unified sim-to-real benchmark and dataset platform |
+| [RoboWM-Bench: Manipulation-Centric Benchmark for World Models in Robotics](https://arxiv.org/abs/2604.19092) | arXiv | 2026 | [Paper](https://arxiv.org/abs/2604.19092) \| [Project Page](https://robowm-bench.github.io/RoboWM-Bench/) | Manipulation-centric benchmark for evaluating world models in robotics |
 
 ### Robot Datasets
 
