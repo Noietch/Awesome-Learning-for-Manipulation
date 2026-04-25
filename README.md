@@ -123,6 +123,7 @@
 | [RDT2: Scaling Limit of UMI Data Towards Zero-Shot Cross-Embodiment](https://arxiv.org/abs/2602.03310) | — | 2026 | [Paper](https://arxiv.org/abs/2602.03310) \| [Code](https://github.com/thu-ml/RDT2) | Next-gen RDT scaling for cross-embodiment generalization |
 | [PokeVLA: Empowering Pocket-Sized Vision-Language-Action Model with Comprehensive World Knowledge Guidance](https://arxiv.org/abs/2604.20834) | — | 2026 | [Paper](https://arxiv.org/abs/2604.20834) | Lightweight VLA infused with world knowledge for efficient embodied manipulation |
 | [VLA Foundry: A Unified Framework for Training Vision-Language-Action Models](https://arxiv.org/abs/2604.19728) | — | 2026 | [Paper](https://arxiv.org/abs/2604.19728) | Open-source unified LLM/VLM/VLA training stack from pretraining to action fine-tuning |
+| [Long-Horizon Manipulation via Trace-Conditioned VLA Planning](https://arxiv.org/abs/2604.21924) | — | 2026 | [Paper](https://arxiv.org/abs/2604.21924) \| [Project Page](https://trace-conditioned-vla.github.io/) | Trace-conditioned planning enables long-horizon manipulation with VLA-level reasoning |
 
 ---
 
@@ -228,6 +229,7 @@
 | [OmniUMI: Towards Physically Grounded Robot Learning via Human-Aligned Multimodal Interaction](https://arxiv.org/abs/2604.10647) | — | 2026 | [Paper](https://arxiv.org/abs/2604.10647) | Extends UMI with force/tactile sensing for contact-rich manipulation |
 | [Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning](https://arxiv.org/abs/2601.16163) | — | 2026 | [Paper](https://arxiv.org/abs/2601.16163) | Adapts large pretrained video model into robot policy via single-stage fine-tuning |
 | [VADF: Vision-Adaptive Diffusion Policy Framework for Efficient Robotic Manipulation](https://arxiv.org/abs/2604.15938) | — | 2026 | [Paper](https://arxiv.org/abs/2604.15938) | Vision-driven dual-adaptive diffusion policy reducing convergence time and inference timeouts |
+| [VistaBot: View-Robust Robot Manipulation via Spatiotemporal-Aware View Synthesis](https://arxiv.org/abs/2604.21914) | ICRA | 2026 | [Paper](https://arxiv.org/abs/2604.21914) | Spatiotemporal view synthesis enables view-robust real-world manipulation |
 
 ---
 
@@ -302,6 +304,7 @@
 | [Cortex 2.0: Grounding World Models in Real-World Industrial Deployment](https://arxiv.org/abs/2604.20246) | — | 2026 | [Paper](https://arxiv.org/abs/2604.20246) | World model addressing compounding failures in long-horizon industrial manipulation |
 | [UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling](https://arxiv.org/abs/2604.19734) | — | 2026 | [Paper](https://arxiv.org/abs/2604.19734) \| [Project](https://arxiv.org/abs/2604.19734) | Unified latent action tokenizer bridging human-to-humanoid policy and world modeling |
 | [Mask World Model: Predicting What Matters for Robust Robot Policy Learning](https://arxiv.org/abs/2604.19683) | — | 2026 | [Paper](https://arxiv.org/abs/2604.19683) | Masks irrelevant factors in video world model prediction for better generalization |
+| [Hi-WM: Human-in-the-World-Model for Scalable Robot Post-Training](https://arxiv.org/abs/2604.21741) | — | 2026 | [Paper](https://arxiv.org/abs/2604.21741) \| [Project Page](https://hi-wm.github.io/) | Human feedback scales world model post-training for robot policy improvement |
 
 ---
 
