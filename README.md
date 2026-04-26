@@ -124,6 +124,8 @@
 | [PokeVLA: Empowering Pocket-Sized Vision-Language-Action Model with Comprehensive World Knowledge Guidance](https://arxiv.org/abs/2604.20834) | — | 2026 | [Paper](https://arxiv.org/abs/2604.20834) | Lightweight VLA infused with world knowledge for efficient embodied manipulation |
 | [VLA Foundry: A Unified Framework for Training Vision-Language-Action Models](https://arxiv.org/abs/2604.19728) | — | 2026 | [Paper](https://arxiv.org/abs/2604.19728) | Open-source unified LLM/VLM/VLA training stack from pretraining to action fine-tuning |
 | [Long-Horizon Manipulation via Trace-Conditioned VLA Planning](https://arxiv.org/abs/2604.21924) | — | 2026 | [Paper](https://arxiv.org/abs/2604.21924) \| [Project Page](https://trace-conditioned-vla.github.io/) | Trace-conditioned planning enables long-horizon manipulation with VLA-level reasoning |
+| [ResVLA: From Noise to Intent — Anchoring Generative VLA Policies with Residual Bridges](https://arxiv.org/abs/2604.21391) | — | 2026 | [Paper](https://arxiv.org/abs/2604.21391) | Refinement-from-Intent paradigm anchors generative VLA on low-frequency motion intent |
+| [Temporal Difference Calibration in Sequential Tasks for VLA Models](https://arxiv.org/abs/2604.20472) | — | 2026 | [Paper](https://arxiv.org/abs/2604.20472) | Conformal TD calibration improves uncertainty quantification in sequential VLA tasks |
 
 ---
 
@@ -338,6 +340,7 @@
 | Dataset | Venue | Year | Links | Description |
 |---------|-------|------|-------|-------------|
 | [AgiBot World Alpha](https://arxiv.org/abs/2503.06669) | — | 2025 | [Paper](https://arxiv.org/abs/2503.06669) \| [Project](https://agibot-world.com/) | 1M+ demonstrations from 100 robots, 217 tasks |
+| [Open-H-Embodiment: Large-Scale Dataset for Foundation Models in Medical Robotics](https://arxiv.org/abs/2604.21017) | — | 2026 | [Paper](https://arxiv.org/abs/2604.21017) | Multi-institution consortium dataset enabling foundation models for medical robotics |
 | [EgoMimic: Scaling Imitation Learning via Egocentric Video](https://arxiv.org/abs/2410.24221) | CoRL | 2024 | [Paper](https://arxiv.org/abs/2410.24221) | Egocentric human video for robot imitation learning |
 | [DROID: A Large-Scale In-the-Wild Robot Manipulation Dataset](https://arxiv.org/abs/2403.12945) | RSS | 2024 | [Paper](https://arxiv.org/abs/2403.12945) \| [Project](https://droid-dataset.github.io/) | 76k demonstrations across 86 environments |
 | [Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://arxiv.org/abs/2310.08864) | ICRA Best Paper | 2024 | [Paper](https://arxiv.org/abs/2310.08864) \| [Project](https://robotics-transformer-x.github.io/) | 1M+ real-robot demos from 22 robots and 21 institutions |
