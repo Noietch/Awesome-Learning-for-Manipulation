@@ -126,6 +126,10 @@
 | [Long-Horizon Manipulation via Trace-Conditioned VLA Planning](https://arxiv.org/abs/2604.21924) | — | 2026 | [Paper](https://arxiv.org/abs/2604.21924) \| [Project Page](https://trace-conditioned-vla.github.io/) | Trace-conditioned planning enables long-horizon manipulation with VLA-level reasoning |
 | [ResVLA: From Noise to Intent — Anchoring Generative VLA Policies with Residual Bridges](https://arxiv.org/abs/2604.21391) | — | 2026 | [Paper](https://arxiv.org/abs/2604.21391) | Refinement-from-Intent paradigm anchors generative VLA on low-frequency motion intent |
 | [Temporal Difference Calibration in Sequential Tasks for VLA Models](https://arxiv.org/abs/2604.20472) | — | 2026 | [Paper](https://arxiv.org/abs/2604.20472) | Conformal TD calibration improves uncertainty quantification in sequential VLA tasks |
+| [The Compression Gap: Why Discrete Tokenization Limits VLA Scaling](https://arxiv.org/abs/2604.03191) | — | 2026 | [Paper](https://arxiv.org/abs/2604.03191) | Shows discrete action tokenization creates information bottleneck limiting vision encoder scaling |
+| [Adaptive Action Chunking at Inference-Time for VLA Models](https://arxiv.org/abs/2604.04161) | — | 2026 | [Paper](https://arxiv.org/abs/2604.04161) | Dynamically adjusts action chunk size at inference balancing responsiveness and stability |
+| [ProGAL-VLA: Grounded Alignment via Prospective Reasoning in VLAs](https://arxiv.org/abs/2604.09824) | — | 2026 | [Paper](https://arxiv.org/abs/2604.09824) | 3D entity-centric graph with prospective reasoning fixes language ignorance in VLAs |
+| [VLA-Forget: Unlearning for Embodied Foundation Models](https://arxiv.org/abs/2604.03956) | — | 2026 | [Paper](https://arxiv.org/abs/2604.03956) | Removes unsafe or spurious behaviors from deployed VLA models via unlearning |
 
 ---
 
@@ -232,6 +236,8 @@
 | [Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning](https://arxiv.org/abs/2601.16163) | — | 2026 | [Paper](https://arxiv.org/abs/2601.16163) | Adapts large pretrained video model into robot policy via single-stage fine-tuning |
 | [VADF: Vision-Adaptive Diffusion Policy Framework for Efficient Robotic Manipulation](https://arxiv.org/abs/2604.15938) | — | 2026 | [Paper](https://arxiv.org/abs/2604.15938) | Vision-driven dual-adaptive diffusion policy reducing convergence time and inference timeouts |
 | [VistaBot: View-Robust Robot Manipulation via Spatiotemporal-Aware View Synthesis](https://arxiv.org/abs/2604.21914) | ICRA | 2026 | [Paper](https://arxiv.org/abs/2604.21914) | Spatiotemporal view synthesis enables view-robust real-world manipulation |
+| [DockAnywhere: Data-Efficient Visuomotor Policy for Mobile Manipulation](https://arxiv.org/abs/2604.15023) | RA-L | 2026 | [Paper](https://arxiv.org/abs/2604.15023) | Novel demonstration generation enables data-efficient mobile manipulation policy learning |
+| [Referring-Aware Visuomotor Policy for Closed-Loop Manipulation](https://arxiv.org/abs/2604.05544) | — | 2026 | [Paper](https://arxiv.org/abs/2604.05544) | Referring expression guidance enhances robustness to OOD execution errors and re-routing |
 
 ---
 
@@ -307,6 +313,7 @@
 | [UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling](https://arxiv.org/abs/2604.19734) | — | 2026 | [Paper](https://arxiv.org/abs/2604.19734) \| [Project](https://arxiv.org/abs/2604.19734) | Unified latent action tokenizer bridging human-to-humanoid policy and world modeling |
 | [Mask World Model: Predicting What Matters for Robust Robot Policy Learning](https://arxiv.org/abs/2604.19683) | — | 2026 | [Paper](https://arxiv.org/abs/2604.19683) | Masks irrelevant factors in video world model prediction for better generalization |
 | [Hi-WM: Human-in-the-World-Model for Scalable Robot Post-Training](https://arxiv.org/abs/2604.21741) | — | 2026 | [Paper](https://arxiv.org/abs/2604.21741) \| [Project Page](https://hi-wm.github.io/) | Human feedback scales world model post-training for robot policy improvement |
+| [VLA-World: Vision-Language-Action World Models for Autonomous Driving](https://arxiv.org/abs/2604.09059) | — | 2026 | [Paper](https://arxiv.org/abs/2604.09059) | Integrates VLA reasoning with video world model for consistent autonomous driving decisions |
 
 ---
 
