@@ -122,6 +122,9 @@
 | [Robotic Manipulation is Vision-to-Geometry Mapping (f(v)→G)](https://arxiv.org/abs/2604.12908) | — | 2026 | [Paper](https://arxiv.org/abs/2604.12908) | Argues geometry-aware backbones outperform language/video pretrained VLA backbones |
 | [RDT2: Scaling Limit of UMI Data Towards Zero-Shot Cross-Embodiment](https://arxiv.org/abs/2602.03310) | — | 2026 | [Paper](https://arxiv.org/abs/2602.03310) \| [Code](https://github.com/thu-ml/RDT2) | Next-gen RDT scaling for cross-embodiment generalization |
 | [PokeVLA: Empowering Pocket-Sized Vision-Language-Action Model with Comprehensive World Knowledge Guidance](https://arxiv.org/abs/2604.20834) | — | 2026 | [Paper](https://arxiv.org/abs/2604.20834) | Lightweight VLA infused with world knowledge for efficient embodied manipulation |
+| [RL Token: Bootstrapping Online RL with Vision-Language-Action Models](https://arxiv.org/abs/2604.23073) | — | 2026 | [Paper](https://arxiv.org/abs/2604.23073) | RL token enables sample-efficient online RL fine-tuning of VLAs in hours |
+| [CF-VLA: Efficient Coarse-to-Fine Action Generation for VLA Policies](https://arxiv.org/abs/2604.24622) | — | 2026 | [Paper](https://arxiv.org/abs/2604.24622) \| [Code](https://github.com/) | Coarse-to-fine flow-based VLA reduces latency 75% while matching multi-step quality |
+| [GazeVLA: Learning Human Intention for Robotic Manipulation](https://arxiv.org/abs/2604.22615) | — | 2026 | [Paper](https://arxiv.org/abs/2604.22615) | Gaze-based intention bridging enables human-to-robot VLA manipulation transfer |
 | [VLA Foundry: A Unified Framework for Training Vision-Language-Action Models](https://arxiv.org/abs/2604.19728) | — | 2026 | [Paper](https://arxiv.org/abs/2604.19728) | Open-source unified LLM/VLM/VLA training stack from pretraining to action fine-tuning |
 | [Long-Horizon Manipulation via Trace-Conditioned VLA Planning](https://arxiv.org/abs/2604.21924) | — | 2026 | [Paper](https://arxiv.org/abs/2604.21924) \| [Project Page](https://trace-conditioned-vla.github.io/) | Trace-conditioned planning enables long-horizon manipulation with VLA-level reasoning |
 | [ResVLA: From Noise to Intent — Anchoring Generative VLA Policies with Residual Bridges](https://arxiv.org/abs/2604.21391) | — | 2026 | [Paper](https://arxiv.org/abs/2604.21391) | Refinement-from-Intent paradigm anchors generative VLA on low-frequency motion intent |
@@ -238,6 +241,7 @@
 | [VistaBot: View-Robust Robot Manipulation via Spatiotemporal-Aware View Synthesis](https://arxiv.org/abs/2604.21914) | ICRA | 2026 | [Paper](https://arxiv.org/abs/2604.21914) | Spatiotemporal view synthesis enables view-robust real-world manipulation |
 | [DockAnywhere: Data-Efficient Visuomotor Policy for Mobile Manipulation](https://arxiv.org/abs/2604.15023) | RA-L | 2026 | [Paper](https://arxiv.org/abs/2604.15023) | Novel demonstration generation enables data-efficient mobile manipulation policy learning |
 | [Referring-Aware Visuomotor Policy for Closed-Loop Manipulation](https://arxiv.org/abs/2604.05544) | — | 2026 | [Paper](https://arxiv.org/abs/2604.05544) | Referring expression guidance enhances robustness to OOD execution errors and re-routing |
+| [BridgeACT: Bridging Human Demonstrations to Robot Actions via Affordances](https://arxiv.org/abs/2604.23249) | — | 2026 | [Paper](https://arxiv.org/abs/2604.23249) | Affordance framework learns manipulation from human videos without robot data |
 
 ---
 
@@ -402,6 +406,7 @@
 | Paper | Venue | Year | Links | TL;DR |
 |-------|-------|------|-------|-------|
 | [Diffusion Models for Robots: A Survey](https://arxiv.org/abs/2504.11002) | — | 2025 | [Paper](https://arxiv.org/abs/2504.11002) | Comprehensive survey of diffusion models in robotics |
+| [Vision-Language-Action in Robotics: A Survey of Datasets, Benchmarks, and Data Engines](https://arxiv.org/abs/2604.23001) | TMLR | 2026 | [Paper](https://arxiv.org/abs/2604.23001) | Data-centric analysis of VLA datasets, benchmarks, and data engines |
 | [From Text to Motion: A Survey on Foundation Models for Robot Manipulation](https://arxiv.org/abs/2501.04838) | — | 2025 | [Paper](https://arxiv.org/abs/2501.04838) | Survey of foundation models for robot manipulation |
 | [A Survey on Vision-Language-Action Models for Embodied AI](https://arxiv.org/abs/2405.14093) | — | 2024 | [Paper](https://arxiv.org/abs/2405.14093) | Comprehensive survey on VLA model architectures |
 | [Robot Learning from Human Demonstrations: A Survey](https://arxiv.org/abs/2311.07474) | — | 2023 | [Paper](https://arxiv.org/abs/2311.07474) | Survey on human demonstration-based robot learning |
