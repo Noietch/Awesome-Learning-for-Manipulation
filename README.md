@@ -133,6 +133,10 @@
 | [Adaptive Action Chunking at Inference-Time for VLA Models](https://arxiv.org/abs/2604.04161) | — | 2026 | [Paper](https://arxiv.org/abs/2604.04161) | Dynamically adjusts action chunk size at inference balancing responsiveness and stability |
 | [ProGAL-VLA: Grounded Alignment via Prospective Reasoning in VLAs](https://arxiv.org/abs/2604.09824) | — | 2026 | [Paper](https://arxiv.org/abs/2604.09824) | 3D entity-centric graph with prospective reasoning fixes language ignorance in VLAs |
 | [VLA-Forget: Unlearning for Embodied Foundation Models](https://arxiv.org/abs/2604.03956) | — | 2026 | [Paper](https://arxiv.org/abs/2604.03956) | Removes unsafe or spurious behaviors from deployed VLA models via unlearning |
+| [Libra-VLA: Achieving Learning Equilibrium via Asynchronous Coarse-to-Fine Dual-System](https://arxiv.org/abs/2604.24921) | ACL 2026 | 2026 | [Paper](https://arxiv.org/abs/2604.24921) \| [Project](https://libra-vla.github.io/) | Coarse-to-fine dual-system VLA with asynchronous execution for open-world manipulation |
+| [M²-VLA: Boosting VLMs for Generalizable Manipulation via Layer Mixture and Meta-Skills](https://arxiv.org/abs/2604.24182) | — | 2026 | [Paper](https://arxiv.org/abs/2604.24182) | Preserves VLM generalization via MoL feature extraction and meta-skill trajectory learning |
+| [CodeGraphVLP: Code-as-Planner Meets Semantic-Graph State for Non-Markovian VLA](https://arxiv.org/abs/2604.22238) | — | 2026 | [Paper](https://arxiv.org/abs/2604.22238) | Semantic-graph state + code planner enables reliable non-Markovian long-horizon manipulation |
+| [EmbodiedMidtrain: Bridging VLM and VLA via Mid-training](https://arxiv.org/abs/2604.20012) | — | 2026 | [Paper](https://arxiv.org/abs/2604.20012) | Data engine curates VLM mid-training to bridge distribution gap before VLA fine-tuning |
 
 ---
 
@@ -422,6 +426,7 @@
 | [Foundation Models in Robotics: Applications, Challenges, and the Future](https://arxiv.org/abs/2312.07843) | — | 2023 | [Paper](https://arxiv.org/abs/2312.07843) | Foundation models applied to robotics: applications, challenges, future |
 | [A Survey on Large Language Models for Robotics](https://arxiv.org/abs/2311.07226) | — | 2023 | [Paper](https://arxiv.org/abs/2311.07226) | LLMs as planners, coders, and reasoners for robots |
 | [A Survey on Embodied AI: From Simulators to Research Challenges](https://arxiv.org/abs/2103.04918) | IEEE TPAMI | 2022 | [Paper](https://arxiv.org/abs/2103.04918) | Covers simulators, tasks, algorithms for embodied AI |
+| [3D Generation for Embodied AI and Robotic Simulation: A Survey](https://arxiv.org/abs/2604.26509) | — | 2026 | [Paper](https://arxiv.org/abs/2604.26509) \| [Project](https://3dgen4robot.github.io) | Comprehensive survey of 3D generation methods for embodied AI and robot simulation |
 | [Embodied Intelligence via Learning and Evolution](https://arxiv.org/abs/2102.02202) | Nature Comm. | 2021 | [Paper](https://arxiv.org/abs/2102.02202) | Evolution and learning for embodied intelligence |
 
 
