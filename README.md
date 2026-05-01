@@ -137,6 +137,10 @@
 | [M²-VLA: Boosting VLMs for Generalizable Manipulation via Layer Mixture and Meta-Skills](https://arxiv.org/abs/2604.24182) | — | 2026 | [Paper](https://arxiv.org/abs/2604.24182) | Preserves VLM generalization via MoL feature extraction and meta-skill trajectory learning |
 | [CodeGraphVLP: Code-as-Planner Meets Semantic-Graph State for Non-Markovian VLA](https://arxiv.org/abs/2604.22238) | — | 2026 | [Paper](https://arxiv.org/abs/2604.22238) | Semantic-graph state + code planner enables reliable non-Markovian long-horizon manipulation |
 | [EmbodiedMidtrain: Bridging VLM and VLA via Mid-training](https://arxiv.org/abs/2604.20012) | — | 2026 | [Paper](https://arxiv.org/abs/2604.20012) | Data engine curates VLM mid-training to bridge distribution gap before VLA fine-tuning |
+| [LaST-R1: Reinforcing Action via Adaptive Physical Latent Reasoning for VLA Models](https://arxiv.org/abs/2604.28192) | — | 2026 | [Paper](https://arxiv.org/abs/2604.28192) | R1-style latent reasoning + online RL enables adaptive VLA action refinement |
+| [PRTS: A Primitive Reasoning and Tasking System via Contrastive Representations](https://arxiv.org/abs/2604.27472) | — | 2026 | [Paper](https://arxiv.org/abs/2604.27472) | Contrastive primitive representations enable goal-reaching reasoning for robot tasking |
+| [AnchorRefine: Synergy-Manipulation Based on Trajectory Anchor and Residual Refinement for VLA](https://arxiv.org/abs/2604.17787) | — | 2026 | [Paper](https://arxiv.org/abs/2604.17787) | Trajectory anchor + residual refinement decouples macro transport from micro correction |
+| [How VLAs (Really) Work In Open-World Environments](https://arxiv.org/abs/2604.21192) | — | 2026 | [Paper](https://arxiv.org/abs/2604.21192) | Empirical analysis revealing failure modes and success factors of VLAs in the wild |
 
 ---
 
