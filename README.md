@@ -141,6 +141,9 @@
 | [PRTS: A Primitive Reasoning and Tasking System via Contrastive Representations](https://arxiv.org/abs/2604.27472) | — | 2026 | [Paper](https://arxiv.org/abs/2604.27472) | Contrastive primitive representations enable goal-reaching reasoning for robot tasking |
 | [AnchorRefine: Synergy-Manipulation Based on Trajectory Anchor and Residual Refinement for VLA](https://arxiv.org/abs/2604.17787) | — | 2026 | [Paper](https://arxiv.org/abs/2604.17787) | Trajectory anchor + residual refinement decouples macro transport from micro correction |
 | [How VLAs (Really) Work In Open-World Environments](https://arxiv.org/abs/2604.21192) | — | 2026 | [Paper](https://arxiv.org/abs/2604.21192) | Empirical analysis revealing failure modes and success factors of VLAs in the wild |
+| [Being-H0.7: A Latent World-Action Model from Egocentric Videos](https://arxiv.org/abs/2605.00078) | — | 2026 | [Paper](https://arxiv.org/abs/2605.00078) | Latent world-action model brings future-aware reasoning into VLA without visual rollout |
+| [LWD: Learning While Deploying — Fleet-Scale RL for Generalist Robot Policies](https://arxiv.org/abs/2605.00416) | — | 2026 | [Paper](https://arxiv.org/abs/2605.00416) | Fleet-scale offline-to-online RL for continual VLA post-training across 16 robots |
+| [MoT-HRA: Learning Human-Intention Priors from Large-Scale Human Demonstrations](https://arxiv.org/abs/2604.24681) | — | 2026 | [Paper](https://arxiv.org/abs/2604.24681) | Hierarchical VLA learning human-intention priors from 2.2M human video episodes |
 
 ---
 
@@ -404,6 +407,7 @@
 | [GeniSim: Generalizing Robot Manipulation Skills via Large Language Model-Based Data Generation](https://arxiv.org/abs/2311.11714) | — | 2023 | [Paper](https://arxiv.org/abs/2311.11714) | LLM generates novel manipulation tasks in simulation for data augmentation |
 | [RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation](https://arxiv.org/abs/2311.01455) | ICML | 2024 | [Paper](https://arxiv.org/abs/2311.01455) \| [Project](https://robogen-ai.github.io/) | LLM-driven task + asset + reward generation in IsaacGym |
 | [MimicGen: A Data Generation System for Scalable Robot Learning using Human Demonstrations](https://arxiv.org/abs/2310.17596) | CoRL | 2023 | [Paper](https://arxiv.org/abs/2310.17596) \| [Project](https://mimicgen.github.io/) | Automatically generates large-scale demos from few human examples |
+| [Lucid-XR: An Extended-Reality Data Engine for Robotic Manipulation](https://arxiv.org/abs/2605.00244) | — | 2026 | [Paper](https://arxiv.org/abs/2605.00244) \| [Project](https://lucidxr.github.io/) | XR headset-based physics sim + video gen for zero-shot sim-to-real transfer |
 
 ---
 
@@ -414,6 +418,7 @@
 | Paper | Venue | Year | Links | TL;DR |
 |-------|-------|------|-------|-------|
 | [Diffusion Models for Robots: A Survey](https://arxiv.org/abs/2504.11002) | — | 2025 | [Paper](https://arxiv.org/abs/2504.11002) | Comprehensive survey of diffusion models in robotics |
+| [World Model for Robot Learning: A Comprehensive Survey](https://arxiv.org/abs/2605.00080) | — | 2026 | [Paper](https://arxiv.org/abs/2605.00080) | Comprehensive survey of world models for robot learning, covering paradigms and applications |
 | [Vision-Language-Action in Robotics: A Survey of Datasets, Benchmarks, and Data Engines](https://arxiv.org/abs/2604.23001) | TMLR | 2026 | [Paper](https://arxiv.org/abs/2604.23001) | Data-centric analysis of VLA datasets, benchmarks, and data engines |
 | [From Text to Motion: A Survey on Foundation Models for Robot Manipulation](https://arxiv.org/abs/2501.04838) | — | 2025 | [Paper](https://arxiv.org/abs/2501.04838) | Survey of foundation models for robot manipulation |
 | [A Survey on Vision-Language-Action Models for Embodied AI](https://arxiv.org/abs/2405.14093) | — | 2024 | [Paper](https://arxiv.org/abs/2405.14093) | Comprehensive survey on VLA model architectures |
