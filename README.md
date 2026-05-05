@@ -144,6 +144,9 @@
 | [Being-H0.7: A Latent World-Action Model from Egocentric Videos](https://arxiv.org/abs/2605.00078) | — | 2026 | [Paper](https://arxiv.org/abs/2605.00078) | Latent world-action model brings future-aware reasoning into VLA without visual rollout |
 | [LWD: Learning While Deploying — Fleet-Scale RL for Generalist Robot Policies](https://arxiv.org/abs/2605.00416) | — | 2026 | [Paper](https://arxiv.org/abs/2605.00416) | Fleet-scale offline-to-online RL for continual VLA post-training across 16 robots |
 | [MoT-HRA: Learning Human-Intention Priors from Large-Scale Human Demonstrations](https://arxiv.org/abs/2604.24681) | — | 2026 | [Paper](https://arxiv.org/abs/2604.24681) | Hierarchical VLA learning human-intention priors from 2.2M human video episodes |
+| [Anticipation-VLA: Solving Long-Horizon Embodied Tasks via Anticipation-based Subgoal Generation](https://arxiv.org/abs/2605.01772) | — | 2026 | [Paper](https://arxiv.org/abs/2605.01772) | Anticipation-based subgoal decomposition enables robust long-horizon VLA execution |
+| [Sentinel-VLA: A Metacognitive VLA Model with Active Status Monitoring](https://arxiv.org/abs/2605.01191) | — | 2026 | [Paper](https://arxiv.org/abs/2605.01191) | Metacognitive VLA monitors internal state for dynamic reasoning and error recovery |
+| [Sim-to-Real Video Transfer for VLA Data Augmentation](https://arxiv.org/abs/2605.02757) | ICML | 2026 | [Paper](https://arxiv.org/abs/2605.02757) | Efficient sim-to-real video transfer bridges domain gap for scalable VLA training |
 
 ---
 
@@ -253,6 +256,8 @@
 | [DockAnywhere: Data-Efficient Visuomotor Policy for Mobile Manipulation](https://arxiv.org/abs/2604.15023) | RA-L | 2026 | [Paper](https://arxiv.org/abs/2604.15023) | Novel demonstration generation enables data-efficient mobile manipulation policy learning |
 | [Referring-Aware Visuomotor Policy for Closed-Loop Manipulation](https://arxiv.org/abs/2604.05544) | — | 2026 | [Paper](https://arxiv.org/abs/2604.05544) | Referring expression guidance enhances robustness to OOD execution errors and re-routing |
 | [BridgeACT: Bridging Human Demonstrations to Robot Actions via Affordances](https://arxiv.org/abs/2604.23249) | — | 2026 | [Paper](https://arxiv.org/abs/2604.23249) | Affordance framework learns manipulation from human videos without robot data |
+| [Decompose and Recompose: Cross-Task Robotic Manipulation via Skill Reasoning](https://arxiv.org/abs/2605.01448) | ICML | 2026 | [Paper](https://arxiv.org/abs/2605.01448) | Decomposes seen skills then recomposes for zero-shot cross-task manipulation |
+| [Hydra-DP3: Frequency-Aware Right-Sizing of 3D Diffusion Policies](https://arxiv.org/abs/2605.01581) | — | 2026 | [Paper](https://arxiv.org/abs/2605.01581) | Frequency-aware compression adaptively right-sizes 3D diffusion policy for efficiency |
 
 ---
 
@@ -329,6 +334,7 @@
 | [Mask World Model: Predicting What Matters for Robust Robot Policy Learning](https://arxiv.org/abs/2604.19683) | — | 2026 | [Paper](https://arxiv.org/abs/2604.19683) | Masks irrelevant factors in video world model prediction for better generalization |
 | [Hi-WM: Human-in-the-World-Model for Scalable Robot Post-Training](https://arxiv.org/abs/2604.21741) | — | 2026 | [Paper](https://arxiv.org/abs/2604.21741) \| [Project Page](https://hi-wm.github.io/) | Human feedback scales world model post-training for robot policy improvement |
 | [VLA-World: Vision-Language-Action World Models for Autonomous Driving](https://arxiv.org/abs/2604.09059) | — | 2026 | [Paper](https://arxiv.org/abs/2604.09059) | Integrates VLA reasoning with video world model for consistent autonomous driving decisions |
+| [Embody4D: A Generalist 4D World Model for Embodied AI](https://arxiv.org/abs/2605.01799) | — | 2026 | [Paper](https://arxiv.org/abs/2605.01799) | Generalist 4D world model handling dynamic scenes for embodied AI tasks |
 
 ---
 
