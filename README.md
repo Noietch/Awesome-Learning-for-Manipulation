@@ -147,6 +147,8 @@
 | [Anticipation-VLA: Solving Long-Horizon Embodied Tasks via Anticipation-based Subgoal Generation](https://arxiv.org/abs/2605.01772) | — | 2026 | [Paper](https://arxiv.org/abs/2605.01772) | Anticipation-based subgoal decomposition enables robust long-horizon VLA execution |
 | [Sentinel-VLA: A Metacognitive VLA Model with Active Status Monitoring](https://arxiv.org/abs/2605.01191) | — | 2026 | [Paper](https://arxiv.org/abs/2605.01191) | Metacognitive VLA monitors internal state for dynamic reasoning and error recovery |
 | [Sim-to-Real Video Transfer for VLA Data Augmentation](https://arxiv.org/abs/2605.02757) | ICML | 2026 | [Paper](https://arxiv.org/abs/2605.02757) | Efficient sim-to-real video transfer bridges domain gap for scalable VLA training |
+| [MolmoAct2: Action Reasoning Models for Real-world Deployment](https://arxiv.org/abs/2605.02881) | — | 2026 | [Paper](https://arxiv.org/abs/2605.02881) \| [Project](https://allenai.org/blog/molmoact2) | Fully open VLA with spatial reasoning backbone and adaptive-depth reasoning |
+| [Latent Bridge: Efficient Dual-System VLA Inference via Feature Delta Prediction](https://arxiv.org/abs/2605.02739) | — | 2026 | [Paper](https://arxiv.org/abs/2605.02739) | Predicts VLM output deltas to reduce calls by 50-75% with minimal performance loss |
 
 ---
 
@@ -258,6 +260,7 @@
 | [BridgeACT: Bridging Human Demonstrations to Robot Actions via Affordances](https://arxiv.org/abs/2604.23249) | — | 2026 | [Paper](https://arxiv.org/abs/2604.23249) | Affordance framework learns manipulation from human videos without robot data |
 | [Decompose and Recompose: Cross-Task Robotic Manipulation via Skill Reasoning](https://arxiv.org/abs/2605.01448) | ICML | 2026 | [Paper](https://arxiv.org/abs/2605.01448) | Decomposes seen skills then recomposes for zero-shot cross-task manipulation |
 | [Hydra-DP3: Frequency-Aware Right-Sizing of 3D Diffusion Policies](https://arxiv.org/abs/2605.01581) | — | 2026 | [Paper](https://arxiv.org/abs/2605.01581) | Frequency-aware compression adaptively right-sizes 3D diffusion policy for efficiency |
+| [CoRAL: Contact-Rich Adaptive LLM-based Control for Robotic Manipulation](https://arxiv.org/abs/2605.02600) | RSS | 2026 | [Paper](https://arxiv.org/abs/2605.02600) | LLM as cost designer + neuro-symbolic adaptation for contact-rich manipulation |
 
 ---
 
@@ -280,6 +283,7 @@
 | [ST-π: Structured SpatioTemporal VLA for Robotic Manipulation](https://arxiv.org/abs/2604.17880) | arXiv | 2026 | [Paper](https://arxiv.org/abs/2604.17880) \| [Code](https://github.com/chuanhaoma/ST-pi) | Structured spatiotemporal VLA with spatial-temporal attention for manipulation |
 | [HiVLA: Hierarchical VLA for Long-Horizon Manipulation Tasks](https://arxiv.org/abs/2604.14125) | arXiv | 2026 | [Paper](https://arxiv.org/abs/2604.14125) \| [Project Page](https://tianshuoy.github.io/HiVLA-page/) | Hierarchical VLA combining high-level planning and low-level control |
 | [AnchorVLA: Anchored Diffusion for Efficient Mobile Manipulation](https://arxiv.org/abs/2604.01567) | arXiv | 2026 | [Paper](https://arxiv.org/abs/2604.01567) \| [Code](https://github.com/jason-lim26/AnchorVLA) | Anchored diffusion VLA for mobile manipulation with residual drift correction |
+| [RLDX-1: General-Purpose Robotic Policy for Dexterous Manipulation](https://arxiv.org/abs/2605.03269) | — | 2026 | [Paper](https://arxiv.org/abs/2605.03269) \| [Project](https://rlwrld.ai/rldx-1) | Multi-stream action transformer VLA outperforms frontier models on dexterous tasks |
 
 ---
 
