@@ -261,6 +261,7 @@
 | [Decompose and Recompose: Cross-Task Robotic Manipulation via Skill Reasoning](https://arxiv.org/abs/2605.01448) | ICML | 2026 | [Paper](https://arxiv.org/abs/2605.01448) | Decomposes seen skills then recomposes for zero-shot cross-task manipulation |
 | [Hydra-DP3: Frequency-Aware Right-Sizing of 3D Diffusion Policies](https://arxiv.org/abs/2605.01581) | — | 2026 | [Paper](https://arxiv.org/abs/2605.01581) | Frequency-aware compression adaptively right-sizes 3D diffusion policy for efficiency |
 | [CoRAL: Contact-Rich Adaptive LLM-based Control for Robotic Manipulation](https://arxiv.org/abs/2605.02600) | RSS | 2026 | [Paper](https://arxiv.org/abs/2605.02600) | LLM as cost designer + neuro-symbolic adaptation for contact-rich manipulation |
+| [OGPO: Sample Efficient Full-Finetuning of Generative Control Policies](https://arxiv.org/abs/2605.03065) | — | 2026 | [Paper](https://arxiv.org/abs/2605.03065) | Sample-efficient full-finetuning method for generative control policies via offline GP |
 
 ---
 
@@ -339,6 +340,7 @@
 | [Hi-WM: Human-in-the-World-Model for Scalable Robot Post-Training](https://arxiv.org/abs/2604.21741) | — | 2026 | [Paper](https://arxiv.org/abs/2604.21741) \| [Project Page](https://hi-wm.github.io/) | Human feedback scales world model post-training for robot policy improvement |
 | [VLA-World: Vision-Language-Action World Models for Autonomous Driving](https://arxiv.org/abs/2604.09059) | — | 2026 | [Paper](https://arxiv.org/abs/2604.09059) | Integrates VLA reasoning with video world model for consistent autonomous driving decisions |
 | [Embody4D: A Generalist 4D World Model for Embodied AI](https://arxiv.org/abs/2605.01799) | — | 2026 | [Paper](https://arxiv.org/abs/2605.01799) | Generalist 4D world model handling dynamic scenes for embodied AI tasks |
+| [STARRY: Spatial-Temporal Action-Centric World Modeling for Robotic Manipulation](https://arxiv.org/abs/2604.26848) | — | 2026 | [Paper](https://arxiv.org/abs/2604.26848) | Action-centric spatial-temporal world model for robust manipulation prediction |
 
 ---
 
@@ -366,6 +368,7 @@
 | [RLBench: The Robot Learning Benchmark & Learning Environment](https://arxiv.org/abs/1909.12271) | — | 2019 | [Paper](https://arxiv.org/abs/1909.12271) \| [Code](https://github.com/stepjam/RLBench) | 100 robot manipulation tasks in CoppeliaSim |
 | [RoboVerse: Unified Platform, Dataset and Benchmark for Scalable Robot Learning](https://roboverseorg.github.io/) | — | 2025 | [Paper](https://roboverseorg.github.io/static/pdfs/paper_supp_20250405_1820.pdf) \| [Code](https://github.com/RoboVerseOrg/RoboVerse) | Unified sim-to-real benchmark and dataset platform |
 | [RoboWM-Bench: Manipulation-Centric Benchmark for World Models in Robotics](https://arxiv.org/abs/2604.19092) | arXiv | 2026 | [Paper](https://arxiv.org/abs/2604.19092) \| [Project Page](https://robowm-bench.github.io/RoboWM-Bench/) | Manipulation-centric benchmark for evaluating world models in robotics |
+| [KinDER: A Physical Reasoning Benchmark for Robot Learning and Planning](https://arxiv.org/abs/2604.25788) | — | 2026 | [Paper](https://arxiv.org/abs/2604.25788) \| [Project](https://prpl-group.com/kinder-site/.) | Physical reasoning benchmark for robot learning with diverse manipulation tasks |
 
 ### Robot Datasets
 
@@ -418,6 +421,7 @@
 | [RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation](https://arxiv.org/abs/2311.01455) | ICML | 2024 | [Paper](https://arxiv.org/abs/2311.01455) \| [Project](https://robogen-ai.github.io/) | LLM-driven task + asset + reward generation in IsaacGym |
 | [MimicGen: A Data Generation System for Scalable Robot Learning using Human Demonstrations](https://arxiv.org/abs/2310.17596) | CoRL | 2023 | [Paper](https://arxiv.org/abs/2310.17596) \| [Project](https://mimicgen.github.io/) | Automatically generates large-scale demos from few human examples |
 | [Lucid-XR: An Extended-Reality Data Engine for Robotic Manipulation](https://arxiv.org/abs/2605.00244) | — | 2026 | [Paper](https://arxiv.org/abs/2605.00244) \| [Project](https://lucidxr.github.io/) | XR headset-based physics sim + video gen for zero-shot sim-to-real transfer |
+| [GS-Playground: High-Throughput Photorealistic Simulator for Vision-Informed Robot Learning](https://arxiv.org/abs/2604.25459) | — | 2026 | [Paper](https://arxiv.org/abs/2604.25459) | Gaussian splatting photorealistic simulator enabling high-throughput vision-based robot learning |
 
 ---
 
@@ -429,6 +433,7 @@
 |-------|-------|------|-------|-------|
 | [Diffusion Models for Robots: A Survey](https://arxiv.org/abs/2504.11002) | — | 2025 | [Paper](https://arxiv.org/abs/2504.11002) | Comprehensive survey of diffusion models in robotics |
 | [World Model for Robot Learning: A Comprehensive Survey](https://arxiv.org/abs/2605.00080) | — | 2026 | [Paper](https://arxiv.org/abs/2605.00080) | Comprehensive survey of world models for robot learning, covering paradigms and applications |
+| [Robot Learning from Human Videos: A Survey](https://arxiv.org/abs/2604.27621) | — | 2026 | [Paper](https://arxiv.org/abs/2604.27621) \| [Code](https://github.com/IRMVLab/awesome-robot-learning-from-human-videos) | Comprehensive survey of robot learning from human video demonstrations |
 | [Vision-Language-Action in Robotics: A Survey of Datasets, Benchmarks, and Data Engines](https://arxiv.org/abs/2604.23001) | TMLR | 2026 | [Paper](https://arxiv.org/abs/2604.23001) | Data-centric analysis of VLA datasets, benchmarks, and data engines |
 | [From Text to Motion: A Survey on Foundation Models for Robot Manipulation](https://arxiv.org/abs/2501.04838) | — | 2025 | [Paper](https://arxiv.org/abs/2501.04838) | Survey of foundation models for robot manipulation |
 | [A Survey on Vision-Language-Action Models for Embodied AI](https://arxiv.org/abs/2405.14093) | — | 2024 | [Paper](https://arxiv.org/abs/2405.14093) | Comprehensive survey on VLA model architectures |
