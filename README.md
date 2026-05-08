@@ -149,6 +149,8 @@
 | [Sim-to-Real Video Transfer for VLA Data Augmentation](https://arxiv.org/abs/2605.02757) | ICML | 2026 | [Paper](https://arxiv.org/abs/2605.02757) | Efficient sim-to-real video transfer bridges domain gap for scalable VLA training |
 | [MolmoAct2: Action Reasoning Models for Real-world Deployment](https://arxiv.org/abs/2605.02881) | — | 2026 | [Paper](https://arxiv.org/abs/2605.02881) \| [Project](https://allenai.org/blog/molmoact2) | Fully open VLA with spatial reasoning backbone and adaptive-depth reasoning |
 | [Latent Bridge: Efficient Dual-System VLA Inference via Feature Delta Prediction](https://arxiv.org/abs/2605.02739) | — | 2026 | [Paper](https://arxiv.org/abs/2605.02739) | Predicts VLM output deltas to reduce calls by 50-75% with minimal performance loss |
+| [ConsisVLA-4D: Spatiotemporal Consistency in Efficient 3D-Perception and 4D-Reasoning](https://arxiv.org/abs/2605.05126) | CVPR | 2026 | [Paper](https://arxiv.org/abs/2605.05126) \| [Code](https://github.com/iLearn-Lab/CVPR26-ConsisVLA-4D) | SOTA LIBERO with 1/8 tokens via CV-Aligner and 4D spatiotemporal reasoning |
+| [Thinking in Text and Images: Interleaved VL Reasoning for Long-Horizon Manipulation](https://arxiv.org/abs/2605.00438) | — | 2026 | [Paper](https://arxiv.org/abs/2605.00438) | Interleaved text+visual traces boost long-horizon manipulation from 37.7% to 92.4% |
 
 ---
 
@@ -262,6 +264,7 @@
 | [Hydra-DP3: Frequency-Aware Right-Sizing of 3D Diffusion Policies](https://arxiv.org/abs/2605.01581) | — | 2026 | [Paper](https://arxiv.org/abs/2605.01581) | Frequency-aware compression adaptively right-sizes 3D diffusion policy for efficiency |
 | [CoRAL: Contact-Rich Adaptive LLM-based Control for Robotic Manipulation](https://arxiv.org/abs/2605.02600) | RSS | 2026 | [Paper](https://arxiv.org/abs/2605.02600) | LLM as cost designer + neuro-symbolic adaptation for contact-rich manipulation |
 | [OGPO: Sample Efficient Full-Finetuning of Generative Control Policies](https://arxiv.org/abs/2605.03065) | — | 2026 | [Paper](https://arxiv.org/abs/2605.03065) | Sample-efficient full-finetuning method for generative control policies via offline GP |
+| [Tube Diffusion Policy: Reactive Visual-Tactile Policy Learning for Contact-Rich Manipulation](https://arxiv.org/abs/2604.23609) | — | 2026 | [Paper](https://arxiv.org/abs/2604.23609) \| [Project](https://schortenger.github.io/tube-diffusion-policy/) | Bridges diffusion IL with tube MPC for reactive visual-tactile dexterous manipulation |
 
 ---
 
