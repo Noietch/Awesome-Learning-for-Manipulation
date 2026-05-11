@@ -344,6 +344,8 @@
 | [VLA-World: Vision-Language-Action World Models for Autonomous Driving](https://arxiv.org/abs/2604.09059) | — | 2026 | [Paper](https://arxiv.org/abs/2604.09059) | Integrates VLA reasoning with video world model for consistent autonomous driving decisions |
 | [Embody4D: A Generalist 4D World Model for Embodied AI](https://arxiv.org/abs/2605.01799) | — | 2026 | [Paper](https://arxiv.org/abs/2605.01799) | Generalist 4D world model handling dynamic scenes for embodied AI tasks |
 | [STARRY: Spatial-Temporal Action-Centric World Modeling for Robotic Manipulation](https://arxiv.org/abs/2604.26848) | — | 2026 | [Paper](https://arxiv.org/abs/2604.26848) | Action-centric spatial-temporal world model for robust manipulation prediction |
+| [OA-WAM: Object-Addressable World Action Model for Robust Robot Manipulation](https://arxiv.org/abs/2605.06481) | — | 2026 | [Paper](https://arxiv.org/abs/2605.06481) | Slot-based object-addressable states separate identity from context for robust WAM |
+| [When to Trust Imagination: Adaptive Action Execution for World Action Models](https://arxiv.org/abs/2605.06222) | — | 2026 | [Paper](https://arxiv.org/abs/2605.06222) | FFDC verifier adapts action chunk size; 69% fewer WAM passes, +35% real-world success |
 
 ---
 
@@ -372,6 +374,7 @@
 | [RoboVerse: Unified Platform, Dataset and Benchmark for Scalable Robot Learning](https://roboverseorg.github.io/) | — | 2025 | [Paper](https://roboverseorg.github.io/static/pdfs/paper_supp_20250405_1820.pdf) \| [Code](https://github.com/RoboVerseOrg/RoboVerse) | Unified sim-to-real benchmark and dataset platform |
 | [RoboWM-Bench: Manipulation-Centric Benchmark for World Models in Robotics](https://arxiv.org/abs/2604.19092) | arXiv | 2026 | [Paper](https://arxiv.org/abs/2604.19092) \| [Project Page](https://robowm-bench.github.io/RoboWM-Bench/) | Manipulation-centric benchmark for evaluating world models in robotics |
 | [KinDER: A Physical Reasoning Benchmark for Robot Learning and Planning](https://arxiv.org/abs/2604.25788) | — | 2026 | [Paper](https://arxiv.org/abs/2604.25788) \| [Project](https://prpl-group.com/kinder-site/.) | Physical reasoning benchmark for robot learning with diverse manipulation tasks |
+| [VISER: Visually Realistic Benchmark for Evaluating Robot Manipulation in Simulation](https://arxiv.org/abs/2605.06311) | — | 2026 | [Paper](https://arxiv.org/abs/2605.06311) | 1000+ PBR assets; sim-to-real Pearson correlation 0.92 across VLA policies |
 
 ### Robot Datasets
 
