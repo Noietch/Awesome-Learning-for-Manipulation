@@ -143,6 +143,9 @@
 | [How VLAs (Really) Work In Open-World Environments](https://arxiv.org/abs/2604.21192) | — | 2026 | [Paper](https://arxiv.org/abs/2604.21192) | Empirical analysis revealing failure modes and success factors of VLAs in the wild |
 | [Being-H0.7: A Latent World-Action Model from Egocentric Videos](https://arxiv.org/abs/2605.00078) | — | 2026 | [Paper](https://arxiv.org/abs/2605.00078) | Latent world-action model brings future-aware reasoning into VLA without visual rollout |
 | [LWD: Learning While Deploying — Fleet-Scale RL for Generalist Robot Policies](https://arxiv.org/abs/2605.00416) | — | 2026 | [Paper](https://arxiv.org/abs/2605.00416) | Fleet-scale offline-to-online RL for continual VLA post-training across 16 robots |
+| [Embodied Interpretability: Causal Understanding for Generalization in VLA Models](https://arxiv.org/abs/2605.00321) | ICML | 2026 | [Paper](https://arxiv.org/abs/2605.00321) | ISS interventional masking reveals and fixes spurious causal shortcuts in VLA policies |
+| [VLA-ATTC: Adaptive Test-Time Compute for VLA Models with Relative Action Critic](https://arxiv.org/abs/2605.01194) | — | 2026 | [Paper](https://arxiv.org/abs/2605.01194) | Relative action critic allocates extra inference compute to ambiguous VLA decisions |
+| [From Pixels to Tokens: Latent Action Supervision for Vision-Language-Action Models](https://arxiv.org/abs/2605.04678) | — | 2026 | [Paper](https://arxiv.org/abs/2605.04678) | Systematic comparison of latent action supervision strategies for VLA cross-dataset training |
 | [MoT-HRA: Learning Human-Intention Priors from Large-Scale Human Demonstrations](https://arxiv.org/abs/2604.24681) | — | 2026 | [Paper](https://arxiv.org/abs/2604.24681) | Hierarchical VLA learning human-intention priors from 2.2M human video episodes |
 | [Anticipation-VLA: Solving Long-Horizon Embodied Tasks via Anticipation-based Subgoal Generation](https://arxiv.org/abs/2605.01772) | — | 2026 | [Paper](https://arxiv.org/abs/2605.01772) | Anticipation-based subgoal decomposition enables robust long-horizon VLA execution |
 | [Sentinel-VLA: A Metacognitive VLA Model with Active Status Monitoring](https://arxiv.org/abs/2605.01191) | — | 2026 | [Paper](https://arxiv.org/abs/2605.01191) | Metacognitive VLA monitors internal state for dynamic reasoning and error recovery |
@@ -265,6 +268,7 @@
 | [CoRAL: Contact-Rich Adaptive LLM-based Control for Robotic Manipulation](https://arxiv.org/abs/2605.02600) | RSS | 2026 | [Paper](https://arxiv.org/abs/2605.02600) | LLM as cost designer + neuro-symbolic adaptation for contact-rich manipulation |
 | [OGPO: Sample Efficient Full-Finetuning of Generative Control Policies](https://arxiv.org/abs/2605.03065) | — | 2026 | [Paper](https://arxiv.org/abs/2605.03065) | Sample-efficient full-finetuning method for generative control policies via offline GP |
 | [Tube Diffusion Policy: Reactive Visual-Tactile Policy Learning for Contact-Rich Manipulation](https://arxiv.org/abs/2604.23609) | — | 2026 | [Paper](https://arxiv.org/abs/2604.23609) \| [Project](https://schortenger.github.io/tube-diffusion-policy/) | Bridges diffusion IL with tube MPC for reactive visual-tactile dexterous manipulation |
+| [HDFlow: Hierarchical Diffusion-Flow Planning for Long-horizon Tasks](https://arxiv.org/abs/2605.04525) | ICML (Spotlight) | 2026 | [Paper](https://arxiv.org/abs/2605.04525) | Hierarchical diffusion-flow planner decomposes long-horizon tasks into fast sub-goals |
 
 ---
 
@@ -346,6 +350,7 @@
 | [STARRY: Spatial-Temporal Action-Centric World Modeling for Robotic Manipulation](https://arxiv.org/abs/2604.26848) | — | 2026 | [Paper](https://arxiv.org/abs/2604.26848) | Action-centric spatial-temporal world model for robust manipulation prediction |
 | [OA-WAM: Object-Addressable World Action Model for Robust Robot Manipulation](https://arxiv.org/abs/2605.06481) | — | 2026 | [Paper](https://arxiv.org/abs/2605.06481) | Slot-based object-addressable states separate identity from context for robust WAM |
 | [When to Trust Imagination: Adaptive Action Execution for World Action Models](https://arxiv.org/abs/2605.06222) | — | 2026 | [Paper](https://arxiv.org/abs/2605.06222) | FFDC verifier adapts action chunk size; 69% fewer WAM passes, +35% real-world success |
+| [RoboAlign-R1: Distilled Multimodal Reward Alignment for Robot Video World Models](https://arxiv.org/abs/2605.03821) | — | 2026 | [Paper](https://arxiv.org/abs/2605.03821) | R1-style distillation aligns video world models with instruction-following and manipulation success |
 
 ---
 
