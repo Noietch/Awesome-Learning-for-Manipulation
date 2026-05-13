@@ -154,6 +154,9 @@
 | [Latent Bridge: Efficient Dual-System VLA Inference via Feature Delta Prediction](https://arxiv.org/abs/2605.02739) | — | 2026 | [Paper](https://arxiv.org/abs/2605.02739) | Predicts VLM output deltas to reduce calls by 50-75% with minimal performance loss |
 | [ConsisVLA-4D: Spatiotemporal Consistency in Efficient 3D-Perception and 4D-Reasoning](https://arxiv.org/abs/2605.05126) | CVPR | 2026 | [Paper](https://arxiv.org/abs/2605.05126) \| [Code](https://github.com/iLearn-Lab/CVPR26-ConsisVLA-4D) | SOTA LIBERO with 1/8 tokens via CV-Aligner and 4D spatiotemporal reasoning |
 | [Thinking in Text and Images: Interleaved VL Reasoning for Long-Horizon Manipulation](https://arxiv.org/abs/2605.00438) | — | 2026 | [Paper](https://arxiv.org/abs/2605.00438) | Interleaved text+visual traces boost long-horizon manipulation from 37.7% to 92.4% |
+| [Escaping the Diversity Trap in Robotic Manipulation via Anchor-Centric Adaptation](https://arxiv.org/abs/2605.07381) | ICML | 2026 | [Paper](https://arxiv.org/abs/2605.07381) | Anchor-centric demos overcome coverage–density trade-off in low-budget VLA adaptation |
+| [VEGA: Visual Encoder Grounding Alignment for Spatially-Aware VLA Models](https://arxiv.org/abs/2605.10485) | — | 2026 | [Paper](https://arxiv.org/abs/2605.10485) | Aligns VLA visual encoder with 3D-aware features for spatial reasoning in manipulation |
+| [PriorVLA: Prior-Preserving Adaptation for Vision-Language-Action Models](https://arxiv.org/abs/2605.10925) | — | 2026 | [Paper](https://arxiv.org/abs/2605.10925) \| [Project](https://priorvla.github.io/) | Frozen Prior Expert + adaptive router preserves VLA priors during downstream task adaptation |
 
 ---
 
@@ -269,6 +272,8 @@
 | [OGPO: Sample Efficient Full-Finetuning of Generative Control Policies](https://arxiv.org/abs/2605.03065) | — | 2026 | [Paper](https://arxiv.org/abs/2605.03065) | Sample-efficient full-finetuning method for generative control policies via offline GP |
 | [Tube Diffusion Policy: Reactive Visual-Tactile Policy Learning for Contact-Rich Manipulation](https://arxiv.org/abs/2604.23609) | — | 2026 | [Paper](https://arxiv.org/abs/2604.23609) \| [Project](https://schortenger.github.io/tube-diffusion-policy/) | Bridges diffusion IL with tube MPC for reactive visual-tactile dexterous manipulation |
 | [HDFlow: Hierarchical Diffusion-Flow Planning for Long-horizon Tasks](https://arxiv.org/abs/2605.04525) | ICML (Spotlight) | 2026 | [Paper](https://arxiv.org/abs/2605.04525) | Hierarchical diffusion-flow planner decomposes long-horizon tasks into fast sub-goals |
+| [Trajectory-Consistent Flow Matching for Robust Visuomotor Policy Learning](https://arxiv.org/abs/2605.08511) | — | 2026 | [Paper](https://arxiv.org/abs/2605.08511) | Trajectory-level consistency loss closes train-inference gap in flow matching policies |
+| [StereoPolicy: Improving Robotic Manipulation Policies via Stereo Perception](https://arxiv.org/abs/2605.09989) | — | 2026 | [Paper](https://arxiv.org/abs/2605.09989) | Stereo image pairs provide scalable 3D geometric grounding for visuomotor policies |
 
 ---
 
