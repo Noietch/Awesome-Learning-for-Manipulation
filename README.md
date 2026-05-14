@@ -157,6 +157,7 @@
 | [Escaping the Diversity Trap in Robotic Manipulation via Anchor-Centric Adaptation](https://arxiv.org/abs/2605.07381) | ICML | 2026 | [Paper](https://arxiv.org/abs/2605.07381) | Anchor-centric demos overcome coverage–density trade-off in low-budget VLA adaptation |
 | [VEGA: Visual Encoder Grounding Alignment for Spatially-Aware VLA Models](https://arxiv.org/abs/2605.10485) | — | 2026 | [Paper](https://arxiv.org/abs/2605.10485) | Aligns VLA visual encoder with 3D-aware features for spatial reasoning in manipulation |
 | [PriorVLA: Prior-Preserving Adaptation for Vision-Language-Action Models](https://arxiv.org/abs/2605.10925) | — | 2026 | [Paper](https://arxiv.org/abs/2605.10925) \| [Project](https://priorvla.github.io/) | Frozen Prior Expert + adaptive router preserves VLA priors during downstream task adaptation |
+| [TriRelVLA: Triadic Relational Structure for Generalizable Embodied Manipulation](https://arxiv.org/abs/2605.05714) | — | 2026 | [Paper](https://arxiv.org/abs/2605.05714) | Object-hand-task triadic relational graph enables cross-scene and cross-object VLA generalization |
 
 ---
 
@@ -393,6 +394,7 @@
 | [AgiBot World Alpha](https://arxiv.org/abs/2503.06669) | — | 2025 | [Paper](https://arxiv.org/abs/2503.06669) \| [Project](https://agibot-world.com/) | 1M+ demonstrations from 100 robots, 217 tasks |
 | [Open-H-Embodiment: Large-Scale Dataset for Foundation Models in Medical Robotics](https://arxiv.org/abs/2604.21017) | — | 2026 | [Paper](https://arxiv.org/abs/2604.21017) | Multi-institution consortium dataset enabling foundation models for medical robotics |
 | [EgoMimic: Scaling Imitation Learning via Egocentric Video](https://arxiv.org/abs/2410.24221) | CoRL | 2024 | [Paper](https://arxiv.org/abs/2410.24221) | Egocentric human video for robot imitation learning |
+| [SABER: A Scalable Action-Based Embodied Dataset for Real-World VLA Adaptation](https://arxiv.org/abs/2605.09613) | — | 2026 | [Paper](https://arxiv.org/abs/2605.09613) \| [Project](https://dreamvu.ai/saber) | 100+ hours retail in-store capture; 44.8K samples for VLA adaptation without teleoperation |
 | [DROID: A Large-Scale In-the-Wild Robot Manipulation Dataset](https://arxiv.org/abs/2403.12945) | RSS | 2024 | [Paper](https://arxiv.org/abs/2403.12945) \| [Project](https://droid-dataset.github.io/) | 76k demonstrations across 86 environments |
 | [Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://arxiv.org/abs/2310.08864) | ICRA Best Paper | 2024 | [Paper](https://arxiv.org/abs/2310.08864) \| [Project](https://robotics-transformer-x.github.io/) | 1M+ real-robot demos from 22 robots and 21 institutions |
 | [BridgeData V2: A Dataset for Robot Learning at Scale](https://arxiv.org/abs/2308.12952) | CoRL | 2023 | [Paper](https://arxiv.org/abs/2308.12952) \| [Project](https://rail-berkeley.github.io/bridgedata/) | 60k+ kitchen manipulation demonstrations |
@@ -449,6 +451,7 @@
 |-------|-------|------|-------|-------|
 | [Diffusion Models for Robots: A Survey](https://arxiv.org/abs/2504.11002) | — | 2025 | [Paper](https://arxiv.org/abs/2504.11002) | Comprehensive survey of diffusion models in robotics |
 | [World Model for Robot Learning: A Comprehensive Survey](https://arxiv.org/abs/2605.00080) | — | 2026 | [Paper](https://arxiv.org/abs/2605.00080) | Comprehensive survey of world models for robot learning, covering paradigms and applications |
+| [World Action Models: The Next Frontier in Embodied AI](https://arxiv.org/abs/2605.12090) | — | 2026 | [Paper](https://arxiv.org/abs/2605.12090) | Survey and position paper unifying world models with action generation in embodied AI |
 | [Robot Learning from Human Videos: A Survey](https://arxiv.org/abs/2604.27621) | — | 2026 | [Paper](https://arxiv.org/abs/2604.27621) \| [Code](https://github.com/IRMVLab/awesome-robot-learning-from-human-videos) | Comprehensive survey of robot learning from human video demonstrations |
 | [Vision-Language-Action in Robotics: A Survey of Datasets, Benchmarks, and Data Engines](https://arxiv.org/abs/2604.23001) | TMLR | 2026 | [Paper](https://arxiv.org/abs/2604.23001) | Data-centric analysis of VLA datasets, benchmarks, and data engines |
 | [From Text to Motion: A Survey on Foundation Models for Robot Manipulation](https://arxiv.org/abs/2501.04838) | — | 2025 | [Paper](https://arxiv.org/abs/2501.04838) | Survey of foundation models for robot manipulation |
