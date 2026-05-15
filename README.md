@@ -158,6 +158,10 @@
 | [VEGA: Visual Encoder Grounding Alignment for Spatially-Aware VLA Models](https://arxiv.org/abs/2605.10485) | — | 2026 | [Paper](https://arxiv.org/abs/2605.10485) | Aligns VLA visual encoder with 3D-aware features for spatial reasoning in manipulation |
 | [PriorVLA: Prior-Preserving Adaptation for Vision-Language-Action Models](https://arxiv.org/abs/2605.10925) | — | 2026 | [Paper](https://arxiv.org/abs/2605.10925) \| [Project](https://priorvla.github.io/) | Frozen Prior Expert + adaptive router preserves VLA priors during downstream task adaptation |
 | [TriRelVLA: Triadic Relational Structure for Generalizable Embodied Manipulation](https://arxiv.org/abs/2605.05714) | — | 2026 | [Paper](https://arxiv.org/abs/2605.05714) | Object-hand-task triadic relational graph enables cross-scene and cross-object VLA generalization |
+| [AT-VLA: Adaptive Tactile Injection for Enhanced Feedback Reaction in Vision-Language-Action Models](https://arxiv.org/abs/2605.07308) | — | 2026 | [Paper](https://arxiv.org/abs/2605.07308) | Adaptively injects tactile signals into frozen VLA to enable contact-rich manipulation |
+| [Reinforcing VLAs in Task-Agnostic World Models](https://arxiv.org/abs/2605.12334) | — | 2026 | [Paper](https://arxiv.org/abs/2605.12334) | Task-agnostic world model enables RL post-training of VLAs without task-specific data |
+| [Towards Long-horizon Embodied Agents with Tool-Aligned Vision-Language-Action Models](https://arxiv.org/abs/2605.13119) | — | 2026 | [Paper](https://arxiv.org/abs/2605.13119) | VLAs-as-Tools distributes planning to VLM and execution to specialized VLA agents |
+| [Realtime-VLA FLASH: Speculative Inference Framework for Diffusion-based VLAs](https://arxiv.org/abs/2605.13778) | — | 2026 | [Paper](https://arxiv.org/abs/2605.13778) | Lightweight draft model with parallel verification eliminates most full dVLA inference calls |
 
 ---
 
@@ -386,6 +390,7 @@
 | [RoboWM-Bench: Manipulation-Centric Benchmark for World Models in Robotics](https://arxiv.org/abs/2604.19092) | arXiv | 2026 | [Paper](https://arxiv.org/abs/2604.19092) \| [Project Page](https://robowm-bench.github.io/RoboWM-Bench/) | Manipulation-centric benchmark for evaluating world models in robotics |
 | [KinDER: A Physical Reasoning Benchmark for Robot Learning and Planning](https://arxiv.org/abs/2604.25788) | — | 2026 | [Paper](https://arxiv.org/abs/2604.25788) \| [Project](https://prpl-group.com/kinder-site/.) | Physical reasoning benchmark for robot learning with diverse manipulation tasks |
 | [VISER: Visually Realistic Benchmark for Evaluating Robot Manipulation in Simulation](https://arxiv.org/abs/2605.06311) | — | 2026 | [Paper](https://arxiv.org/abs/2605.06311) | 1000+ PBR assets; sim-to-real Pearson correlation 0.92 across VLA policies |
+| [SafeManip: A Property-Driven Benchmark for Temporal Safety Evaluation in Robotic Manipulation](https://arxiv.org/abs/2605.12386) | — | 2026 | [Paper](https://arxiv.org/abs/2605.12386) | Property-driven benchmark evaluating temporal safety violations beyond task success |
 
 ### Robot Datasets
 
