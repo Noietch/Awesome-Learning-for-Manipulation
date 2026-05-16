@@ -98,6 +98,7 @@
 | [Balancing Signal and Variance: Adaptive Offline RL Post-Training for VLA Flow Models](https://arxiv.org/abs/2509.04063) | — | 2025 | [Paper](https://arxiv.org/abs/2509.04063) | Adaptive offline RL balances reward signal and variance in flow VLAs |
 | [CO-RFT: Efficient Fine-Tuning of Vision-Language-Action Models through Chunked Offline Reinforcement Learning](https://arxiv.org/abs/2508.02219) | — | 2025 | [Paper](https://arxiv.org/abs/2508.02219) | Chunked offline RL for efficient VLA fine-tuning |
 | [What Can RL Bring to VLA Generalization? An Empirical Study](https://arxiv.org/abs/2505.19789) | NeurIPS | 2025 | [Paper](https://arxiv.org/abs/2505.19789) | Empirical analysis of RL's role in improving VLA generalization |
+| [What to Ignore, What to React: Visually Robust RL Fine-Tuning of VLA Models](https://arxiv.org/abs/2605.13105) | — | 2026 | [Paper](https://arxiv.org/abs/2605.13105) | Decouples visual robustness from task rewards for deployment-robust RL fine-tuning of VLAs |
 | [ReinboT: Amplifying Robot Visual-Language Manipulation with Reinforcement Learning](https://arxiv.org/abs/2505.07395) | ICML | 2025 | [Paper](https://arxiv.org/abs/2505.07395) | RL amplifies VL manipulation performance via reward-guided exploration |
 | [MoRE: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models](https://arxiv.org/abs/2503.08007) | ICRA | 2025 | [Paper](https://arxiv.org/abs/2503.08007) | Scalable RL framework for quadruped VLA locomotion and manipulation |
 | [SafeVLA: Towards Safety Alignment of Vision-Language-Action Model via Constrained Learning](https://arxiv.org/abs/2503.03480) | NeurIPS | 2025 | [Paper](https://arxiv.org/abs/2503.03480) | Constrained RL aligns VLA models with safety objectives |
@@ -162,6 +163,8 @@
 | [Reinforcing VLAs in Task-Agnostic World Models](https://arxiv.org/abs/2605.12334) | — | 2026 | [Paper](https://arxiv.org/abs/2605.12334) | Task-agnostic world model enables RL post-training of VLAs without task-specific data |
 | [Towards Long-horizon Embodied Agents with Tool-Aligned Vision-Language-Action Models](https://arxiv.org/abs/2605.13119) | — | 2026 | [Paper](https://arxiv.org/abs/2605.13119) | VLAs-as-Tools distributes planning to VLM and execution to specialized VLA agents |
 | [Realtime-VLA FLASH: Speculative Inference Framework for Diffusion-based VLAs](https://arxiv.org/abs/2605.13778) | — | 2026 | [Paper](https://arxiv.org/abs/2605.13778) | Lightweight draft model with parallel verification eliminates most full dVLA inference calls |
+| [IntentVLA: Short-Horizon Intent Modeling for Aliased Robot Manipulation](https://arxiv.org/abs/2605.14712) | — | 2026 | [Paper](https://arxiv.org/abs/2605.14712) \| [Code](https://github.com/ZGC-EmbodyAI/IntentVLA) | Models short-horizon intent to resolve action ambiguity in multimodal manipulation data |
+| [Hand-in-the-Loop: Improving Dexterous VLA via Seamless Interventional Correction](https://arxiv.org/abs/2605.15157) | — | 2026 | [Paper](https://arxiv.org/abs/2605.15157) | Blends human corrective intent with policy execution to eliminate dexterous VLA gesture jumps |
 
 ---
 
@@ -279,6 +282,8 @@
 | [HDFlow: Hierarchical Diffusion-Flow Planning for Long-horizon Tasks](https://arxiv.org/abs/2605.04525) | ICML (Spotlight) | 2026 | [Paper](https://arxiv.org/abs/2605.04525) | Hierarchical diffusion-flow planner decomposes long-horizon tasks into fast sub-goals |
 | [Trajectory-Consistent Flow Matching for Robust Visuomotor Policy Learning](https://arxiv.org/abs/2605.08511) | — | 2026 | [Paper](https://arxiv.org/abs/2605.08511) | Trajectory-level consistency loss closes train-inference gap in flow matching policies |
 | [StereoPolicy: Improving Robotic Manipulation Policies via Stereo Perception](https://arxiv.org/abs/2605.09989) | — | 2026 | [Paper](https://arxiv.org/abs/2605.09989) | Stereo image pairs provide scalable 3D geometric grounding for visuomotor policies |
+| [WarmPrior: Straightening Flow-Matching Policies with Temporal Priors](https://arxiv.org/abs/2605.13959) | — | 2026 | [Paper](https://arxiv.org/abs/2605.13959) | Temporal action-history prior replaces Gaussian noise to straighten flow-matching trajectories |
+| [X-Imitator: Spatial-Aware Imitation Learning via Bidirectional Action-Pose Interaction](https://arxiv.org/abs/2605.12162) | — | 2026 | [Paper](https://arxiv.org/abs/2605.12162) | Dual-path bidirectional coupling of spatial perception and action improves manipulation mastery |
 
 ---
 
