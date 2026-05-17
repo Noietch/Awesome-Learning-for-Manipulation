@@ -165,6 +165,10 @@
 | [Realtime-VLA FLASH: Speculative Inference Framework for Diffusion-based VLAs](https://arxiv.org/abs/2605.13778) | — | 2026 | [Paper](https://arxiv.org/abs/2605.13778) | Lightweight draft model with parallel verification eliminates most full dVLA inference calls |
 | [IntentVLA: Short-Horizon Intent Modeling for Aliased Robot Manipulation](https://arxiv.org/abs/2605.14712) | — | 2026 | [Paper](https://arxiv.org/abs/2605.14712) \| [Code](https://github.com/ZGC-EmbodyAI/IntentVLA) | Models short-horizon intent to resolve action ambiguity in multimodal manipulation data |
 | [Hand-in-the-Loop: Improving Dexterous VLA via Seamless Interventional Correction](https://arxiv.org/abs/2605.15157) | — | 2026 | [Paper](https://arxiv.org/abs/2605.15157) | Blends human corrective intent with policy execution to eliminate dexterous VLA gesture jumps |
+| [ALAM: Algebraically Consistent Latent Action Model for Vision-Language-Action Models](https://arxiv.org/abs/2605.10819) | — | 2026 | [Paper](https://arxiv.org/abs/2605.10819) | Algebraic consistency constraint structures latent actions for coherent VLA pre-training from videos |
+| [One Token Per Frame: Reconsidering Visual Bandwidth in World Models for VLA Policy](https://arxiv.org/abs/2605.07931) | — | 2026 | [Paper](https://arxiv.org/abs/2605.07931) | Single visual token per frame in world module achieves 95.6% LIBERO-Long with less compute |
+| [Guide, Think, Act: Interactive Embodied Reasoning in Vision-Language-Action Models](https://arxiv.org/abs/2605.13632) | — | 2026 | [Paper](https://arxiv.org/abs/2605.13632) \| [Project](https://signalispupupu.github.io/GTA-VLA_ProjPage/) | Visual cue guidance enables spatially steerable embodied reasoning for OOD-robust VLA |
+| [BlockVLA: Accelerating Autoregressive VLA via Block Diffusion Finetuning](https://arxiv.org/abs/2605.13382) | — | 2026 | [Paper](https://arxiv.org/abs/2605.13382) | Block-parallel diffusion finetuning cuts AR-VLA inference latency without sacrificing performance |
 
 ---
 
@@ -284,6 +288,7 @@
 | [StereoPolicy: Improving Robotic Manipulation Policies via Stereo Perception](https://arxiv.org/abs/2605.09989) | — | 2026 | [Paper](https://arxiv.org/abs/2605.09989) | Stereo image pairs provide scalable 3D geometric grounding for visuomotor policies |
 | [WarmPrior: Straightening Flow-Matching Policies with Temporal Priors](https://arxiv.org/abs/2605.13959) | — | 2026 | [Paper](https://arxiv.org/abs/2605.13959) | Temporal action-history prior replaces Gaussian noise to straighten flow-matching trajectories |
 | [X-Imitator: Spatial-Aware Imitation Learning via Bidirectional Action-Pose Interaction](https://arxiv.org/abs/2605.12162) | — | 2026 | [Paper](https://arxiv.org/abs/2605.12162) | Dual-path bidirectional coupling of spatial perception and action improves manipulation mastery |
+| [ProcVLM: Learning Procedure-Grounded Progress Rewards for Robotic Manipulation](https://arxiv.org/abs/2605.08774) | — | 2026 | [Paper](https://arxiv.org/abs/2605.08774) | Procedure-grounded VLM provides dense stage-aware progress rewards for long-horizon tasks |
 
 ---
 
