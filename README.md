@@ -169,6 +169,9 @@
 | [One Token Per Frame: Reconsidering Visual Bandwidth in World Models for VLA Policy](https://arxiv.org/abs/2605.07931) | — | 2026 | [Paper](https://arxiv.org/abs/2605.07931) | Single visual token per frame in world module achieves 95.6% LIBERO-Long with less compute |
 | [Guide, Think, Act: Interactive Embodied Reasoning in Vision-Language-Action Models](https://arxiv.org/abs/2605.13632) | — | 2026 | [Paper](https://arxiv.org/abs/2605.13632) \| [Project](https://signalispupupu.github.io/GTA-VLA_ProjPage/) | Visual cue guidance enables spatially steerable embodied reasoning for OOD-robust VLA |
 | [BlockVLA: Accelerating Autoregressive VLA via Block Diffusion Finetuning](https://arxiv.org/abs/2605.13382) | — | 2026 | [Paper](https://arxiv.org/abs/2605.13382) | Block-parallel diffusion finetuning cuts AR-VLA inference latency without sacrificing performance |
+| [RotVLA: Rotational Latent Action for Vision-Language-Action Model](https://arxiv.org/abs/2605.13403) | — | 2026 | [Paper](https://arxiv.org/abs/2605.13403) | Continuous SO(n) latent actions replace discrete quantization for structured cross-embodiment VLA pretraining |
+| [FrameSkip: Learning from Fewer but More Informative Frames in VLA Training](https://arxiv.org/abs/2605.13757) | — | 2026 | [Paper](https://arxiv.org/abs/2605.13757) \| [Code](https://github.com/ZGC-EmbodyAI/FrameSkip) | Scores trajectory frames by action variation; skipping redundant frames cuts compute without loss |
+| [AttenA+: Rectifying Action Inequality in Robotic Foundation Models](https://arxiv.org/abs/2605.13548) | — | 2026 | [Paper](https://arxiv.org/abs/2605.13548) | Reweights low-velocity precision-critical steps over uniform temporal training for manipulation |
 
 ---
 
@@ -289,6 +292,7 @@
 | [WarmPrior: Straightening Flow-Matching Policies with Temporal Priors](https://arxiv.org/abs/2605.13959) | — | 2026 | [Paper](https://arxiv.org/abs/2605.13959) | Temporal action-history prior replaces Gaussian noise to straighten flow-matching trajectories |
 | [X-Imitator: Spatial-Aware Imitation Learning via Bidirectional Action-Pose Interaction](https://arxiv.org/abs/2605.12162) | — | 2026 | [Paper](https://arxiv.org/abs/2605.12162) | Dual-path bidirectional coupling of spatial perception and action improves manipulation mastery |
 | [ProcVLM: Learning Procedure-Grounded Progress Rewards for Robotic Manipulation](https://arxiv.org/abs/2605.08774) | — | 2026 | [Paper](https://arxiv.org/abs/2605.08774) | Procedure-grounded VLM provides dense stage-aware progress rewards for long-horizon tasks |
+| [DSSP: Diffusion State Space Policy with Full-History Encoding](https://arxiv.org/abs/2605.14598) | — | 2026 | [Paper](https://arxiv.org/abs/2605.14598) | SSM-based history encoder enables full-trajectory conditioning for long-horizon diffusion policy |
 
 ---
 
@@ -312,6 +316,7 @@
 | [HiVLA: Hierarchical VLA for Long-Horizon Manipulation Tasks](https://arxiv.org/abs/2604.14125) | arXiv | 2026 | [Paper](https://arxiv.org/abs/2604.14125) \| [Project Page](https://tianshuoy.github.io/HiVLA-page/) | Hierarchical VLA combining high-level planning and low-level control |
 | [AnchorVLA: Anchored Diffusion for Efficient Mobile Manipulation](https://arxiv.org/abs/2604.01567) | arXiv | 2026 | [Paper](https://arxiv.org/abs/2604.01567) \| [Code](https://github.com/jason-lim26/AnchorVLA) | Anchored diffusion VLA for mobile manipulation with residual drift correction |
 | [RLDX-1: General-Purpose Robotic Policy for Dexterous Manipulation](https://arxiv.org/abs/2605.03269) | — | 2026 | [Paper](https://arxiv.org/abs/2605.03269) \| [Project](https://rlwrld.ai/rldx-1) | Multi-stream action transformer VLA outperforms frontier models on dexterous tasks |
+| [PhysBrain 1.0 Technical Report](https://arxiv.org/abs/2605.15298) | Tech Report | 2026 | [Paper](https://arxiv.org/abs/2605.15298) | Egocentric video → structured physical-commonsense supervision enhances VLA physical understanding |
 
 ---
 
