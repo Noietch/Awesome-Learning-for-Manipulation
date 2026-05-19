@@ -172,6 +172,8 @@
 | [RotVLA: Rotational Latent Action for Vision-Language-Action Model](https://arxiv.org/abs/2605.13403) | — | 2026 | [Paper](https://arxiv.org/abs/2605.13403) | Continuous SO(n) latent actions replace discrete quantization for structured cross-embodiment VLA pretraining |
 | [FrameSkip: Learning from Fewer but More Informative Frames in VLA Training](https://arxiv.org/abs/2605.13757) | — | 2026 | [Paper](https://arxiv.org/abs/2605.13757) \| [Code](https://github.com/ZGC-EmbodyAI/FrameSkip) | Scores trajectory frames by action variation; skipping redundant frames cuts compute without loss |
 | [AttenA+: Rectifying Action Inequality in Robotic Foundation Models](https://arxiv.org/abs/2605.13548) | — | 2026 | [Paper](https://arxiv.org/abs/2605.13548) | Reweights low-velocity precision-critical steps over uniform temporal training for manipulation |
+| [AffordVLA: Injecting Affordance Representations into Vision-Language-Action Models via Implicit Feature Alignment](https://arxiv.org/abs/2605.17517) | — | 2026 | [Paper](https://arxiv.org/abs/2605.17517) | Implicit affordance feature alignment focuses VLA attention on manipulation-relevant regions |
+| [Offline Semantic Guidance for Efficient Vision-Language-Action Policy Distillation](https://arxiv.org/abs/2605.16241) | — | 2026 | [Paper](https://arxiv.org/abs/2605.16241) | VLA-AD distills billion-param VLA to compact model using offline semantic guidance |
 
 ---
 
@@ -293,6 +295,7 @@
 | [X-Imitator: Spatial-Aware Imitation Learning via Bidirectional Action-Pose Interaction](https://arxiv.org/abs/2605.12162) | — | 2026 | [Paper](https://arxiv.org/abs/2605.12162) | Dual-path bidirectional coupling of spatial perception and action improves manipulation mastery |
 | [ProcVLM: Learning Procedure-Grounded Progress Rewards for Robotic Manipulation](https://arxiv.org/abs/2605.08774) | — | 2026 | [Paper](https://arxiv.org/abs/2605.08774) | Procedure-grounded VLM provides dense stage-aware progress rewards for long-horizon tasks |
 | [DSSP: Diffusion State Space Policy with Full-History Encoding](https://arxiv.org/abs/2605.14598) | — | 2026 | [Paper](https://arxiv.org/abs/2605.14598) | SSM-based history encoder enables full-trajectory conditioning for long-horizon diffusion policy |
+| [FLASH: Efficient Visuomotor Policy via Sparse Sampling](https://arxiv.org/abs/2605.15492) | — | 2026 | [Paper](https://arxiv.org/abs/2605.15492) | Legendre polynomial actions with sparse sampling cut diffusion inference latency for real-time control |
 
 ---
 
@@ -376,6 +379,7 @@
 | [OA-WAM: Object-Addressable World Action Model for Robust Robot Manipulation](https://arxiv.org/abs/2605.06481) | — | 2026 | [Paper](https://arxiv.org/abs/2605.06481) | Slot-based object-addressable states separate identity from context for robust WAM |
 | [When to Trust Imagination: Adaptive Action Execution for World Action Models](https://arxiv.org/abs/2605.06222) | — | 2026 | [Paper](https://arxiv.org/abs/2605.06222) | FFDC verifier adapts action chunk size; 69% fewer WAM passes, +35% real-world success |
 | [RoboAlign-R1: Distilled Multimodal Reward Alignment for Robot Video World Models](https://arxiv.org/abs/2605.03821) | — | 2026 | [Paper](https://arxiv.org/abs/2605.03821) | R1-style distillation aligns video world models with instruction-following and manipulation success |
+| [Feedback World Model Enables Precise Guidance of Diffusion Policy](https://arxiv.org/abs/2605.15705) | — | 2026 | [Paper](https://arxiv.org/abs/2605.15705) | Closed-loop feedback world model corrects OOD prediction drift to guide diffusion policy precisely |
 
 ---
 
@@ -406,6 +410,7 @@
 | [KinDER: A Physical Reasoning Benchmark for Robot Learning and Planning](https://arxiv.org/abs/2604.25788) | — | 2026 | [Paper](https://arxiv.org/abs/2604.25788) \| [Project](https://prpl-group.com/kinder-site/.) | Physical reasoning benchmark for robot learning with diverse manipulation tasks |
 | [VISER: Visually Realistic Benchmark for Evaluating Robot Manipulation in Simulation](https://arxiv.org/abs/2605.06311) | — | 2026 | [Paper](https://arxiv.org/abs/2605.06311) | 1000+ PBR assets; sim-to-real Pearson correlation 0.92 across VLA policies |
 | [SafeManip: A Property-Driven Benchmark for Temporal Safety Evaluation in Robotic Manipulation](https://arxiv.org/abs/2605.12386) | — | 2026 | [Paper](https://arxiv.org/abs/2605.12386) | Property-driven benchmark evaluating temporal safety violations beyond task success |
+| [DexJoCo: A Benchmark and Toolkit for Task-Oriented Dexterous Manipulation on MuJoCo](https://arxiv.org/abs/2605.16257) | — | 2026 | [Paper](https://arxiv.org/abs/2605.16257) \| [Project](https://dexjoco.github.io) | Task-oriented dexterous manipulation benchmark covering hand-unique capabilities with full evaluation pipeline |
 
 ### Robot Datasets
 
