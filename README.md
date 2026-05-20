@@ -174,6 +174,9 @@
 | [AttenA+: Rectifying Action Inequality in Robotic Foundation Models](https://arxiv.org/abs/2605.13548) | — | 2026 | [Paper](https://arxiv.org/abs/2605.13548) | Reweights low-velocity precision-critical steps over uniform temporal training for manipulation |
 | [AffordVLA: Injecting Affordance Representations into Vision-Language-Action Models via Implicit Feature Alignment](https://arxiv.org/abs/2605.17517) | — | 2026 | [Paper](https://arxiv.org/abs/2605.17517) | Implicit affordance feature alignment focuses VLA attention on manipulation-relevant regions |
 | [Offline Semantic Guidance for Efficient Vision-Language-Action Policy Distillation](https://arxiv.org/abs/2605.16241) | — | 2026 | [Paper](https://arxiv.org/abs/2605.16241) | VLA-AD distills billion-param VLA to compact model using offline semantic guidance |
+| [DyGRO-VLA: Cross-Task Scaling of Vision-Language-Action Models via Dynamic Grouped Residual Optimization](https://arxiv.org/abs/2605.17486) | — | 2026 | [Paper](https://arxiv.org/abs/2605.17486) | Dynamic grouped residual RL prevents task overfitting and maintains VLA cross-task generalization |
+| [COAST: Contrastive Conceptor Activation Steering for Vision-Language-Action Models](https://arxiv.org/abs/2605.17144) | — | 2026 | [Paper](https://arxiv.org/abs/2605.17144) | Linear conceptor operators steer VLA hidden states to recover robust manipulation behaviors |
+| [How to Instruct Your Robot: Dense Language Annotations Power Robot Policy Learning](https://arxiv.org/abs/2605.17077) | — | 2026 | [Paper](https://arxiv.org/abs/2605.17077) | Dense multi-aspect re-labeling of existing demos unlocks stronger VLA policy generalization |
 
 ---
 
@@ -296,6 +299,8 @@
 | [ProcVLM: Learning Procedure-Grounded Progress Rewards for Robotic Manipulation](https://arxiv.org/abs/2605.08774) | — | 2026 | [Paper](https://arxiv.org/abs/2605.08774) | Procedure-grounded VLM provides dense stage-aware progress rewards for long-horizon tasks |
 | [DSSP: Diffusion State Space Policy with Full-History Encoding](https://arxiv.org/abs/2605.14598) | — | 2026 | [Paper](https://arxiv.org/abs/2605.14598) | SSM-based history encoder enables full-trajectory conditioning for long-horizon diffusion policy |
 | [FLASH: Efficient Visuomotor Policy via Sparse Sampling](https://arxiv.org/abs/2605.15492) | — | 2026 | [Paper](https://arxiv.org/abs/2605.15492) | Legendre polynomial actions with sparse sampling cut diffusion inference latency for real-time control |
+| [RoboFlow4D: A Lightweight Flow World Model for Real-Time Flow-Guided Robotic Manipulation](https://arxiv.org/abs/2605.17522) | — | 2026 | [Paper](https://arxiv.org/abs/2605.17522) | Unified lightweight flow world model replaces modular pipelines for real-time 3D manipulation |
+| [From a Single Demonstration to a General Policy for Contact-Rich Manipulation](https://arxiv.org/abs/2605.17601) | — | 2026 | [Paper](https://arxiv.org/abs/2605.17601) | Environmental constraints as inductive bias enable one-shot generalization in contact-rich tasks |
 
 ---
 
