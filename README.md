@@ -177,6 +177,7 @@
 | [DyGRO-VLA: Cross-Task Scaling of Vision-Language-Action Models via Dynamic Grouped Residual Optimization](https://arxiv.org/abs/2605.17486) | — | 2026 | [Paper](https://arxiv.org/abs/2605.17486) | Dynamic grouped residual RL prevents task overfitting and maintains VLA cross-task generalization |
 | [COAST: Contrastive Conceptor Activation Steering for Vision-Language-Action Models](https://arxiv.org/abs/2605.17144) | — | 2026 | [Paper](https://arxiv.org/abs/2605.17144) | Linear conceptor operators steer VLA hidden states to recover robust manipulation behaviors |
 | [How to Instruct Your Robot: Dense Language Annotations Power Robot Policy Learning](https://arxiv.org/abs/2605.17077) | — | 2026 | [Paper](https://arxiv.org/abs/2605.17077) | Dense multi-aspect re-labeling of existing demos unlocks stronger VLA policy generalization |
+| [GuidedVLA: Specifying Task-Relevant Factors via Plug-and-Play Action Attention Specialization](https://arxiv.org/abs/2605.12369) | — | 2026 | [Paper](https://arxiv.org/abs/2605.12369) | Plug-and-play action attention module explicitly guides VLA to task-relevant visual factors |
 
 ---
 
@@ -301,6 +302,8 @@
 | [FLASH: Efficient Visuomotor Policy via Sparse Sampling](https://arxiv.org/abs/2605.15492) | — | 2026 | [Paper](https://arxiv.org/abs/2605.15492) | Legendre polynomial actions with sparse sampling cut diffusion inference latency for real-time control |
 | [RoboFlow4D: A Lightweight Flow World Model for Real-Time Flow-Guided Robotic Manipulation](https://arxiv.org/abs/2605.17522) | — | 2026 | [Paper](https://arxiv.org/abs/2605.17522) | Unified lightweight flow world model replaces modular pipelines for real-time 3D manipulation |
 | [From a Single Demonstration to a General Policy for Contact-Rich Manipulation](https://arxiv.org/abs/2605.17601) | — | 2026 | [Paper](https://arxiv.org/abs/2605.17601) | Environmental constraints as inductive bias enable one-shot generalization in contact-rich tasks |
+| [SkiP: When to Skip and When to Refine for Efficient Robot Manipulation](https://arxiv.org/abs/2605.15536) | — | 2026 | [Paper](https://arxiv.org/abs/2605.15536) \| [Project](https://pgq18.github.io/SkiP-page) \| [Code](https://github.com/CCCalcifer/Skip-Policy) | MSK automatically partitions trajectories; skip free-space, refine contact-critical steps |
+| [Morphologically Equivariant Flow Matching for Bimanual Mobile Manipulation](https://arxiv.org/abs/2605.12228) | — | 2026 | [Paper](https://arxiv.org/abs/2605.12228) | Bilateral symmetry prior constrains bimanual policies to be ambidextrous and reflection-equivariant |
 
 ---
 
@@ -385,6 +388,7 @@
 | [When to Trust Imagination: Adaptive Action Execution for World Action Models](https://arxiv.org/abs/2605.06222) | — | 2026 | [Paper](https://arxiv.org/abs/2605.06222) | FFDC verifier adapts action chunk size; 69% fewer WAM passes, +35% real-world success |
 | [RoboAlign-R1: Distilled Multimodal Reward Alignment for Robot Video World Models](https://arxiv.org/abs/2605.03821) | — | 2026 | [Paper](https://arxiv.org/abs/2605.03821) | R1-style distillation aligns video world models with instruction-following and manipulation success |
 | [Feedback World Model Enables Precise Guidance of Diffusion Policy](https://arxiv.org/abs/2605.15705) | — | 2026 | [Paper](https://arxiv.org/abs/2605.15705) | Closed-loop feedback world model corrects OOD prediction drift to guide diffusion policy precisely |
+| [RoboEvolve: Co-Evolving Planner-Simulator for Robotic Manipulation with Limited Data](https://arxiv.org/abs/2605.13775) | — | 2026 | [Paper](https://arxiv.org/abs/2605.13775) | VLM planner and VGM simulator co-evolve to synthesize task-aligned physical interaction data |
 
 ---
 
