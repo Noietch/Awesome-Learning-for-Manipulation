@@ -178,6 +178,8 @@
 | [COAST: Contrastive Conceptor Activation Steering for Vision-Language-Action Models](https://arxiv.org/abs/2605.17144) | — | 2026 | [Paper](https://arxiv.org/abs/2605.17144) | Linear conceptor operators steer VLA hidden states to recover robust manipulation behaviors |
 | [How to Instruct Your Robot: Dense Language Annotations Power Robot Policy Learning](https://arxiv.org/abs/2605.17077) | — | 2026 | [Paper](https://arxiv.org/abs/2605.17077) | Dense multi-aspect re-labeling of existing demos unlocks stronger VLA policy generalization |
 | [GuidedVLA: Specifying Task-Relevant Factors via Plug-and-Play Action Attention Specialization](https://arxiv.org/abs/2605.12369) | — | 2026 | [Paper](https://arxiv.org/abs/2605.12369) | Plug-and-play action attention module explicitly guides VLA to task-relevant visual factors |
+| [GaussianDream: A Feed-Forward 3D Gaussian World Model for Robotic Manipulation](https://arxiv.org/abs/2605.20752) | — | 2026 | [Paper](https://arxiv.org/abs/2605.20752) | 3D Gaussian world-model plug-in adds spatial-temporal supervision to VLA training |
+| [PointACT: Vision-Language-Action Models with Multi-Scale Point-Action Interaction](https://arxiv.org/abs/2605.21414) | — | 2026 | [Paper](https://arxiv.org/abs/2605.21414) \| [Project](https://cshizhe.github.io/projects/pointact.html) | Multi-scale 3D point features improve spatial grounding for VLA manipulation |
 
 ---
 
@@ -304,6 +306,8 @@
 | [From a Single Demonstration to a General Policy for Contact-Rich Manipulation](https://arxiv.org/abs/2605.17601) | — | 2026 | [Paper](https://arxiv.org/abs/2605.17601) | Environmental constraints as inductive bias enable one-shot generalization in contact-rich tasks |
 | [SkiP: When to Skip and When to Refine for Efficient Robot Manipulation](https://arxiv.org/abs/2605.15536) | — | 2026 | [Paper](https://arxiv.org/abs/2605.15536) \| [Project](https://pgq18.github.io/SkiP-page) \| [Code](https://github.com/CCCalcifer/Skip-Policy) | MSK automatically partitions trajectories; skip free-space, refine contact-critical steps |
 | [Morphologically Equivariant Flow Matching for Bimanual Mobile Manipulation](https://arxiv.org/abs/2605.12228) | — | 2026 | [Paper](https://arxiv.org/abs/2605.12228) | Bilateral symmetry prior constrains bimanual policies to be ambidextrous and reflection-equivariant |
+| [DISC: Decoupling Instruction from State-Conditioned Control via Policy Generation](https://arxiv.org/abs/2605.20856) | — | 2026 | [Paper](https://arxiv.org/abs/2605.20856) \| [Code](https://github.com/ReNginx/DISC) | Structurally eliminates scene-to-action shortcuts by decoupling instruction from state |
+| [Mobile UMI: Cross-View Diffusion Policy with Decoupled Kinematics for Mobile Manipulation](https://arxiv.org/abs/2605.20894) | — | 2026 | [Paper](https://arxiv.org/abs/2605.20894) | Cross-view diffusion policy decouples base locomotion from arm control for mobile imitation |
 
 ---
 
@@ -420,6 +424,7 @@
 | [VISER: Visually Realistic Benchmark for Evaluating Robot Manipulation in Simulation](https://arxiv.org/abs/2605.06311) | — | 2026 | [Paper](https://arxiv.org/abs/2605.06311) | 1000+ PBR assets; sim-to-real Pearson correlation 0.92 across VLA policies |
 | [SafeManip: A Property-Driven Benchmark for Temporal Safety Evaluation in Robotic Manipulation](https://arxiv.org/abs/2605.12386) | — | 2026 | [Paper](https://arxiv.org/abs/2605.12386) | Property-driven benchmark evaluating temporal safety violations beyond task success |
 | [DexJoCo: A Benchmark and Toolkit for Task-Oriented Dexterous Manipulation on MuJoCo](https://arxiv.org/abs/2605.16257) | — | 2026 | [Paper](https://arxiv.org/abs/2605.16257) \| [Project](https://dexjoco.github.io) | Task-oriented dexterous manipulation benchmark covering hand-unique capabilities with full evaluation pipeline |
+| [VLA-REPLICA: A Low-Cost, Reproducible Benchmark for Real-World Evaluation of VLA Models](https://arxiv.org/abs/2605.20774) | — | 2026 | [Paper](https://arxiv.org/abs/2605.20774) | Reproducible low-cost hardware benchmark for real-world VLA evaluation |
 
 ### Robot Datasets
 
