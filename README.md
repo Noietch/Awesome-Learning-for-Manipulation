@@ -180,6 +180,9 @@
 | [GuidedVLA: Specifying Task-Relevant Factors via Plug-and-Play Action Attention Specialization](https://arxiv.org/abs/2605.12369) | — | 2026 | [Paper](https://arxiv.org/abs/2605.12369) | Plug-and-play action attention module explicitly guides VLA to task-relevant visual factors |
 | [GaussianDream: A Feed-Forward 3D Gaussian World Model for Robotic Manipulation](https://arxiv.org/abs/2605.20752) | — | 2026 | [Paper](https://arxiv.org/abs/2605.20752) | 3D Gaussian world-model plug-in adds spatial-temporal supervision to VLA training |
 | [PointACT: Vision-Language-Action Models with Multi-Scale Point-Action Interaction](https://arxiv.org/abs/2605.21414) | — | 2026 | [Paper](https://arxiv.org/abs/2605.21414) \| [Project](https://cshizhe.github.io/projects/pointact.html) | Multi-scale 3D point features improve spatial grounding for VLA manipulation |
+| [GesVLA: Gesture-Aware Vision-Language-Action Model Embedded Representations](https://arxiv.org/abs/2605.22812) | — | 2026 | [Paper](https://arxiv.org/abs/2605.22812) | Gesture as parallel instruction modality resolves spatial ambiguity in multi-object VLA scenes |
+| [Beyond Action Residuals: Real-World Robot Policy Steering via Bottleneck Latent RL](https://arxiv.org/abs/2605.19919) | — | 2026 | [Paper](https://arxiv.org/abs/2605.19919) | Bottleneck latent RL steers pretrained imitation policies without noisy action-space residuals |
+| [D-VLA: High-Concurrency Distributed Asynchronous RL Framework for VLA Models](https://arxiv.org/abs/2605.13276) | — | 2026 | [Paper](https://arxiv.org/abs/2605.13276) | Decouples sim compute from GPU training to resolve resource contention in large-scale VLA RL |
 
 ---
 
@@ -220,6 +223,7 @@
 | [GigaWorld-Policy: An Efficient Action-Centered World-Action Model](https://arxiv.org/abs/2603.17240) | — | 2026 | [Paper](https://arxiv.org/abs/2603.17240) | Decouples video generation from action decoding for 9x faster inference |
 | [DiT4DiT: Jointly Modeling Video Dynamics and Actions for Generalizable Robot Control](https://arxiv.org/abs/2603.10448) | — | 2026 | [Paper](https://arxiv.org/abs/2603.10448) | Couples video DiT and action DiT in a cascaded framework for joint training |
 | [Causal World Modeling for Robot Control (LingBot-VA)](https://arxiv.org/abs/2601.21998) | — | 2026 | [Paper](https://arxiv.org/abs/2601.21998) \| [Code](https://github.com/robbyant/lingbot-va) | Causal video world model enables action learning without explicit action labels |
+| [MoLA: Mixture of Latent Actions for Robot Manipulation via Video Generation](https://arxiv.org/abs/2605.12167) | — | 2026 | [Paper](https://arxiv.org/abs/2605.12167) | Mixes latent futures from video generation to bridge imagination and execution for manipulation |
 
 ---
 
@@ -308,6 +312,7 @@
 | [Morphologically Equivariant Flow Matching for Bimanual Mobile Manipulation](https://arxiv.org/abs/2605.12228) | — | 2026 | [Paper](https://arxiv.org/abs/2605.12228) | Bilateral symmetry prior constrains bimanual policies to be ambidextrous and reflection-equivariant |
 | [DISC: Decoupling Instruction from State-Conditioned Control via Policy Generation](https://arxiv.org/abs/2605.20856) | — | 2026 | [Paper](https://arxiv.org/abs/2605.20856) \| [Code](https://github.com/ReNginx/DISC) | Structurally eliminates scene-to-action shortcuts by decoupling instruction from state |
 | [Mobile UMI: Cross-View Diffusion Policy with Decoupled Kinematics for Mobile Manipulation](https://arxiv.org/abs/2605.20894) | — | 2026 | [Paper](https://arxiv.org/abs/2605.20894) | Cross-view diffusion policy decouples base locomotion from arm control for mobile imitation |
+| [SUGAR: Scalable Human-Video-Driven Generalizable Humanoid Loco-Manipulation](https://arxiv.org/abs/2605.20373) | — | 2026 | [Paper](https://arxiv.org/abs/2605.20373) | Human video priors enable scalable whole-body loco-manipulation without reward engineering |
 
 ---
 
@@ -393,6 +398,7 @@
 | [RoboAlign-R1: Distilled Multimodal Reward Alignment for Robot Video World Models](https://arxiv.org/abs/2605.03821) | — | 2026 | [Paper](https://arxiv.org/abs/2605.03821) | R1-style distillation aligns video world models with instruction-following and manipulation success |
 | [Feedback World Model Enables Precise Guidance of Diffusion Policy](https://arxiv.org/abs/2605.15705) | — | 2026 | [Paper](https://arxiv.org/abs/2605.15705) | Closed-loop feedback world model corrects OOD prediction drift to guide diffusion policy precisely |
 | [RoboEvolve: Co-Evolving Planner-Simulator for Robotic Manipulation with Limited Data](https://arxiv.org/abs/2605.13775) | — | 2026 | [Paper](https://arxiv.org/abs/2605.13775) | VLM planner and VGM simulator co-evolve to synthesize task-aligned physical interaction data |
+| [OrbiSim: World Models as Differentiable Physics Engines for Embodied Intelligence](https://arxiv.org/abs/2605.16395) | — | 2026 | [Paper](https://arxiv.org/abs/2605.16395) | Differentiable physics world model bridges scene assets, neural dynamics, and downstream RL |
 
 ---
 
@@ -425,6 +431,7 @@
 | [SafeManip: A Property-Driven Benchmark for Temporal Safety Evaluation in Robotic Manipulation](https://arxiv.org/abs/2605.12386) | — | 2026 | [Paper](https://arxiv.org/abs/2605.12386) | Property-driven benchmark evaluating temporal safety violations beyond task success |
 | [DexJoCo: A Benchmark and Toolkit for Task-Oriented Dexterous Manipulation on MuJoCo](https://arxiv.org/abs/2605.16257) | — | 2026 | [Paper](https://arxiv.org/abs/2605.16257) \| [Project](https://dexjoco.github.io) | Task-oriented dexterous manipulation benchmark covering hand-unique capabilities with full evaluation pipeline |
 | [VLA-REPLICA: A Low-Cost, Reproducible Benchmark for Real-World Evaluation of VLA Models](https://arxiv.org/abs/2605.20774) | — | 2026 | [Paper](https://arxiv.org/abs/2605.20774) | Reproducible low-cost hardware benchmark for real-world VLA evaluation |
+| [WorldArena 2.0: Extending Embodied World Model Benchmarking on Modality, Functionality and Platform](https://arxiv.org/abs/2605.17912) | — | 2026 | [Paper](https://arxiv.org/abs/2605.17912) | Extends embodied WM evaluation beyond vision-only to multi-modal and online settings |
 
 ### Robot Datasets
 
