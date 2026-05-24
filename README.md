@@ -183,6 +183,8 @@
 | [GesVLA: Gesture-Aware Vision-Language-Action Model Embedded Representations](https://arxiv.org/abs/2605.22812) | — | 2026 | [Paper](https://arxiv.org/abs/2605.22812) | Gesture as parallel instruction modality resolves spatial ambiguity in multi-object VLA scenes |
 | [Beyond Action Residuals: Real-World Robot Policy Steering via Bottleneck Latent RL](https://arxiv.org/abs/2605.19919) | — | 2026 | [Paper](https://arxiv.org/abs/2605.19919) | Bottleneck latent RL steers pretrained imitation policies without noisy action-space residuals |
 | [D-VLA: High-Concurrency Distributed Asynchronous RL Framework for VLA Models](https://arxiv.org/abs/2605.13276) | — | 2026 | [Paper](https://arxiv.org/abs/2605.13276) | Decouples sim compute from GPU training to resolve resource contention in large-scale VLA RL |
+| [SOMA: Spatial Memory for Out-of-Vision Manipulation in Vision-Language-Action](https://arxiv.org/abs/2605.22283) | — | 2026 | [Paper](https://arxiv.org/abs/2605.22283) | Persistent spatial memory enables VLA manipulation of out-of-view objects |
+| [Action with Visual Primitives](https://arxiv.org/abs/2605.22183) | — | 2026 | [Paper](https://arxiv.org/abs/2605.22183) | Decomposes VLA into visual primitives, decoupling perception from motor control |
 
 ---
 
@@ -313,6 +315,7 @@
 | [DISC: Decoupling Instruction from State-Conditioned Control via Policy Generation](https://arxiv.org/abs/2605.20856) | — | 2026 | [Paper](https://arxiv.org/abs/2605.20856) \| [Code](https://github.com/ReNginx/DISC) | Structurally eliminates scene-to-action shortcuts by decoupling instruction from state |
 | [Mobile UMI: Cross-View Diffusion Policy with Decoupled Kinematics for Mobile Manipulation](https://arxiv.org/abs/2605.20894) | — | 2026 | [Paper](https://arxiv.org/abs/2605.20894) | Cross-view diffusion policy decouples base locomotion from arm control for mobile imitation |
 | [SUGAR: Scalable Human-Video-Driven Generalizable Humanoid Loco-Manipulation](https://arxiv.org/abs/2605.20373) | — | 2026 | [Paper](https://arxiv.org/abs/2605.20373) | Human video priors enable scalable whole-body loco-manipulation without reward engineering |
+| [Imagine2Real: Towards Zero-shot Humanoid-Object Interaction via Video Generative Priors](https://arxiv.org/abs/2605.22272) | — | 2026 | [Paper](https://arxiv.org/abs/2605.22272) | Video generative priors enable zero-shot geometry-free humanoid-object interaction |
 
 ---
 
@@ -432,6 +435,7 @@
 | [DexJoCo: A Benchmark and Toolkit for Task-Oriented Dexterous Manipulation on MuJoCo](https://arxiv.org/abs/2605.16257) | — | 2026 | [Paper](https://arxiv.org/abs/2605.16257) \| [Project](https://dexjoco.github.io) | Task-oriented dexterous manipulation benchmark covering hand-unique capabilities with full evaluation pipeline |
 | [VLA-REPLICA: A Low-Cost, Reproducible Benchmark for Real-World Evaluation of VLA Models](https://arxiv.org/abs/2605.20774) | — | 2026 | [Paper](https://arxiv.org/abs/2605.20774) | Reproducible low-cost hardware benchmark for real-world VLA evaluation |
 | [WorldArena 2.0: Extending Embodied World Model Benchmarking on Modality, Functionality and Platform](https://arxiv.org/abs/2605.17912) | — | 2026 | [Paper](https://arxiv.org/abs/2605.17912) | Extends embodied WM evaluation beyond vision-only to multi-modal and online settings |
+| [TacO: Benchmarking Tactile Sensors for Object Manipulation](https://arxiv.org/abs/2605.21976) | — | 2026 | [Paper](https://arxiv.org/abs/2605.21976) | CMU/UCSD systematic benchmark for tactile sensor selection in contact-rich manipulation |
 
 ### Robot Datasets
 
