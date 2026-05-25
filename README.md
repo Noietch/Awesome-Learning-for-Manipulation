@@ -185,6 +185,7 @@
 | [D-VLA: High-Concurrency Distributed Asynchronous RL Framework for VLA Models](https://arxiv.org/abs/2605.13276) | — | 2026 | [Paper](https://arxiv.org/abs/2605.13276) | Decouples sim compute from GPU training to resolve resource contention in large-scale VLA RL |
 | [SOMA: Spatial Memory for Out-of-Vision Manipulation in Vision-Language-Action](https://arxiv.org/abs/2605.22283) | — | 2026 | [Paper](https://arxiv.org/abs/2605.22283) | Persistent spatial memory enables VLA manipulation of out-of-view objects |
 | [Action with Visual Primitives](https://arxiv.org/abs/2605.22183) | — | 2026 | [Paper](https://arxiv.org/abs/2605.22183) | Decomposes VLA into visual primitives, decoupling perception from motor control |
+| [Agentic-VLA: Efficient Online Adaptation for Vision-Language-Action Models](https://arxiv.org/abs/2605.22896) | — | 2026 | [Paper](https://arxiv.org/abs/2605.22896) | Curriculum-based agentic online adaptation enables fast VLA generalization without extra demos |
 
 ---
 
@@ -226,6 +227,7 @@
 | [DiT4DiT: Jointly Modeling Video Dynamics and Actions for Generalizable Robot Control](https://arxiv.org/abs/2603.10448) | — | 2026 | [Paper](https://arxiv.org/abs/2603.10448) | Couples video DiT and action DiT in a cascaded framework for joint training |
 | [Causal World Modeling for Robot Control (LingBot-VA)](https://arxiv.org/abs/2601.21998) | — | 2026 | [Paper](https://arxiv.org/abs/2601.21998) \| [Code](https://github.com/robbyant/lingbot-va) | Causal video world model enables action learning without explicit action labels |
 | [MoLA: Mixture of Latent Actions for Robot Manipulation via Video Generation](https://arxiv.org/abs/2605.12167) | — | 2026 | [Paper](https://arxiv.org/abs/2605.12167) | Mixes latent futures from video generation to bridge imagination and execution for manipulation |
+| [Demo-JEPA: Joint-Embedding Predictive Architecture for One-shot Cross-Embodiment Imitation](https://arxiv.org/abs/2605.20811) | — | 2026 | [Paper](https://arxiv.org/abs/2605.20811) | JEPA world model enables cross-embodiment imitation via shared predictive latent trajectories |
 
 ---
 
@@ -402,6 +404,8 @@
 | [Feedback World Model Enables Precise Guidance of Diffusion Policy](https://arxiv.org/abs/2605.15705) | — | 2026 | [Paper](https://arxiv.org/abs/2605.15705) | Closed-loop feedback world model corrects OOD prediction drift to guide diffusion policy precisely |
 | [RoboEvolve: Co-Evolving Planner-Simulator for Robotic Manipulation with Limited Data](https://arxiv.org/abs/2605.13775) | — | 2026 | [Paper](https://arxiv.org/abs/2605.13775) | VLM planner and VGM simulator co-evolve to synthesize task-aligned physical interaction data |
 | [OrbiSim: World Models as Differentiable Physics Engines for Embodied Intelligence](https://arxiv.org/abs/2605.16395) | — | 2026 | [Paper](https://arxiv.org/abs/2605.16395) | Differentiable physics world model bridges scene assets, neural dynamics, and downstream RL |
+| [GEM-4D: Geometry-Enhanced Video World Models for Robot Manipulation](https://arxiv.org/abs/2605.22882) | — | 2026 | [Paper](https://arxiv.org/abs/2605.22882) \| [Project](https://anonymous-submission-20.github.io/gem.github.io/) | 4D geometric correspondence supervision grounds video world model for 61%→81% real manipulation |
+| [SWEET: Sparse World Modeling with Image Editing for Embodied Task Execution](https://arxiv.org/abs/2605.19319) | — | 2026 | [Paper](https://arxiv.org/abs/2605.19319) | Image editing as sparse visual world model predicts keyframes for robot action planning |
 
 ---
 
