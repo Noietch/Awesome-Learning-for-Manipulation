@@ -186,6 +186,10 @@
 | [SOMA: Spatial Memory for Out-of-Vision Manipulation in Vision-Language-Action](https://arxiv.org/abs/2605.22283) | — | 2026 | [Paper](https://arxiv.org/abs/2605.22283) | Persistent spatial memory enables VLA manipulation of out-of-view objects |
 | [Action with Visual Primitives](https://arxiv.org/abs/2605.22183) | — | 2026 | [Paper](https://arxiv.org/abs/2605.22183) | Decomposes VLA into visual primitives, decoupling perception from motor control |
 | [Agentic-VLA: Efficient Online Adaptation for Vision-Language-Action Models](https://arxiv.org/abs/2605.22896) | — | 2026 | [Paper](https://arxiv.org/abs/2605.22896) | Curriculum-based agentic online adaptation enables fast VLA generalization without extra demos |
+| [π₀-EqM: Equilibrium Matching for Closed-Loop Vision-Language-Action Control](https://arxiv.org/abs/2605.23128) | — | 2026 | [Paper](https://arxiv.org/abs/2605.23128) | Replaces flow-matching decoder in π₀ with equilibrium matching for state-adaptive compute reuse |
+| [Afford-VLA: Action-Aligned Visual Planning via Internalized Affordance](https://arxiv.org/abs/2605.24203) | — | 2026 | [Paper](https://arxiv.org/abs/2605.24203) | Internalizes affordance into VLA for spatial reasoning without external visual annotations |
+| [EXPO-FT: Sample-Efficient RL Finetuning for Vision-Language-Action Models](https://arxiv.org/abs/2605.25477) | — | 2026 | [Paper](https://arxiv.org/abs/2605.25477) | Stable sample-efficient RL fine-tuning of pretrained VLA policies for real-world deployment |
+| [OASIS: Observation-Action Space Alignment via SE(3) Trajectory Prediction](https://arxiv.org/abs/2605.25829) | — | 2026 | [Paper](https://arxiv.org/abs/2605.25829) | Aligns intermediate VLA representations with action space via SE(3) trajectory prediction |
 
 ---
 
@@ -318,6 +322,7 @@
 | [Mobile UMI: Cross-View Diffusion Policy with Decoupled Kinematics for Mobile Manipulation](https://arxiv.org/abs/2605.20894) | — | 2026 | [Paper](https://arxiv.org/abs/2605.20894) | Cross-view diffusion policy decouples base locomotion from arm control for mobile imitation |
 | [SUGAR: Scalable Human-Video-Driven Generalizable Humanoid Loco-Manipulation](https://arxiv.org/abs/2605.20373) | — | 2026 | [Paper](https://arxiv.org/abs/2605.20373) | Human video priors enable scalable whole-body loco-manipulation without reward engineering |
 | [Imagine2Real: Towards Zero-shot Humanoid-Object Interaction via Video Generative Priors](https://arxiv.org/abs/2605.22272) | — | 2026 | [Paper](https://arxiv.org/abs/2605.22272) | Video generative priors enable zero-shot geometry-free humanoid-object interaction |
+| [Semantically Structured Mixture-of-Experts for Compositional Robotic Manipulation](https://arxiv.org/abs/2605.23477) | — | 2026 | [Paper](https://arxiv.org/abs/2605.23477) | Semantic MoE activates task-specific diffusion experts for scalable multi-task manipulation |
 
 ---
 
