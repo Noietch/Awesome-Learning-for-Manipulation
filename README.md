@@ -190,6 +190,8 @@
 | [Afford-VLA: Action-Aligned Visual Planning via Internalized Affordance](https://arxiv.org/abs/2605.24203) | — | 2026 | [Paper](https://arxiv.org/abs/2605.24203) | Internalizes affordance into VLA for spatial reasoning without external visual annotations |
 | [EXPO-FT: Sample-Efficient RL Finetuning for Vision-Language-Action Models](https://arxiv.org/abs/2605.25477) | — | 2026 | [Paper](https://arxiv.org/abs/2605.25477) | Stable sample-efficient RL fine-tuning of pretrained VLA policies for real-world deployment |
 | [OASIS: Observation-Action Space Alignment via SE(3) Trajectory Prediction](https://arxiv.org/abs/2605.25829) | — | 2026 | [Paper](https://arxiv.org/abs/2605.25829) | Aligns intermediate VLA representations with action space via SE(3) trajectory prediction |
+| [StableVLA: Stabilizing VLA Models Against Visual Disturbances](https://arxiv.org/abs/2605.18287) | ICML 2026 | 2026 | [Paper](https://arxiv.org/abs/2605.18287) \| [Code](https://github.com/PKU-HMI-Lab/StableVLA) \| [Project](https://stablevla.github.io/) | Robustifies VLA against visual distractors; ICML 2026 accepted |
+| [Do Geometric Foundation Models Help Vision-Language-Action Models?](https://arxiv.org/abs/2605.24642) | — | 2026 | [Paper](https://arxiv.org/abs/2605.24642) | UT Austin + MIT analysis of geometric foundation model impact on VLA performance |
 
 ---
 
@@ -411,6 +413,7 @@
 | [OrbiSim: World Models as Differentiable Physics Engines for Embodied Intelligence](https://arxiv.org/abs/2605.16395) | — | 2026 | [Paper](https://arxiv.org/abs/2605.16395) | Differentiable physics world model bridges scene assets, neural dynamics, and downstream RL |
 | [GEM-4D: Geometry-Enhanced Video World Models for Robot Manipulation](https://arxiv.org/abs/2605.22882) | — | 2026 | [Paper](https://arxiv.org/abs/2605.22882) \| [Project](https://anonymous-submission-20.github.io/gem.github.io/) | 4D geometric correspondence supervision grounds video world model for 61%→81% real manipulation |
 | [SWEET: Sparse World Modeling with Image Editing for Embodied Task Execution](https://arxiv.org/abs/2605.19319) | — | 2026 | [Paper](https://arxiv.org/abs/2605.19319) | Image editing as sparse visual world model predicts keyframes for robot action planning |
+| [stable-worldmodel: Open-Source Reproducible World Model Platform](https://arxiv.org/abs/2605.21800) | — | 2026 | [Paper](https://arxiv.org/abs/2605.21800) | LeCun et al. open-source platform for reproducible world model research and evaluation |
 
 ---
 
@@ -445,6 +448,7 @@
 | [VLA-REPLICA: A Low-Cost, Reproducible Benchmark for Real-World Evaluation of VLA Models](https://arxiv.org/abs/2605.20774) | — | 2026 | [Paper](https://arxiv.org/abs/2605.20774) | Reproducible low-cost hardware benchmark for real-world VLA evaluation |
 | [WorldArena 2.0: Extending Embodied World Model Benchmarking on Modality, Functionality and Platform](https://arxiv.org/abs/2605.17912) | — | 2026 | [Paper](https://arxiv.org/abs/2605.17912) | Extends embodied WM evaluation beyond vision-only to multi-modal and online settings |
 | [TacO: Benchmarking Tactile Sensors for Object Manipulation](https://arxiv.org/abs/2605.21976) | — | 2026 | [Paper](https://arxiv.org/abs/2605.21976) | CMU/UCSD systematic benchmark for tactile sensor selection in contact-rich manipulation |
+| [ESI-Bench: Benchmark for Embodied Spatial Intelligence](https://arxiv.org/abs/2605.18746) | — | 2026 | [Paper](https://arxiv.org/abs/2605.18746) | Stanford (Fei-Fei Li, Guibas, Manling Li) benchmark for 3D spatial reasoning in embodied agents |
 
 ### Robot Datasets
 
@@ -499,6 +503,7 @@
 | [MimicGen: A Data Generation System for Scalable Robot Learning using Human Demonstrations](https://arxiv.org/abs/2310.17596) | CoRL | 2023 | [Paper](https://arxiv.org/abs/2310.17596) \| [Project](https://mimicgen.github.io/) | Automatically generates large-scale demos from few human examples |
 | [Lucid-XR: An Extended-Reality Data Engine for Robotic Manipulation](https://arxiv.org/abs/2605.00244) | — | 2026 | [Paper](https://arxiv.org/abs/2605.00244) \| [Project](https://lucidxr.github.io/) | XR headset-based physics sim + video gen for zero-shot sim-to-real transfer |
 | [GS-Playground: High-Throughput Photorealistic Simulator for Vision-Informed Robot Learning](https://arxiv.org/abs/2604.25459) | — | 2026 | [Paper](https://arxiv.org/abs/2604.25459) | Gaussian splatting photorealistic simulator enabling high-throughput vision-based robot learning |
+| [PhysX-Omni: Simulation-Ready 3D Generation for Rigid, Deformable, and Articulated Objects](https://arxiv.org/abs/2605.21572) | — | 2026 | [Paper](https://arxiv.org/abs/2605.21572) | NTU (Ziwei Liu) generates simulation-ready 3D assets for rigid, deformable, and articulated objects |
 
 ---
 
