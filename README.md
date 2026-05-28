@@ -192,6 +192,8 @@
 | [OASIS: Observation-Action Space Alignment via SE(3) Trajectory Prediction](https://arxiv.org/abs/2605.25829) | — | 2026 | [Paper](https://arxiv.org/abs/2605.25829) | Aligns intermediate VLA representations with action space via SE(3) trajectory prediction |
 | [StableVLA: Stabilizing VLA Models Against Visual Disturbances](https://arxiv.org/abs/2605.18287) | ICML 2026 | 2026 | [Paper](https://arxiv.org/abs/2605.18287) \| [Code](https://github.com/PKU-HMI-Lab/StableVLA) \| [Project](https://stablevla.github.io/) | Robustifies VLA against visual distractors; ICML 2026 accepted |
 | [Do Geometric Foundation Models Help Vision-Language-Action Models?](https://arxiv.org/abs/2605.24642) | — | 2026 | [Paper](https://arxiv.org/abs/2605.24642) | UT Austin + MIT analysis of geometric foundation model impact on VLA performance |
+| [TapSampling: Temporal Action Proposal Sampling for Efficient VLA Pre-Training](https://arxiv.org/abs/2605.25547) | ICML 2026 | 2026 | [Paper](https://arxiv.org/abs/2605.25547) \| [Project](https://aipixel.github.io/TapSampling/) | Temporal action proposals reduce VLA pre-training cost without degrading task performance |
+| [FineVLA: Fine-Grained Instruction Alignment for Vision-Language-Action Models](https://arxiv.org/abs/2605.27284) | — | 2026 | [Paper](https://arxiv.org/abs/2605.27284) | Fine-grained instruction decomposition improves VLA alignment for precise multi-step manipulation |
 
 ---
 
@@ -234,6 +236,7 @@
 | [Causal World Modeling for Robot Control (LingBot-VA)](https://arxiv.org/abs/2601.21998) | — | 2026 | [Paper](https://arxiv.org/abs/2601.21998) \| [Code](https://github.com/robbyant/lingbot-va) | Causal video world model enables action learning without explicit action labels |
 | [MoLA: Mixture of Latent Actions for Robot Manipulation via Video Generation](https://arxiv.org/abs/2605.12167) | — | 2026 | [Paper](https://arxiv.org/abs/2605.12167) | Mixes latent futures from video generation to bridge imagination and execution for manipulation |
 | [Demo-JEPA: Joint-Embedding Predictive Architecture for One-shot Cross-Embodiment Imitation](https://arxiv.org/abs/2605.20811) | — | 2026 | [Paper](https://arxiv.org/abs/2605.20811) | JEPA world model enables cross-embodiment imitation via shared predictive latent trajectories |
+| [Turning Video Models into Generalist Robot Policies](https://arxiv.org/abs/2605.27817) | — | 2026 | [Paper](https://arxiv.org/abs/2605.27817) | MIT CSAIL adapts pretrained video models into robot policies via lightweight action heads |
 
 ---
 
@@ -325,6 +328,7 @@
 | [SUGAR: Scalable Human-Video-Driven Generalizable Humanoid Loco-Manipulation](https://arxiv.org/abs/2605.20373) | — | 2026 | [Paper](https://arxiv.org/abs/2605.20373) | Human video priors enable scalable whole-body loco-manipulation without reward engineering |
 | [Imagine2Real: Towards Zero-shot Humanoid-Object Interaction via Video Generative Priors](https://arxiv.org/abs/2605.22272) | — | 2026 | [Paper](https://arxiv.org/abs/2605.22272) | Video generative priors enable zero-shot geometry-free humanoid-object interaction |
 | [Semantically Structured Mixture-of-Experts for Compositional Robotic Manipulation](https://arxiv.org/abs/2605.23477) | — | 2026 | [Paper](https://arxiv.org/abs/2605.23477) | Semantic MoE activates task-specific diffusion experts for scalable multi-task manipulation |
+| [Beyond Binary: Tactile Representation Learning for Dexterous Sim-to-Real Transfer](https://arxiv.org/abs/2605.28812) | — | 2026 | [Paper](https://arxiv.org/abs/2605.28812) \| [Project](https://mpan31415.github.io/tactile_rep/) | Continuous tactile representations bridge sim-to-real gap for dexterous manipulation |
 
 ---
 
@@ -443,6 +447,7 @@
 | [RoboWM-Bench: Manipulation-Centric Benchmark for World Models in Robotics](https://arxiv.org/abs/2604.19092) | arXiv | 2026 | [Paper](https://arxiv.org/abs/2604.19092) \| [Project Page](https://robowm-bench.github.io/RoboWM-Bench/) | Manipulation-centric benchmark for evaluating world models in robotics |
 | [KinDER: A Physical Reasoning Benchmark for Robot Learning and Planning](https://arxiv.org/abs/2604.25788) | — | 2026 | [Paper](https://arxiv.org/abs/2604.25788) \| [Project](https://prpl-group.com/kinder-site/.) | Physical reasoning benchmark for robot learning with diverse manipulation tasks |
 | [VISER: Visually Realistic Benchmark for Evaluating Robot Manipulation in Simulation](https://arxiv.org/abs/2605.06311) | — | 2026 | [Paper](https://arxiv.org/abs/2605.06311) | 1000+ PBR assets; sim-to-real Pearson correlation 0.92 across VLA policies |
+| [HumanoidMimicGen: Automated Data Generation for Humanoid Manipulation](https://arxiv.org/abs/2605.27724) | — | 2026 | [Paper](https://arxiv.org/abs/2605.27724) \| [Project](https://humanoidmimicgen.github.io) | NVIDIA/Mandlekar's automated data generation scales humanoid manipulation training data |
 | [SafeManip: A Property-Driven Benchmark for Temporal Safety Evaluation in Robotic Manipulation](https://arxiv.org/abs/2605.12386) | — | 2026 | [Paper](https://arxiv.org/abs/2605.12386) | Property-driven benchmark evaluating temporal safety violations beyond task success |
 | [DexJoCo: A Benchmark and Toolkit for Task-Oriented Dexterous Manipulation on MuJoCo](https://arxiv.org/abs/2605.16257) | — | 2026 | [Paper](https://arxiv.org/abs/2605.16257) \| [Project](https://dexjoco.github.io) | Task-oriented dexterous manipulation benchmark covering hand-unique capabilities with full evaluation pipeline |
 | [VLA-REPLICA: A Low-Cost, Reproducible Benchmark for Real-World Evaluation of VLA Models](https://arxiv.org/abs/2605.20774) | — | 2026 | [Paper](https://arxiv.org/abs/2605.20774) | Reproducible low-cost hardware benchmark for real-world VLA evaluation |
