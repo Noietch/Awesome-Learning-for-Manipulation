@@ -194,6 +194,9 @@
 | [Do Geometric Foundation Models Help Vision-Language-Action Models?](https://arxiv.org/abs/2605.24642) | — | 2026 | [Paper](https://arxiv.org/abs/2605.24642) | UT Austin + MIT analysis of geometric foundation model impact on VLA performance |
 | [TapSampling: Temporal Action Proposal Sampling for Efficient VLA Pre-Training](https://arxiv.org/abs/2605.25547) | ICML 2026 | 2026 | [Paper](https://arxiv.org/abs/2605.25547) \| [Project](https://aipixel.github.io/TapSampling/) | Temporal action proposals reduce VLA pre-training cost without degrading task performance |
 | [FineVLA: Fine-Grained Instruction Alignment for Vision-Language-Action Models](https://arxiv.org/abs/2605.27284) | — | 2026 | [Paper](https://arxiv.org/abs/2605.27284) | Fine-grained instruction decomposition improves VLA alignment for precise multi-step manipulation |
+| [PrimitiveVLA: Learning Reusable Motion Primitives for Efficient and Generalizable Robotic Manipulation](https://arxiv.org/abs/2605.28634) | — | 2026 | [Paper](https://arxiv.org/abs/2605.28634) | Primitive-centric paradigm decomposes instructions into reusable motion primitives for VLA |
+| [X-DiffVLA: X-Embodied Diffusion Action Heads for Vision-Language-Action Models](https://arxiv.org/abs/2605.25044) | — | 2026 | [Paper](https://arxiv.org/abs/2605.25044) | Cross-embodiment diffusion action heads enable universal VLA policies without per-robot fine-tuning |
+| [EvoScene-VLA: Evolving Scene Beliefs Inside the Action Decoder for Chunked Robot Control](https://arxiv.org/abs/2605.21862) | — | 2026 | [Paper](https://arxiv.org/abs/2605.21862) | Persistent action-updated scene prior across chunks resolves occlusion in chunked VLA control |
 
 ---
 
@@ -329,6 +332,7 @@
 | [Imagine2Real: Towards Zero-shot Humanoid-Object Interaction via Video Generative Priors](https://arxiv.org/abs/2605.22272) | — | 2026 | [Paper](https://arxiv.org/abs/2605.22272) | Video generative priors enable zero-shot geometry-free humanoid-object interaction |
 | [Semantically Structured Mixture-of-Experts for Compositional Robotic Manipulation](https://arxiv.org/abs/2605.23477) | — | 2026 | [Paper](https://arxiv.org/abs/2605.23477) | Semantic MoE activates task-specific diffusion experts for scalable multi-task manipulation |
 | [Beyond Binary: Tactile Representation Learning for Dexterous Sim-to-Real Transfer](https://arxiv.org/abs/2605.28812) | — | 2026 | [Paper](https://arxiv.org/abs/2605.28812) \| [Project](https://mpan31415.github.io/tactile_rep/) | Continuous tactile representations bridge sim-to-real gap for dexterous manipulation |
+| [HumanEgo: Zero-Shot Robot Learning from Minutes of Human Egocentric Videos](https://arxiv.org/abs/2605.24934) | — | 2026 | [Paper](https://arxiv.org/abs/2605.24934) \| [Code](https://github.com/ZhiWang-pro/HumanEgo) | Flow matching policy from egocentric human video; zero-shot robot transfer without robot data |
 
 ---
 
@@ -454,6 +458,7 @@
 | [WorldArena 2.0: Extending Embodied World Model Benchmarking on Modality, Functionality and Platform](https://arxiv.org/abs/2605.17912) | — | 2026 | [Paper](https://arxiv.org/abs/2605.17912) | Extends embodied WM evaluation beyond vision-only to multi-modal and online settings |
 | [TacO: Benchmarking Tactile Sensors for Object Manipulation](https://arxiv.org/abs/2605.21976) | — | 2026 | [Paper](https://arxiv.org/abs/2605.21976) | CMU/UCSD systematic benchmark for tactile sensor selection in contact-rich manipulation |
 | [ESI-Bench: Benchmark for Embodied Spatial Intelligence](https://arxiv.org/abs/2605.18746) | — | 2026 | [Paper](https://arxiv.org/abs/2605.18746) | Stanford (Fei-Fei Li, Guibas, Manling Li) benchmark for 3D spatial reasoning in embodied agents |
+| [Colosseum V2: Benchmarking Generalization for Vision Language Action Models](https://arxiv.org/abs/2605.27759) | — | 2026 | [Paper](https://arxiv.org/abs/2605.27759) | Systematic benchmark exposing VLA generalization gaps under distribution shift across 6 factors |
 
 ### Robot Datasets
 
