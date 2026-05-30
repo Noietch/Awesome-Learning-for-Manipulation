@@ -197,6 +197,9 @@
 | [PrimitiveVLA: Learning Reusable Motion Primitives for Efficient and Generalizable Robotic Manipulation](https://arxiv.org/abs/2605.28634) | — | 2026 | [Paper](https://arxiv.org/abs/2605.28634) | Primitive-centric paradigm decomposes instructions into reusable motion primitives for VLA |
 | [X-DiffVLA: X-Embodied Diffusion Action Heads for Vision-Language-Action Models](https://arxiv.org/abs/2605.25044) | — | 2026 | [Paper](https://arxiv.org/abs/2605.25044) | Cross-embodiment diffusion action heads enable universal VLA policies without per-robot fine-tuning |
 | [EvoScene-VLA: Evolving Scene Beliefs Inside the Action Decoder for Chunked Robot Control](https://arxiv.org/abs/2605.21862) | — | 2026 | [Paper](https://arxiv.org/abs/2605.21862) | Persistent action-updated scene prior across chunks resolves occlusion in chunked VLA control |
+| [Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments](https://arxiv.org/abs/2605.30280) | — | 2026 | [Paper](https://arxiv.org/abs/2605.30280) | Alibaba Qwen team unified VLA for manipulation, navigation, and cross-embodiment control |
+| [GEM: Generative Supervision Helps Embodied Intelligence](https://arxiv.org/abs/2605.28548) | — | 2026 | [Paper](https://arxiv.org/abs/2605.28548) \| [Project](https://zhaorw02.github.io/GEM/) | Depth-generation pre-training bridges VLM semantic gap for embodied spatial reasoning |
+| [VLA-Pro: Cross-Task Procedural Memory Transfer for Vision-Language-Action Models](https://arxiv.org/abs/2605.29562) | — | 2026 | [Paper](https://arxiv.org/abs/2605.29562) | Plug-and-play procedural memory retrieval improves VLA cross-task generalization |
 
 ---
 
@@ -333,6 +336,7 @@
 | [Semantically Structured Mixture-of-Experts for Compositional Robotic Manipulation](https://arxiv.org/abs/2605.23477) | — | 2026 | [Paper](https://arxiv.org/abs/2605.23477) | Semantic MoE activates task-specific diffusion experts for scalable multi-task manipulation |
 | [Beyond Binary: Tactile Representation Learning for Dexterous Sim-to-Real Transfer](https://arxiv.org/abs/2605.28812) | — | 2026 | [Paper](https://arxiv.org/abs/2605.28812) \| [Project](https://mpan31415.github.io/tactile_rep/) | Continuous tactile representations bridge sim-to-real gap for dexterous manipulation |
 | [HumanEgo: Zero-Shot Robot Learning from Minutes of Human Egocentric Videos](https://arxiv.org/abs/2605.24934) | — | 2026 | [Paper](https://arxiv.org/abs/2605.24934) \| [Code](https://github.com/ZhiWang-pro/HumanEgo) | Flow matching policy from egocentric human video; zero-shot robot transfer without robot data |
+| [MonoDuo: Using One Robot Arm to Learn Bimanual Policies](https://arxiv.org/abs/2605.29298) | ICRA | 2026 | [Paper](https://arxiv.org/abs/2605.29298) | Single-arm teleoperation with human collaboration learns bimanual policies; Berkeley/Malik |
 
 ---
 
