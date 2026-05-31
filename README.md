@@ -200,6 +200,8 @@
 | [Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments](https://arxiv.org/abs/2605.30280) | — | 2026 | [Paper](https://arxiv.org/abs/2605.30280) | Alibaba Qwen team unified VLA for manipulation, navigation, and cross-embodiment control |
 | [GEM: Generative Supervision Helps Embodied Intelligence](https://arxiv.org/abs/2605.28548) | — | 2026 | [Paper](https://arxiv.org/abs/2605.28548) \| [Project](https://zhaorw02.github.io/GEM/) | Depth-generation pre-training bridges VLM semantic gap for embodied spatial reasoning |
 | [VLA-Pro: Cross-Task Procedural Memory Transfer for Vision-Language-Action Models](https://arxiv.org/abs/2605.29562) | — | 2026 | [Paper](https://arxiv.org/abs/2605.29562) | Plug-and-play procedural memory retrieval improves VLA cross-task generalization |
+| [3DVLA: Integrating 3D Spatial Understanding for Visual-Language-Action Models](https://arxiv.org/abs/2605.29416) | — | 2026 | [Paper](https://arxiv.org/abs/2605.29416) | Plug-and-play 3D spatial perception module boosts VLA manipulation accuracy; PKU |
+| [ElegantVLA: Efficient Vision-Language-Action Models via Adaptive Temporal Reuse](https://arxiv.org/abs/2605.29438) | — | 2026 | [Paper](https://arxiv.org/abs/2605.29438) | Adaptive token reuse skips redundant VLA inference steps; Tsinghua + UIUC |
 
 ---
 
@@ -337,6 +339,8 @@
 | [Beyond Binary: Tactile Representation Learning for Dexterous Sim-to-Real Transfer](https://arxiv.org/abs/2605.28812) | — | 2026 | [Paper](https://arxiv.org/abs/2605.28812) \| [Project](https://mpan31415.github.io/tactile_rep/) | Continuous tactile representations bridge sim-to-real gap for dexterous manipulation |
 | [HumanEgo: Zero-Shot Robot Learning from Minutes of Human Egocentric Videos](https://arxiv.org/abs/2605.24934) | — | 2026 | [Paper](https://arxiv.org/abs/2605.24934) \| [Code](https://github.com/ZhiWang-pro/HumanEgo) | Flow matching policy from egocentric human video; zero-shot robot transfer without robot data |
 | [MonoDuo: Using One Robot Arm to Learn Bimanual Policies](https://arxiv.org/abs/2605.29298) | ICRA | 2026 | [Paper](https://arxiv.org/abs/2605.29298) | Single-arm teleoperation with human collaboration learns bimanual policies; Berkeley/Malik |
+| [MARS Policy: Efficient Generative Policy via Adaptive Multimodal Selection](https://arxiv.org/abs/2605.29766) | — | 2026 | [Paper](https://arxiv.org/abs/2605.29766) \| [Project](https://lorenzo-0-0.github.io/MARS_Policy/) | Applies multimodal reasoning only when needed; NTU MARS Lab |
+| [DynaFLIP: Dynamics-Aware Tri-Modal Pre-Training for Robot Visual Representations](https://arxiv.org/abs/2605.30350) | — | 2026 | [Paper](https://arxiv.org/abs/2605.30350) | Dynamics-aware RGB-depth-force tri-modal pre-training improves manipulation policies; SNU + UMD + GaTech |
 
 ---
 
@@ -463,6 +467,7 @@
 | [TacO: Benchmarking Tactile Sensors for Object Manipulation](https://arxiv.org/abs/2605.21976) | — | 2026 | [Paper](https://arxiv.org/abs/2605.21976) | CMU/UCSD systematic benchmark for tactile sensor selection in contact-rich manipulation |
 | [ESI-Bench: Benchmark for Embodied Spatial Intelligence](https://arxiv.org/abs/2605.18746) | — | 2026 | [Paper](https://arxiv.org/abs/2605.18746) | Stanford (Fei-Fei Li, Guibas, Manling Li) benchmark for 3D spatial reasoning in embodied agents |
 | [Colosseum V2: Benchmarking Generalization for Vision Language Action Models](https://arxiv.org/abs/2605.27759) | — | 2026 | [Paper](https://arxiv.org/abs/2605.27759) | Systematic benchmark exposing VLA generalization gaps under distribution shift across 6 factors |
+| [Embodied3DBench: Benchmarking Low-Level Spatial Intelligence for Embodied Agents](https://arxiv.org/abs/2605.29074) | — | 2026 | [Paper](https://arxiv.org/abs/2605.29074) | 6-category robot-centric 3D spatial intelligence benchmark; PKU + MSRA (Hao Dong, Nan Duan) |
 
 ### Robot Datasets
 
