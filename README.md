@@ -202,6 +202,9 @@
 | [VLA-Pro: Cross-Task Procedural Memory Transfer for Vision-Language-Action Models](https://arxiv.org/abs/2605.29562) | — | 2026 | [Paper](https://arxiv.org/abs/2605.29562) | Plug-and-play procedural memory retrieval improves VLA cross-task generalization |
 | [3DVLA: Integrating 3D Spatial Understanding for Visual-Language-Action Models](https://arxiv.org/abs/2605.29416) | — | 2026 | [Paper](https://arxiv.org/abs/2605.29416) | Plug-and-play 3D spatial perception module boosts VLA manipulation accuracy; PKU |
 | [ElegantVLA: Efficient Vision-Language-Action Models via Adaptive Temporal Reuse](https://arxiv.org/abs/2605.29438) | — | 2026 | [Paper](https://arxiv.org/abs/2605.29438) | Adaptive token reuse skips redundant VLA inference steps; Tsinghua + UIUC |
+| [HARP-VLA: Human-Robot Aligned Representation Learning for Vision-Language-Action Model](https://arxiv.org/abs/2605.31234) | — | 2026 | [Paper](https://arxiv.org/abs/2605.31234) | Cross-embodiment visual alignment bridges human videos and robot VLA pretraining |
+| [DeMaVLA: A Vision-Language-Action Foundation Model for Generalizable Deformable Manipulation](https://arxiv.org/abs/2605.31286) | — | 2026 | [Paper](https://arxiv.org/abs/2605.31286) | VLA foundation model for deformable-object folding across diverse household scenarios |
+| [ELAN4D: Embodiment-Centric 4D Supervision for Vision-Language-Action Models via Plug-and-Play Adaptation](https://arxiv.org/abs/2605.30484) | — | 2026 | [Paper](https://arxiv.org/abs/2605.30484) | Future keypoint track supervision enhances VLA generalization under OOD perturbations |
 
 ---
 
@@ -430,6 +433,7 @@
 | [GEM-4D: Geometry-Enhanced Video World Models for Robot Manipulation](https://arxiv.org/abs/2605.22882) | — | 2026 | [Paper](https://arxiv.org/abs/2605.22882) \| [Project](https://anonymous-submission-20.github.io/gem.github.io/) | 4D geometric correspondence supervision grounds video world model for 61%→81% real manipulation |
 | [SWEET: Sparse World Modeling with Image Editing for Embodied Task Execution](https://arxiv.org/abs/2605.19319) | — | 2026 | [Paper](https://arxiv.org/abs/2605.19319) | Image editing as sparse visual world model predicts keyframes for robot action planning |
 | [stable-worldmodel: Open-Source Reproducible World Model Platform](https://arxiv.org/abs/2605.21800) | — | 2026 | [Paper](https://arxiv.org/abs/2605.21800) | LeCun et al. open-source platform for reproducible world model research and evaluation |
+| [SANTS: A State-Adaptive Scheduler for World Action Models](https://arxiv.org/abs/2605.27947) | — | 2026 | [Paper](https://arxiv.org/abs/2605.27947) \| [Project](https://advanced-robotics-lab.github.io/SANTS/) | State-adaptive denoising depth scheduler reduces WAM passes while boosting action accuracy |
 
 ---
 
