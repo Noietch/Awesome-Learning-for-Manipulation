@@ -205,6 +205,8 @@
 | [HARP-VLA: Human-Robot Aligned Representation Learning for Vision-Language-Action Model](https://arxiv.org/abs/2605.31234) | — | 2026 | [Paper](https://arxiv.org/abs/2605.31234) | Cross-embodiment visual alignment bridges human videos and robot VLA pretraining |
 | [DeMaVLA: A Vision-Language-Action Foundation Model for Generalizable Deformable Manipulation](https://arxiv.org/abs/2605.31286) | — | 2026 | [Paper](https://arxiv.org/abs/2605.31286) | VLA foundation model for deformable-object folding across diverse household scenarios |
 | [ELAN4D: Embodiment-Centric 4D Supervision for Vision-Language-Action Models via Plug-and-Play Adaptation](https://arxiv.org/abs/2605.30484) | — | 2026 | [Paper](https://arxiv.org/abs/2605.30484) | Future keypoint track supervision enhances VLA generalization under OOD perturbations |
+| [The Lie We Tell: Correcting the Euclidean Fallacy in VLA Policies via Score Matching on Tangent Space](https://arxiv.org/abs/2606.01847) | ICML 2026 | 2026 | [Paper](https://arxiv.org/abs/2606.01847) | Lie Diffuser Actor operates natively on SE(3) to fix manifold drift in VLA diffusion policies |
+| [OneVLA: A Unified Framework for Embodied Tasks](https://arxiv.org/abs/2606.01241) | — | 2026 | [Paper](https://arxiv.org/abs/2606.01241) | Single VLA architecture unifying navigation and manipulation via shared action-language tokens |
 
 ---
 
@@ -248,6 +250,7 @@
 | [MoLA: Mixture of Latent Actions for Robot Manipulation via Video Generation](https://arxiv.org/abs/2605.12167) | — | 2026 | [Paper](https://arxiv.org/abs/2605.12167) | Mixes latent futures from video generation to bridge imagination and execution for manipulation |
 | [Demo-JEPA: Joint-Embedding Predictive Architecture for One-shot Cross-Embodiment Imitation](https://arxiv.org/abs/2605.20811) | — | 2026 | [Paper](https://arxiv.org/abs/2605.20811) | JEPA world model enables cross-embodiment imitation via shared predictive latent trajectories |
 | [Turning Video Models into Generalist Robot Policies](https://arxiv.org/abs/2605.27817) | — | 2026 | [Paper](https://arxiv.org/abs/2605.27817) | MIT CSAIL adapts pretrained video models into robot policies via lightweight action heads |
+| [τ₀-WM: A Unified Video-Action World Model for Robotic Manipulation](https://arxiv.org/abs/2606.01027) | — | 2026 | [Paper](https://arxiv.org/abs/2606.01027) | Shared video diffusion backbone jointly predicts future frames and action chunks for manipulation |
 
 ---
 
@@ -434,6 +437,7 @@
 | [SWEET: Sparse World Modeling with Image Editing for Embodied Task Execution](https://arxiv.org/abs/2605.19319) | — | 2026 | [Paper](https://arxiv.org/abs/2605.19319) | Image editing as sparse visual world model predicts keyframes for robot action planning |
 | [stable-worldmodel: Open-Source Reproducible World Model Platform](https://arxiv.org/abs/2605.21800) | — | 2026 | [Paper](https://arxiv.org/abs/2605.21800) | LeCun et al. open-source platform for reproducible world model research and evaluation |
 | [SANTS: A State-Adaptive Scheduler for World Action Models](https://arxiv.org/abs/2605.27947) | — | 2026 | [Paper](https://arxiv.org/abs/2605.27947) \| [Project](https://advanced-robotics-lab.github.io/SANTS/) | State-adaptive denoising depth scheduler reduces WAM passes while boosting action accuracy |
+| [MRO-GWM: Learning Action-Conditional and Object-Centric Gaussian Splatting World Models](https://arxiv.org/abs/2606.01950) | — | 2026 | [Paper](https://arxiv.org/abs/2606.01950) | Object-centric Gaussian splatting with spatio-temporal transformer for multi-rigid-body dynamics prediction |
 
 ---
 
@@ -539,6 +543,7 @@
 | [Diffusion Models for Robots: A Survey](https://arxiv.org/abs/2504.11002) | — | 2025 | [Paper](https://arxiv.org/abs/2504.11002) | Comprehensive survey of diffusion models in robotics |
 | [World Model for Robot Learning: A Comprehensive Survey](https://arxiv.org/abs/2605.00080) | — | 2026 | [Paper](https://arxiv.org/abs/2605.00080) | Comprehensive survey of world models for robot learning, covering paradigms and applications |
 | [World Action Models: The Next Frontier in Embodied AI](https://arxiv.org/abs/2605.12090) | — | 2026 | [Paper](https://arxiv.org/abs/2605.12090) | Survey and position paper unifying world models with action generation in embodied AI |
+| [World Models for Robotic Manipulation: A Survey](https://arxiv.org/abs/2606.00113) | — | 2026 | [Paper](https://arxiv.org/abs/2606.00113) | Taxonomy of world models for manipulation: latent, video, 3D/4D, physics-informed, and VLA-internal |
 | [Robot Learning from Human Videos: A Survey](https://arxiv.org/abs/2604.27621) | — | 2026 | [Paper](https://arxiv.org/abs/2604.27621) \| [Code](https://github.com/IRMVLab/awesome-robot-learning-from-human-videos) | Comprehensive survey of robot learning from human video demonstrations |
 | [Vision-Language-Action in Robotics: A Survey of Datasets, Benchmarks, and Data Engines](https://arxiv.org/abs/2604.23001) | TMLR | 2026 | [Paper](https://arxiv.org/abs/2604.23001) | Data-centric analysis of VLA datasets, benchmarks, and data engines |
 | [From Text to Motion: A Survey on Foundation Models for Robot Manipulation](https://arxiv.org/abs/2501.04838) | — | 2025 | [Paper](https://arxiv.org/abs/2501.04838) | Survey of foundation models for robot manipulation |
