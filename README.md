@@ -207,6 +207,10 @@
 | [ELAN4D: Embodiment-Centric 4D Supervision for Vision-Language-Action Models via Plug-and-Play Adaptation](https://arxiv.org/abs/2605.30484) | — | 2026 | [Paper](https://arxiv.org/abs/2605.30484) | Future keypoint track supervision enhances VLA generalization under OOD perturbations |
 | [The Lie We Tell: Correcting the Euclidean Fallacy in VLA Policies via Score Matching on Tangent Space](https://arxiv.org/abs/2606.01847) | ICML 2026 | 2026 | [Paper](https://arxiv.org/abs/2606.01847) | Lie Diffuser Actor operates natively on SE(3) to fix manifold drift in VLA diffusion policies |
 | [OneVLA: A Unified Framework for Embodied Tasks](https://arxiv.org/abs/2606.01241) | — | 2026 | [Paper](https://arxiv.org/abs/2606.01241) | Single VLA architecture unifying navigation and manipulation via shared action-language tokens |
+| [Continuous Reasoning for Vision-Language-Action](https://arxiv.org/abs/2606.00229) | — | 2026 | [Paper](https://arxiv.org/abs/2606.00229) | Continuous latent reasoning chain at fine temporal scale replaces discrete text reasoning in VLA |
+| [Make Your VLA More Robust Without More Data By Interleaving Motion Planning](https://arxiv.org/abs/2606.00985) | — | 2026 | [Paper](https://arxiv.org/abs/2606.00985) | Interleaving classical motion planning improves VLA long-horizon robustness without extra training data |
+| [BORA: Bridging Offline RL and Online Residual Adaptation for Real-World Dexterous VLA Models](https://arxiv.org/abs/2605.30226) | — | 2026 | [Paper](https://arxiv.org/abs/2605.30226) | Offline RL + online residual adaptation bridges dexterous VLA execution errors for real-world deployment |
+| [Hide-and-Seek in Trajectories: Discovering Failure Signals for VLA Runtime Monitoring](https://arxiv.org/abs/2605.30834) | — | 2026 | [Paper](https://arxiv.org/abs/2605.30834) | Trajectory-based statistical test detects VLA execution failures without expensive outcome annotation |
 
 ---
 
@@ -438,6 +442,7 @@
 | [stable-worldmodel: Open-Source Reproducible World Model Platform](https://arxiv.org/abs/2605.21800) | — | 2026 | [Paper](https://arxiv.org/abs/2605.21800) | LeCun et al. open-source platform for reproducible world model research and evaluation |
 | [SANTS: A State-Adaptive Scheduler for World Action Models](https://arxiv.org/abs/2605.27947) | — | 2026 | [Paper](https://arxiv.org/abs/2605.27947) \| [Project](https://advanced-robotics-lab.github.io/SANTS/) | State-adaptive denoising depth scheduler reduces WAM passes while boosting action accuracy |
 | [MRO-GWM: Learning Action-Conditional and Object-Centric Gaussian Splatting World Models](https://arxiv.org/abs/2606.01950) | — | 2026 | [Paper](https://arxiv.org/abs/2606.01950) | Object-centric Gaussian splatting with spatio-temporal transformer for multi-rigid-body dynamics prediction |
+| [SKIP: Sparse Keyframe Interpolation Paradigm for Efficient Embodied World Models](https://arxiv.org/abs/2606.00664) | — | 2026 | [Paper](https://arxiv.org/abs/2606.00664) | Sparse keyframe prediction then interpolation cuts embodied world model inference cost significantly |
 
 ---
 
@@ -476,6 +481,7 @@
 | [ESI-Bench: Benchmark for Embodied Spatial Intelligence](https://arxiv.org/abs/2605.18746) | — | 2026 | [Paper](https://arxiv.org/abs/2605.18746) | Stanford (Fei-Fei Li, Guibas, Manling Li) benchmark for 3D spatial reasoning in embodied agents |
 | [Colosseum V2: Benchmarking Generalization for Vision Language Action Models](https://arxiv.org/abs/2605.27759) | — | 2026 | [Paper](https://arxiv.org/abs/2605.27759) | Systematic benchmark exposing VLA generalization gaps under distribution shift across 6 factors |
 | [Embodied3DBench: Benchmarking Low-Level Spatial Intelligence for Embodied Agents](https://arxiv.org/abs/2605.29074) | — | 2026 | [Paper](https://arxiv.org/abs/2605.29074) | 6-category robot-centric 3D spatial intelligence benchmark; PKU + MSRA (Hao Dong, Nan Duan) |
+| [SafeVLA-Bench: A Benchmark for the Success-Safety Gap in Vision-Language-Action Models](https://arxiv.org/abs/2606.00773) | — | 2026 | [Paper](https://arxiv.org/abs/2606.00773) | Post-hoc safety evaluation reveals VLAs can succeed on task while violating safety constraints |
 
 ### Robot Datasets
 
@@ -544,6 +550,7 @@
 | [World Model for Robot Learning: A Comprehensive Survey](https://arxiv.org/abs/2605.00080) | — | 2026 | [Paper](https://arxiv.org/abs/2605.00080) | Comprehensive survey of world models for robot learning, covering paradigms and applications |
 | [World Action Models: The Next Frontier in Embodied AI](https://arxiv.org/abs/2605.12090) | — | 2026 | [Paper](https://arxiv.org/abs/2605.12090) | Survey and position paper unifying world models with action generation in embodied AI |
 | [World Models for Robotic Manipulation: A Survey](https://arxiv.org/abs/2606.00113) | — | 2026 | [Paper](https://arxiv.org/abs/2606.00113) | Taxonomy of world models for manipulation: latent, video, 3D/4D, physics-informed, and VLA-internal |
+| [From Human Videos to Robot Manipulation: A Survey on Scalable VLA Learning with Human-Centric Data](https://arxiv.org/abs/2606.00054) | — | 2026 | [Paper](https://arxiv.org/abs/2606.00054) | Survey on using abundant human videos to scale VLA training beyond costly robot demonstrations |
 | [Robot Learning from Human Videos: A Survey](https://arxiv.org/abs/2604.27621) | — | 2026 | [Paper](https://arxiv.org/abs/2604.27621) \| [Code](https://github.com/IRMVLab/awesome-robot-learning-from-human-videos) | Comprehensive survey of robot learning from human video demonstrations |
 | [Vision-Language-Action in Robotics: A Survey of Datasets, Benchmarks, and Data Engines](https://arxiv.org/abs/2604.23001) | TMLR | 2026 | [Paper](https://arxiv.org/abs/2604.23001) | Data-centric analysis of VLA datasets, benchmarks, and data engines |
 | [From Text to Motion: A Survey on Foundation Models for Robot Manipulation](https://arxiv.org/abs/2501.04838) | — | 2025 | [Paper](https://arxiv.org/abs/2501.04838) | Survey of foundation models for robot manipulation |
