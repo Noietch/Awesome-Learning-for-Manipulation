@@ -211,6 +211,9 @@
 | [Make Your VLA More Robust Without More Data By Interleaving Motion Planning](https://arxiv.org/abs/2606.00985) | — | 2026 | [Paper](https://arxiv.org/abs/2606.00985) | Interleaving classical motion planning improves VLA long-horizon robustness without extra training data |
 | [BORA: Bridging Offline RL and Online Residual Adaptation for Real-World Dexterous VLA Models](https://arxiv.org/abs/2605.30226) | — | 2026 | [Paper](https://arxiv.org/abs/2605.30226) | Offline RL + online residual adaptation bridges dexterous VLA execution errors for real-world deployment |
 | [Hide-and-Seek in Trajectories: Discovering Failure Signals for VLA Runtime Monitoring](https://arxiv.org/abs/2605.30834) | — | 2026 | [Paper](https://arxiv.org/abs/2605.30834) | Trajectory-based statistical test detects VLA execution failures without expensive outcome annotation |
+| [Dive into the Scene: Breaking the Perceptual Bottleneck in Vision-Language Decision Making](https://arxiv.org/abs/2606.04046) | ICML 2026 | 2026 | [Paper](https://arxiv.org/abs/2606.04046) | Focus-plan generation breaks scene perceptual bottleneck in VLA/VLM embodied decision making |
+| [Potential-Guided Flow Matching for Vision-Language-Action Policy Improvement](https://arxiv.org/abs/2606.04968) | — | 2026 | [Paper](https://arxiv.org/abs/2606.04968) | Potential-guided flow matching leverages mixed-quality deployment experience to improve VLA policies |
+| [3DThinkVLA: Endowing Vision-Language-Action Models with Latent 3D Priors via 3D-Thinking-Guided Co-training](https://arxiv.org/abs/2606.04436) | — | 2026 | [Paper](https://arxiv.org/abs/2606.04436) | 3D-thinking-guided co-training implicitly endows VLA with geometry-aware spatial reasoning |
 
 ---
 
@@ -443,6 +446,7 @@
 | [SANTS: A State-Adaptive Scheduler for World Action Models](https://arxiv.org/abs/2605.27947) | — | 2026 | [Paper](https://arxiv.org/abs/2605.27947) \| [Project](https://advanced-robotics-lab.github.io/SANTS/) | State-adaptive denoising depth scheduler reduces WAM passes while boosting action accuracy |
 | [MRO-GWM: Learning Action-Conditional and Object-Centric Gaussian Splatting World Models](https://arxiv.org/abs/2606.01950) | — | 2026 | [Paper](https://arxiv.org/abs/2606.01950) | Object-centric Gaussian splatting with spatio-temporal transformer for multi-rigid-body dynamics prediction |
 | [SKIP: Sparse Keyframe Interpolation Paradigm for Efficient Embodied World Models](https://arxiv.org/abs/2606.00664) | — | 2026 | [Paper](https://arxiv.org/abs/2606.00664) | Sparse keyframe prediction then interpolation cuts embodied world model inference cost significantly |
+| [LDA-1B: Scaling Latent Dynamics Action Model via Universal Embodied Data Ingestion](https://arxiv.org/abs/2602.12215) | RSS 2026 | 2026 | [Paper](https://arxiv.org/abs/2602.12215) \| [Project](https://pku-epic.github.io/LDA) | PKU EPIC: scales latent dynamics world model across heterogeneous embodied data to 1B parameters |
 
 ---
 
@@ -482,6 +486,7 @@
 | [Colosseum V2: Benchmarking Generalization for Vision Language Action Models](https://arxiv.org/abs/2605.27759) | — | 2026 | [Paper](https://arxiv.org/abs/2605.27759) | Systematic benchmark exposing VLA generalization gaps under distribution shift across 6 factors |
 | [Embodied3DBench: Benchmarking Low-Level Spatial Intelligence for Embodied Agents](https://arxiv.org/abs/2605.29074) | — | 2026 | [Paper](https://arxiv.org/abs/2605.29074) | 6-category robot-centric 3D spatial intelligence benchmark; PKU + MSRA (Hao Dong, Nan Duan) |
 | [SafeVLA-Bench: A Benchmark for the Success-Safety Gap in Vision-Language-Action Models](https://arxiv.org/abs/2606.00773) | — | 2026 | [Paper](https://arxiv.org/abs/2606.00773) | Post-hoc safety evaluation reveals VLAs can succeed on task while violating safety constraints |
+| [What Are We Actually Benchmarking in Robot Manipulation?](https://arxiv.org/abs/2606.04233) | — | 2026 | [Paper](https://arxiv.org/abs/2606.04233) | Identifies four failure modes of manipulation benchmarks that overstate generalization claims |
 
 ### Robot Datasets
 
@@ -491,6 +496,7 @@
 | [Open-H-Embodiment: Large-Scale Dataset for Foundation Models in Medical Robotics](https://arxiv.org/abs/2604.21017) | — | 2026 | [Paper](https://arxiv.org/abs/2604.21017) | Multi-institution consortium dataset enabling foundation models for medical robotics |
 | [EgoMimic: Scaling Imitation Learning via Egocentric Video](https://arxiv.org/abs/2410.24221) | CoRL | 2024 | [Paper](https://arxiv.org/abs/2410.24221) | Egocentric human video for robot imitation learning |
 | [SABER: A Scalable Action-Based Embodied Dataset for Real-World VLA Adaptation](https://arxiv.org/abs/2605.09613) | — | 2026 | [Paper](https://arxiv.org/abs/2605.09613) \| [Project](https://dreamvu.ai/saber) | 100+ hours retail in-store capture; 44.8K samples for VLA adaptation without teleoperation |
+| [HapTile: A Haptic-Informed Vision-Tactile-Language-Action Dataset for Contact-Rich Imitation Learning](https://arxiv.org/abs/2606.04825) | — | 2026 | [Paper](https://arxiv.org/abs/2606.04825) | Huawei Noah's Ark: multimodal VLA dataset combining vision, haptics, and tactile for contact-rich tasks |
 | [DROID: A Large-Scale In-the-Wild Robot Manipulation Dataset](https://arxiv.org/abs/2403.12945) | RSS | 2024 | [Paper](https://arxiv.org/abs/2403.12945) \| [Project](https://droid-dataset.github.io/) | 76k demonstrations across 86 environments |
 | [Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://arxiv.org/abs/2310.08864) | ICRA Best Paper | 2024 | [Paper](https://arxiv.org/abs/2310.08864) \| [Project](https://robotics-transformer-x.github.io/) | 1M+ real-robot demos from 22 robots and 21 institutions |
 | [BridgeData V2: A Dataset for Robot Learning at Scale](https://arxiv.org/abs/2308.12952) | CoRL | 2023 | [Paper](https://arxiv.org/abs/2308.12952) \| [Project](https://rail-berkeley.github.io/bridgedata/) | 60k+ kitchen manipulation demonstrations |
