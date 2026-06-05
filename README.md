@@ -214,6 +214,9 @@
 | [Dive into the Scene: Breaking the Perceptual Bottleneck in Vision-Language Decision Making](https://arxiv.org/abs/2606.04046) | ICML 2026 | 2026 | [Paper](https://arxiv.org/abs/2606.04046) | Focus-plan generation breaks scene perceptual bottleneck in VLA/VLM embodied decision making |
 | [Potential-Guided Flow Matching for Vision-Language-Action Policy Improvement](https://arxiv.org/abs/2606.04968) | — | 2026 | [Paper](https://arxiv.org/abs/2606.04968) | Potential-guided flow matching leverages mixed-quality deployment experience to improve VLA policies |
 | [3DThinkVLA: Endowing Vision-Language-Action Models with Latent 3D Priors via 3D-Thinking-Guided Co-training](https://arxiv.org/abs/2606.04436) | — | 2026 | [Paper](https://arxiv.org/abs/2606.04436) | 3D-thinking-guided co-training implicitly endows VLA with geometry-aware spatial reasoning |
+| [Revisiting Embodied Chain-of-Thought for Generalizable Robot Manipulation](https://arxiv.org/abs/2606.03784) | — | 2026 | [Paper](https://arxiv.org/abs/2606.03784) | Largest embodied CoT corpus (978K trajectories) reveals effective grounding strategies for VLA |
+| [VISTA: Vision-Grounded and Physics-Validated Adaptation of UMI Data for VLA Training](https://arxiv.org/abs/2606.04708) | — | 2026 | [Paper](https://arxiv.org/abs/2606.04708) | Bridges UMI fisheye data to VLA training via vision grounding and physics validation |
+| [PHASER: Phase-Aware and Semantic Experience Replay for Vision-Language-Action Models](https://arxiv.org/abs/2606.03598) | — | 2026 | [Paper](https://arxiv.org/abs/2606.03598) | Phase-aware replay aligns with manipulation temporal structure for continual VLA learning |
 
 ---
 
@@ -258,6 +261,8 @@
 | [Demo-JEPA: Joint-Embedding Predictive Architecture for One-shot Cross-Embodiment Imitation](https://arxiv.org/abs/2605.20811) | — | 2026 | [Paper](https://arxiv.org/abs/2605.20811) | JEPA world model enables cross-embodiment imitation via shared predictive latent trajectories |
 | [Turning Video Models into Generalist Robot Policies](https://arxiv.org/abs/2605.27817) | — | 2026 | [Paper](https://arxiv.org/abs/2605.27817) | MIT CSAIL adapts pretrained video models into robot policies via lightweight action heads |
 | [τ₀-WM: A Unified Video-Action World Model for Robotic Manipulation](https://arxiv.org/abs/2606.01027) | — | 2026 | [Paper](https://arxiv.org/abs/2606.01027) | Shared video diffusion backbone jointly predicts future frames and action chunks for manipulation |
+| [OSCAR: Omni-Embodiment Action-Conditioned World Model for Robotics](https://arxiv.org/abs/2606.04463) | — | 2026 | [Paper](https://arxiv.org/abs/2606.04463) | Cross-embodiment video world model with standardized data pipeline for robot policy evaluation |
+| [CLAW: Learning Continuous Latent Action World Models via Adversarial Latent Regularization](https://arxiv.org/abs/2606.04130) | — | 2026 | [Paper](https://arxiv.org/abs/2606.04130) | End-to-end self-supervised world model learns continuous latent actions from action-free videos |
 
 ---
 
