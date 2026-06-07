@@ -99,6 +99,7 @@
 | [CO-RFT: Efficient Fine-Tuning of Vision-Language-Action Models through Chunked Offline Reinforcement Learning](https://arxiv.org/abs/2508.02219) | — | 2025 | [Paper](https://arxiv.org/abs/2508.02219) | Chunked offline RL for efficient VLA fine-tuning |
 | [What Can RL Bring to VLA Generalization? An Empirical Study](https://arxiv.org/abs/2505.19789) | NeurIPS | 2025 | [Paper](https://arxiv.org/abs/2505.19789) | Empirical analysis of RL's role in improving VLA generalization |
 | [What to Ignore, What to React: Visually Robust RL Fine-Tuning of VLA Models](https://arxiv.org/abs/2605.13105) | — | 2026 | [Paper](https://arxiv.org/abs/2605.13105) | Decouples visual robustness from task rewards for deployment-robust RL fine-tuning of VLAs |
+| [FlowPRO: Reward-Free Reinforced Fine-Tuning of Flow-Matching VLAs via Proximalized Preference Optimization](https://arxiv.org/abs/2606.05468) | — | 2026 | [Paper](https://arxiv.org/abs/2606.05468) | Reward-free preference optimization tailored for flow-matching VLA post-training |
 | [ReinboT: Amplifying Robot Visual-Language Manipulation with Reinforcement Learning](https://arxiv.org/abs/2505.07395) | ICML | 2025 | [Paper](https://arxiv.org/abs/2505.07395) | RL amplifies VL manipulation performance via reward-guided exploration |
 | [MoRE: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models](https://arxiv.org/abs/2503.08007) | ICRA | 2025 | [Paper](https://arxiv.org/abs/2503.08007) | Scalable RL framework for quadruped VLA locomotion and manipulation |
 | [SafeVLA: Towards Safety Alignment of Vision-Language-Action Model via Constrained Learning](https://arxiv.org/abs/2503.03480) | NeurIPS | 2025 | [Paper](https://arxiv.org/abs/2503.03480) | Constrained RL aligns VLA models with safety objectives |
@@ -217,6 +218,8 @@
 | [Revisiting Embodied Chain-of-Thought for Generalizable Robot Manipulation](https://arxiv.org/abs/2606.03784) | — | 2026 | [Paper](https://arxiv.org/abs/2606.03784) | Largest embodied CoT corpus (978K trajectories) reveals effective grounding strategies for VLA |
 | [VISTA: Vision-Grounded and Physics-Validated Adaptation of UMI Data for VLA Training](https://arxiv.org/abs/2606.04708) | — | 2026 | [Paper](https://arxiv.org/abs/2606.04708) | Bridges UMI fisheye data to VLA training via vision grounding and physics validation |
 | [PHASER: Phase-Aware and Semantic Experience Replay for Vision-Language-Action Models](https://arxiv.org/abs/2606.03598) | — | 2026 | [Paper](https://arxiv.org/abs/2606.03598) | Phase-aware replay aligns with manipulation temporal structure for continual VLA learning |
+| [TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies](https://arxiv.org/abs/2606.06491) | — | 2026 | [Paper](https://arxiv.org/abs/2606.06491) | Enables continuous speed control in VLA via action magnitude modulation |
+| [World-Language-Action Model for Unified World Modeling, Language Reasoning, and Action Synthesis](https://arxiv.org/abs/2606.05979) | — | 2026 | [Paper](https://arxiv.org/abs/2606.05979) | Autoregressive WLA unifies world prediction, language reasoning, and action generation |
 
 ---
 
@@ -359,6 +362,7 @@
 | [MonoDuo: Using One Robot Arm to Learn Bimanual Policies](https://arxiv.org/abs/2605.29298) | ICRA | 2026 | [Paper](https://arxiv.org/abs/2605.29298) | Single-arm teleoperation with human collaboration learns bimanual policies; Berkeley/Malik |
 | [MARS Policy: Efficient Generative Policy via Adaptive Multimodal Selection](https://arxiv.org/abs/2605.29766) | — | 2026 | [Paper](https://arxiv.org/abs/2605.29766) \| [Project](https://lorenzo-0-0.github.io/MARS_Policy/) | Applies multimodal reasoning only when needed; NTU MARS Lab |
 | [DynaFLIP: Dynamics-Aware Tri-Modal Pre-Training for Robot Visual Representations](https://arxiv.org/abs/2605.30350) | — | 2026 | [Paper](https://arxiv.org/abs/2605.30350) | Dynamics-aware RGB-depth-force tri-modal pre-training improves manipulation policies; SNU + UMD + GaTech |
+| [GRAIL: Generating Humanoid Loco-Manipulation from 3D Assets and Video Priors](https://arxiv.org/abs/2606.05160) | — | 2026 | [Paper](https://arxiv.org/abs/2606.05160) | NVIDIA virtual pipeline generates humanoid loco-manipulation demos from 3D assets and video models |
 
 ---
 
@@ -451,6 +455,7 @@
 | [SANTS: A State-Adaptive Scheduler for World Action Models](https://arxiv.org/abs/2605.27947) | — | 2026 | [Paper](https://arxiv.org/abs/2605.27947) \| [Project](https://advanced-robotics-lab.github.io/SANTS/) | State-adaptive denoising depth scheduler reduces WAM passes while boosting action accuracy |
 | [MRO-GWM: Learning Action-Conditional and Object-Centric Gaussian Splatting World Models](https://arxiv.org/abs/2606.01950) | — | 2026 | [Paper](https://arxiv.org/abs/2606.01950) | Object-centric Gaussian splatting with spatio-temporal transformer for multi-rigid-body dynamics prediction |
 | [SKIP: Sparse Keyframe Interpolation Paradigm for Efficient Embodied World Models](https://arxiv.org/abs/2606.00664) | — | 2026 | [Paper](https://arxiv.org/abs/2606.00664) | Sparse keyframe prediction then interpolation cuts embodied world model inference cost significantly |
+| [PiL-World: A Chunk-Wise World Model for VLA Policy-in-the-Loop Evaluation](https://arxiv.org/abs/2606.05773) | — | 2026 | [Paper](https://arxiv.org/abs/2606.05773) | Chunk-wise world model enables closed-loop VLA evaluation without real robot |
 | [LDA-1B: Scaling Latent Dynamics Action Model via Universal Embodied Data Ingestion](https://arxiv.org/abs/2602.12215) | RSS 2026 | 2026 | [Paper](https://arxiv.org/abs/2602.12215) \| [Project](https://pku-epic.github.io/LDA) | PKU EPIC: scales latent dynamics world model across heterogeneous embodied data to 1B parameters |
 
 ---
