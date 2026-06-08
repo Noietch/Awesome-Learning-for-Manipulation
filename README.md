@@ -220,6 +220,10 @@
 | [PHASER: Phase-Aware and Semantic Experience Replay for Vision-Language-Action Models](https://arxiv.org/abs/2606.03598) | — | 2026 | [Paper](https://arxiv.org/abs/2606.03598) | Phase-aware replay aligns with manipulation temporal structure for continual VLA learning |
 | [TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies](https://arxiv.org/abs/2606.06491) | — | 2026 | [Paper](https://arxiv.org/abs/2606.06491) | Enables continuous speed control in VLA via action magnitude modulation |
 | [World-Language-Action Model for Unified World Modeling, Language Reasoning, and Action Synthesis](https://arxiv.org/abs/2606.05979) | — | 2026 | [Paper](https://arxiv.org/abs/2606.05979) | Autoregressive WLA unifies world prediction, language reasoning, and action generation |
+| [RhinoVLA Technical Report](https://arxiv.org/abs/2606.07383) | — | 2026 | [Paper](https://arxiv.org/abs/2606.07383) \| [Code](https://github.com/HuixiAI/RhinoVLA) | Reduces VLA deployment latency via visual token compression for edge hardware |
+| [ActionMap: Robot Policy Learning via Voxel Action Heatmap](https://arxiv.org/abs/2606.06904) | — | 2026 | [Paper](https://arxiv.org/abs/2606.06904) \| [Code](https://github.com/showlab/ActionMap) | Replaces single-point action decoders with spatial voxel heatmap prediction |
+| [Coarse-to-Control: Action-Token Planning for Vision-Language-Action Models](https://arxiv.org/abs/2606.07107) | — | 2026 | [Paper](https://arxiv.org/abs/2606.07107) | Plan-execute VLA with coarse action-token planning for long-horizon tasks |
+| [LARA: Latent Action Representation Alignment for Vision-Language-Action Models](https://arxiv.org/abs/2606.07100) | — | 2026 | [Paper](https://arxiv.org/abs/2606.07100) | Aligns latent actions from human videos to enable VLA learning without robot data |
 
 ---
 
@@ -363,6 +367,7 @@
 | [MARS Policy: Efficient Generative Policy via Adaptive Multimodal Selection](https://arxiv.org/abs/2605.29766) | — | 2026 | [Paper](https://arxiv.org/abs/2605.29766) \| [Project](https://lorenzo-0-0.github.io/MARS_Policy/) | Applies multimodal reasoning only when needed; NTU MARS Lab |
 | [DynaFLIP: Dynamics-Aware Tri-Modal Pre-Training for Robot Visual Representations](https://arxiv.org/abs/2605.30350) | — | 2026 | [Paper](https://arxiv.org/abs/2605.30350) | Dynamics-aware RGB-depth-force tri-modal pre-training improves manipulation policies; SNU + UMD + GaTech |
 | [GRAIL: Generating Humanoid Loco-Manipulation from 3D Assets and Video Priors](https://arxiv.org/abs/2606.05160) | — | 2026 | [Paper](https://arxiv.org/abs/2606.05160) | NVIDIA virtual pipeline generates humanoid loco-manipulation demos from 3D assets and video models |
+| [Spline Policy: A Structured Representation for Robot Policies](https://arxiv.org/abs/2606.07386) | — | 2026 | [Paper](https://arxiv.org/abs/2606.07386) | Replaces action chunks with spline parameters for structured imitation learning |
 
 ---
 
