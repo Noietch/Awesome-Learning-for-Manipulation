@@ -368,6 +368,8 @@
 | [DynaFLIP: Dynamics-Aware Tri-Modal Pre-Training for Robot Visual Representations](https://arxiv.org/abs/2605.30350) | — | 2026 | [Paper](https://arxiv.org/abs/2605.30350) | Dynamics-aware RGB-depth-force tri-modal pre-training improves manipulation policies; SNU + UMD + GaTech |
 | [GRAIL: Generating Humanoid Loco-Manipulation from 3D Assets and Video Priors](https://arxiv.org/abs/2606.05160) | — | 2026 | [Paper](https://arxiv.org/abs/2606.05160) | NVIDIA virtual pipeline generates humanoid loco-manipulation demos from 3D assets and video models |
 | [Spline Policy: A Structured Representation for Robot Policies](https://arxiv.org/abs/2606.07386) | — | 2026 | [Paper](https://arxiv.org/abs/2606.07386) | Replaces action chunks with spline parameters for structured imitation learning |
+| [AxisGuide: Grounding Robot Action Coordinate System in RGB Observations for Robust Visuomotor Manipulation](https://arxiv.org/abs/2606.06761) | RSS | 2026 | [Paper](https://arxiv.org/abs/2606.06761) | Coordinate-system grounding in RGB for viewpoint-robust visuomotor manipulation |
+| [What Matters When Cotraining Robot Manipulation Policies on Everyday Human Videos?](https://arxiv.org/abs/2606.06627) | — | 2026 | [Paper](https://arxiv.org/abs/2606.06627) \| [Project](https://richardrl.github.io/what-matters-cotraining-human-videos/index.html) | Systematic study of cotraining manipulation policies on Internet human videos |
 
 ---
 
@@ -462,6 +464,7 @@
 | [SKIP: Sparse Keyframe Interpolation Paradigm for Efficient Embodied World Models](https://arxiv.org/abs/2606.00664) | — | 2026 | [Paper](https://arxiv.org/abs/2606.00664) | Sparse keyframe prediction then interpolation cuts embodied world model inference cost significantly |
 | [PiL-World: A Chunk-Wise World Model for VLA Policy-in-the-Loop Evaluation](https://arxiv.org/abs/2606.05773) | — | 2026 | [Paper](https://arxiv.org/abs/2606.05773) | Chunk-wise world model enables closed-loop VLA evaluation without real robot |
 | [LDA-1B: Scaling Latent Dynamics Action Model via Universal Embodied Data Ingestion](https://arxiv.org/abs/2602.12215) | RSS 2026 | 2026 | [Paper](https://arxiv.org/abs/2602.12215) \| [Project](https://pku-epic.github.io/LDA) | PKU EPIC: scales latent dynamics world model across heterogeneous embodied data to 1B parameters |
+| [Dreaming when Necessary: Advancing World Action Models with Adaptive Multi-Modal Reasoning](https://arxiv.org/abs/2606.07089) | — | 2026 | [Paper](https://arxiv.org/abs/2606.07089) | Adaptive multimodal reasoning selects video/language priors per-step for long-horizon WAMs |
 
 ---
 
@@ -572,6 +575,7 @@
 | [World Action Models: The Next Frontier in Embodied AI](https://arxiv.org/abs/2605.12090) | — | 2026 | [Paper](https://arxiv.org/abs/2605.12090) | Survey and position paper unifying world models with action generation in embodied AI |
 | [World Models for Robotic Manipulation: A Survey](https://arxiv.org/abs/2606.00113) | — | 2026 | [Paper](https://arxiv.org/abs/2606.00113) | Taxonomy of world models for manipulation: latent, video, 3D/4D, physics-informed, and VLA-internal |
 | [From Human Videos to Robot Manipulation: A Survey on Scalable VLA Learning with Human-Centric Data](https://arxiv.org/abs/2606.00054) | — | 2026 | [Paper](https://arxiv.org/abs/2606.00054) | Survey on using abundant human videos to scale VLA training beyond costly robot demonstrations |
+| [Robots Need More than VLA and World Models](https://arxiv.org/abs/2606.06556) | — | 2026 | [Paper](https://arxiv.org/abs/2606.06556) | Position paper arguing scaling alone is insufficient; robots need richer architectural priors |
 | [Robot Learning from Human Videos: A Survey](https://arxiv.org/abs/2604.27621) | — | 2026 | [Paper](https://arxiv.org/abs/2604.27621) \| [Code](https://github.com/IRMVLab/awesome-robot-learning-from-human-videos) | Comprehensive survey of robot learning from human video demonstrations |
 | [Vision-Language-Action in Robotics: A Survey of Datasets, Benchmarks, and Data Engines](https://arxiv.org/abs/2604.23001) | TMLR | 2026 | [Paper](https://arxiv.org/abs/2604.23001) | Data-centric analysis of VLA datasets, benchmarks, and data engines |
 | [From Text to Motion: A Survey on Foundation Models for Robot Manipulation](https://arxiv.org/abs/2501.04838) | — | 2025 | [Paper](https://arxiv.org/abs/2501.04838) | Survey of foundation models for robot manipulation |
