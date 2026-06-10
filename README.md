@@ -224,6 +224,8 @@
 | [ActionMap: Robot Policy Learning via Voxel Action Heatmap](https://arxiv.org/abs/2606.06904) | — | 2026 | [Paper](https://arxiv.org/abs/2606.06904) \| [Code](https://github.com/showlab/ActionMap) | Replaces single-point action decoders with spatial voxel heatmap prediction |
 | [Coarse-to-Control: Action-Token Planning for Vision-Language-Action Models](https://arxiv.org/abs/2606.07107) | — | 2026 | [Paper](https://arxiv.org/abs/2606.07107) | Plan-execute VLA with coarse action-token planning for long-horizon tasks |
 | [LARA: Latent Action Representation Alignment for Vision-Language-Action Models](https://arxiv.org/abs/2606.07100) | — | 2026 | [Paper](https://arxiv.org/abs/2606.07100) | Aligns latent actions from human videos to enable VLA learning without robot data |
+| [SARM2: Multi-Task Stage Aware Reward Modeling for Self Improving Robotic Manipulation](https://arxiv.org/abs/2606.10305) | — | 2026 | [Paper](https://arxiv.org/abs/2606.10305) \| [Project](https://qianzhong-chen.github.io/sarm2.github.io/) | Stage-aware dense reward model enables on-policy VLA self-improvement; Berkeley |
+| [What Matters in Orchestrating Robot Policies: A Systematic Study of Hierarchical VLA Agents](https://arxiv.org/abs/2606.10267) | — | 2026 | [Paper](https://arxiv.org/abs/2606.10267) \| [Project](https://jiahenghu.github.io/hi-vla) | Systematic Hi-VLA design study distills principled hierarchy for long-horizon manipulation; Google DeepMind |
 
 ---
 
@@ -370,6 +372,7 @@
 | [Spline Policy: A Structured Representation for Robot Policies](https://arxiv.org/abs/2606.07386) | — | 2026 | [Paper](https://arxiv.org/abs/2606.07386) | Replaces action chunks with spline parameters for structured imitation learning |
 | [AxisGuide: Grounding Robot Action Coordinate System in RGB Observations for Robust Visuomotor Manipulation](https://arxiv.org/abs/2606.06761) | RSS | 2026 | [Paper](https://arxiv.org/abs/2606.06761) | Coordinate-system grounding in RGB for viewpoint-robust visuomotor manipulation |
 | [What Matters When Cotraining Robot Manipulation Policies on Everyday Human Videos?](https://arxiv.org/abs/2606.06627) | — | 2026 | [Paper](https://arxiv.org/abs/2606.06627) \| [Project](https://richardrl.github.io/what-matters-cotraining-human-videos/index.html) | Systematic study of cotraining manipulation policies on Internet human videos |
+| [Dexterous Point Policy: Learning Dexterous Manipulation from Human Videos via 3D Keypoints](https://arxiv.org/abs/2606.10614) | — | 2026 | [Paper](https://arxiv.org/abs/2606.10614) | 3D keypoint transfer enables dexterous manipulation from human videos without robot demos; KAIST |
 
 ---
 
@@ -465,6 +468,8 @@
 | [PiL-World: A Chunk-Wise World Model for VLA Policy-in-the-Loop Evaluation](https://arxiv.org/abs/2606.05773) | — | 2026 | [Paper](https://arxiv.org/abs/2606.05773) | Chunk-wise world model enables closed-loop VLA evaluation without real robot |
 | [LDA-1B: Scaling Latent Dynamics Action Model via Universal Embodied Data Ingestion](https://arxiv.org/abs/2602.12215) | RSS 2026 | 2026 | [Paper](https://arxiv.org/abs/2602.12215) \| [Project](https://pku-epic.github.io/LDA) | PKU EPIC: scales latent dynamics world model across heterogeneous embodied data to 1B parameters |
 | [Dreaming when Necessary: Advancing World Action Models with Adaptive Multi-Modal Reasoning](https://arxiv.org/abs/2606.07089) | — | 2026 | [Paper](https://arxiv.org/abs/2606.07089) | Adaptive multimodal reasoning selects video/language priors per-step for long-horizon WAMs |
+| [Efficient-WAM: A 1B-Parameter World-Action Model with Low-Cost Future Imagination](https://arxiv.org/abs/2606.10040) | — | 2026 | [Paper](https://arxiv.org/abs/2606.10040) | Compact video expert + asymmetric denoising achieves 30× WAM speedup at 100ms latency |
+| [TacForeSight: Force-Guided Tactile World Model for Contact-Rich Manipulation](https://arxiv.org/abs/2606.11184) | — | 2026 | [Paper](https://arxiv.org/abs/2606.11184) \| [Project](https://tacforesight.github.io/ProjectPage) | Force-conditioned tactile foresight enables proactive contact reasoning for real-time manipulation |
 
 ---
 
