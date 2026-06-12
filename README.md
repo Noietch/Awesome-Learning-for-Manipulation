@@ -226,6 +226,7 @@
 | [LARA: Latent Action Representation Alignment for Vision-Language-Action Models](https://arxiv.org/abs/2606.07100) | — | 2026 | [Paper](https://arxiv.org/abs/2606.07100) | Aligns latent actions from human videos to enable VLA learning without robot data |
 | [SARM2: Multi-Task Stage Aware Reward Modeling for Self Improving Robotic Manipulation](https://arxiv.org/abs/2606.10305) | — | 2026 | [Paper](https://arxiv.org/abs/2606.10305) \| [Project](https://qianzhong-chen.github.io/sarm2.github.io/) | Stage-aware dense reward model enables on-policy VLA self-improvement; Berkeley |
 | [What Matters in Orchestrating Robot Policies: A Systematic Study of Hierarchical VLA Agents](https://arxiv.org/abs/2606.10267) | — | 2026 | [Paper](https://arxiv.org/abs/2606.10267) \| [Project](https://jiahenghu.github.io/hi-vla) | Systematic Hi-VLA design study distills principled hierarchy for long-horizon manipulation; Google DeepMind |
+| [CHORUS: Decentralized Multi-Embodiment Collaboration with One VLA Policy](https://arxiv.org/abs/2606.12352) | — | 2026 | [Paper](https://arxiv.org/abs/2606.12352) \| [Project](https://chorus-vla.github.io/) | Single VLA policy enables decentralized multi-robot coordination; Stanford Finn & Bohg |
 
 ---
 
@@ -373,6 +374,8 @@
 | [AxisGuide: Grounding Robot Action Coordinate System in RGB Observations for Robust Visuomotor Manipulation](https://arxiv.org/abs/2606.06761) | RSS | 2026 | [Paper](https://arxiv.org/abs/2606.06761) | Coordinate-system grounding in RGB for viewpoint-robust visuomotor manipulation |
 | [What Matters When Cotraining Robot Manipulation Policies on Everyday Human Videos?](https://arxiv.org/abs/2606.06627) | — | 2026 | [Paper](https://arxiv.org/abs/2606.06627) \| [Project](https://richardrl.github.io/what-matters-cotraining-human-videos/index.html) | Systematic study of cotraining manipulation policies on Internet human videos |
 | [Dexterous Point Policy: Learning Dexterous Manipulation from Human Videos via 3D Keypoints](https://arxiv.org/abs/2606.10614) | — | 2026 | [Paper](https://arxiv.org/abs/2606.10614) | 3D keypoint transfer enables dexterous manipulation from human videos without robot demos; KAIST |
+| [GHOST: Hierarchical Sub-Goal Policies for Generalizing Robot Manipulation](https://arxiv.org/abs/2606.10025) | RSS 2026 | 2026 | [Paper](https://arxiv.org/abs/2606.10025) | Factorizes control into sub-goal prediction and reaching for OOD generalization; CMU |
+| [Ambient Diffusion Policy: Imitation Learning from Suboptimal Data in Robotics](https://arxiv.org/abs/2606.12365) | — | 2026 | [Paper](https://arxiv.org/abs/2606.12365) \| [Project](https://ambient-diffusion-policy.github.io/) | Principled method to learn optimal policies from noisy suboptimal demonstrations; MIT Tedrake |
 
 ---
 
@@ -397,6 +400,7 @@
 | [AnchorVLA: Anchored Diffusion for Efficient Mobile Manipulation](https://arxiv.org/abs/2604.01567) | arXiv | 2026 | [Paper](https://arxiv.org/abs/2604.01567) \| [Code](https://github.com/jason-lim26/AnchorVLA) | Anchored diffusion VLA for mobile manipulation with residual drift correction |
 | [RLDX-1: General-Purpose Robotic Policy for Dexterous Manipulation](https://arxiv.org/abs/2605.03269) | — | 2026 | [Paper](https://arxiv.org/abs/2605.03269) \| [Project](https://rlwrld.ai/rldx-1) | Multi-stream action transformer VLA outperforms frontier models on dexterous tasks |
 | [PhysBrain 1.0 Technical Report](https://arxiv.org/abs/2605.15298) | Tech Report | 2026 | [Paper](https://arxiv.org/abs/2605.15298) | Egocentric video → structured physical-commonsense supervision enhances VLA physical understanding |
+| [Embodied-R1.5: Evolving Physical Intelligence via Embodied Foundation Models](https://arxiv.org/abs/2606.11324) | Tech Report | 2026 | [Paper](https://arxiv.org/abs/2606.11324) \| [Project](https://embodied-r1.github.io/) | Unified EFM integrating embodied cognition, planning, correction, and pointing |
 
 ---
 
@@ -470,6 +474,7 @@
 | [Dreaming when Necessary: Advancing World Action Models with Adaptive Multi-Modal Reasoning](https://arxiv.org/abs/2606.07089) | — | 2026 | [Paper](https://arxiv.org/abs/2606.07089) | Adaptive multimodal reasoning selects video/language priors per-step for long-horizon WAMs |
 | [Efficient-WAM: A 1B-Parameter World-Action Model with Low-Cost Future Imagination](https://arxiv.org/abs/2606.10040) | — | 2026 | [Paper](https://arxiv.org/abs/2606.10040) | Compact video expert + asymmetric denoising achieves 30× WAM speedup at 100ms latency |
 | [TacForeSight: Force-Guided Tactile World Model for Contact-Rich Manipulation](https://arxiv.org/abs/2606.11184) | — | 2026 | [Paper](https://arxiv.org/abs/2606.11184) \| [Project](https://tacforesight.github.io/ProjectPage) | Force-conditioned tactile foresight enables proactive contact reasoning for real-time manipulation |
+| [WEAVER: An Effective World Model for Robotic Manipulation](https://arxiv.org/abs/2606.13672) | — | 2026 | [Paper](https://arxiv.org/abs/2606.13672) | World model jointly satisfying fidelity, efficiency, and long-horizon coherence; CMU/Berkeley |
 
 ---
 
