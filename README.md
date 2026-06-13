@@ -376,6 +376,9 @@
 | [Dexterous Point Policy: Learning Dexterous Manipulation from Human Videos via 3D Keypoints](https://arxiv.org/abs/2606.10614) | — | 2026 | [Paper](https://arxiv.org/abs/2606.10614) | 3D keypoint transfer enables dexterous manipulation from human videos without robot demos; KAIST |
 | [GHOST: Hierarchical Sub-Goal Policies for Generalizing Robot Manipulation](https://arxiv.org/abs/2606.10025) | RSS 2026 | 2026 | [Paper](https://arxiv.org/abs/2606.10025) | Factorizes control into sub-goal prediction and reaching for OOD generalization; CMU |
 | [Ambient Diffusion Policy: Imitation Learning from Suboptimal Data in Robotics](https://arxiv.org/abs/2606.12365) | — | 2026 | [Paper](https://arxiv.org/abs/2606.12365) \| [Project](https://ambient-diffusion-policy.github.io/) | Principled method to learn optimal policies from noisy suboptimal demonstrations; MIT Tedrake |
+| [Mana: Dexterous Manipulation of Articulated Tools](https://arxiv.org/abs/2606.13677) | — | 2026 | [Paper](https://arxiv.org/abs/2606.13677) \| [Project](https://zhaohengyin.github.io/mana) | Sim-to-real dexterous articulated tool manipulation via coordinated contact; Berkeley/Stanford |
+| [Improving Robotic Generalist Policies via Flow Reversal Steering](https://arxiv.org/abs/2606.13675) | — | 2026 | [Paper](https://arxiv.org/abs/2606.13675) | Reverses flow-matching latent noise to steer generalist policies toward better actions; Stanford/Berkeley |
+| [FTP-1: A Generalist Foundation Tactile Policy Across Sensors](https://arxiv.org/abs/2606.13102) | — | 2026 | [Paper](https://arxiv.org/abs/2606.13102) | First cross-sensor generalist tactile policy for contact-rich manipulation; THU/SJTU |
 
 ---
 
@@ -475,6 +478,7 @@
 | [Efficient-WAM: A 1B-Parameter World-Action Model with Low-Cost Future Imagination](https://arxiv.org/abs/2606.10040) | — | 2026 | [Paper](https://arxiv.org/abs/2606.10040) | Compact video expert + asymmetric denoising achieves 30× WAM speedup at 100ms latency |
 | [TacForeSight: Force-Guided Tactile World Model for Contact-Rich Manipulation](https://arxiv.org/abs/2606.11184) | — | 2026 | [Paper](https://arxiv.org/abs/2606.11184) \| [Project](https://tacforesight.github.io/ProjectPage) | Force-conditioned tactile foresight enables proactive contact reasoning for real-time manipulation |
 | [WEAVER: An Effective World Model for Robotic Manipulation](https://arxiv.org/abs/2606.13672) | — | 2026 | [Paper](https://arxiv.org/abs/2606.13672) | World model jointly satisfying fidelity, efficiency, and long-horizon coherence; CMU/Berkeley |
+| [MaskWAM: Unifying Mask Prompting and Prediction for World-Action Models](https://arxiv.org/abs/2606.13515) | — | 2026 | [Paper](https://arxiv.org/abs/2606.13515) | Object-centric WAM with mask input/output resolves spatial ambiguity in cluttered scenes |
 
 ---
 
