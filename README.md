@@ -229,6 +229,7 @@
 | [CHORUS: Decentralized Multi-Embodiment Collaboration with One VLA Policy](https://arxiv.org/abs/2606.12352) | — | 2026 | [Paper](https://arxiv.org/abs/2606.12352) \| [Project](https://chorus-vla.github.io/) | Single VLA policy enables decentralized multi-robot coordination; Stanford Finn & Bohg |
 | [Learning to Assist: Collaborative VLAs for Implicit Human-Robot Collaboration](https://arxiv.org/abs/2606.12475) | — | 2026 | [Paper](https://arxiv.org/abs/2606.12475) | Inference-time steering mitigates premature assistive actions in collaborative VLA |
 | [LabVLA: Grounding Vision-Language-Action Models in Scientific Laboratories](https://arxiv.org/abs/2606.13578) | — | 2026 | [Paper](https://arxiv.org/abs/2606.13578) | Extends VLA to scientific lab automation with domain-specific grounding; ZJU |
+| [DAM-VLA: Dynamic Action Model Decoupling Arm and Gripper for Robotic Manipulation](https://arxiv.org/abs/2603.00926) | ICRA | 2026 | [Paper](https://arxiv.org/abs/2603.00926) | Decouples arm/gripper via dual DiT diffusion heads with VLM-driven routing; Samsung |
 
 ---
 
@@ -482,6 +483,7 @@
 | [TacForeSight: Force-Guided Tactile World Model for Contact-Rich Manipulation](https://arxiv.org/abs/2606.11184) | — | 2026 | [Paper](https://arxiv.org/abs/2606.11184) \| [Project](https://tacforesight.github.io/ProjectPage) | Force-conditioned tactile foresight enables proactive contact reasoning for real-time manipulation |
 | [WEAVER: An Effective World Model for Robotic Manipulation](https://arxiv.org/abs/2606.13672) | — | 2026 | [Paper](https://arxiv.org/abs/2606.13672) | World model jointly satisfying fidelity, efficiency, and long-horizon coherence; CMU/Berkeley |
 | [MaskWAM: Unifying Mask Prompting and Prediction for World-Action Models](https://arxiv.org/abs/2606.13515) | — | 2026 | [Paper](https://arxiv.org/abs/2606.13515) | Object-centric WAM with mask input/output resolves spatial ambiguity in cluttered scenes |
+| [Cosmos 3: Omnimodal World Models for Physical AI](https://arxiv.org/abs/2606.02800) | — | 2026 | [Paper](https://arxiv.org/abs/2606.02800) \| [Project](https://github.com/nvidia/cosmos) | First fully open omnimodal world model unifying language, image, video, audio, and action; NVIDIA |
 
 ---
 
@@ -522,6 +524,7 @@
 | [Embodied3DBench: Benchmarking Low-Level Spatial Intelligence for Embodied Agents](https://arxiv.org/abs/2605.29074) | — | 2026 | [Paper](https://arxiv.org/abs/2605.29074) | 6-category robot-centric 3D spatial intelligence benchmark; PKU + MSRA (Hao Dong, Nan Duan) |
 | [SafeVLA-Bench: A Benchmark for the Success-Safety Gap in Vision-Language-Action Models](https://arxiv.org/abs/2606.00773) | — | 2026 | [Paper](https://arxiv.org/abs/2606.00773) | Post-hoc safety evaluation reveals VLAs can succeed on task while violating safety constraints |
 | [What Are We Actually Benchmarking in Robot Manipulation?](https://arxiv.org/abs/2606.04233) | — | 2026 | [Paper](https://arxiv.org/abs/2606.04233) | Identifies four failure modes of manipulation benchmarks that overstate generalization claims |
+| [RoboSemanticBench: Evaluating Semantic Grounding in Vision-Language-Action Models](https://arxiv.org/abs/2606.02277) | — | 2026 | [Paper](https://arxiv.org/abs/2606.02277) | Reveals systematic semantic grounding failures in current VLA models; HIT |
 
 ### Robot Datasets
 
