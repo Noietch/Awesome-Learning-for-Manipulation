@@ -193,6 +193,8 @@
 | [OASIS: Observation-Action Space Alignment via SE(3) Trajectory Prediction](https://arxiv.org/abs/2605.25829) | — | 2026 | [Paper](https://arxiv.org/abs/2605.25829) | Aligns intermediate VLA representations with action space via SE(3) trajectory prediction |
 | [StableVLA: Stabilizing VLA Models Against Visual Disturbances](https://arxiv.org/abs/2605.18287) | ICML 2026 | 2026 | [Paper](https://arxiv.org/abs/2605.18287) \| [Code](https://github.com/PKU-HMI-Lab/StableVLA) \| [Project](https://stablevla.github.io/) | Robustifies VLA against visual distractors; ICML 2026 accepted |
 | [Do Geometric Foundation Models Help Vision-Language-Action Models?](https://arxiv.org/abs/2605.24642) | — | 2026 | [Paper](https://arxiv.org/abs/2605.24642) | UT Austin + MIT analysis of geometric foundation model impact on VLA performance |
+| [Think Less, Act Early: Reinforced Latent Reasoning with Early Exit in VLA Models](https://arxiv.org/abs/2606.15099) | ICML | 2026 | [Paper](https://arxiv.org/abs/2606.15099) | Latent reasoning with adaptive early exit reduces VLA inference cost |
+| [Retrieve, Don't Retrain: Extending VLA Models to New Tasks at Test Time](https://arxiv.org/abs/2606.15631) | — | 2026 | [Paper](https://arxiv.org/abs/2606.15631) \| [Project](https://recap-robot.github.io/) | Retrieval-based test-time adaptation extends VLA to new tasks without fine-tuning |
 | [TapSampling: Temporal Action Proposal Sampling for Efficient VLA Pre-Training](https://arxiv.org/abs/2605.25547) | ICML 2026 | 2026 | [Paper](https://arxiv.org/abs/2605.25547) \| [Project](https://aipixel.github.io/TapSampling/) | Temporal action proposals reduce VLA pre-training cost without degrading task performance |
 | [FineVLA: Fine-Grained Instruction Alignment for Vision-Language-Action Models](https://arxiv.org/abs/2605.27284) | — | 2026 | [Paper](https://arxiv.org/abs/2605.27284) | Fine-grained instruction decomposition improves VLA alignment for precise multi-step manipulation |
 | [PrimitiveVLA: Learning Reusable Motion Primitives for Efficient and Generalizable Robotic Manipulation](https://arxiv.org/abs/2605.28634) | — | 2026 | [Paper](https://arxiv.org/abs/2605.28634) | Primitive-centric paradigm decomposes instructions into reusable motion primitives for VLA |
@@ -383,6 +385,7 @@
 | [Mana: Dexterous Manipulation of Articulated Tools](https://arxiv.org/abs/2606.13677) | — | 2026 | [Paper](https://arxiv.org/abs/2606.13677) \| [Project](https://zhaohengyin.github.io/mana) | Sim-to-real dexterous articulated tool manipulation via coordinated contact; Berkeley/Stanford |
 | [Improving Robotic Generalist Policies via Flow Reversal Steering](https://arxiv.org/abs/2606.13675) | — | 2026 | [Paper](https://arxiv.org/abs/2606.13675) | Reverses flow-matching latent noise to steer generalist policies toward better actions; Stanford/Berkeley |
 | [FTP-1: A Generalist Foundation Tactile Policy Across Sensors](https://arxiv.org/abs/2606.13102) | — | 2026 | [Paper](https://arxiv.org/abs/2606.13102) | First cross-sensor generalist tactile policy for contact-rich manipulation; THU/SJTU |
+| [UMA: Unified Motion-Action Modeling for Heterogeneous Robot Learning](https://arxiv.org/abs/2606.16917) | — | 2026 | [Paper](https://arxiv.org/abs/2606.16917) \| [Project](https://uma-manipulation.github.io/) | 3D motion trajectories unify visuomotor control and dynamics across embodiments |
 
 ---
 
@@ -482,6 +485,7 @@
 | [Efficient-WAM: A 1B-Parameter World-Action Model with Low-Cost Future Imagination](https://arxiv.org/abs/2606.10040) | — | 2026 | [Paper](https://arxiv.org/abs/2606.10040) | Compact video expert + asymmetric denoising achieves 30× WAM speedup at 100ms latency |
 | [TacForeSight: Force-Guided Tactile World Model for Contact-Rich Manipulation](https://arxiv.org/abs/2606.11184) | — | 2026 | [Paper](https://arxiv.org/abs/2606.11184) \| [Project](https://tacforesight.github.io/ProjectPage) | Force-conditioned tactile foresight enables proactive contact reasoning for real-time manipulation |
 | [WEAVER: An Effective World Model for Robotic Manipulation](https://arxiv.org/abs/2606.13672) | — | 2026 | [Paper](https://arxiv.org/abs/2606.13672) | World model jointly satisfying fidelity, efficiency, and long-horizon coherence; CMU/Berkeley |
+| [Kairos: A Native World Model Stack for Physical AI](https://arxiv.org/abs/2606.16533) | — | 2026 | [Paper](https://arxiv.org/abs/2606.16533) | Full-stack native world model infrastructure for Physical AI deployment |
 | [MaskWAM: Unifying Mask Prompting and Prediction for World-Action Models](https://arxiv.org/abs/2606.13515) | — | 2026 | [Paper](https://arxiv.org/abs/2606.13515) | Object-centric WAM with mask input/output resolves spatial ambiguity in cluttered scenes |
 | [Cosmos 3: Omnimodal World Models for Physical AI](https://arxiv.org/abs/2606.02800) | — | 2026 | [Paper](https://arxiv.org/abs/2606.02800) \| [Project](https://github.com/nvidia/cosmos) | First fully open omnimodal world model unifying language, image, video, audio, and action; NVIDIA |
 
@@ -525,6 +529,7 @@
 | [SafeVLA-Bench: A Benchmark for the Success-Safety Gap in Vision-Language-Action Models](https://arxiv.org/abs/2606.00773) | — | 2026 | [Paper](https://arxiv.org/abs/2606.00773) | Post-hoc safety evaluation reveals VLAs can succeed on task while violating safety constraints |
 | [What Are We Actually Benchmarking in Robot Manipulation?](https://arxiv.org/abs/2606.04233) | — | 2026 | [Paper](https://arxiv.org/abs/2606.04233) | Identifies four failure modes of manipulation benchmarks that overstate generalization claims |
 | [RoboSemanticBench: Evaluating Semantic Grounding in Vision-Language-Action Models](https://arxiv.org/abs/2606.02277) | — | 2026 | [Paper](https://arxiv.org/abs/2606.02277) | Reveals systematic semantic grounding failures in current VLA models; HIT |
+| [ATOM-Bench: A Real-World Benchmark for Atomic Skills and Compositional Generalization](https://arxiv.org/abs/2606.16826) | — | 2026 | [Paper](https://arxiv.org/abs/2606.16826) \| [Project](https://flageval-baai.github.io/AtomBenchPage) | Real-world benchmark diagnosing atomic skill execution and compositional generalization; BAAI |
 
 ### Robot Datasets
 
