@@ -232,6 +232,8 @@
 | [Learning to Assist: Collaborative VLAs for Implicit Human-Robot Collaboration](https://arxiv.org/abs/2606.12475) | — | 2026 | [Paper](https://arxiv.org/abs/2606.12475) | Inference-time steering mitigates premature assistive actions in collaborative VLA |
 | [LabVLA: Grounding Vision-Language-Action Models in Scientific Laboratories](https://arxiv.org/abs/2606.13578) | — | 2026 | [Paper](https://arxiv.org/abs/2606.13578) | Extends VLA to scientific lab automation with domain-specific grounding; ZJU |
 | [DAM-VLA: Dynamic Action Model Decoupling Arm and Gripper for Robotic Manipulation](https://arxiv.org/abs/2603.00926) | ICRA | 2026 | [Paper](https://arxiv.org/abs/2603.00926) | Decouples arm/gripper via dual DiT diffusion heads with VLM-driven routing; Samsung |
+| [ThinkingVLA: Interleaved Vision and Language Reasoning for Robotic Manipulation](https://arxiv.org/abs/2606.17937) | — | 2026 | [Paper](https://arxiv.org/abs/2606.17937) | Interleaved cross-modal reasoning with inverse target-state reasoning for long-horizon VLA |
+| [X-Tokenizer: A Multimodal Action Tokenizer for Vision-Language-Action Pretraining](https://arxiv.org/abs/2606.14752) | — | 2026 | [Paper](https://arxiv.org/abs/2606.14752) \| [Project](https://xirui-kang.github.io/X-Tokenizer/) | Semantically-supervised multimodal action tokenizer bridges VLM reasoning and robot control |
 
 ---
 
@@ -386,6 +388,7 @@
 | [Improving Robotic Generalist Policies via Flow Reversal Steering](https://arxiv.org/abs/2606.13675) | — | 2026 | [Paper](https://arxiv.org/abs/2606.13675) | Reverses flow-matching latent noise to steer generalist policies toward better actions; Stanford/Berkeley |
 | [FTP-1: A Generalist Foundation Tactile Policy Across Sensors](https://arxiv.org/abs/2606.13102) | — | 2026 | [Paper](https://arxiv.org/abs/2606.13102) | First cross-sensor generalist tactile policy for contact-rich manipulation; THU/SJTU |
 | [UMA: Unified Motion-Action Modeling for Heterogeneous Robot Learning](https://arxiv.org/abs/2606.16917) | — | 2026 | [Paper](https://arxiv.org/abs/2606.16917) \| [Project](https://uma-manipulation.github.io/) | 3D motion trajectories unify visuomotor control and dynamics across embodiments |
+| [T-Rex: Tactile-Reactive Dexterous Manipulation](https://arxiv.org/abs/2606.17055) | — | 2026 | [Paper](https://arxiv.org/abs/2606.17055) \| [Project](https://t-rex-manip.github.io/) | Reactive tactile-driven dexterous manipulation beyond static cues in VLA models |
 
 ---
 
@@ -411,6 +414,7 @@
 | [RLDX-1: General-Purpose Robotic Policy for Dexterous Manipulation](https://arxiv.org/abs/2605.03269) | — | 2026 | [Paper](https://arxiv.org/abs/2605.03269) \| [Project](https://rlwrld.ai/rldx-1) | Multi-stream action transformer VLA outperforms frontier models on dexterous tasks |
 | [PhysBrain 1.0 Technical Report](https://arxiv.org/abs/2605.15298) | Tech Report | 2026 | [Paper](https://arxiv.org/abs/2605.15298) | Egocentric video → structured physical-commonsense supervision enhances VLA physical understanding |
 | [Embodied-R1.5: Evolving Physical Intelligence via Embodied Foundation Models](https://arxiv.org/abs/2606.11324) | Tech Report | 2026 | [Paper](https://arxiv.org/abs/2606.11324) \| [Project](https://embodied-r1.github.io/) | Unified EFM integrating embodied cognition, planning, correction, and pointing |
+| [Qwen-RobotManip: Alignment Unlocks Scale for Robotic Manipulation Foundation Models](https://arxiv.org/abs/2606.17846) | Alibaba Qwen | 2026 | [Paper](https://arxiv.org/abs/2606.17846) | Alignment recipe scaling heterogeneous manipulation data into generalizable foundation model |
 
 ---
 
@@ -530,6 +534,7 @@
 | [What Are We Actually Benchmarking in Robot Manipulation?](https://arxiv.org/abs/2606.04233) | — | 2026 | [Paper](https://arxiv.org/abs/2606.04233) | Identifies four failure modes of manipulation benchmarks that overstate generalization claims |
 | [RoboSemanticBench: Evaluating Semantic Grounding in Vision-Language-Action Models](https://arxiv.org/abs/2606.02277) | — | 2026 | [Paper](https://arxiv.org/abs/2606.02277) | Reveals systematic semantic grounding failures in current VLA models; HIT |
 | [ATOM-Bench: A Real-World Benchmark for Atomic Skills and Compositional Generalization](https://arxiv.org/abs/2606.16826) | — | 2026 | [Paper](https://arxiv.org/abs/2606.16826) \| [Project](https://flageval-baai.github.io/AtomBenchPage) | Real-world benchmark diagnosing atomic skill execution and compositional generalization; BAAI |
+| [EBench: Elemental Diagnosis of Generalist Mobile Manipulation Policies](https://arxiv.org/abs/2606.18239) | — | 2026 | [Paper](https://arxiv.org/abs/2606.18239) | 26-task benchmark diagnosing π₀, XVLA, InternVLA across 5 capability dimensions |
 
 ### Robot Datasets
 
