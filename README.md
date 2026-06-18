@@ -234,6 +234,8 @@
 | [DAM-VLA: Dynamic Action Model Decoupling Arm and Gripper for Robotic Manipulation](https://arxiv.org/abs/2603.00926) | ICRA | 2026 | [Paper](https://arxiv.org/abs/2603.00926) | Decouples arm/gripper via dual DiT diffusion heads with VLM-driven routing; Samsung |
 | [ThinkingVLA: Interleaved Vision and Language Reasoning for Robotic Manipulation](https://arxiv.org/abs/2606.17937) | — | 2026 | [Paper](https://arxiv.org/abs/2606.17937) | Interleaved cross-modal reasoning with inverse target-state reasoning for long-horizon VLA |
 | [X-Tokenizer: A Multimodal Action Tokenizer for Vision-Language-Action Pretraining](https://arxiv.org/abs/2606.14752) | — | 2026 | [Paper](https://arxiv.org/abs/2606.14752) \| [Project](https://xirui-kang.github.io/X-Tokenizer/) | Semantically-supervised multimodal action tokenizer bridges VLM reasoning and robot control |
+| [Motion-Focused Latent Action Enables Cross-Embodiment VLA Training from Human EgoVideos](https://arxiv.org/abs/2606.18955) | IROS | 2026 | [Paper](https://arxiv.org/abs/2606.18955) | Latent motion actions from unlabeled ego videos enable cross-embodiment VLA training |
+| [VERITAS: Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement](https://arxiv.org/abs/2606.18247) | — | 2026 | [Paper](https://arxiv.org/abs/2606.18247) \| [Project](https://veritas-improvement.github.io) | Generator-verifier framework steers generalist robot policies and enables self-improvement |
 
 ---
 
@@ -389,6 +391,7 @@
 | [FTP-1: A Generalist Foundation Tactile Policy Across Sensors](https://arxiv.org/abs/2606.13102) | — | 2026 | [Paper](https://arxiv.org/abs/2606.13102) | First cross-sensor generalist tactile policy for contact-rich manipulation; THU/SJTU |
 | [UMA: Unified Motion-Action Modeling for Heterogeneous Robot Learning](https://arxiv.org/abs/2606.16917) | — | 2026 | [Paper](https://arxiv.org/abs/2606.16917) \| [Project](https://uma-manipulation.github.io/) | 3D motion trajectories unify visuomotor control and dynamics across embodiments |
 | [T-Rex: Tactile-Reactive Dexterous Manipulation](https://arxiv.org/abs/2606.17055) | — | 2026 | [Paper](https://arxiv.org/abs/2606.17055) \| [Project](https://t-rex-manip.github.io/) | Reactive tactile-driven dexterous manipulation beyond static cues in VLA models |
+| [Geometric Action Model for Robot Policy Learning](https://arxiv.org/abs/2606.17046) | — | 2026 | [Paper](https://arxiv.org/abs/2606.17046) \| [Project](https://cvlab-kaist.github.io/Geometric-Action-Model/) | 3D geometric action representation unifies VLA and WAM with explicit spatial reasoning |
 
 ---
 
@@ -492,6 +495,7 @@
 | [Kairos: A Native World Model Stack for Physical AI](https://arxiv.org/abs/2606.16533) | — | 2026 | [Paper](https://arxiv.org/abs/2606.16533) | Full-stack native world model infrastructure for Physical AI deployment |
 | [MaskWAM: Unifying Mask Prompting and Prediction for World-Action Models](https://arxiv.org/abs/2606.13515) | — | 2026 | [Paper](https://arxiv.org/abs/2606.13515) | Object-centric WAM with mask input/output resolves spatial ambiguity in cluttered scenes |
 | [Cosmos 3: Omnimodal World Models for Physical AI](https://arxiv.org/abs/2606.02800) | — | 2026 | [Paper](https://arxiv.org/abs/2606.02800) \| [Project](https://github.com/nvidia/cosmos) | First fully open omnimodal world model unifying language, image, video, audio, and action; NVIDIA |
+| [PAIWorld: A 3D-Consistent World Foundation Model for Robotic Manipulation](https://arxiv.org/abs/2606.18375) | — | 2026 | [Paper](https://arxiv.org/abs/2606.18375) | Multi-view 3D-consistent world model with explicit geometric reasoning; Alibaba |
 
 ---
 
@@ -535,6 +539,12 @@
 | [RoboSemanticBench: Evaluating Semantic Grounding in Vision-Language-Action Models](https://arxiv.org/abs/2606.02277) | — | 2026 | [Paper](https://arxiv.org/abs/2606.02277) | Reveals systematic semantic grounding failures in current VLA models; HIT |
 | [ATOM-Bench: A Real-World Benchmark for Atomic Skills and Compositional Generalization](https://arxiv.org/abs/2606.16826) | — | 2026 | [Paper](https://arxiv.org/abs/2606.16826) \| [Project](https://flageval-baai.github.io/AtomBenchPage) | Real-world benchmark diagnosing atomic skill execution and compositional generalization; BAAI |
 | [EBench: Elemental Diagnosis of Generalist Mobile Manipulation Policies](https://arxiv.org/abs/2606.18239) | — | 2026 | [Paper](https://arxiv.org/abs/2606.18239) | 26-task benchmark diagnosing π₀, XVLA, InternVLA across 5 capability dimensions |
+
+### Data Engines
+
+| Dataset | Venue | Year | Links | Description |
+|---------|-------|------|-------|-------------|
+| [Do as I Do: Dexterous Manipulation Data from Everyday Human Videos](https://arxiv.org/abs/2606.19333) | — | 2026 | [Paper](https://arxiv.org/abs/2606.19333) \| [Project](https://do-as-i-do.com/) | Scalable dexterous manipulation data pipeline from monocular human videos; Berkeley/Malik |
 
 ### Robot Datasets
 
