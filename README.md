@@ -236,6 +236,9 @@
 | [X-Tokenizer: A Multimodal Action Tokenizer for Vision-Language-Action Pretraining](https://arxiv.org/abs/2606.14752) | — | 2026 | [Paper](https://arxiv.org/abs/2606.14752) \| [Project](https://xirui-kang.github.io/X-Tokenizer/) | Semantically-supervised multimodal action tokenizer bridges VLM reasoning and robot control |
 | [Motion-Focused Latent Action Enables Cross-Embodiment VLA Training from Human EgoVideos](https://arxiv.org/abs/2606.18955) | IROS | 2026 | [Paper](https://arxiv.org/abs/2606.18955) | Latent motion actions from unlabeled ego videos enable cross-embodiment VLA training |
 | [VERITAS: Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement](https://arxiv.org/abs/2606.18247) | — | 2026 | [Paper](https://arxiv.org/abs/2606.18247) \| [Project](https://veritas-improvement.github.io) | Generator-verifier framework steers generalist robot policies and enables self-improvement |
+| [Co-VLA: Coordination-Aware Structured Action Modeling for Dual-Arm VLA Systems](https://arxiv.org/abs/2606.20285) | — | 2026 | [Paper](https://arxiv.org/abs/2606.20285) | Coordination-aware structured actions for tightly coupled dual-arm VLA manipulation |
+| [EquiVLA: A General Framework for Rotationally Equivariant VLA Models](https://arxiv.org/abs/2606.19784) | — | 2026 | [Paper](https://arxiv.org/abs/2606.19784) \| [Project](https://equivla.github.io/) | First SO(2)-equivariant VLA framework reducing data needs for rotational generalization |
+| [Finetuning VLA Models Requires Fewer Layers Than You Think](https://arxiv.org/abs/2606.20246) | — | 2026 | [Paper](https://arxiv.org/abs/2606.20246) | Reveals critical-layer sparsity in VLAs enabling efficient selective fine-tuning |
 
 ---
 
@@ -282,6 +285,8 @@
 | [τ₀-WM: A Unified Video-Action World Model for Robotic Manipulation](https://arxiv.org/abs/2606.01027) | — | 2026 | [Paper](https://arxiv.org/abs/2606.01027) | Shared video diffusion backbone jointly predicts future frames and action chunks for manipulation |
 | [OSCAR: Omni-Embodiment Action-Conditioned World Model for Robotics](https://arxiv.org/abs/2606.04463) | — | 2026 | [Paper](https://arxiv.org/abs/2606.04463) | Cross-embodiment video world model with standardized data pipeline for robot policy evaluation |
 | [CLAW: Learning Continuous Latent Action World Models via Adversarial Latent Regularization](https://arxiv.org/abs/2606.04130) | — | 2026 | [Paper](https://arxiv.org/abs/2606.04130) | End-to-end self-supervised world model learns continuous latent actions from action-free videos |
+| [MemoryWAM: Efficient World Action Modeling with Persistent Memory](https://arxiv.org/abs/2606.20562) | — | 2026 | [Paper](https://arxiv.org/abs/2606.20562) | Persistent memory augments WAM for long-horizon dynamics modeling; CUHK/Dahua Lin |
+| [ImageWAM: Do World Action Models Really Need Video Generation, or Just Image Editing?](https://arxiv.org/abs/2606.19531) | — | 2026 | [Paper](https://arxiv.org/abs/2606.19531) \| [Project](https://imagewam.github.io/) | Replaces costly video generation with image editing for efficient world action modeling |
 
 ---
 
@@ -392,6 +397,10 @@
 | [UMA: Unified Motion-Action Modeling for Heterogeneous Robot Learning](https://arxiv.org/abs/2606.16917) | — | 2026 | [Paper](https://arxiv.org/abs/2606.16917) \| [Project](https://uma-manipulation.github.io/) | 3D motion trajectories unify visuomotor control and dynamics across embodiments |
 | [T-Rex: Tactile-Reactive Dexterous Manipulation](https://arxiv.org/abs/2606.17055) | — | 2026 | [Paper](https://arxiv.org/abs/2606.17055) \| [Project](https://t-rex-manip.github.io/) | Reactive tactile-driven dexterous manipulation beyond static cues in VLA models |
 | [Geometric Action Model for Robot Policy Learning](https://arxiv.org/abs/2606.17046) | — | 2026 | [Paper](https://arxiv.org/abs/2606.17046) \| [Project](https://cvlab-kaist.github.io/Geometric-Action-Model/) | 3D geometric action representation unifies VLA and WAM with explicit spatial reasoning |
+| [One Demo is Worth a Thousand Trajectories](https://arxiv.org/abs/2606.19586) | CoRL 2025 | 2025 | [Paper](https://arxiv.org/abs/2606.19586) \| [Project](https://one-demo.github.io/) | Action-view augmentation enables single-demo generalization; Columbia/Shuran Song |
+| [Playful Agentic Robot Learning](https://arxiv.org/abs/2606.19419) | — | 2026 | [Paper](https://arxiv.org/abs/2606.19419) \| [Project](https://playful-agentic-robot-learning.github.io/) | Self-directed play discovers reusable skills without task instructions; Berkeley/Goldberg |
+| [MirrorDuo: Reflection-Consistent Visuomotor Learning from Mirrored Demonstrations](https://arxiv.org/abs/2606.20048) | CoRL 2025 | 2025 | [Paper](https://arxiv.org/abs/2606.20048) | Mirror-augmented demonstrations double data efficiency via reflection consistency |
+| [Frequency-Aware Flow Matching for Robotic Action Generation](https://arxiv.org/abs/2606.20135) | — | 2026 | [Paper](https://arxiv.org/abs/2606.20135) | Frequency-decomposed flow matching improves continuous action trajectory quality |
 
 ---
 
