@@ -100,6 +100,7 @@
 | [What Can RL Bring to VLA Generalization? An Empirical Study](https://arxiv.org/abs/2505.19789) | NeurIPS | 2025 | [Paper](https://arxiv.org/abs/2505.19789) | Empirical analysis of RL's role in improving VLA generalization |
 | [What to Ignore, What to React: Visually Robust RL Fine-Tuning of VLA Models](https://arxiv.org/abs/2605.13105) | — | 2026 | [Paper](https://arxiv.org/abs/2605.13105) | Decouples visual robustness from task rewards for deployment-robust RL fine-tuning of VLAs |
 | [FlowPRO: Reward-Free Reinforced Fine-Tuning of Flow-Matching VLAs via Proximalized Preference Optimization](https://arxiv.org/abs/2606.05468) | — | 2026 | [Paper](https://arxiv.org/abs/2606.05468) | Reward-free preference optimization tailored for flow-matching VLA post-training |
+| [ENPIRE: Agentic Robot Policy Self-Improvement in the Real World](https://arxiv.org/abs/2606.19980) | — | 2026 | [Paper](https://arxiv.org/abs/2606.19980) | Agentic coding agent automates real-world robot policy self-improvement |
 | [ReinboT: Amplifying Robot Visual-Language Manipulation with Reinforcement Learning](https://arxiv.org/abs/2505.07395) | ICML | 2025 | [Paper](https://arxiv.org/abs/2505.07395) | RL amplifies VL manipulation performance via reward-guided exploration |
 | [MoRE: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models](https://arxiv.org/abs/2503.08007) | ICRA | 2025 | [Paper](https://arxiv.org/abs/2503.08007) | Scalable RL framework for quadruped VLA locomotion and manipulation |
 | [SafeVLA: Towards Safety Alignment of Vision-Language-Action Model via Constrained Learning](https://arxiv.org/abs/2503.03480) | NeurIPS | 2025 | [Paper](https://arxiv.org/abs/2503.03480) | Constrained RL aligns VLA models with safety objectives |
@@ -235,6 +236,7 @@
 | [ThinkingVLA: Interleaved Vision and Language Reasoning for Robotic Manipulation](https://arxiv.org/abs/2606.17937) | — | 2026 | [Paper](https://arxiv.org/abs/2606.17937) | Interleaved cross-modal reasoning with inverse target-state reasoning for long-horizon VLA |
 | [X-Tokenizer: A Multimodal Action Tokenizer for Vision-Language-Action Pretraining](https://arxiv.org/abs/2606.14752) | — | 2026 | [Paper](https://arxiv.org/abs/2606.14752) \| [Project](https://xirui-kang.github.io/X-Tokenizer/) | Semantically-supervised multimodal action tokenizer bridges VLM reasoning and robot control |
 | [Motion-Focused Latent Action Enables Cross-Embodiment VLA Training from Human EgoVideos](https://arxiv.org/abs/2606.18955) | IROS | 2026 | [Paper](https://arxiv.org/abs/2606.18955) | Latent motion actions from unlabeled ego videos enable cross-embodiment VLA training |
+| [HumanScale: Egocentric Human Video Can Outperform Real-Robot Data for Embodied Pretraining](https://arxiv.org/abs/2606.20521) | — | 2026 | [Paper](https://arxiv.org/abs/2606.20521) \| [Code](https://github.com/DAGroup-PKU/HumanNet/) | Egocentric video pretraining outperforms real-robot data for embodied models |
 | [VERITAS: Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement](https://arxiv.org/abs/2606.18247) | — | 2026 | [Paper](https://arxiv.org/abs/2606.18247) \| [Project](https://veritas-improvement.github.io) | Generator-verifier framework steers generalist robot policies and enables self-improvement |
 | [Co-VLA: Coordination-Aware Structured Action Modeling for Dual-Arm VLA Systems](https://arxiv.org/abs/2606.20285) | — | 2026 | [Paper](https://arxiv.org/abs/2606.20285) | Coordination-aware structured actions for tightly coupled dual-arm VLA manipulation |
 | [EquiVLA: A General Framework for Rotationally Equivariant VLA Models](https://arxiv.org/abs/2606.19784) | — | 2026 | [Paper](https://arxiv.org/abs/2606.19784) \| [Project](https://equivla.github.io/) | First SO(2)-equivariant VLA framework reducing data needs for rotational generalization |
@@ -401,6 +403,7 @@
 | [Playful Agentic Robot Learning](https://arxiv.org/abs/2606.19419) | — | 2026 | [Paper](https://arxiv.org/abs/2606.19419) \| [Project](https://playful-agentic-robot-learning.github.io/) | Self-directed play discovers reusable skills without task instructions; Berkeley/Goldberg |
 | [MirrorDuo: Reflection-Consistent Visuomotor Learning from Mirrored Demonstrations](https://arxiv.org/abs/2606.20048) | CoRL 2025 | 2025 | [Paper](https://arxiv.org/abs/2606.20048) | Mirror-augmented demonstrations double data efficiency via reflection consistency |
 | [Frequency-Aware Flow Matching for Robotic Action Generation](https://arxiv.org/abs/2606.20135) | — | 2026 | [Paper](https://arxiv.org/abs/2606.20135) | Frequency-decomposed flow matching improves continuous action trajectory quality |
+| [DF-ExpEnse: Diffusion Filtered Exploration for Sample Efficient Finetuning](https://arxiv.org/abs/2606.19656) | ICML | 2026 | [Paper](https://arxiv.org/abs/2606.19656) | Diffusion-filtered exploration improves sample efficiency for policy finetuning |
 
 ---
 
@@ -548,6 +551,7 @@
 | [RoboSemanticBench: Evaluating Semantic Grounding in Vision-Language-Action Models](https://arxiv.org/abs/2606.02277) | — | 2026 | [Paper](https://arxiv.org/abs/2606.02277) | Reveals systematic semantic grounding failures in current VLA models; HIT |
 | [ATOM-Bench: A Real-World Benchmark for Atomic Skills and Compositional Generalization](https://arxiv.org/abs/2606.16826) | — | 2026 | [Paper](https://arxiv.org/abs/2606.16826) \| [Project](https://flageval-baai.github.io/AtomBenchPage) | Real-world benchmark diagnosing atomic skill execution and compositional generalization; BAAI |
 | [EBench: Elemental Diagnosis of Generalist Mobile Manipulation Policies](https://arxiv.org/abs/2606.18239) | — | 2026 | [Paper](https://arxiv.org/abs/2606.18239) | 26-task benchmark diagnosing π₀, XVLA, InternVLA across 5 capability dimensions |
+| [SC3-Eval: Evaluating Robot Foundation Models via Self-Consistent Video Generation](https://arxiv.org/abs/2606.18610) | — | 2026 | [Paper](https://arxiv.org/abs/2606.18610) | Self-consistent video world models as scalable robot policy evaluators |
 
 ### Data Engines
 
