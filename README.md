@@ -241,6 +241,9 @@
 | [Co-VLA: Coordination-Aware Structured Action Modeling for Dual-Arm VLA Systems](https://arxiv.org/abs/2606.20285) | — | 2026 | [Paper](https://arxiv.org/abs/2606.20285) | Coordination-aware structured actions for tightly coupled dual-arm VLA manipulation |
 | [EquiVLA: A General Framework for Rotationally Equivariant VLA Models](https://arxiv.org/abs/2606.19784) | — | 2026 | [Paper](https://arxiv.org/abs/2606.19784) \| [Project](https://equivla.github.io/) | First SO(2)-equivariant VLA framework reducing data needs for rotational generalization |
 | [Finetuning VLA Models Requires Fewer Layers Than You Think](https://arxiv.org/abs/2606.20246) | — | 2026 | [Paper](https://arxiv.org/abs/2606.20246) | Reveals critical-layer sparsity in VLAs enabling efficient selective fine-tuning |
+| [EventVLA: Event-Driven Visual Evidence Memory for Long-Horizon VLA Policies](https://arxiv.org/abs/2606.20092) | — | 2026 | [Paper](https://arxiv.org/abs/2606.20092) | Sparse keyframe evidence memory boosts long-horizon VLA by +40% success rate |
+| [Tri-Info: Generalizable Failure Prediction for VLA Models via Information Theory](https://arxiv.org/abs/2606.19998) | — | 2026 | [Paper](https://arxiv.org/abs/2606.19998) | Information-theoretic failure detection generalizes across VLA architectures and sim-to-real |
+| [Pose6DAug: Multi-view Object Swapping for Robot Data Augmentation](https://arxiv.org/abs/2606.20118) | — | 2026 | [Paper](https://arxiv.org/abs/2606.20118) | 3D-consistent object swapping augments VLA data without new collection; +16.5% on novel objects |
 
 ---
 
@@ -404,6 +407,7 @@
 | [MirrorDuo: Reflection-Consistent Visuomotor Learning from Mirrored Demonstrations](https://arxiv.org/abs/2606.20048) | CoRL 2025 | 2025 | [Paper](https://arxiv.org/abs/2606.20048) | Mirror-augmented demonstrations double data efficiency via reflection consistency |
 | [Frequency-Aware Flow Matching for Robotic Action Generation](https://arxiv.org/abs/2606.20135) | — | 2026 | [Paper](https://arxiv.org/abs/2606.20135) | Frequency-decomposed flow matching improves continuous action trajectory quality |
 | [DF-ExpEnse: Diffusion Filtered Exploration for Sample Efficient Finetuning](https://arxiv.org/abs/2606.19656) | ICML | 2026 | [Paper](https://arxiv.org/abs/2606.19656) | Diffusion-filtered exploration improves sample efficiency for policy finetuning |
+| [One-to-Two Acting: Single-arm to Dual-arm Action Expansion via ExS2D](https://arxiv.org/abs/2606.19897) | — | 2026 | [Paper](https://arxiv.org/abs/2606.19897) | Hierarchical framework expands single-arm demos to dual-arm execution; zero bimanual data |
 
 ---
 
@@ -508,6 +512,7 @@
 | [MaskWAM: Unifying Mask Prompting and Prediction for World-Action Models](https://arxiv.org/abs/2606.13515) | — | 2026 | [Paper](https://arxiv.org/abs/2606.13515) | Object-centric WAM with mask input/output resolves spatial ambiguity in cluttered scenes |
 | [Cosmos 3: Omnimodal World Models for Physical AI](https://arxiv.org/abs/2606.02800) | — | 2026 | [Paper](https://arxiv.org/abs/2606.02800) \| [Project](https://github.com/nvidia/cosmos) | First fully open omnimodal world model unifying language, image, video, audio, and action; NVIDIA |
 | [PAIWorld: A 3D-Consistent World Foundation Model for Robotic Manipulation](https://arxiv.org/abs/2606.18375) | — | 2026 | [Paper](https://arxiv.org/abs/2606.18375) | Multi-view 3D-consistent world model with explicit geometric reasoning; Alibaba |
+| [Sensorimotor World Models: Perception for Action via Inverse Dynamics](https://arxiv.org/abs/2606.20104) | — | 2026 | [Paper](https://arxiv.org/abs/2606.20104) | Inverse dynamics regularization prevents collapse and learns action-aligned world models; Schölkopf |
 
 ---
 
