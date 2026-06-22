@@ -101,6 +101,7 @@
 | [What to Ignore, What to React: Visually Robust RL Fine-Tuning of VLA Models](https://arxiv.org/abs/2605.13105) | — | 2026 | [Paper](https://arxiv.org/abs/2605.13105) | Decouples visual robustness from task rewards for deployment-robust RL fine-tuning of VLAs |
 | [FlowPRO: Reward-Free Reinforced Fine-Tuning of Flow-Matching VLAs via Proximalized Preference Optimization](https://arxiv.org/abs/2606.05468) | — | 2026 | [Paper](https://arxiv.org/abs/2606.05468) | Reward-free preference optimization tailored for flow-matching VLA post-training |
 | [ENPIRE: Agentic Robot Policy Self-Improvement in the Real World](https://arxiv.org/abs/2606.19980) | — | 2026 | [Paper](https://arxiv.org/abs/2606.19980) | Agentic coding agent automates real-world robot policy self-improvement |
+| [Hierarchical Advantage Weighting for Online RL Fine-Tuning of VLAs from Sparse Episode Outcomes](https://arxiv.org/abs/2606.17043) | — | 2026 | [Paper](https://arxiv.org/abs/2606.17043) \| [Project](https://acerobotics-vla.github.io/HABC-Website) | Hierarchical advantage decomposition enables VLA RL from sparse rewards |
 | [ReinboT: Amplifying Robot Visual-Language Manipulation with Reinforcement Learning](https://arxiv.org/abs/2505.07395) | ICML | 2025 | [Paper](https://arxiv.org/abs/2505.07395) | RL amplifies VL manipulation performance via reward-guided exploration |
 | [MoRE: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models](https://arxiv.org/abs/2503.08007) | ICRA | 2025 | [Paper](https://arxiv.org/abs/2503.08007) | Scalable RL framework for quadruped VLA locomotion and manipulation |
 | [SafeVLA: Towards Safety Alignment of Vision-Language-Action Model via Constrained Learning](https://arxiv.org/abs/2503.03480) | NeurIPS | 2025 | [Paper](https://arxiv.org/abs/2503.03480) | Constrained RL aligns VLA models with safety objectives |
@@ -198,6 +199,8 @@
 | [Retrieve, Don't Retrain: Extending VLA Models to New Tasks at Test Time](https://arxiv.org/abs/2606.15631) | — | 2026 | [Paper](https://arxiv.org/abs/2606.15631) \| [Project](https://recap-robot.github.io/) | Retrieval-based test-time adaptation extends VLA to new tasks without fine-tuning |
 | [TapSampling: Temporal Action Proposal Sampling for Efficient VLA Pre-Training](https://arxiv.org/abs/2605.25547) | ICML 2026 | 2026 | [Paper](https://arxiv.org/abs/2605.25547) \| [Project](https://aipixel.github.io/TapSampling/) | Temporal action proposals reduce VLA pre-training cost without degrading task performance |
 | [FineVLA: Fine-Grained Instruction Alignment for Vision-Language-Action Models](https://arxiv.org/abs/2605.27284) | — | 2026 | [Paper](https://arxiv.org/abs/2605.27284) | Fine-grained instruction decomposition improves VLA alignment for precise multi-step manipulation |
+| [MuseVLA: An Adaptive Multimodal Sensing Vision-Language-Action Model for Robotic Manipulation](https://arxiv.org/abs/2606.17598) | — | 2026 | [Paper](https://arxiv.org/abs/2606.17598) | Adaptive multimodal sensing beyond RGB for contact-aware VLA manipulation |
+| [GeneralVLA-2: Geometry-Aware Reconstruction and Governed Memory for Robot Planning](https://arxiv.org/abs/2606.17480) | — | 2026 | [Paper](https://arxiv.org/abs/2606.17480) \| [Code](https://github.com/AIGeeksGroup/GeneralVLA-2) | 3D geometry reconstruction + governed memory for reliable VLA planning |
 | [PrimitiveVLA: Learning Reusable Motion Primitives for Efficient and Generalizable Robotic Manipulation](https://arxiv.org/abs/2605.28634) | — | 2026 | [Paper](https://arxiv.org/abs/2605.28634) | Primitive-centric paradigm decomposes instructions into reusable motion primitives for VLA |
 | [X-DiffVLA: X-Embodied Diffusion Action Heads for Vision-Language-Action Models](https://arxiv.org/abs/2605.25044) | — | 2026 | [Paper](https://arxiv.org/abs/2605.25044) | Cross-embodiment diffusion action heads enable universal VLA policies without per-robot fine-tuning |
 | [EvoScene-VLA: Evolving Scene Beliefs Inside the Action Decoder for Chunked Robot Control](https://arxiv.org/abs/2605.21862) | — | 2026 | [Paper](https://arxiv.org/abs/2605.21862) | Persistent action-updated scene prior across chunks resolves occlusion in chunked VLA control |
@@ -434,6 +437,7 @@
 | [PhysBrain 1.0 Technical Report](https://arxiv.org/abs/2605.15298) | Tech Report | 2026 | [Paper](https://arxiv.org/abs/2605.15298) | Egocentric video → structured physical-commonsense supervision enhances VLA physical understanding |
 | [Embodied-R1.5: Evolving Physical Intelligence via Embodied Foundation Models](https://arxiv.org/abs/2606.11324) | Tech Report | 2026 | [Paper](https://arxiv.org/abs/2606.11324) \| [Project](https://embodied-r1.github.io/) | Unified EFM integrating embodied cognition, planning, correction, and pointing |
 | [Qwen-RobotManip: Alignment Unlocks Scale for Robotic Manipulation Foundation Models](https://arxiv.org/abs/2606.17846) | Alibaba Qwen | 2026 | [Paper](https://arxiv.org/abs/2606.17846) | Alignment recipe scaling heterogeneous manipulation data into generalizable foundation model |
+| [Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack](https://arxiv.org/abs/2606.14409) | — | 2026 | [Paper](https://arxiv.org/abs/2606.14409) | Full-stack VLA system covering data, training, RL post-training, and deployment |
 
 ---
 
@@ -513,6 +517,7 @@
 | [Cosmos 3: Omnimodal World Models for Physical AI](https://arxiv.org/abs/2606.02800) | — | 2026 | [Paper](https://arxiv.org/abs/2606.02800) \| [Project](https://github.com/nvidia/cosmos) | First fully open omnimodal world model unifying language, image, video, audio, and action; NVIDIA |
 | [PAIWorld: A 3D-Consistent World Foundation Model for Robotic Manipulation](https://arxiv.org/abs/2606.18375) | — | 2026 | [Paper](https://arxiv.org/abs/2606.18375) | Multi-view 3D-consistent world model with explicit geometric reasoning; Alibaba |
 | [Sensorimotor World Models: Perception for Action via Inverse Dynamics](https://arxiv.org/abs/2606.20104) | — | 2026 | [Paper](https://arxiv.org/abs/2606.20104) | Inverse dynamics regularization prevents collapse and learns action-aligned world models; Schölkopf |
+| [WAM4D: Fast 4D World Action Model via Spatial Register Tokens](https://arxiv.org/abs/2606.14048) | — | 2026 | [Paper](https://arxiv.org/abs/2606.14048) | Spatial register tokens lift WAMs from 2D to 3D-consistent 4D modeling |
 
 ---
 
