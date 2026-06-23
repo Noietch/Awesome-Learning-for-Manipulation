@@ -247,6 +247,7 @@
 | [EventVLA: Event-Driven Visual Evidence Memory for Long-Horizon VLA Policies](https://arxiv.org/abs/2606.20092) | — | 2026 | [Paper](https://arxiv.org/abs/2606.20092) | Sparse keyframe evidence memory boosts long-horizon VLA by +40% success rate |
 | [Tri-Info: Generalizable Failure Prediction for VLA Models via Information Theory](https://arxiv.org/abs/2606.19998) | — | 2026 | [Paper](https://arxiv.org/abs/2606.19998) | Information-theoretic failure detection generalizes across VLA architectures and sim-to-real |
 | [Pose6DAug: Multi-view Object Swapping for Robot Data Augmentation](https://arxiv.org/abs/2606.20118) | — | 2026 | [Paper](https://arxiv.org/abs/2606.20118) | 3D-consistent object swapping augments VLA data without new collection; +16.5% on novel objects |
+| [Mix-QVLA: Task-Evidence-Aware Mixed-Precision Quantization of VLA Models](https://arxiv.org/abs/2606.19565) | — | 2026 | [Paper](https://arxiv.org/abs/2606.19565) | Mixed-precision quantization preserving task-relevant evidence for efficient VLA deployment |
 
 ---
 
@@ -411,6 +412,7 @@
 | [Frequency-Aware Flow Matching for Robotic Action Generation](https://arxiv.org/abs/2606.20135) | — | 2026 | [Paper](https://arxiv.org/abs/2606.20135) | Frequency-decomposed flow matching improves continuous action trajectory quality |
 | [DF-ExpEnse: Diffusion Filtered Exploration for Sample Efficient Finetuning](https://arxiv.org/abs/2606.19656) | ICML | 2026 | [Paper](https://arxiv.org/abs/2606.19656) | Diffusion-filtered exploration improves sample efficiency for policy finetuning |
 | [One-to-Two Acting: Single-arm to Dual-arm Action Expansion via ExS2D](https://arxiv.org/abs/2606.19897) | — | 2026 | [Paper](https://arxiv.org/abs/2606.19897) | Hierarchical framework expands single-arm demos to dual-arm execution; zero bimanual data |
+| [PAINT: Asynchronous Execution via Initial Noise Selection for Flow Policies](https://arxiv.org/abs/2606.19774) | — | 2026 | [Paper](https://arxiv.org/abs/2606.19774) | Training-free noise selection resolves async chunk boundary inconsistency in flow policies |
 
 ---
 
@@ -518,6 +520,7 @@
 | [PAIWorld: A 3D-Consistent World Foundation Model for Robotic Manipulation](https://arxiv.org/abs/2606.18375) | — | 2026 | [Paper](https://arxiv.org/abs/2606.18375) | Multi-view 3D-consistent world model with explicit geometric reasoning; Alibaba |
 | [Sensorimotor World Models: Perception for Action via Inverse Dynamics](https://arxiv.org/abs/2606.20104) | — | 2026 | [Paper](https://arxiv.org/abs/2606.20104) | Inverse dynamics regularization prevents collapse and learns action-aligned world models; Schölkopf |
 | [WAM4D: Fast 4D World Action Model via Spatial Register Tokens](https://arxiv.org/abs/2606.14048) | — | 2026 | [Paper](https://arxiv.org/abs/2606.14048) | Spatial register tokens lift WAMs from 2D to 3D-consistent 4D modeling |
+| [Current World Models Lack a Persistent State Core](https://arxiv.org/abs/2606.20545) | — | 2026 | [Paper](https://arxiv.org/abs/2606.20545) | WRBench reveals world models fail at persistent state under viewpoint changes |
 
 ---
 
@@ -578,6 +581,7 @@
 | [EgoMimic: Scaling Imitation Learning via Egocentric Video](https://arxiv.org/abs/2410.24221) | CoRL | 2024 | [Paper](https://arxiv.org/abs/2410.24221) | Egocentric human video for robot imitation learning |
 | [SABER: A Scalable Action-Based Embodied Dataset for Real-World VLA Adaptation](https://arxiv.org/abs/2605.09613) | — | 2026 | [Paper](https://arxiv.org/abs/2605.09613) \| [Project](https://dreamvu.ai/saber) | 100+ hours retail in-store capture; 44.8K samples for VLA adaptation without teleoperation |
 | [HapTile: A Haptic-Informed Vision-Tactile-Language-Action Dataset for Contact-Rich Imitation Learning](https://arxiv.org/abs/2606.04825) | — | 2026 | [Paper](https://arxiv.org/abs/2606.04825) | Huawei Noah's Ark: multimodal VLA dataset combining vision, haptics, and tactile for contact-rich tasks |
+| [HUG: Human Universal Grasping](https://arxiv.org/abs/2606.17054) | — | 2026 | [Paper](https://arxiv.org/abs/2606.17054) \| [Project](https://grasping.io/) | 1M-frame egocentric human grasp dataset for generating robot hand designs; NYU/Pinto |
 | [DROID: A Large-Scale In-the-Wild Robot Manipulation Dataset](https://arxiv.org/abs/2403.12945) | RSS | 2024 | [Paper](https://arxiv.org/abs/2403.12945) \| [Project](https://droid-dataset.github.io/) | 76k demonstrations across 86 environments |
 | [Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://arxiv.org/abs/2310.08864) | ICRA Best Paper | 2024 | [Paper](https://arxiv.org/abs/2310.08864) \| [Project](https://robotics-transformer-x.github.io/) | 1M+ real-robot demos from 22 robots and 21 institutions |
 | [BridgeData V2: A Dataset for Robot Learning at Scale](https://arxiv.org/abs/2308.12952) | CoRL | 2023 | [Paper](https://arxiv.org/abs/2308.12952) \| [Project](https://rail-berkeley.github.io/bridgedata/) | 60k+ kitchen manipulation demonstrations |
