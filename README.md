@@ -248,6 +248,9 @@
 | [Tri-Info: Generalizable Failure Prediction for VLA Models via Information Theory](https://arxiv.org/abs/2606.19998) | — | 2026 | [Paper](https://arxiv.org/abs/2606.19998) | Information-theoretic failure detection generalizes across VLA architectures and sim-to-real |
 | [Pose6DAug: Multi-view Object Swapping for Robot Data Augmentation](https://arxiv.org/abs/2606.20118) | — | 2026 | [Paper](https://arxiv.org/abs/2606.20118) | 3D-consistent object swapping augments VLA data without new collection; +16.5% on novel objects |
 | [Mix-QVLA: Task-Evidence-Aware Mixed-Precision Quantization of VLA Models](https://arxiv.org/abs/2606.19565) | — | 2026 | [Paper](https://arxiv.org/abs/2606.19565) | Mixed-precision quantization preserving task-relevant evidence for efficient VLA deployment |
+| [InSight: Self-Guided Skill Acquisition via Steerable VLAs](https://arxiv.org/abs/2606.24884) | — | 2026 | [Paper](https://arxiv.org/abs/2606.24884) | Self-guided VLA discovers and acquires new skills without human supervision; Stanford |
+| [G³VLA: Geometric Inductive Bias for Vision-Language-Action Models](https://arxiv.org/abs/2606.24472) | — | 2026 | [Paper](https://arxiv.org/abs/2606.24472) | Camera-aware geometric inductive bias improves VLA spatial reasoning across embodiments |
+| [Supervise What Survives: Geometry-Guided VLA Adaptation from Synthetic Robot Videos](https://arxiv.org/abs/2606.24448) | — | 2026 | [Paper](https://arxiv.org/abs/2606.24448) | Geometry-guided supervision filters synthetic video noise for scalable VLA adaptation |
 
 ---
 
@@ -413,6 +416,7 @@
 | [DF-ExpEnse: Diffusion Filtered Exploration for Sample Efficient Finetuning](https://arxiv.org/abs/2606.19656) | ICML | 2026 | [Paper](https://arxiv.org/abs/2606.19656) | Diffusion-filtered exploration improves sample efficiency for policy finetuning |
 | [One-to-Two Acting: Single-arm to Dual-arm Action Expansion via ExS2D](https://arxiv.org/abs/2606.19897) | — | 2026 | [Paper](https://arxiv.org/abs/2606.19897) | Hierarchical framework expands single-arm demos to dual-arm execution; zero bimanual data |
 | [PAINT: Asynchronous Execution via Initial Noise Selection for Flow Policies](https://arxiv.org/abs/2606.19774) | — | 2026 | [Paper](https://arxiv.org/abs/2606.19774) | Training-free noise selection resolves async chunk boundary inconsistency in flow policies |
+| [Flow as Flow: Modeling Robot Velocity Fields for Flow-Based Object Manipulation](https://arxiv.org/abs/2606.23090) | — | 2026 | [Paper](https://arxiv.org/abs/2606.23090) | Cross-embodiment flow-matching velocity fields enable generalizable non-prehensile manipulation |
 
 ---
 
@@ -521,6 +525,7 @@
 | [Sensorimotor World Models: Perception for Action via Inverse Dynamics](https://arxiv.org/abs/2606.20104) | — | 2026 | [Paper](https://arxiv.org/abs/2606.20104) | Inverse dynamics regularization prevents collapse and learns action-aligned world models; Schölkopf |
 | [WAM4D: Fast 4D World Action Model via Spatial Register Tokens](https://arxiv.org/abs/2606.14048) | — | 2026 | [Paper](https://arxiv.org/abs/2606.14048) | Spatial register tokens lift WAMs from 2D to 3D-consistent 4D modeling |
 | [Current World Models Lack a Persistent State Core](https://arxiv.org/abs/2606.20545) | — | 2026 | [Paper](https://arxiv.org/abs/2606.20545) | WRBench reveals world models fail at persistent state under viewpoint changes |
+| [World Value Models for Robotic Manipulation](https://arxiv.org/abs/2606.24742) | — | 2026 | [Paper](https://arxiv.org/abs/2606.24742) | Combines world models with value estimation for planning-free manipulation control |
 
 ---
 
@@ -651,6 +656,7 @@
 | [A Survey on Embodied AI: From Simulators to Research Challenges](https://arxiv.org/abs/2103.04918) | IEEE TPAMI | 2022 | [Paper](https://arxiv.org/abs/2103.04918) | Foundational survey covering simulators and challenges |
 | [A Survey of Robot Learning from Demonstration](https://www.cs.cmu.edu/~mmv/papers/09ras-survey.pdf) | Robotics and Autonomous Systems | 2009 | [Paper](https://www.cs.cmu.edu/~mmv/papers/09ras-survey.pdf) | Foundational survey on imitation learning for robotics |
 | [Imitation Learning: A Survey of Learning Methods](https://dl.acm.org/doi/10.1145/3054912) | ACM Computing Surveys | 2018 | [Paper](https://dl.acm.org/doi/10.1145/3054912) | Comprehensive survey on imitation learning methods |
+| [World Action Models: A Survey](https://arxiv.org/abs/2606.20781) | — | 2026 | [Paper](https://arxiv.org/abs/2606.20781) | Unified taxonomy of world action models bridging video generation and action prediction |
 
 ### Embodied AI General Survey
 
