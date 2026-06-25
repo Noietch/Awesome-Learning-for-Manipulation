@@ -251,6 +251,9 @@
 | [InSight: Self-Guided Skill Acquisition via Steerable VLAs](https://arxiv.org/abs/2606.24884) | — | 2026 | [Paper](https://arxiv.org/abs/2606.24884) | Self-guided VLA discovers and acquires new skills without human supervision; Stanford |
 | [G³VLA: Geometric Inductive Bias for Vision-Language-Action Models](https://arxiv.org/abs/2606.24472) | — | 2026 | [Paper](https://arxiv.org/abs/2606.24472) | Camera-aware geometric inductive bias improves VLA spatial reasoning across embodiments |
 | [Supervise What Survives: Geometry-Guided VLA Adaptation from Synthetic Robot Videos](https://arxiv.org/abs/2606.24448) | — | 2026 | [Paper](https://arxiv.org/abs/2606.24448) | Geometry-guided supervision filters synthetic video noise for scalable VLA adaptation |
+| [Reflective VLA: In-Context Action Consequences Make VLAs Generalize](https://arxiv.org/abs/2606.25215) | — | 2026 | [Paper](https://arxiv.org/abs/2606.25215) \| [Project](https://lianqing11.github.io/reflective-vla-page/) | In-context action consequences enable reactive VLAs to generalize across embodiments |
+| [FORCE: Efficient VLA Reinforcement Fine-Tuning via Value-Calibrated Warm-up and Self-Distillation](https://arxiv.org/abs/2606.26006) | — | 2026 | [Paper](https://arxiv.org/abs/2606.26006) | Value-calibrated warm-up and self-distillation overcome RL fine-tuning instability for VLAs |
+| [Learning Action Priors for Cross-embodiment Robot Manipulation](https://arxiv.org/abs/2606.26095) | — | 2026 | [Paper](https://arxiv.org/abs/2606.26095) | Pre-trained action priors inject physical motion knowledge into VLA action modules |
 
 ---
 
@@ -417,6 +420,7 @@
 | [One-to-Two Acting: Single-arm to Dual-arm Action Expansion via ExS2D](https://arxiv.org/abs/2606.19897) | — | 2026 | [Paper](https://arxiv.org/abs/2606.19897) | Hierarchical framework expands single-arm demos to dual-arm execution; zero bimanual data |
 | [PAINT: Asynchronous Execution via Initial Noise Selection for Flow Policies](https://arxiv.org/abs/2606.19774) | — | 2026 | [Paper](https://arxiv.org/abs/2606.19774) | Training-free noise selection resolves async chunk boundary inconsistency in flow policies |
 | [Flow as Flow: Modeling Robot Velocity Fields for Flow-Based Object Manipulation](https://arxiv.org/abs/2606.23090) | — | 2026 | [Paper](https://arxiv.org/abs/2606.23090) | Cross-embodiment flow-matching velocity fields enable generalizable non-prehensile manipulation |
+| [GRAFT: Graph-Based Affordance Transfer via Part Correspondence](https://arxiv.org/abs/2606.25241) | — | 2026 | [Paper](https://arxiv.org/abs/2606.25241) | Part-graph affordance transfer enables few-shot manipulation generalization; NVIDIA/Georgia Tech |
 
 ---
 
@@ -526,6 +530,7 @@
 | [WAM4D: Fast 4D World Action Model via Spatial Register Tokens](https://arxiv.org/abs/2606.14048) | — | 2026 | [Paper](https://arxiv.org/abs/2606.14048) | Spatial register tokens lift WAMs from 2D to 3D-consistent 4D modeling |
 | [Current World Models Lack a Persistent State Core](https://arxiv.org/abs/2606.20545) | — | 2026 | [Paper](https://arxiv.org/abs/2606.20545) | WRBench reveals world models fail at persistent state under viewpoint changes |
 | [World Value Models for Robotic Manipulation](https://arxiv.org/abs/2606.24742) | — | 2026 | [Paper](https://arxiv.org/abs/2606.24742) | Combines world models with value estimation for planning-free manipulation control |
+| [In-Context World Modeling for Robotic Control](https://arxiv.org/abs/2606.26025) | — | 2026 | [Paper](https://arxiv.org/abs/2606.26025) | In-context world model infers system dynamics for zero-shot generalization to novel setups |
 
 ---
 
