@@ -254,6 +254,8 @@
 | [Reflective VLA: In-Context Action Consequences Make VLAs Generalize](https://arxiv.org/abs/2606.25215) | — | 2026 | [Paper](https://arxiv.org/abs/2606.25215) \| [Project](https://lianqing11.github.io/reflective-vla-page/) | In-context action consequences enable reactive VLAs to generalize across embodiments |
 | [FORCE: Efficient VLA Reinforcement Fine-Tuning via Value-Calibrated Warm-up and Self-Distillation](https://arxiv.org/abs/2606.26006) | — | 2026 | [Paper](https://arxiv.org/abs/2606.26006) | Value-calibrated warm-up and self-distillation overcome RL fine-tuning instability for VLAs |
 | [Learning Action Priors for Cross-embodiment Robot Manipulation](https://arxiv.org/abs/2606.26095) | — | 2026 | [Paper](https://arxiv.org/abs/2606.26095) | Pre-trained action priors inject physical motion knowledge into VLA action modules |
+| [E-TTS: A New Embodied Test-Time Scaling Framework for Robotic Manipulation](https://arxiv.org/abs/2606.27268) | ECCV | 2026 | [Paper](https://arxiv.org/abs/2606.27268) \| [Project](https://27yw.github.io/E-TTS-Web/) | History-aware test-time scaling for VLA via closed-loop reasoning |
+| [SSI-Policy: Learning Structured Scene Interfaces for Vision-Language Robotic Manipulation](https://arxiv.org/abs/2606.26800) | IROS | 2026 | [Paper](https://arxiv.org/abs/2606.26800) | RGB-only structured scene interface for low-data VLA manipulation |
 
 ---
 
@@ -302,6 +304,7 @@
 | [CLAW: Learning Continuous Latent Action World Models via Adversarial Latent Regularization](https://arxiv.org/abs/2606.04130) | — | 2026 | [Paper](https://arxiv.org/abs/2606.04130) | End-to-end self-supervised world model learns continuous latent actions from action-free videos |
 | [MemoryWAM: Efficient World Action Modeling with Persistent Memory](https://arxiv.org/abs/2606.20562) | — | 2026 | [Paper](https://arxiv.org/abs/2606.20562) | Persistent memory augments WAM for long-horizon dynamics modeling; CUHK/Dahua Lin |
 | [ImageWAM: Do World Action Models Really Need Video Generation, or Just Image Editing?](https://arxiv.org/abs/2606.19531) | — | 2026 | [Paper](https://arxiv.org/abs/2606.19531) \| [Project](https://imagewam.github.io/) | Replaces costly video generation with image editing for efficient world action modeling |
+| [World Action Models Enable Continual Imitation Learning with Recurrent Generative Replays](https://arxiv.org/abs/2606.27374) | — | 2026 | [Paper](https://arxiv.org/abs/2606.27374) | WAM-based pseudo-replay reduces catastrophic forgetting by 50% in continual learning |
 
 ---
 
@@ -421,6 +424,7 @@
 | [PAINT: Asynchronous Execution via Initial Noise Selection for Flow Policies](https://arxiv.org/abs/2606.19774) | — | 2026 | [Paper](https://arxiv.org/abs/2606.19774) | Training-free noise selection resolves async chunk boundary inconsistency in flow policies |
 | [Flow as Flow: Modeling Robot Velocity Fields for Flow-Based Object Manipulation](https://arxiv.org/abs/2606.23090) | — | 2026 | [Paper](https://arxiv.org/abs/2606.23090) | Cross-embodiment flow-matching velocity fields enable generalizable non-prehensile manipulation |
 | [GRAFT: Graph-Based Affordance Transfer via Part Correspondence](https://arxiv.org/abs/2606.25241) | — | 2026 | [Paper](https://arxiv.org/abs/2606.25241) | Part-graph affordance transfer enables few-shot manipulation generalization; NVIDIA/Georgia Tech |
+| [Scalable Behavior Cloning with Open Data, Training, and Evaluation](https://arxiv.org/abs/2606.27375) | — | 2026 | [Paper](https://arxiv.org/abs/2606.27375) \| [Project](https://abc.bot) | Open-source 130K-episode teleop dataset with DiT and VLA benchmarks |
 
 ---
 
@@ -531,6 +535,7 @@
 | [Current World Models Lack a Persistent State Core](https://arxiv.org/abs/2606.20545) | — | 2026 | [Paper](https://arxiv.org/abs/2606.20545) | WRBench reveals world models fail at persistent state under viewpoint changes |
 | [World Value Models for Robotic Manipulation](https://arxiv.org/abs/2606.24742) | — | 2026 | [Paper](https://arxiv.org/abs/2606.24742) | Combines world models with value estimation for planning-free manipulation control |
 | [In-Context World Modeling for Robotic Control](https://arxiv.org/abs/2606.26025) | — | 2026 | [Paper](https://arxiv.org/abs/2606.26025) | In-context world model infers system dynamics for zero-shot generalization to novel setups |
+| [Hallucination in World Models is Predictable and Preventable](https://arxiv.org/abs/2606.27326) | — | 2026 | [Paper](https://arxiv.org/abs/2606.27326) \| [Project](https://www.nicklashansen.com/mmbench2) | Predictable and preventable hallucination in generative world models |
 
 ---
 
