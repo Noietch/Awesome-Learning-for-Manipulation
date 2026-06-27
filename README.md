@@ -256,6 +256,7 @@
 | [Learning Action Priors for Cross-embodiment Robot Manipulation](https://arxiv.org/abs/2606.26095) | — | 2026 | [Paper](https://arxiv.org/abs/2606.26095) | Pre-trained action priors inject physical motion knowledge into VLA action modules |
 | [E-TTS: A New Embodied Test-Time Scaling Framework for Robotic Manipulation](https://arxiv.org/abs/2606.27268) | ECCV | 2026 | [Paper](https://arxiv.org/abs/2606.27268) \| [Project](https://27yw.github.io/E-TTS-Web/) | History-aware test-time scaling for VLA via closed-loop reasoning |
 | [SSI-Policy: Learning Structured Scene Interfaces for Vision-Language Robotic Manipulation](https://arxiv.org/abs/2606.26800) | IROS | 2026 | [Paper](https://arxiv.org/abs/2606.26800) | RGB-only structured scene interface for low-data VLA manipulation |
+| [LA4VLA: Learning to Act without Seeing via Language-Action Pretraining](https://arxiv.org/abs/2606.27295) | — | 2026 | [Paper](https://arxiv.org/abs/2606.27295) \| [Code](https://github.com/MINT-SJTU/LA4VLA) | Language-action pretraining without visual input for VLA |
 
 ---
 
@@ -425,6 +426,9 @@
 | [Flow as Flow: Modeling Robot Velocity Fields for Flow-Based Object Manipulation](https://arxiv.org/abs/2606.23090) | — | 2026 | [Paper](https://arxiv.org/abs/2606.23090) | Cross-embodiment flow-matching velocity fields enable generalizable non-prehensile manipulation |
 | [GRAFT: Graph-Based Affordance Transfer via Part Correspondence](https://arxiv.org/abs/2606.25241) | — | 2026 | [Paper](https://arxiv.org/abs/2606.25241) | Part-graph affordance transfer enables few-shot manipulation generalization; NVIDIA/Georgia Tech |
 | [Scalable Behavior Cloning with Open Data, Training, and Evaluation](https://arxiv.org/abs/2606.27375) | — | 2026 | [Paper](https://arxiv.org/abs/2606.27375) \| [Project](https://abc.bot) | Open-source 130K-episode teleop dataset with DiT and VLA benchmarks |
+| [Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?](https://arxiv.org/abs/2606.26428) | — | 2026 | [Paper](https://arxiv.org/abs/2606.26428) \| [Project](https://play2perfect.github.io) | Dexterous play pretraining for precise assembly |
+| [CoStream: Composing Simple Behaviors for Generalizable Complex Manipulation](https://arxiv.org/abs/2606.26423) | — | 2026 | [Paper](https://arxiv.org/abs/2606.26423) \| [Project](https://costream-simple.github.io) | Composing simple behaviors for generalizable complex manipulation |
+| [Continual Robot Policy Learning via Variational Neural Dynamics](https://arxiv.org/abs/2606.27353) | — | 2026 | [Paper](https://arxiv.org/abs/2606.27353) | Continual robot policy learning via variational neural dynamics |
 
 ---
 
