@@ -306,6 +306,7 @@
 | [MemoryWAM: Efficient World Action Modeling with Persistent Memory](https://arxiv.org/abs/2606.20562) | — | 2026 | [Paper](https://arxiv.org/abs/2606.20562) | Persistent memory augments WAM for long-horizon dynamics modeling; CUHK/Dahua Lin |
 | [ImageWAM: Do World Action Models Really Need Video Generation, or Just Image Editing?](https://arxiv.org/abs/2606.19531) | — | 2026 | [Paper](https://arxiv.org/abs/2606.19531) \| [Project](https://imagewam.github.io/) | Replaces costly video generation with image editing for efficient world action modeling |
 | [World Action Models Enable Continual Imitation Learning with Recurrent Generative Replays](https://arxiv.org/abs/2606.27374) | — | 2026 | [Paper](https://arxiv.org/abs/2606.27374) | WAM-based pseudo-replay reduces catastrophic forgetting by 50% in continual learning |
+| [Tactile-WAM: Touch-Aware World Action Model with Tactile Asymmetric Attention](https://arxiv.org/abs/2606.26663) | — | 2026 | [Paper](https://arxiv.org/abs/2606.26663) | Asymmetric tactile attention boosts WAM +38.9% on contact-rich manipulation tasks |
 
 ---
 
@@ -429,6 +430,8 @@
 | [Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?](https://arxiv.org/abs/2606.26428) | — | 2026 | [Paper](https://arxiv.org/abs/2606.26428) \| [Project](https://play2perfect.github.io) | Dexterous play pretraining for precise assembly |
 | [CoStream: Composing Simple Behaviors for Generalizable Complex Manipulation](https://arxiv.org/abs/2606.26423) | — | 2026 | [Paper](https://arxiv.org/abs/2606.26423) \| [Project](https://costream-simple.github.io) | Composing simple behaviors for generalizable complex manipulation |
 | [Continual Robot Policy Learning via Variational Neural Dynamics](https://arxiv.org/abs/2606.27353) | — | 2026 | [Paper](https://arxiv.org/abs/2606.27353) | Continual robot policy learning via variational neural dynamics |
+| [VibeAct: Vibration to Actions for Contact-Rich Reactive Robot Dexterity](https://arxiv.org/abs/2606.27344) | — | 2026 | [Paper](https://arxiv.org/abs/2606.27344) \| [Project](https://vibeact.github.io/) | Vibration sensing enables reactive dexterous manipulation in contact-rich tasks; CMU |
+| [OmniContact: Chaining Meta-Skills via Contact Flow for Generalizable Humanoid Loco-Manipulation](https://arxiv.org/abs/2606.26201) | — | 2026 | [Paper](https://arxiv.org/abs/2606.26201) | Contact-flow meta-skill chaining for generalizable humanoid loco-manipulation; HKU/Tencent |
 
 ---
 
@@ -584,6 +587,7 @@
 | [ATOM-Bench: A Real-World Benchmark for Atomic Skills and Compositional Generalization](https://arxiv.org/abs/2606.16826) | — | 2026 | [Paper](https://arxiv.org/abs/2606.16826) \| [Project](https://flageval-baai.github.io/AtomBenchPage) | Real-world benchmark diagnosing atomic skill execution and compositional generalization; BAAI |
 | [EBench: Elemental Diagnosis of Generalist Mobile Manipulation Policies](https://arxiv.org/abs/2606.18239) | — | 2026 | [Paper](https://arxiv.org/abs/2606.18239) | 26-task benchmark diagnosing π₀, XVLA, InternVLA across 5 capability dimensions |
 | [SC3-Eval: Evaluating Robot Foundation Models via Self-Consistent Video Generation](https://arxiv.org/abs/2606.18610) | — | 2026 | [Paper](https://arxiv.org/abs/2606.18610) | Self-consistent video world models as scalable robot policy evaluators |
+| [WatchAct: A Benchmark for Behavior-Grounded Robot Manipulation](https://arxiv.org/abs/2606.26443) | — | 2026 | [Paper](https://arxiv.org/abs/2606.26443) \| [Project](https://baiqi-li.github.io/watchact_page/) | Video-grounded benchmark for behavior-aware manipulation with spatial+temporal reasoning |
 
 ### Data Engines
 
