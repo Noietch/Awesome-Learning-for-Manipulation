@@ -257,6 +257,8 @@
 | [E-TTS: A New Embodied Test-Time Scaling Framework for Robotic Manipulation](https://arxiv.org/abs/2606.27268) | ECCV | 2026 | [Paper](https://arxiv.org/abs/2606.27268) \| [Project](https://27yw.github.io/E-TTS-Web/) | History-aware test-time scaling for VLA via closed-loop reasoning |
 | [SSI-Policy: Learning Structured Scene Interfaces for Vision-Language Robotic Manipulation](https://arxiv.org/abs/2606.26800) | IROS | 2026 | [Paper](https://arxiv.org/abs/2606.26800) | RGB-only structured scene interface for low-data VLA manipulation |
 | [LA4VLA: Learning to Act without Seeing via Language-Action Pretraining](https://arxiv.org/abs/2606.27295) | — | 2026 | [Paper](https://arxiv.org/abs/2606.27295) \| [Code](https://github.com/MINT-SJTU/LA4VLA) | Language-action pretraining without visual input for VLA |
+| [S²-VLA: State-Space Guided Vision-Language-Action Models for Long-Horizon Manipulation](https://arxiv.org/abs/2606.27872) | IJCAI | 2026 | [Paper](https://arxiv.org/abs/2606.27872) | Dynamic state-space fusion reduces cumulative errors in long-horizon VLA tasks |
+| [SpikeVLA: Vision-Language-Action Models with Spiking Neural Networks](https://arxiv.org/abs/2606.27807) | ICML | 2026 | [Paper](https://arxiv.org/abs/2606.27807) | First SNN-based VLA achieves low-latency energy-efficient robotic control |
 
 ---
 
@@ -543,6 +545,8 @@
 | [World Value Models for Robotic Manipulation](https://arxiv.org/abs/2606.24742) | — | 2026 | [Paper](https://arxiv.org/abs/2606.24742) | Combines world models with value estimation for planning-free manipulation control |
 | [In-Context World Modeling for Robotic Control](https://arxiv.org/abs/2606.26025) | — | 2026 | [Paper](https://arxiv.org/abs/2606.26025) | In-context world model infers system dynamics for zero-shot generalization to novel setups |
 | [Hallucination in World Models is Predictable and Preventable](https://arxiv.org/abs/2606.27326) | — | 2026 | [Paper](https://arxiv.org/abs/2606.27326) \| [Project](https://www.nicklashansen.com/mmbench2) | Predictable and preventable hallucination in generative world models |
+| [PhysisForcing: Physics Reinforced World Simulator for Robotic Manipulation](https://arxiv.org/abs/2606.28128) | — | 2026 | [Paper](https://arxiv.org/abs/2606.28128) \| [Code](https://github.com/DAGroup-PKU/PhysisForcing) | Physics-reinforced video world model ensuring physically plausible manipulation; PKU |
+| [DIM-WAM: World-Action Modeling with Diverse Historical Event Memory](https://arxiv.org/abs/2606.27677) | — | 2026 | [Paper](https://arxiv.org/abs/2606.27677) | Event memory augments world-action models for long-horizon manipulation reasoning |
 
 ---
 
@@ -605,6 +609,7 @@
 | [SABER: A Scalable Action-Based Embodied Dataset for Real-World VLA Adaptation](https://arxiv.org/abs/2605.09613) | — | 2026 | [Paper](https://arxiv.org/abs/2605.09613) \| [Project](https://dreamvu.ai/saber) | 100+ hours retail in-store capture; 44.8K samples for VLA adaptation without teleoperation |
 | [HapTile: A Haptic-Informed Vision-Tactile-Language-Action Dataset for Contact-Rich Imitation Learning](https://arxiv.org/abs/2606.04825) | — | 2026 | [Paper](https://arxiv.org/abs/2606.04825) | Huawei Noah's Ark: multimodal VLA dataset combining vision, haptics, and tactile for contact-rich tasks |
 | [HUG: Human Universal Grasping](https://arxiv.org/abs/2606.17054) | — | 2026 | [Paper](https://arxiv.org/abs/2606.17054) \| [Project](https://grasping.io/) | 1M-frame egocentric human grasp dataset for generating robot hand designs; NYU/Pinto |
+| [LIBERO-Safety: A Comprehensive Benchmark for Physical and Semantic Safety in VLA Models](https://arxiv.org/abs/2606.23686) | ECCV | 2026 | [Paper](https://arxiv.org/abs/2606.23686) \| [Project](https://libero-safety.github.io/) | Parametric safety benchmark for VLA under physical and semantic constraints |
 | [DROID: A Large-Scale In-the-Wild Robot Manipulation Dataset](https://arxiv.org/abs/2403.12945) | RSS | 2024 | [Paper](https://arxiv.org/abs/2403.12945) \| [Project](https://droid-dataset.github.io/) | 76k demonstrations across 86 environments |
 | [Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://arxiv.org/abs/2310.08864) | ICRA Best Paper | 2024 | [Paper](https://arxiv.org/abs/2310.08864) \| [Project](https://robotics-transformer-x.github.io/) | 1M+ real-robot demos from 22 robots and 21 institutions |
 | [BridgeData V2: A Dataset for Robot Learning at Scale](https://arxiv.org/abs/2308.12952) | CoRL | 2023 | [Paper](https://arxiv.org/abs/2308.12952) \| [Project](https://rail-berkeley.github.io/bridgedata/) | 60k+ kitchen manipulation demonstrations |
