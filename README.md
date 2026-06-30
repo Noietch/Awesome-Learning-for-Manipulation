@@ -434,6 +434,8 @@
 | [Continual Robot Policy Learning via Variational Neural Dynamics](https://arxiv.org/abs/2606.27353) | — | 2026 | [Paper](https://arxiv.org/abs/2606.27353) | Continual robot policy learning via variational neural dynamics |
 | [VibeAct: Vibration to Actions for Contact-Rich Reactive Robot Dexterity](https://arxiv.org/abs/2606.27344) | — | 2026 | [Paper](https://arxiv.org/abs/2606.27344) \| [Project](https://vibeact.github.io/) | Vibration sensing enables reactive dexterous manipulation in contact-rich tasks; CMU |
 | [OmniContact: Chaining Meta-Skills via Contact Flow for Generalizable Humanoid Loco-Manipulation](https://arxiv.org/abs/2606.26201) | — | 2026 | [Paper](https://arxiv.org/abs/2606.26201) | Contact-flow meta-skill chaining for generalizable humanoid loco-manipulation; HKU/Tencent |
+| [ForceBand: Learning Forceful Manipulation with sEMG](https://arxiv.org/abs/2606.26093) | — | 2026 | [Paper](https://arxiv.org/abs/2606.26093) \| [Project](https://forceband-emg.github.io) | Wrist-worn sEMG turns human muscle signals into force-enriched robot demos; Berkeley/Malik |
+| [HALO: Memory Retrieval in Visuomotor Policies for Long-Horizon Robot Control](https://arxiv.org/abs/2606.25136) | — | 2026 | [Paper](https://arxiv.org/abs/2606.25136) \| [Project](https://robin-lab.cs.utexas.edu/HALO) | VLM-guided sparse attention retrieves task-relevant memory for 8-min horizon control; UT Austin |
 
 ---
 
@@ -547,6 +549,8 @@
 | [Hallucination in World Models is Predictable and Preventable](https://arxiv.org/abs/2606.27326) | — | 2026 | [Paper](https://arxiv.org/abs/2606.27326) \| [Project](https://www.nicklashansen.com/mmbench2) | Predictable and preventable hallucination in generative world models |
 | [PhysisForcing: Physics Reinforced World Simulator for Robotic Manipulation](https://arxiv.org/abs/2606.28128) | — | 2026 | [Paper](https://arxiv.org/abs/2606.28128) \| [Code](https://github.com/DAGroup-PKU/PhysisForcing) | Physics-reinforced video world model ensuring physically plausible manipulation; PKU |
 | [DIM-WAM: World-Action Modeling with Diverse Historical Event Memory](https://arxiv.org/abs/2606.27677) | — | 2026 | [Paper](https://arxiv.org/abs/2606.27677) | Event memory augments world-action models for long-horizon manipulation reasoning |
+| [A2World: Learning Transferable Dynamics Priors from Action to World Modeling](https://arxiv.org/abs/2606.29501) | ECCV | 2026 | [Paper](https://arxiv.org/abs/2606.29501) | Action-conditioned world model pretraining yields transferable dynamics priors for robot learning |
+| [ViPSim: Collaborating Visual and Parameter Spaces for Consistent Long-Horizon Embodied World Models](https://arxiv.org/abs/2606.28804) | RSS | 2026 | [Paper](https://arxiv.org/abs/2606.28804) | Visual-parameter space collaboration ensures geometric consistency in long-horizon world models |
 
 ---
 
