@@ -436,6 +436,10 @@
 | [OmniContact: Chaining Meta-Skills via Contact Flow for Generalizable Humanoid Loco-Manipulation](https://arxiv.org/abs/2606.26201) | — | 2026 | [Paper](https://arxiv.org/abs/2606.26201) | Contact-flow meta-skill chaining for generalizable humanoid loco-manipulation; HKU/Tencent |
 | [ForceBand: Learning Forceful Manipulation with sEMG](https://arxiv.org/abs/2606.26093) | — | 2026 | [Paper](https://arxiv.org/abs/2606.26093) \| [Project](https://forceband-emg.github.io) | Wrist-worn sEMG turns human muscle signals into force-enriched robot demos; Berkeley/Malik |
 | [HALO: Memory Retrieval in Visuomotor Policies for Long-Horizon Robot Control](https://arxiv.org/abs/2606.25136) | — | 2026 | [Paper](https://arxiv.org/abs/2606.25136) \| [Project](https://robin-lab.cs.utexas.edu/HALO) | VLM-guided sparse attention retrieves task-relevant memory for 8-min horizon control; UT Austin |
+| [Freeform Preference Learning for Robotic Manipulation](https://arxiv.org/abs/2606.32027) | — | 2026 | [Paper](https://arxiv.org/abs/2606.32027) \| [Project](https://freeform-pl.github.io/fpl.website/) | Freeform language preferences replace binary labels for manipulation reward learning; Stanford/Finn |
+| [From Grasps to Dexterity: Large-Scale Grasp Pretraining for Dexterous Manipulation](https://arxiv.org/abs/2606.30749) | — | 2026 | [Paper](https://arxiv.org/abs/2606.30749) \| [Project](https://yingyuan0414.github.io/grasp2dexterity/) | Large-scale grasp data pretrain transfers to functional dexterous tool use; CMU/Held |
+| [Human2Any: Human-to-Robot Transfer via Constraint-Aware Compositional Planning](https://arxiv.org/abs/2606.28813) | — | 2026 | [Paper](https://arxiv.org/abs/2606.28813) \| [Project](https://human2any.github.io/) | Constraint-aware compositional planning transfers human demos to diverse robots; NVIDIA/GaTech |
+| [Multisensory Continual Learning: Adapting Pretrained Visuomotor Policies to Force](https://arxiv.org/abs/2606.30988) | — | 2026 | [Paper](https://arxiv.org/abs/2606.30988) \| [Project](https://jadenvc.github.io/multisensory-continual-learning/) | Continual learning adapts vision-only policies to force sensing without forgetting; Stanford/Song |
 
 ---
 
@@ -684,6 +688,7 @@
 | [A Survey of Robot Learning from Demonstration](https://www.cs.cmu.edu/~mmv/papers/09ras-survey.pdf) | Robotics and Autonomous Systems | 2009 | [Paper](https://www.cs.cmu.edu/~mmv/papers/09ras-survey.pdf) | Foundational survey on imitation learning for robotics |
 | [Imitation Learning: A Survey of Learning Methods](https://dl.acm.org/doi/10.1145/3054912) | ACM Computing Surveys | 2018 | [Paper](https://dl.acm.org/doi/10.1145/3054912) | Comprehensive survey on imitation learning methods |
 | [World Action Models: A Survey](https://arxiv.org/abs/2606.20781) | — | 2026 | [Paper](https://arxiv.org/abs/2606.20781) | Unified taxonomy of world action models bridging video generation and action prediction |
+| [Robustness of Robotic Manipulation: Foundations and Frontiers](https://arxiv.org/abs/2606.31494) | — | 2026 | [Paper](https://arxiv.org/abs/2606.31494) | Systematic survey unifying robustness concepts across manipulation subfields; Stanford/Song |
 
 ### Embodied AI General Survey
 
