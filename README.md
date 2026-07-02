@@ -259,6 +259,8 @@
 | [LA4VLA: Learning to Act without Seeing via Language-Action Pretraining](https://arxiv.org/abs/2606.27295) | — | 2026 | [Paper](https://arxiv.org/abs/2606.27295) \| [Code](https://github.com/MINT-SJTU/LA4VLA) | Language-action pretraining without visual input for VLA |
 | [S²-VLA: State-Space Guided Vision-Language-Action Models for Long-Horizon Manipulation](https://arxiv.org/abs/2606.27872) | IJCAI | 2026 | [Paper](https://arxiv.org/abs/2606.27872) | Dynamic state-space fusion reduces cumulative errors in long-horizon VLA tasks |
 | [SpikeVLA: Vision-Language-Action Models with Spiking Neural Networks](https://arxiv.org/abs/2606.27807) | ICML | 2026 | [Paper](https://arxiv.org/abs/2606.27807) | First SNN-based VLA achieves low-latency energy-efficient robotic control |
+| [Domain Arithmetic: One-Shot VLA Adaptation via Domain Vector Operations](https://arxiv.org/abs/2607.00666) | ECCV | 2026 | [Paper](https://arxiv.org/abs/2607.00666) \| [Project](https://domain-arithmetic.github.io/) | One-shot domain adaptation for VLA via arithmetic on domain vectors |
+| [3D HAMSTER: Hierarchical VLA with 3D Trajectory Guidance](https://arxiv.org/abs/2606.31329) | IROS | 2026 | [Paper](https://arxiv.org/abs/2606.31329) \| [Code](https://github.com/3d-hamster) \| [Project](https://3d-hamster.github.io/) | 3D trajectory-guided hierarchical VLA bridging VLM planning and point-cloud control |
 
 ---
 
@@ -440,6 +442,7 @@
 | [From Grasps to Dexterity: Large-Scale Grasp Pretraining for Dexterous Manipulation](https://arxiv.org/abs/2606.30749) | — | 2026 | [Paper](https://arxiv.org/abs/2606.30749) \| [Project](https://yingyuan0414.github.io/grasp2dexterity/) | Large-scale grasp data pretrain transfers to functional dexterous tool use; CMU/Held |
 | [Human2Any: Human-to-Robot Transfer via Constraint-Aware Compositional Planning](https://arxiv.org/abs/2606.28813) | — | 2026 | [Paper](https://arxiv.org/abs/2606.28813) \| [Project](https://human2any.github.io/) | Constraint-aware compositional planning transfers human demos to diverse robots; NVIDIA/GaTech |
 | [Multisensory Continual Learning: Adapting Pretrained Visuomotor Policies to Force](https://arxiv.org/abs/2606.30988) | — | 2026 | [Paper](https://arxiv.org/abs/2606.30988) \| [Project](https://jadenvc.github.io/multisensory-continual-learning/) | Continual learning adapts vision-only policies to force sensing without forgetting; Stanford/Song |
+| [AutoSpeed: Stage-Adaptive Motion Speed for Robot Manipulation](https://arxiv.org/abs/2607.01051) | ECCV | 2026 | [Paper](https://arxiv.org/abs/2607.01051) | Stage-adaptive speed and temporal horizon boost manipulation throughput |
 
 ---
 
@@ -555,6 +558,7 @@
 | [DIM-WAM: World-Action Modeling with Diverse Historical Event Memory](https://arxiv.org/abs/2606.27677) | — | 2026 | [Paper](https://arxiv.org/abs/2606.27677) | Event memory augments world-action models for long-horizon manipulation reasoning |
 | [A2World: Learning Transferable Dynamics Priors from Action to World Modeling](https://arxiv.org/abs/2606.29501) | ECCV | 2026 | [Paper](https://arxiv.org/abs/2606.29501) | Action-conditioned world model pretraining yields transferable dynamics priors for robot learning |
 | [ViPSim: Collaborating Visual and Parameter Spaces for Consistent Long-Horizon Embodied World Models](https://arxiv.org/abs/2606.28804) | RSS | 2026 | [Paper](https://arxiv.org/abs/2606.28804) | Visual-parameter space collaboration ensures geometric consistency in long-horizon world models |
+| [Structured 4D Latent Predictive Model for Robot Planning](https://arxiv.org/abs/2607.01166) | — | 2026 | [Paper](https://arxiv.org/abs/2607.01166) | 4D latent world model with structured 3D geometry for precise robot planning |
 
 ---
 
@@ -600,6 +604,7 @@
 | [EBench: Elemental Diagnosis of Generalist Mobile Manipulation Policies](https://arxiv.org/abs/2606.18239) | — | 2026 | [Paper](https://arxiv.org/abs/2606.18239) | 26-task benchmark diagnosing π₀, XVLA, InternVLA across 5 capability dimensions |
 | [SC3-Eval: Evaluating Robot Foundation Models via Self-Consistent Video Generation](https://arxiv.org/abs/2606.18610) | — | 2026 | [Paper](https://arxiv.org/abs/2606.18610) | Self-consistent video world models as scalable robot policy evaluators |
 | [WatchAct: A Benchmark for Behavior-Grounded Robot Manipulation](https://arxiv.org/abs/2606.26443) | — | 2026 | [Paper](https://arxiv.org/abs/2606.26443) \| [Project](https://baiqi-li.github.io/watchact_page/) | Video-grounded benchmark for behavior-aware manipulation with spatial+temporal reasoning |
+| [OopsieVerse: A Safety Benchmark for Robotic Manipulation](https://arxiv.org/abs/2606.31993) | RSS | 2026 | [Paper](https://arxiv.org/abs/2606.31993) \| [Project](https://oopsieverse.github.io/) | Simulation benchmark for damage-aware safe manipulation evaluation |
 
 ### Data Engines
 
