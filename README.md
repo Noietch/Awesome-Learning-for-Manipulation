@@ -261,6 +261,8 @@
 | [SpikeVLA: Vision-Language-Action Models with Spiking Neural Networks](https://arxiv.org/abs/2606.27807) | ICML | 2026 | [Paper](https://arxiv.org/abs/2606.27807) | First SNN-based VLA achieves low-latency energy-efficient robotic control |
 | [Domain Arithmetic: One-Shot VLA Adaptation via Domain Vector Operations](https://arxiv.org/abs/2607.00666) | ECCV | 2026 | [Paper](https://arxiv.org/abs/2607.00666) \| [Project](https://domain-arithmetic.github.io/) | One-shot domain adaptation for VLA via arithmetic on domain vectors |
 | [3D HAMSTER: Hierarchical VLA with 3D Trajectory Guidance](https://arxiv.org/abs/2606.31329) | IROS | 2026 | [Paper](https://arxiv.org/abs/2606.31329) \| [Code](https://github.com/3d-hamster) \| [Project](https://3d-hamster.github.io/) | 3D trajectory-guided hierarchical VLA bridging VLM planning and point-cloud control |
+| [Learning to Move Before Learning to Do: Task-Agnostic Pretraining for VLAs](https://arxiv.org/abs/2607.02466) | ICML | 2026 | [Paper](https://arxiv.org/abs/2607.02466) | Decomposes physical competence from semantic alignment for data-efficient VLA pretraining |
+| [FurnitureVLA: Learning Long-Horizon Bimanual Furniture Assembly with VLA](https://arxiv.org/abs/2607.01212) | — | 2026 | [Paper](https://arxiv.org/abs/2607.01212) | First real-scale bimanual furniture assembly study using VLA models |
 
 ---
 
@@ -311,6 +313,7 @@
 | [ImageWAM: Do World Action Models Really Need Video Generation, or Just Image Editing?](https://arxiv.org/abs/2606.19531) | — | 2026 | [Paper](https://arxiv.org/abs/2606.19531) \| [Project](https://imagewam.github.io/) | Replaces costly video generation with image editing for efficient world action modeling |
 | [World Action Models Enable Continual Imitation Learning with Recurrent Generative Replays](https://arxiv.org/abs/2606.27374) | — | 2026 | [Paper](https://arxiv.org/abs/2606.27374) | WAM-based pseudo-replay reduces catastrophic forgetting by 50% in continual learning |
 | [Tactile-WAM: Touch-Aware World Action Model with Tactile Asymmetric Attention](https://arxiv.org/abs/2606.26663) | — | 2026 | [Paper](https://arxiv.org/abs/2606.26663) | Asymmetric tactile attention boosts WAM +38.9% on contact-rich manipulation tasks |
+| [VT-WAM: Visual-Tactile World Action Model for Contact-Rich Manipulation](https://arxiv.org/abs/2607.02503) | — | 2026 | [Paper](https://arxiv.org/abs/2607.02503) | Jointly models visual prediction and tactile deformation dynamics for contact-rich tasks |
 
 ---
 
@@ -470,6 +473,7 @@
 | [Embodied-R1.5: Evolving Physical Intelligence via Embodied Foundation Models](https://arxiv.org/abs/2606.11324) | Tech Report | 2026 | [Paper](https://arxiv.org/abs/2606.11324) \| [Project](https://embodied-r1.github.io/) | Unified EFM integrating embodied cognition, planning, correction, and pointing |
 | [Qwen-RobotManip: Alignment Unlocks Scale for Robotic Manipulation Foundation Models](https://arxiv.org/abs/2606.17846) | Alibaba Qwen | 2026 | [Paper](https://arxiv.org/abs/2606.17846) | Alignment recipe scaling heterogeneous manipulation data into generalizable foundation model |
 | [Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack](https://arxiv.org/abs/2606.14409) | — | 2026 | [Paper](https://arxiv.org/abs/2606.14409) | Full-stack VLA system covering data, training, RL post-training, and deployment |
+| [ABot-M0.5: Unified Mobility-and-Manipulation World Action Model](https://arxiv.org/abs/2607.00678) | — | 2026 | [Paper](https://arxiv.org/abs/2607.00678) \| [Code](https://github.com/ABot-World/ABot-M0.5) | Unified WAM for mobile manipulation with decoupled navigation-manipulation modeling |
 
 ---
 
