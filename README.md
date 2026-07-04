@@ -263,6 +263,7 @@
 | [3D HAMSTER: Hierarchical VLA with 3D Trajectory Guidance](https://arxiv.org/abs/2606.31329) | IROS | 2026 | [Paper](https://arxiv.org/abs/2606.31329) \| [Code](https://github.com/3d-hamster) \| [Project](https://3d-hamster.github.io/) | 3D trajectory-guided hierarchical VLA bridging VLM planning and point-cloud control |
 | [Learning to Move Before Learning to Do: Task-Agnostic Pretraining for VLAs](https://arxiv.org/abs/2607.02466) | ICML | 2026 | [Paper](https://arxiv.org/abs/2607.02466) | Decomposes physical competence from semantic alignment for data-efficient VLA pretraining |
 | [FurnitureVLA: Learning Long-Horizon Bimanual Furniture Assembly with VLA](https://arxiv.org/abs/2607.01212) | — | 2026 | [Paper](https://arxiv.org/abs/2607.01212) | First real-scale bimanual furniture assembly study using VLA models |
+| [The Moving Eye: Enhancing VLA Spatial Generalization via Hybrid Dynamic Data Collection](https://arxiv.org/abs/2607.02322) | IROS | 2026 | [Paper](https://arxiv.org/abs/2607.02322) | Hybrid dynamic data collection overcomes shortcut learning for VLA spatial generalization |
 
 ---
 
@@ -314,6 +315,7 @@
 | [World Action Models Enable Continual Imitation Learning with Recurrent Generative Replays](https://arxiv.org/abs/2606.27374) | — | 2026 | [Paper](https://arxiv.org/abs/2606.27374) | WAM-based pseudo-replay reduces catastrophic forgetting by 50% in continual learning |
 | [Tactile-WAM: Touch-Aware World Action Model with Tactile Asymmetric Attention](https://arxiv.org/abs/2606.26663) | — | 2026 | [Paper](https://arxiv.org/abs/2606.26663) | Asymmetric tactile attention boosts WAM +38.9% on contact-rich manipulation tasks |
 | [VT-WAM: Visual-Tactile World Action Model for Contact-Rich Manipulation](https://arxiv.org/abs/2607.02503) | — | 2026 | [Paper](https://arxiv.org/abs/2607.02503) | Jointly models visual prediction and tactile deformation dynamics for contact-rich tasks |
+| [Bridge-WA: Predicting Where and How the World Changes for Robotic Action](https://arxiv.org/abs/2607.02195) | — | 2026 | [Paper](https://arxiv.org/abs/2607.02195) \| [Project](https://bridge-wa.github.io/) | Lightweight world-action bridge predicts action-relevant scene changes for manipulation |
 
 ---
 
@@ -446,6 +448,7 @@
 | [Human2Any: Human-to-Robot Transfer via Constraint-Aware Compositional Planning](https://arxiv.org/abs/2606.28813) | — | 2026 | [Paper](https://arxiv.org/abs/2606.28813) \| [Project](https://human2any.github.io/) | Constraint-aware compositional planning transfers human demos to diverse robots; NVIDIA/GaTech |
 | [Multisensory Continual Learning: Adapting Pretrained Visuomotor Policies to Force](https://arxiv.org/abs/2606.30988) | — | 2026 | [Paper](https://arxiv.org/abs/2606.30988) \| [Project](https://jadenvc.github.io/multisensory-continual-learning/) | Continual learning adapts vision-only policies to force sensing without forgetting; Stanford/Song |
 | [AutoSpeed: Stage-Adaptive Motion Speed for Robot Manipulation](https://arxiv.org/abs/2607.01051) | ECCV | 2026 | [Paper](https://arxiv.org/abs/2607.01051) | Stage-adaptive speed and temporal horizon boost manipulation throughput |
+| [Imagining the Sense of Touch: Touch-Informed Manipulation via Imagined Tactile Representations](https://arxiv.org/abs/2607.01684) | — | 2026 | [Paper](https://arxiv.org/abs/2607.01684) \| [Project](https://tacimag.github.io/) | Imagined tactile representations enable contact-rich manipulation without tactile sensors |
 
 ---
 
@@ -563,6 +566,7 @@
 | [A2World: Learning Transferable Dynamics Priors from Action to World Modeling](https://arxiv.org/abs/2606.29501) | ECCV | 2026 | [Paper](https://arxiv.org/abs/2606.29501) | Action-conditioned world model pretraining yields transferable dynamics priors for robot learning |
 | [ViPSim: Collaborating Visual and Parameter Spaces for Consistent Long-Horizon Embodied World Models](https://arxiv.org/abs/2606.28804) | RSS | 2026 | [Paper](https://arxiv.org/abs/2606.28804) | Visual-parameter space collaboration ensures geometric consistency in long-horizon world models |
 | [Structured 4D Latent Predictive Model for Robot Planning](https://arxiv.org/abs/2607.01166) | — | 2026 | [Paper](https://arxiv.org/abs/2607.01166) | 4D latent world model with structured 3D geometry for precise robot planning |
+| [PhysMani: Physics-principled 3D World Model for Dynamic Object Manipulation](https://arxiv.org/abs/2607.01938) | ECCV | 2026 | [Paper](https://arxiv.org/abs/2607.01938) \| [Code](https://github.com/PhysMani/PhysMani) | Physics-principled 3D Gaussian world model enables catching dynamic objects |
 
 ---
 
@@ -698,6 +702,7 @@
 | [Imitation Learning: A Survey of Learning Methods](https://dl.acm.org/doi/10.1145/3054912) | ACM Computing Surveys | 2018 | [Paper](https://dl.acm.org/doi/10.1145/3054912) | Comprehensive survey on imitation learning methods |
 | [World Action Models: A Survey](https://arxiv.org/abs/2606.20781) | — | 2026 | [Paper](https://arxiv.org/abs/2606.20781) | Unified taxonomy of world action models bridging video generation and action prediction |
 | [Robustness of Robotic Manipulation: Foundations and Frontiers](https://arxiv.org/abs/2606.31494) | — | 2026 | [Paper](https://arxiv.org/abs/2606.31494) | Systematic survey unifying robustness concepts across manipulation subfields; Stanford/Song |
+| [From World Models to World Action Models: A Concise Tutorial for Robotics](https://arxiv.org/abs/2607.00836) | — | 2026 | [Paper](https://arxiv.org/abs/2607.00836) \| [Project](https://world-action-models.github.io/) | Design-space tutorial bridging world models and action generation for robotics |
 
 ### Embodied AI General Survey
 
