@@ -264,6 +264,9 @@
 | [Learning to Move Before Learning to Do: Task-Agnostic Pretraining for VLAs](https://arxiv.org/abs/2607.02466) | ICML | 2026 | [Paper](https://arxiv.org/abs/2607.02466) | Decomposes physical competence from semantic alignment for data-efficient VLA pretraining |
 | [FurnitureVLA: Learning Long-Horizon Bimanual Furniture Assembly with VLA](https://arxiv.org/abs/2607.01212) | — | 2026 | [Paper](https://arxiv.org/abs/2607.01212) | First real-scale bimanual furniture assembly study using VLA models |
 | [The Moving Eye: Enhancing VLA Spatial Generalization via Hybrid Dynamic Data Collection](https://arxiv.org/abs/2607.02322) | IROS | 2026 | [Paper](https://arxiv.org/abs/2607.02322) | Hybrid dynamic data collection overcomes shortcut learning for VLA spatial generalization |
+| [VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon](https://arxiv.org/abs/2607.01804) | — | 2026 | [Paper](https://arxiv.org/abs/2607.01804) | Detects and corrects drifting action chunks for adaptive VLA execution |
+| [VLAFlow: Unified Training Framework for VLA via Co-training and Future Latent Alignment](https://arxiv.org/abs/2607.01586) | — | 2026 | [Paper](https://arxiv.org/abs/2607.01586) | Unified flow-matching framework for controlled comparison of VLA training paradigms |
+| [Guided Action Flow: Q-Guided Inference for Flow-Matching VLA Policies](https://arxiv.org/abs/2607.02092) | — | 2026 | [Paper](https://arxiv.org/abs/2607.02092) | Learned Q-critic guides frozen VLA flow-matching at inference without retraining |
 
 ---
 
@@ -449,6 +452,8 @@
 | [Multisensory Continual Learning: Adapting Pretrained Visuomotor Policies to Force](https://arxiv.org/abs/2606.30988) | — | 2026 | [Paper](https://arxiv.org/abs/2606.30988) \| [Project](https://jadenvc.github.io/multisensory-continual-learning/) | Continual learning adapts vision-only policies to force sensing without forgetting; Stanford/Song |
 | [AutoSpeed: Stage-Adaptive Motion Speed for Robot Manipulation](https://arxiv.org/abs/2607.01051) | ECCV | 2026 | [Paper](https://arxiv.org/abs/2607.01051) | Stage-adaptive speed and temporal horizon boost manipulation throughput |
 | [Imagining the Sense of Touch: Touch-Informed Manipulation via Imagined Tactile Representations](https://arxiv.org/abs/2607.01684) | — | 2026 | [Paper](https://arxiv.org/abs/2607.01684) \| [Project](https://tacimag.github.io/) | Imagined tactile representations enable contact-rich manipulation without tactile sensors |
+| [CHORD: Learning Dexterous Manipulation Using Contact Wrench Guidance From Human Demonstration](https://arxiv.org/abs/2607.00033) | — | 2026 | [Paper](https://arxiv.org/abs/2607.00033) | Object-centric contact wrench guidance transfers human demos to dexterous RL; NVIDIA |
+| [H-Tac: Human-Centric Transferable Tactile Pre-Training for Dexterous Robotic Manipulation](https://arxiv.org/abs/2607.01067) | — | 2026 | [Paper](https://arxiv.org/abs/2607.01067) | 160-hour human tactile dataset enables transferable pre-training for dexterous VLA |
 
 ---
 
@@ -477,6 +482,7 @@
 | [Qwen-RobotManip: Alignment Unlocks Scale for Robotic Manipulation Foundation Models](https://arxiv.org/abs/2606.17846) | Alibaba Qwen | 2026 | [Paper](https://arxiv.org/abs/2606.17846) | Alignment recipe scaling heterogeneous manipulation data into generalizable foundation model |
 | [Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack](https://arxiv.org/abs/2606.14409) | — | 2026 | [Paper](https://arxiv.org/abs/2606.14409) | Full-stack VLA system covering data, training, RL post-training, and deployment |
 | [ABot-M0.5: Unified Mobility-and-Manipulation World Action Model](https://arxiv.org/abs/2607.00678) | — | 2026 | [Paper](https://arxiv.org/abs/2607.00678) \| [Code](https://github.com/ABot-World/ABot-M0.5) | Unified WAM for mobile manipulation with decoupled navigation-manipulation modeling |
+| [ROSA: A Robotics Foundation Model Serving System for Robot Factories](https://arxiv.org/abs/2607.01088) | — | 2026 | [Paper](https://arxiv.org/abs/2607.01088) | GPU-pool RFM serving system for multi-robot factory deployment; NVIDIA/Stanford |
 
 ---
 
@@ -567,6 +573,9 @@
 | [ViPSim: Collaborating Visual and Parameter Spaces for Consistent Long-Horizon Embodied World Models](https://arxiv.org/abs/2606.28804) | RSS | 2026 | [Paper](https://arxiv.org/abs/2606.28804) | Visual-parameter space collaboration ensures geometric consistency in long-horizon world models |
 | [Structured 4D Latent Predictive Model for Robot Planning](https://arxiv.org/abs/2607.01166) | — | 2026 | [Paper](https://arxiv.org/abs/2607.01166) | 4D latent world model with structured 3D geometry for precise robot planning |
 | [PhysMani: Physics-principled 3D World Model for Dynamic Object Manipulation](https://arxiv.org/abs/2607.01938) | ECCV | 2026 | [Paper](https://arxiv.org/abs/2607.01938) \| [Code](https://github.com/PhysMani/PhysMani) | Physics-principled 3D Gaussian world model enables catching dynamic objects |
+| [3D Point World Models: Point Completion Enables More Accurate Dynamics Learning](https://arxiv.org/abs/2607.00148) | — | 2026 | [Paper](https://arxiv.org/abs/2607.00148) | Point completion resolves occlusion for accurate 3D dynamics world models |
+| [ACID: Action Consistency via Inverse Dynamics for Planning with World Models](https://arxiv.org/abs/2607.02403) | — | 2026 | [Paper](https://arxiv.org/abs/2607.02403) \| [Project](https://gawon1224.github.io/ACID/) | Inverse dynamics verifies action realizability in world model planning |
+| [WorldSample: Closed-loop Real-robot RL with World Modelling](https://arxiv.org/abs/2607.02431) | — | 2026 | [Paper](https://arxiv.org/abs/2607.02431) | World model augments real-robot RL with imagined rollouts for sample efficiency |
 
 ---
 
