@@ -267,6 +267,7 @@
 | [VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon](https://arxiv.org/abs/2607.01804) | — | 2026 | [Paper](https://arxiv.org/abs/2607.01804) | Detects and corrects drifting action chunks for adaptive VLA execution |
 | [VLAFlow: Unified Training Framework for VLA via Co-training and Future Latent Alignment](https://arxiv.org/abs/2607.01586) | — | 2026 | [Paper](https://arxiv.org/abs/2607.01586) | Unified flow-matching framework for controlled comparison of VLA training paradigms |
 | [Guided Action Flow: Q-Guided Inference for Flow-Matching VLA Policies](https://arxiv.org/abs/2607.02092) | — | 2026 | [Paper](https://arxiv.org/abs/2607.02092) | Learned Q-critic guides frozen VLA flow-matching at inference without retraining |
+| [Neuro-Symbolic Safety Guidance for VLA Models via Constrained Flow Matching](https://arxiv.org/abs/2607.01378) | — | 2026 | [Paper](https://arxiv.org/abs/2607.01378) | Predictive collision avoidance via symbolic constraints on VLA flow-matching denoising |
 
 ---
 
@@ -454,6 +455,7 @@
 | [Imagining the Sense of Touch: Touch-Informed Manipulation via Imagined Tactile Representations](https://arxiv.org/abs/2607.01684) | — | 2026 | [Paper](https://arxiv.org/abs/2607.01684) \| [Project](https://tacimag.github.io/) | Imagined tactile representations enable contact-rich manipulation without tactile sensors |
 | [CHORD: Learning Dexterous Manipulation Using Contact Wrench Guidance From Human Demonstration](https://arxiv.org/abs/2607.00033) | — | 2026 | [Paper](https://arxiv.org/abs/2607.00033) | Object-centric contact wrench guidance transfers human demos to dexterous RL; NVIDIA |
 | [H-Tac: Human-Centric Transferable Tactile Pre-Training for Dexterous Robotic Manipulation](https://arxiv.org/abs/2607.01067) | — | 2026 | [Paper](https://arxiv.org/abs/2607.01067) | 160-hour human tactile dataset enables transferable pre-training for dexterous VLA |
+| [AutoSERL: One Demonstration Is Enough for Real-World Robotic RL](https://arxiv.org/abs/2607.01651) | — | 2026 | [Paper](https://arxiv.org/abs/2607.01651) \| [Project](https://autoserl.github.io/) | Single-demo automated intervention enables real-world RL across contact-rich tasks |
 
 ---
 
@@ -483,6 +485,7 @@
 | [Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack](https://arxiv.org/abs/2606.14409) | — | 2026 | [Paper](https://arxiv.org/abs/2606.14409) | Full-stack VLA system covering data, training, RL post-training, and deployment |
 | [ABot-M0.5: Unified Mobility-and-Manipulation World Action Model](https://arxiv.org/abs/2607.00678) | — | 2026 | [Paper](https://arxiv.org/abs/2607.00678) \| [Code](https://github.com/ABot-World/ABot-M0.5) | Unified WAM for mobile manipulation with decoupled navigation-manipulation modeling |
 | [ROSA: A Robotics Foundation Model Serving System for Robot Factories](https://arxiv.org/abs/2607.01088) | — | 2026 | [Paper](https://arxiv.org/abs/2607.01088) | GPU-pool RFM serving system for multi-robot factory deployment; NVIDIA/Stanford |
+| [Embodied.cpp: Portable C++ Inference Runtime for Embodied AI Models](https://arxiv.org/abs/2607.02501) | — | 2026 | [Paper](https://arxiv.org/abs/2607.02501) \| [Code](https://github.com/SEU-PAISys/Embodied.cpp) | Unified C++ runtime deploying VLA/WAM models on heterogeneous edge robots |
 
 ---
 
