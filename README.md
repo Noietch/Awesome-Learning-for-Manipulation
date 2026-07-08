@@ -268,6 +268,8 @@
 | [VLAFlow: Unified Training Framework for VLA via Co-training and Future Latent Alignment](https://arxiv.org/abs/2607.01586) | — | 2026 | [Paper](https://arxiv.org/abs/2607.01586) | Unified flow-matching framework for controlled comparison of VLA training paradigms |
 | [Guided Action Flow: Q-Guided Inference for Flow-Matching VLA Policies](https://arxiv.org/abs/2607.02092) | — | 2026 | [Paper](https://arxiv.org/abs/2607.02092) | Learned Q-critic guides frozen VLA flow-matching at inference without retraining |
 | [Neuro-Symbolic Safety Guidance for VLA Models via Constrained Flow Matching](https://arxiv.org/abs/2607.01378) | — | 2026 | [Paper](https://arxiv.org/abs/2607.01378) | Predictive collision avoidance via symbolic constraints on VLA flow-matching denoising |
+| [Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation](https://arxiv.org/abs/2607.06564) | — | 2026 | [Paper](https://arxiv.org/abs/2607.06564) \| [Project](https://lift3dvla.github.io/) | 3D point cloud encoding with geometry-centric MAE lifts VLA to 3D-aware manipulation |
+| [InternVLA-A1.5: Unifying Understanding, Latent Foresight, and Action for Compositional Generalization](https://arxiv.org/abs/2607.04988) | — | 2026 | [Paper](https://arxiv.org/abs/2607.04988) \| [Project](https://internrobotics.github.io/internvla-a15.github.io/) | Latent foresight from frozen video model enables compositional generalization in VLA |
 
 ---
 
@@ -320,6 +322,7 @@
 | [Tactile-WAM: Touch-Aware World Action Model with Tactile Asymmetric Attention](https://arxiv.org/abs/2606.26663) | — | 2026 | [Paper](https://arxiv.org/abs/2606.26663) | Asymmetric tactile attention boosts WAM +38.9% on contact-rich manipulation tasks |
 | [VT-WAM: Visual-Tactile World Action Model for Contact-Rich Manipulation](https://arxiv.org/abs/2607.02503) | — | 2026 | [Paper](https://arxiv.org/abs/2607.02503) | Jointly models visual prediction and tactile deformation dynamics for contact-rich tasks |
 | [Bridge-WA: Predicting Where and How the World Changes for Robotic Action](https://arxiv.org/abs/2607.02195) | — | 2026 | [Paper](https://arxiv.org/abs/2607.02195) \| [Project](https://bridge-wa.github.io/) | Lightweight world-action bridge predicts action-relevant scene changes for manipulation |
+| [MECo-WAM: Learning 4D Geometric Priors for Inference-Efficient World Action Models](https://arxiv.org/abs/2607.05468) | — | 2026 | [Paper](https://arxiv.org/abs/2607.05468) | Multi-expert co-training injects 4D geometric priors into WAM without inference overhead |
 
 ---
 
@@ -579,6 +582,7 @@
 | [3D Point World Models: Point Completion Enables More Accurate Dynamics Learning](https://arxiv.org/abs/2607.00148) | — | 2026 | [Paper](https://arxiv.org/abs/2607.00148) | Point completion resolves occlusion for accurate 3D dynamics world models |
 | [ACID: Action Consistency via Inverse Dynamics for Planning with World Models](https://arxiv.org/abs/2607.02403) | — | 2026 | [Paper](https://arxiv.org/abs/2607.02403) \| [Project](https://gawon1224.github.io/ACID/) | Inverse dynamics verifies action realizability in world model planning |
 | [WorldSample: Closed-loop Real-robot RL with World Modelling](https://arxiv.org/abs/2607.02431) | — | 2026 | [Paper](https://arxiv.org/abs/2607.02431) | World model augments real-robot RL with imagined rollouts for sample efficiency |
+| [RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation](https://arxiv.org/abs/2607.06559) | — | 2026 | [Paper](https://arxiv.org/abs/2607.06559) \| [Code](https://github.com/alibaba-damo-academy/RynnWorld-4D) \| [Project](https://alibaba-damo-academy.github.io/RynnWorld-4D.github.io) | 4D world model co-producing RGB, depth, and optical flow for dexterous bimanual tasks |
 
 ---
 
@@ -625,6 +629,7 @@
 | [SC3-Eval: Evaluating Robot Foundation Models via Self-Consistent Video Generation](https://arxiv.org/abs/2606.18610) | — | 2026 | [Paper](https://arxiv.org/abs/2606.18610) | Self-consistent video world models as scalable robot policy evaluators |
 | [WatchAct: A Benchmark for Behavior-Grounded Robot Manipulation](https://arxiv.org/abs/2606.26443) | — | 2026 | [Paper](https://arxiv.org/abs/2606.26443) \| [Project](https://baiqi-li.github.io/watchact_page/) | Video-grounded benchmark for behavior-aware manipulation with spatial+temporal reasoning |
 | [OopsieVerse: A Safety Benchmark for Robotic Manipulation](https://arxiv.org/abs/2606.31993) | RSS | 2026 | [Paper](https://arxiv.org/abs/2606.31993) \| [Project](https://oopsieverse.github.io/) | Simulation benchmark for damage-aware safe manipulation evaluation |
+| [Deform360: A Massive Multi-view Visuotactile Dataset for Deformable World Models](https://arxiv.org/abs/2607.05390) | ECCV | 2026 | [Paper](https://arxiv.org/abs/2607.05390) \| [Project](https://deform360.lhy.xyz) | 198-object visuotactile dataset with 215h multi-view data for deformable world models |
 
 ### Data Engines
 
