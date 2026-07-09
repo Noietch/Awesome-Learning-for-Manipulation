@@ -270,6 +270,7 @@
 | [Neuro-Symbolic Safety Guidance for VLA Models via Constrained Flow Matching](https://arxiv.org/abs/2607.01378) | — | 2026 | [Paper](https://arxiv.org/abs/2607.01378) | Predictive collision avoidance via symbolic constraints on VLA flow-matching denoising |
 | [Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation](https://arxiv.org/abs/2607.06564) | — | 2026 | [Paper](https://arxiv.org/abs/2607.06564) \| [Project](https://lift3dvla.github.io/) | 3D point cloud encoding with geometry-centric MAE lifts VLA to 3D-aware manipulation |
 | [InternVLA-A1.5: Unifying Understanding, Latent Foresight, and Action for Compositional Generalization](https://arxiv.org/abs/2607.04988) | — | 2026 | [Paper](https://arxiv.org/abs/2607.04988) \| [Project](https://internrobotics.github.io/internvla-a15.github.io/) | Latent foresight from frozen video model enables compositional generalization in VLA |
+| [LaMem-VLA: Dual Latent Memory in Vision-Language-Action Models for Robotic Manipulation](https://arxiv.org/abs/2607.07608) | — | 2026 | [Paper](https://arxiv.org/abs/2607.07608) \| [Code](https://github.com/quhongyu/LaMem-VLA) | Latent memory tokens interweave with VLA reasoning for long-horizon temporal tasks |
 
 ---
 
@@ -323,6 +324,7 @@
 | [VT-WAM: Visual-Tactile World Action Model for Contact-Rich Manipulation](https://arxiv.org/abs/2607.02503) | — | 2026 | [Paper](https://arxiv.org/abs/2607.02503) | Jointly models visual prediction and tactile deformation dynamics for contact-rich tasks |
 | [Bridge-WA: Predicting Where and How the World Changes for Robotic Action](https://arxiv.org/abs/2607.02195) | — | 2026 | [Paper](https://arxiv.org/abs/2607.02195) \| [Project](https://bridge-wa.github.io/) | Lightweight world-action bridge predicts action-relevant scene changes for manipulation |
 | [MECo-WAM: Learning 4D Geometric Priors for Inference-Efficient World Action Models](https://arxiv.org/abs/2607.05468) | — | 2026 | [Paper](https://arxiv.org/abs/2607.05468) | Multi-expert co-training injects 4D geometric priors into WAM without inference overhead |
+| [WAM-TTT: Steering World-Action Models by Watching Human Play at Test Time](https://arxiv.org/abs/2607.06988) | — | 2026 | [Paper](https://arxiv.org/abs/2607.06988) | Test-time training adapts frozen WAM from human videos via lightweight memory |
 
 ---
 
@@ -459,6 +461,7 @@
 | [CHORD: Learning Dexterous Manipulation Using Contact Wrench Guidance From Human Demonstration](https://arxiv.org/abs/2607.00033) | — | 2026 | [Paper](https://arxiv.org/abs/2607.00033) | Object-centric contact wrench guidance transfers human demos to dexterous RL; NVIDIA |
 | [H-Tac: Human-Centric Transferable Tactile Pre-Training for Dexterous Robotic Manipulation](https://arxiv.org/abs/2607.01067) | — | 2026 | [Paper](https://arxiv.org/abs/2607.01067) | 160-hour human tactile dataset enables transferable pre-training for dexterous VLA |
 | [AutoSERL: One Demonstration Is Enough for Real-World Robotic RL](https://arxiv.org/abs/2607.01651) | — | 2026 | [Paper](https://arxiv.org/abs/2607.01651) \| [Project](https://autoserl.github.io/) | Single-demo automated intervention enables real-world RL across contact-rich tasks |
+| [GeoProp: Grounding Robot State in Vision for Generalist Manipulation](https://arxiv.org/abs/2607.07101) | — | 2026 | [Paper](https://arxiv.org/abs/2607.07101) \| [Project](https://alibaba-damo-academy.github.io/GeoProp/) | Geometric proprioception adapter improves diffusion/flow policies by 8.7%; Alibaba DAMO |
 
 ---
 
@@ -583,6 +586,7 @@
 | [ACID: Action Consistency via Inverse Dynamics for Planning with World Models](https://arxiv.org/abs/2607.02403) | — | 2026 | [Paper](https://arxiv.org/abs/2607.02403) \| [Project](https://gawon1224.github.io/ACID/) | Inverse dynamics verifies action realizability in world model planning |
 | [WorldSample: Closed-loop Real-robot RL with World Modelling](https://arxiv.org/abs/2607.02431) | — | 2026 | [Paper](https://arxiv.org/abs/2607.02431) | World model augments real-robot RL with imagined rollouts for sample efficiency |
 | [RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation](https://arxiv.org/abs/2607.06559) | — | 2026 | [Paper](https://arxiv.org/abs/2607.06559) \| [Code](https://github.com/alibaba-damo-academy/RynnWorld-4D) \| [Project](https://alibaba-damo-academy.github.io/RynnWorld-4D.github.io) | 4D world model co-producing RGB, depth, and optical flow for dexterous bimanual tasks |
+| [RoboTALES: Learning Reasoning-Guided Robot Policies via Task-Aligned Simulated Futures](https://arxiv.org/abs/2607.06018) | ECCV | 2026 | [Paper](https://arxiv.org/abs/2607.06018) \| [Code](https://github.com/hananshafi/RoboTALES) | LLM planner + VLM critic guide video world model for task-aligned manipulation |
 
 ---
 
