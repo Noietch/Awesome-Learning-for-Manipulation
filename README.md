@@ -271,6 +271,7 @@
 | [Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation](https://arxiv.org/abs/2607.06564) | — | 2026 | [Paper](https://arxiv.org/abs/2607.06564) \| [Project](https://lift3dvla.github.io/) | 3D point cloud encoding with geometry-centric MAE lifts VLA to 3D-aware manipulation |
 | [InternVLA-A1.5: Unifying Understanding, Latent Foresight, and Action for Compositional Generalization](https://arxiv.org/abs/2607.04988) | — | 2026 | [Paper](https://arxiv.org/abs/2607.04988) \| [Project](https://internrobotics.github.io/internvla-a15.github.io/) | Latent foresight from frozen video model enables compositional generalization in VLA |
 | [LaMem-VLA: Dual Latent Memory in Vision-Language-Action Models for Robotic Manipulation](https://arxiv.org/abs/2607.07608) | — | 2026 | [Paper](https://arxiv.org/abs/2607.07608) \| [Code](https://github.com/quhongyu/LaMem-VLA) | Latent memory tokens interweave with VLA reasoning for long-horizon temporal tasks |
+| [Pelican-VLA 0.5: Attending Before Acting Benefits Generalization](https://arxiv.org/abs/2607.06655) | — | 2026 | [Paper](https://arxiv.org/abs/2607.06655) | Bottleneck token induces manipulation-centric attention for cross-embodiment VLA generalization |
 
 ---
 
@@ -462,6 +463,7 @@
 | [H-Tac: Human-Centric Transferable Tactile Pre-Training for Dexterous Robotic Manipulation](https://arxiv.org/abs/2607.01067) | — | 2026 | [Paper](https://arxiv.org/abs/2607.01067) | 160-hour human tactile dataset enables transferable pre-training for dexterous VLA |
 | [AutoSERL: One Demonstration Is Enough for Real-World Robotic RL](https://arxiv.org/abs/2607.01651) | — | 2026 | [Paper](https://arxiv.org/abs/2607.01651) \| [Project](https://autoserl.github.io/) | Single-demo automated intervention enables real-world RL across contact-rich tasks |
 | [GeoProp: Grounding Robot State in Vision for Generalist Manipulation](https://arxiv.org/abs/2607.07101) | — | 2026 | [Paper](https://arxiv.org/abs/2607.07101) \| [Project](https://alibaba-damo-academy.github.io/GeoProp/) | Geometric proprioception adapter improves diffusion/flow policies by 8.7%; Alibaba DAMO |
+| [TouchWorld: A Predictive and Reactive Tactile Foundation Model for Dexterous Manipulation](https://arxiv.org/abs/2607.07287) | — | 2026 | [Paper](https://arxiv.org/abs/2607.07287) | Hierarchical tactile world model with residual refinement for contact-rich dexterous tasks |
 
 ---
 
@@ -587,6 +589,7 @@
 | [WorldSample: Closed-loop Real-robot RL with World Modelling](https://arxiv.org/abs/2607.02431) | — | 2026 | [Paper](https://arxiv.org/abs/2607.02431) | World model augments real-robot RL with imagined rollouts for sample efficiency |
 | [RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation](https://arxiv.org/abs/2607.06559) | — | 2026 | [Paper](https://arxiv.org/abs/2607.06559) \| [Code](https://github.com/alibaba-damo-academy/RynnWorld-4D) \| [Project](https://alibaba-damo-academy.github.io/RynnWorld-4D.github.io) | 4D world model co-producing RGB, depth, and optical flow for dexterous bimanual tasks |
 | [RoboTALES: Learning Reasoning-Guided Robot Policies via Task-Aligned Simulated Futures](https://arxiv.org/abs/2607.06018) | ECCV | 2026 | [Paper](https://arxiv.org/abs/2607.06018) \| [Code](https://github.com/hananshafi/RoboTALES) | LLM planner + VLM critic guide video world model for task-aligned manipulation |
+| [EgoWAM: World Action Models Beyond Pixels with In-the-Wild Egocentric Human Data](https://arxiv.org/abs/2607.08436) | — | 2026 | [Paper](https://arxiv.org/abs/2607.08436) \| [Project](https://gatech-rl2.github.io/egowam.github.io) | Egocentric human data scales WAM co-training; DINO and 3D flow outperform pixels |
 
 ---
 
@@ -634,6 +637,7 @@
 | [WatchAct: A Benchmark for Behavior-Grounded Robot Manipulation](https://arxiv.org/abs/2606.26443) | — | 2026 | [Paper](https://arxiv.org/abs/2606.26443) \| [Project](https://baiqi-li.github.io/watchact_page/) | Video-grounded benchmark for behavior-aware manipulation with spatial+temporal reasoning |
 | [OopsieVerse: A Safety Benchmark for Robotic Manipulation](https://arxiv.org/abs/2606.31993) | RSS | 2026 | [Paper](https://arxiv.org/abs/2606.31993) \| [Project](https://oopsieverse.github.io/) | Simulation benchmark for damage-aware safe manipulation evaluation |
 | [Deform360: A Massive Multi-view Visuotactile Dataset for Deformable World Models](https://arxiv.org/abs/2607.05390) | ECCV | 2026 | [Paper](https://arxiv.org/abs/2607.05390) \| [Project](https://deform360.lhy.xyz) | 198-object visuotactile dataset with 215h multi-view data for deformable world models |
+| [DexVerse: A Modular Benchmark for Multi-Task, Multi-Embodiment Dexterous Manipulation](https://arxiv.org/abs/2607.08751) | — | 2026 | [Paper](https://arxiv.org/abs/2607.08751) | 100-task dexterous benchmark across 3 arms and 6 hands; Berkeley/Tomizuka/Yi Ma |
 
 ### Data Engines
 
