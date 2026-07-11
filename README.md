@@ -326,6 +326,8 @@
 | [Bridge-WA: Predicting Where and How the World Changes for Robotic Action](https://arxiv.org/abs/2607.02195) | — | 2026 | [Paper](https://arxiv.org/abs/2607.02195) \| [Project](https://bridge-wa.github.io/) | Lightweight world-action bridge predicts action-relevant scene changes for manipulation |
 | [MECo-WAM: Learning 4D Geometric Priors for Inference-Efficient World Action Models](https://arxiv.org/abs/2607.05468) | — | 2026 | [Paper](https://arxiv.org/abs/2607.05468) | Multi-expert co-training injects 4D geometric priors into WAM without inference overhead |
 | [WAM-TTT: Steering World-Action Models by Watching Human Play at Test Time](https://arxiv.org/abs/2607.06988) | — | 2026 | [Paper](https://arxiv.org/abs/2607.06988) | Test-time training adapts frozen WAM from human videos via lightweight memory |
+| [Native Video-Action Pretraining for Generalizable Robot Control (LingBot-VA 2.0)](https://arxiv.org/abs/2607.08639) | — | 2026 | [Paper](https://arxiv.org/abs/2607.08639) \| [Project](https://technology.robbyant.com/lingbot-va-v2) | Native semantic video-action pretraining enables real-time few-shot robot control at 225 Hz |
+| [Understanding and Mitigating the Video-Action Generalization Gap via Temporal Ratio](https://arxiv.org/abs/2607.08127) | — | 2026 | [Paper](https://arxiv.org/abs/2607.08127) \| [Project](https://umishra.me/temporal-ratio/) | Temporal Ratio diagnoses and mitigates compositional generalization loss in video-action models |
 
 ---
 
