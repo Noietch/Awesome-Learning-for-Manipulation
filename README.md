@@ -466,6 +466,8 @@
 | [AutoSERL: One Demonstration Is Enough for Real-World Robotic RL](https://arxiv.org/abs/2607.01651) | — | 2026 | [Paper](https://arxiv.org/abs/2607.01651) \| [Project](https://autoserl.github.io/) | Single-demo automated intervention enables real-world RL across contact-rich tasks |
 | [GeoProp: Grounding Robot State in Vision for Generalist Manipulation](https://arxiv.org/abs/2607.07101) | — | 2026 | [Paper](https://arxiv.org/abs/2607.07101) \| [Project](https://alibaba-damo-academy.github.io/GeoProp/) | Geometric proprioception adapter improves diffusion/flow policies by 8.7%; Alibaba DAMO |
 | [TouchWorld: A Predictive and Reactive Tactile Foundation Model for Dexterous Manipulation](https://arxiv.org/abs/2607.07287) | — | 2026 | [Paper](https://arxiv.org/abs/2607.07287) | Hierarchical tactile world model with residual refinement for contact-rich dexterous tasks |
+| [PriGo: Test-Time Primitive Guidance to Diffusion and Flow Policies for Adaptive Robotic Manipulation](https://arxiv.org/abs/2607.07076) | — | 2026 | [Paper](https://arxiv.org/abs/2607.07076) \| [Code](https://github.com/OTCVCG/PriGo) | Test-time primitive guidance adapts pretrained diffusion and flow policies without retraining |
+| [A Closed-Loop Multi-Agent Framework for Robust Multi-Robot Manipulation](https://arxiv.org/abs/2607.06990) | RSS | 2026 | [Paper](https://arxiv.org/abs/2607.06990) | Planning, manipulation, and verification agents coordinate robust multi-robot execution |
 
 ---
 
@@ -704,6 +706,7 @@
 | [Lucid-XR: An Extended-Reality Data Engine for Robotic Manipulation](https://arxiv.org/abs/2605.00244) | — | 2026 | [Paper](https://arxiv.org/abs/2605.00244) \| [Project](https://lucidxr.github.io/) | XR headset-based physics sim + video gen for zero-shot sim-to-real transfer |
 | [GS-Playground: High-Throughput Photorealistic Simulator for Vision-Informed Robot Learning](https://arxiv.org/abs/2604.25459) | — | 2026 | [Paper](https://arxiv.org/abs/2604.25459) | Gaussian splatting photorealistic simulator enabling high-throughput vision-based robot learning |
 | [PhysX-Omni: Simulation-Ready 3D Generation for Rigid, Deformable, and Articulated Objects](https://arxiv.org/abs/2605.21572) | — | 2026 | [Paper](https://arxiv.org/abs/2605.21572) | NTU (Ziwei Liu) generates simulation-ready 3D assets for rigid, deformable, and articulated objects |
+| [EmbodiedGen V2: An Agentic, Simulation-Ready 3D World Engine for Embodied AI](https://arxiv.org/abs/2607.07459) | — | 2026 | [Paper](https://arxiv.org/abs/2607.07459) \| [Code](https://github.com/HorizonRobotics/EmbodiedGen) \| [Project](https://horizonrobotics.github.io/EmbodiedGen) | Agentic engine generates editable simulation-ready worlds for embodied policy learning |
 
 ---
 
