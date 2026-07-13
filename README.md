@@ -272,6 +272,9 @@
 | [InternVLA-A1.5: Unifying Understanding, Latent Foresight, and Action for Compositional Generalization](https://arxiv.org/abs/2607.04988) | — | 2026 | [Paper](https://arxiv.org/abs/2607.04988) \| [Project](https://internrobotics.github.io/internvla-a15.github.io/) | Latent foresight from frozen video model enables compositional generalization in VLA |
 | [LaMem-VLA: Dual Latent Memory in Vision-Language-Action Models for Robotic Manipulation](https://arxiv.org/abs/2607.07608) | — | 2026 | [Paper](https://arxiv.org/abs/2607.07608) \| [Code](https://github.com/quhongyu/LaMem-VLA) | Latent memory tokens interweave with VLA reasoning for long-horizon temporal tasks |
 | [Pelican-VLA 0.5: Attending Before Acting Benefits Generalization](https://arxiv.org/abs/2607.06655) | — | 2026 | [Paper](https://arxiv.org/abs/2607.06655) | Bottleneck token induces manipulation-centric attention for cross-embodiment VLA generalization |
+| [CoRE-VLA: Scalable and Robust VLA via Conditional Routing of Experts](https://arxiv.org/abs/2607.03693) | — | 2026 | [Paper](https://arxiv.org/abs/2607.03693) | Sensor-conditioned MoE routing enables robust VLA under missing modalities |
+| [WSA₁: 3D-Centric World-Spatial-Action Model for Generalizable Robot Control](https://arxiv.org/abs/2607.03941) | — | 2026 | [Paper](https://arxiv.org/abs/2607.03941) | 3D world-action joint modeling yields data-efficient generalizable robot foundation model |
+| [ResTacVLA: Contact-Rich Manipulation via Residual Tactile Representation](https://arxiv.org/abs/2607.03387) | IROS | 2026 | [Paper](https://arxiv.org/abs/2607.03387) \| [Project](https://awilekong.github.io/ResTacVLA/) | Predictive-coding tactile residuals resolve modality collapse in contact-rich VLA |
 
 ---
 
@@ -498,6 +501,7 @@
 | [ABot-M0.5: Unified Mobility-and-Manipulation World Action Model](https://arxiv.org/abs/2607.00678) | — | 2026 | [Paper](https://arxiv.org/abs/2607.00678) \| [Code](https://github.com/ABot-World/ABot-M0.5) | Unified WAM for mobile manipulation with decoupled navigation-manipulation modeling |
 | [ROSA: A Robotics Foundation Model Serving System for Robot Factories](https://arxiv.org/abs/2607.01088) | — | 2026 | [Paper](https://arxiv.org/abs/2607.01088) | GPU-pool RFM serving system for multi-robot factory deployment; NVIDIA/Stanford |
 | [Embodied.cpp: Portable C++ Inference Runtime for Embodied AI Models](https://arxiv.org/abs/2607.02501) | — | 2026 | [Paper](https://arxiv.org/abs/2607.02501) \| [Code](https://github.com/SEU-PAISys/Embodied.cpp) | Unified C++ runtime deploying VLA/WAM models on heterogeneous edge robots |
+| [ASPIRE: Agentic Skill Programming through Iterative Robot Exploration](https://arxiv.org/abs/2607.00272) | — | 2026 | [Paper](https://arxiv.org/abs/2607.00272) | Continual code-as-policy skill discovery with evolutionary search; NVIDIA/Berkeley |
 
 ---
 
@@ -594,6 +598,7 @@
 | [RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation](https://arxiv.org/abs/2607.06559) | — | 2026 | [Paper](https://arxiv.org/abs/2607.06559) \| [Code](https://github.com/alibaba-damo-academy/RynnWorld-4D) \| [Project](https://alibaba-damo-academy.github.io/RynnWorld-4D.github.io) | 4D world model co-producing RGB, depth, and optical flow for dexterous bimanual tasks |
 | [RoboTALES: Learning Reasoning-Guided Robot Policies via Task-Aligned Simulated Futures](https://arxiv.org/abs/2607.06018) | ECCV | 2026 | [Paper](https://arxiv.org/abs/2607.06018) \| [Code](https://github.com/hananshafi/RoboTALES) | LLM planner + VLM critic guide video world model for task-aligned manipulation |
 | [EgoWAM: World Action Models Beyond Pixels with In-the-Wild Egocentric Human Data](https://arxiv.org/abs/2607.08436) | — | 2026 | [Paper](https://arxiv.org/abs/2607.08436) \| [Project](https://gatech-rl2.github.io/egowam.github.io) | Egocentric human data scales WAM co-training; DINO and 3D flow outperform pixels |
+| [Worldscape-MoE: Unified MoE World Model for Scalable Heterogeneous Action Control](https://arxiv.org/abs/2607.03964) | — | 2026 | [Paper](https://arxiv.org/abs/2607.03964) | MoE world model unifies locomotion, manipulation, and hand control via shared dynamics |
 
 ---
 
