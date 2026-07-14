@@ -275,6 +275,7 @@
 | [CoRE-VLA: Scalable and Robust VLA via Conditional Routing of Experts](https://arxiv.org/abs/2607.03693) | — | 2026 | [Paper](https://arxiv.org/abs/2607.03693) | Sensor-conditioned MoE routing enables robust VLA under missing modalities |
 | [WSA₁: 3D-Centric World-Spatial-Action Model for Generalizable Robot Control](https://arxiv.org/abs/2607.03941) | — | 2026 | [Paper](https://arxiv.org/abs/2607.03941) | 3D world-action joint modeling yields data-efficient generalizable robot foundation model |
 | [ResTacVLA: Contact-Rich Manipulation via Residual Tactile Representation](https://arxiv.org/abs/2607.03387) | IROS | 2026 | [Paper](https://arxiv.org/abs/2607.03387) \| [Project](https://awilekong.github.io/ResTacVLA/) | Predictive-coding tactile residuals resolve modality collapse in contact-rich VLA |
+| [CLAP: Direct VLM-to-VLA Adaptation via Language-Action Grounding](https://arxiv.org/abs/2607.08974) | — | 2026 | [Paper](https://arxiv.org/abs/2607.08974) \| [Project](https://omron-sinicx.github.io/clap/) | Language-action conditioning converts VLMs to open-weight multi-scale compact VLAs |
 
 ---
 
@@ -471,6 +472,8 @@
 | [TouchWorld: A Predictive and Reactive Tactile Foundation Model for Dexterous Manipulation](https://arxiv.org/abs/2607.07287) | — | 2026 | [Paper](https://arxiv.org/abs/2607.07287) | Hierarchical tactile world model with residual refinement for contact-rich dexterous tasks |
 | [PriGo: Test-Time Primitive Guidance to Diffusion and Flow Policies for Adaptive Robotic Manipulation](https://arxiv.org/abs/2607.07076) | — | 2026 | [Paper](https://arxiv.org/abs/2607.07076) \| [Code](https://github.com/OTCVCG/PriGo) | Test-time primitive guidance adapts pretrained diffusion and flow policies without retraining |
 | [A Closed-Loop Multi-Agent Framework for Robust Multi-Robot Manipulation](https://arxiv.org/abs/2607.06990) | RSS | 2026 | [Paper](https://arxiv.org/abs/2607.06990) | Planning, manipulation, and verification agents coordinate robust multi-robot execution |
+| [B-spline Policy: Accelerating Manipulation Policies via B-spline Action Representations](https://arxiv.org/abs/2607.09648) | — | 2026 | [Paper](https://arxiv.org/abs/2607.09648) \| [Project](https://b-spline-policy.github.io) | B-spline action curves enable temporally scalable smooth trajectories; MIT/UT Austin |
+| [FlowDAgger: Human-in-the-Loop Adaptation of Generative Robot Policies in Latent Space](https://arxiv.org/abs/2607.08877) | — | 2026 | [Paper](https://arxiv.org/abs/2607.08877) \| [Project](https://microsoft.github.io/FlowDAgger) | Action inversion adapts frozen flow-matching policies from few human interventions; MSR |
 
 ---
 
@@ -647,6 +650,7 @@
 | [OopsieVerse: A Safety Benchmark for Robotic Manipulation](https://arxiv.org/abs/2606.31993) | RSS | 2026 | [Paper](https://arxiv.org/abs/2606.31993) \| [Project](https://oopsieverse.github.io/) | Simulation benchmark for damage-aware safe manipulation evaluation |
 | [Deform360: A Massive Multi-view Visuotactile Dataset for Deformable World Models](https://arxiv.org/abs/2607.05390) | ECCV | 2026 | [Paper](https://arxiv.org/abs/2607.05390) \| [Project](https://deform360.lhy.xyz) | 198-object visuotactile dataset with 215h multi-view data for deformable world models |
 | [DexVerse: A Modular Benchmark for Multi-Task, Multi-Embodiment Dexterous Manipulation](https://arxiv.org/abs/2607.08751) | — | 2026 | [Paper](https://arxiv.org/abs/2607.08751) | 100-task dexterous benchmark across 3 arms and 6 hands; Berkeley/Tomizuka/Yi Ma |
+| [TactiDex: A Real-World Tactile-Guided Benchmark for Human-Like Dexterous Manipulation](https://arxiv.org/abs/2607.09190) | — | 2026 | [Paper](https://arxiv.org/abs/2607.09190) \| [Project](https://tactidex.github.io/) | Tactile-guided benchmark with tri-component reward for contact-level dexterous transfer |
 
 ### Data Engines
 
