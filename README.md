@@ -276,6 +276,7 @@
 | [WSA₁: 3D-Centric World-Spatial-Action Model for Generalizable Robot Control](https://arxiv.org/abs/2607.03941) | — | 2026 | [Paper](https://arxiv.org/abs/2607.03941) | 3D world-action joint modeling yields data-efficient generalizable robot foundation model |
 | [ResTacVLA: Contact-Rich Manipulation via Residual Tactile Representation](https://arxiv.org/abs/2607.03387) | IROS | 2026 | [Paper](https://arxiv.org/abs/2607.03387) \| [Project](https://awilekong.github.io/ResTacVLA/) | Predictive-coding tactile residuals resolve modality collapse in contact-rich VLA |
 | [CLAP: Direct VLM-to-VLA Adaptation via Language-Action Grounding](https://arxiv.org/abs/2607.08974) | — | 2026 | [Paper](https://arxiv.org/abs/2607.08974) \| [Project](https://omron-sinicx.github.io/clap/) | Language-action conditioning converts VLMs to open-weight multi-scale compact VLAs |
+| [ExToken: Structured Exploration for Efficient Vision-Language-Action Reinforcement Fine-tuning](https://arxiv.org/abs/2607.12931) | — | 2026 | [Paper](https://arxiv.org/abs/2607.12931) | Behavioral-prior tokens diversify VLA exploration under constrained interaction budgets |
 
 ---
 
@@ -474,6 +475,8 @@
 | [A Closed-Loop Multi-Agent Framework for Robust Multi-Robot Manipulation](https://arxiv.org/abs/2607.06990) | RSS | 2026 | [Paper](https://arxiv.org/abs/2607.06990) | Planning, manipulation, and verification agents coordinate robust multi-robot execution |
 | [B-spline Policy: Accelerating Manipulation Policies via B-spline Action Representations](https://arxiv.org/abs/2607.09648) | — | 2026 | [Paper](https://arxiv.org/abs/2607.09648) \| [Project](https://b-spline-policy.github.io) | B-spline action curves enable temporally scalable smooth trajectories; MIT/UT Austin |
 | [FlowDAgger: Human-in-the-Loop Adaptation of Generative Robot Policies in Latent Space](https://arxiv.org/abs/2607.08877) | — | 2026 | [Paper](https://arxiv.org/abs/2607.08877) \| [Project](https://microsoft.github.io/FlowDAgger) | Action inversion adapts frozen flow-matching policies from few human interventions; MSR |
+| [ChunkFlow: Towards Continuity-Consistent Chunked Policy Learning](https://arxiv.org/abs/2607.12992) | — | 2026 | [Paper](https://arxiv.org/abs/2607.12992) \| [Project](https://cytoderm-ai.github.io/chunkflow) | Seam-aware training prevents boundary jitter in chunked robot policies |
+| [DenseReward: Dense Reward Learning via Failure Synthesis for Robotic Manipulation](https://arxiv.org/abs/2607.13033) | — | 2026 | [Paper](https://arxiv.org/abs/2607.13033) \| [Project](https://dense-reward.github.io/) | Synthetic failures train dense vision-language rewards for manipulation |
 
 ---
 
@@ -602,6 +605,7 @@
 | [RoboTALES: Learning Reasoning-Guided Robot Policies via Task-Aligned Simulated Futures](https://arxiv.org/abs/2607.06018) | ECCV | 2026 | [Paper](https://arxiv.org/abs/2607.06018) \| [Code](https://github.com/hananshafi/RoboTALES) | LLM planner + VLM critic guide video world model for task-aligned manipulation |
 | [EgoWAM: World Action Models Beyond Pixels with In-the-Wild Egocentric Human Data](https://arxiv.org/abs/2607.08436) | — | 2026 | [Paper](https://arxiv.org/abs/2607.08436) \| [Project](https://gatech-rl2.github.io/egowam.github.io) | Egocentric human data scales WAM co-training; DINO and 3D flow outperform pixels |
 | [Worldscape-MoE: Unified MoE World Model for Scalable Heterogeneous Action Control](https://arxiv.org/abs/2607.03964) | — | 2026 | [Paper](https://arxiv.org/abs/2607.03964) | MoE world model unifies locomotion, manipulation, and hand control via shared dynamics |
+| [FlowWAM: Optical Flow as a Unified Action Representation for World Action Models](https://arxiv.org/abs/2607.13017) | — | 2026 | [Paper](https://arxiv.org/abs/2607.13017) \| [Project](https://flow-wam.github.io) | Optical flow unifies action prediction and future video generation |
 
 ---
 
