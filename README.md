@@ -277,6 +277,7 @@
 | [ResTacVLA: Contact-Rich Manipulation via Residual Tactile Representation](https://arxiv.org/abs/2607.03387) | IROS | 2026 | [Paper](https://arxiv.org/abs/2607.03387) \| [Project](https://awilekong.github.io/ResTacVLA/) | Predictive-coding tactile residuals resolve modality collapse in contact-rich VLA |
 | [CLAP: Direct VLM-to-VLA Adaptation via Language-Action Grounding](https://arxiv.org/abs/2607.08974) | — | 2026 | [Paper](https://arxiv.org/abs/2607.08974) \| [Project](https://omron-sinicx.github.io/clap/) | Language-action conditioning converts VLMs to open-weight multi-scale compact VLAs |
 | [ExToken: Structured Exploration for Efficient Vision-Language-Action Reinforcement Fine-tuning](https://arxiv.org/abs/2607.12931) | — | 2026 | [Paper](https://arxiv.org/abs/2607.12931) | Behavioral-prior tokens diversify VLA exploration under constrained interaction budgets |
+| [Semantic Anchoring for Robotic Action Representations](https://arxiv.org/abs/2607.13597) | — | 2026 | [Paper](https://arxiv.org/abs/2607.13597) | Semantic manifold anchoring preserves VLA generalization without changing deployed models |
 
 ---
 
@@ -477,6 +478,7 @@
 | [FlowDAgger: Human-in-the-Loop Adaptation of Generative Robot Policies in Latent Space](https://arxiv.org/abs/2607.08877) | — | 2026 | [Paper](https://arxiv.org/abs/2607.08877) \| [Project](https://microsoft.github.io/FlowDAgger) | Action inversion adapts frozen flow-matching policies from few human interventions; MSR |
 | [ChunkFlow: Towards Continuity-Consistent Chunked Policy Learning](https://arxiv.org/abs/2607.12992) | — | 2026 | [Paper](https://arxiv.org/abs/2607.12992) \| [Project](https://cytoderm-ai.github.io/chunkflow) | Seam-aware training prevents boundary jitter in chunked robot policies |
 | [DenseReward: Dense Reward Learning via Failure Synthesis for Robotic Manipulation](https://arxiv.org/abs/2607.13033) | — | 2026 | [Paper](https://arxiv.org/abs/2607.13033) \| [Project](https://dense-reward.github.io/) | Synthetic failures train dense vision-language rewards for manipulation |
+| [Learning Robust Execution in Robotic Manipulation with Agentic Reinforcement Learning](https://arxiv.org/abs/2607.13818) | — | 2026 | [Paper](https://arxiv.org/abs/2607.13818) | Agentic RL selects recovery modes to stabilize disturbed long-horizon manipulation |
 
 ---
 
@@ -606,6 +608,7 @@
 | [EgoWAM: World Action Models Beyond Pixels with In-the-Wild Egocentric Human Data](https://arxiv.org/abs/2607.08436) | — | 2026 | [Paper](https://arxiv.org/abs/2607.08436) \| [Project](https://gatech-rl2.github.io/egowam.github.io) | Egocentric human data scales WAM co-training; DINO and 3D flow outperform pixels |
 | [Worldscape-MoE: Unified MoE World Model for Scalable Heterogeneous Action Control](https://arxiv.org/abs/2607.03964) | — | 2026 | [Paper](https://arxiv.org/abs/2607.03964) | MoE world model unifies locomotion, manipulation, and hand control via shared dynamics |
 | [FlowWAM: Optical Flow as a Unified Action Representation for World Action Models](https://arxiv.org/abs/2607.13017) | — | 2026 | [Paper](https://arxiv.org/abs/2607.13017) \| [Project](https://flow-wam.github.io) | Optical flow unifies action prediction and future video generation |
+| [GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch](https://arxiv.org/abs/2607.13960) | — | 2026 | [Paper](https://arxiv.org/abs/2607.13960) \| [Project](https://open-gigaai.github.io/giga-world-policy/) | Action-centered WAM achieves local real-time control at 85-millisecond latency |
 
 ---
 
@@ -655,6 +658,7 @@
 | [Deform360: A Massive Multi-view Visuotactile Dataset for Deformable World Models](https://arxiv.org/abs/2607.05390) | ECCV | 2026 | [Paper](https://arxiv.org/abs/2607.05390) \| [Project](https://deform360.lhy.xyz) | 198-object visuotactile dataset with 215h multi-view data for deformable world models |
 | [DexVerse: A Modular Benchmark for Multi-Task, Multi-Embodiment Dexterous Manipulation](https://arxiv.org/abs/2607.08751) | — | 2026 | [Paper](https://arxiv.org/abs/2607.08751) | 100-task dexterous benchmark across 3 arms and 6 hands; Berkeley/Tomizuka/Yi Ma |
 | [TactiDex: A Real-World Tactile-Guided Benchmark for Human-Like Dexterous Manipulation](https://arxiv.org/abs/2607.09190) | — | 2026 | [Paper](https://arxiv.org/abs/2607.09190) \| [Project](https://tactidex.github.io/) | Tactile-guided benchmark with tri-component reward for contact-level dexterous transfer |
+| [Industrial Dexterity Benchmark: A Hardware-Software Benchmarking Platform for Industrial Dexterous Manipulation](https://arxiv.org/abs/2607.14021) | — | 2026 | [Paper](https://arxiv.org/abs/2607.14021) | Hardware-software benchmark evaluates multimodal policies on industrial cable and assembly tasks |
 
 ### Data Engines
 
@@ -720,6 +724,7 @@
 | [GS-Playground: High-Throughput Photorealistic Simulator for Vision-Informed Robot Learning](https://arxiv.org/abs/2604.25459) | — | 2026 | [Paper](https://arxiv.org/abs/2604.25459) | Gaussian splatting photorealistic simulator enabling high-throughput vision-based robot learning |
 | [PhysX-Omni: Simulation-Ready 3D Generation for Rigid, Deformable, and Articulated Objects](https://arxiv.org/abs/2605.21572) | — | 2026 | [Paper](https://arxiv.org/abs/2605.21572) | NTU (Ziwei Liu) generates simulation-ready 3D assets for rigid, deformable, and articulated objects |
 | [EmbodiedGen V2: An Agentic, Simulation-Ready 3D World Engine for Embodied AI](https://arxiv.org/abs/2607.07459) | — | 2026 | [Paper](https://arxiv.org/abs/2607.07459) \| [Code](https://github.com/HorizonRobotics/EmbodiedGen) \| [Project](https://horizonrobotics.github.io/EmbodiedGen) | Agentic engine generates editable simulation-ready worlds for embodied policy learning |
+| [PhysClaw-0: A Symbiotic Agentic System for Robot Autonomy via Language Corrections](https://arxiv.org/abs/2607.14047) | — | 2026 | [Paper](https://arxiv.org/abs/2607.14047) \| [Code](https://github.com/open-gigaai/PhysClaw) \| [Project](https://open-gigaai.github.io/PhysClaw/) | Persistent language corrections reduce human effort in autonomous manipulation data collection |
 
 ---
 
