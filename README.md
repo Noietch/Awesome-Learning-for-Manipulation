@@ -278,6 +278,9 @@
 | [CLAP: Direct VLM-to-VLA Adaptation via Language-Action Grounding](https://arxiv.org/abs/2607.08974) | — | 2026 | [Paper](https://arxiv.org/abs/2607.08974) \| [Project](https://omron-sinicx.github.io/clap/) | Language-action conditioning converts VLMs to open-weight multi-scale compact VLAs |
 | [ExToken: Structured Exploration for Efficient Vision-Language-Action Reinforcement Fine-tuning](https://arxiv.org/abs/2607.12931) | — | 2026 | [Paper](https://arxiv.org/abs/2607.12931) | Behavioral-prior tokens diversify VLA exploration under constrained interaction budgets |
 | [Semantic Anchoring for Robotic Action Representations](https://arxiv.org/abs/2607.13597) | — | 2026 | [Paper](https://arxiv.org/abs/2607.13597) | Semantic manifold anchoring preserves VLA generalization without changing deployed models |
+| [RoboTTT: Context Scaling for Robot Policies](https://arxiv.org/abs/2607.15275) | — | 2026 | [Paper](https://arxiv.org/abs/2607.15275) \| [Project](https://research.nvidia.com/labs/gear/robottt/) | Test-time training scales robot policy context to 8K timesteps without added latency |
+| [Reflex: Real-Time VLA Control through Streaming Inference](https://arxiv.org/abs/2607.14695) | ICML | 2026 | [Paper](https://arxiv.org/abs/2607.14695) | Streaming KV-cache enables stable 50Hz flow-matching VLA inference |
+| [Never Too Late for Force: Accelerating VLA Post-Training with Reactive Force Injection](https://arxiv.org/abs/2607.14236) | — | 2026 | [Paper](https://arxiv.org/abs/2607.14236) \| [Project](https://lift-policy.github.io/) | Reactive force injection improves contact-rich VLA post-training |
 
 ---
 
@@ -510,6 +513,7 @@
 | [ROSA: A Robotics Foundation Model Serving System for Robot Factories](https://arxiv.org/abs/2607.01088) | — | 2026 | [Paper](https://arxiv.org/abs/2607.01088) | GPU-pool RFM serving system for multi-robot factory deployment; NVIDIA/Stanford |
 | [Embodied.cpp: Portable C++ Inference Runtime for Embodied AI Models](https://arxiv.org/abs/2607.02501) | — | 2026 | [Paper](https://arxiv.org/abs/2607.02501) \| [Code](https://github.com/SEU-PAISys/Embodied.cpp) | Unified C++ runtime deploying VLA/WAM models on heterogeneous edge robots |
 | [ASPIRE: Agentic Skill Programming through Iterative Robot Exploration](https://arxiv.org/abs/2607.00272) | — | 2026 | [Paper](https://arxiv.org/abs/2607.00272) | Continual code-as-policy skill discovery with evolutionary search; NVIDIA/Berkeley |
+| [Scaling Behavior Foundation Model for Humanoid Robots](https://arxiv.org/abs/2607.15163) | — | 2026 | [Paper](https://arxiv.org/abs/2607.15163) | Coordinated data, rollout, and architecture scaling yields general-purpose humanoid control |
 
 ---
 
@@ -609,6 +613,7 @@
 | [Worldscape-MoE: Unified MoE World Model for Scalable Heterogeneous Action Control](https://arxiv.org/abs/2607.03964) | — | 2026 | [Paper](https://arxiv.org/abs/2607.03964) | MoE world model unifies locomotion, manipulation, and hand control via shared dynamics |
 | [FlowWAM: Optical Flow as a Unified Action Representation for World Action Models](https://arxiv.org/abs/2607.13017) | — | 2026 | [Paper](https://arxiv.org/abs/2607.13017) \| [Project](https://flow-wam.github.io) | Optical flow unifies action prediction and future video generation |
 | [GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch](https://arxiv.org/abs/2607.13960) | — | 2026 | [Paper](https://arxiv.org/abs/2607.13960) \| [Project](https://open-gigaai.github.io/giga-world-policy/) | Action-centered WAM achieves local real-time control at 85-millisecond latency |
+| [DriftWorld: Fast World Modeling through Drifting](https://arxiv.org/abs/2607.15065) | — | 2026 | [Paper](https://arxiv.org/abs/2607.15065) \| [Project](https://susie-lu.github.io/driftworld/) | Single-pass drifting generates action-conditioned robot futures at over 30 fps |
 
 ---
 
