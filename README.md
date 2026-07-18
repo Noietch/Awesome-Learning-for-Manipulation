@@ -281,6 +281,7 @@
 | [RoboTTT: Context Scaling for Robot Policies](https://arxiv.org/abs/2607.15275) | — | 2026 | [Paper](https://arxiv.org/abs/2607.15275) \| [Project](https://research.nvidia.com/labs/gear/robottt/) | Test-time training scales robot policy context to 8K timesteps without added latency |
 | [Reflex: Real-Time VLA Control through Streaming Inference](https://arxiv.org/abs/2607.14695) | ICML | 2026 | [Paper](https://arxiv.org/abs/2607.14695) | Streaming KV-cache enables stable 50Hz flow-matching VLA inference |
 | [Never Too Late for Force: Accelerating VLA Post-Training with Reactive Force Injection](https://arxiv.org/abs/2607.14236) | — | 2026 | [Paper](https://arxiv.org/abs/2607.14236) \| [Project](https://lift-policy.github.io/) | Reactive force injection improves contact-rich VLA post-training |
+| [Lights, Camera, Malfunction: When Illumination Robustness Leaves VLA Models Blind to Color](https://arxiv.org/abs/2607.14698) | — | 2026 | [Paper](https://arxiv.org/abs/2607.14698) | Chroma-preserving training defends physical illumination attacks without sacrificing color perception |
 
 ---
 
@@ -614,6 +615,7 @@
 | [FlowWAM: Optical Flow as a Unified Action Representation for World Action Models](https://arxiv.org/abs/2607.13017) | — | 2026 | [Paper](https://arxiv.org/abs/2607.13017) \| [Project](https://flow-wam.github.io) | Optical flow unifies action prediction and future video generation |
 | [GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch](https://arxiv.org/abs/2607.13960) | — | 2026 | [Paper](https://arxiv.org/abs/2607.13960) \| [Project](https://open-gigaai.github.io/giga-world-policy/) | Action-centered WAM achieves local real-time control at 85-millisecond latency |
 | [DriftWorld: Fast World Modeling through Drifting](https://arxiv.org/abs/2607.15065) | — | 2026 | [Paper](https://arxiv.org/abs/2607.15065) \| [Project](https://susie-lu.github.io/driftworld/) | Single-pass drifting generates action-conditioned robot futures at over 30 fps |
+| [Steering Robustness into World Action Models via Mechanistic Interpretability and Optimal Control](https://arxiv.org/abs/2607.14943) | — | 2026 | [Paper](https://arxiv.org/abs/2607.14943) | Mechanistic activation steering improves WAM robustness under distribution shifts |
 
 ---
 
