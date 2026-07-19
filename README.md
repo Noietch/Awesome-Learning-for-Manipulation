@@ -279,6 +279,7 @@
 | [ExToken: Structured Exploration for Efficient Vision-Language-Action Reinforcement Fine-tuning](https://arxiv.org/abs/2607.12931) | — | 2026 | [Paper](https://arxiv.org/abs/2607.12931) | Behavioral-prior tokens diversify VLA exploration under constrained interaction budgets |
 | [Semantic Anchoring for Robotic Action Representations](https://arxiv.org/abs/2607.13597) | — | 2026 | [Paper](https://arxiv.org/abs/2607.13597) | Semantic manifold anchoring preserves VLA generalization without changing deployed models |
 | [RoboTTT: Context Scaling for Robot Policies](https://arxiv.org/abs/2607.15275) | — | 2026 | [Paper](https://arxiv.org/abs/2607.15275) \| [Project](https://research.nvidia.com/labs/gear/robottt/) | Test-time training scales robot policy context to 8K timesteps without added latency |
+| [DiMaS: Distribution Matching for Steering Vision-Language-Action Models](https://arxiv.org/abs/2607.14280) | — | 2026 | [Paper](https://arxiv.org/abs/2607.14280) \| [Code](https://github.com/pegah-kh/dimas) \| [Project](https://pegah-kh.github.io/dimas/) | Distribution matching enables fine-grained behavioral steering of flow-matching VLAs |
 | [Reflex: Real-Time VLA Control through Streaming Inference](https://arxiv.org/abs/2607.14695) | ICML | 2026 | [Paper](https://arxiv.org/abs/2607.14695) | Streaming KV-cache enables stable 50Hz flow-matching VLA inference |
 | [Never Too Late for Force: Accelerating VLA Post-Training with Reactive Force Injection](https://arxiv.org/abs/2607.14236) | — | 2026 | [Paper](https://arxiv.org/abs/2607.14236) \| [Project](https://lift-policy.github.io/) | Reactive force injection improves contact-rich VLA post-training |
 | [Lights, Camera, Malfunction: When Illumination Robustness Leaves VLA Models Blind to Color](https://arxiv.org/abs/2607.14698) | — | 2026 | [Paper](https://arxiv.org/abs/2607.14698) | Chroma-preserving training defends physical illumination attacks without sacrificing color perception |
@@ -672,6 +673,7 @@
 | Dataset | Venue | Year | Links | Description |
 |---------|-------|------|-------|-------------|
 | [Do as I Do: Dexterous Manipulation Data from Everyday Human Videos](https://arxiv.org/abs/2606.19333) | — | 2026 | [Paper](https://arxiv.org/abs/2606.19333) \| [Project](https://do-as-i-do.com/) | Scalable dexterous manipulation data pipeline from monocular human videos; Berkeley/Malik |
+| [Open-AoE: An Open Egocentric Manipulation Dataset and Toolchain for Embodied Learning](https://arxiv.org/abs/2607.14183) | — | 2026 | [Paper](https://arxiv.org/abs/2607.14183) | Open 2,000-hour egocentric manipulation dataset with VLA and world-model toolchains |
 
 ### Robot Datasets
 
