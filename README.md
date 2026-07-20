@@ -283,6 +283,8 @@
 | [Reflex: Real-Time VLA Control through Streaming Inference](https://arxiv.org/abs/2607.14695) | ICML | 2026 | [Paper](https://arxiv.org/abs/2607.14695) | Streaming KV-cache enables stable 50Hz flow-matching VLA inference |
 | [Never Too Late for Force: Accelerating VLA Post-Training with Reactive Force Injection](https://arxiv.org/abs/2607.14236) | — | 2026 | [Paper](https://arxiv.org/abs/2607.14236) \| [Project](https://lift-policy.github.io/) | Reactive force injection improves contact-rich VLA post-training |
 | [Lights, Camera, Malfunction: When Illumination Robustness Leaves VLA Models Blind to Color](https://arxiv.org/abs/2607.14698) | — | 2026 | [Paper](https://arxiv.org/abs/2607.14698) | Chroma-preserving training defends physical illumination attacks without sacrificing color perception |
+| [Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories](https://arxiv.org/abs/2607.15330) | — | 2026 | [Paper](https://arxiv.org/abs/2607.15330) \| [Project](https://robotics.xiaomi.com/xiaomi-robotics-1.html) | 100K-hour UMI pretraining scales VLA generalization and sets RoboCasa365 state of the art |
+| [AC-VLA: Robust Out-of-Distribution Action Execution via Compositional Learning](https://arxiv.org/abs/2607.15714) | — | 2026 | [Paper](https://arxiv.org/abs/2607.15714) | Plug-and-play compositional learning improves VLA OOD generalization by 28% |
 
 ---
 
@@ -667,6 +669,7 @@
 | [DexVerse: A Modular Benchmark for Multi-Task, Multi-Embodiment Dexterous Manipulation](https://arxiv.org/abs/2607.08751) | — | 2026 | [Paper](https://arxiv.org/abs/2607.08751) | 100-task dexterous benchmark across 3 arms and 6 hands; Berkeley/Tomizuka/Yi Ma |
 | [TactiDex: A Real-World Tactile-Guided Benchmark for Human-Like Dexterous Manipulation](https://arxiv.org/abs/2607.09190) | — | 2026 | [Paper](https://arxiv.org/abs/2607.09190) \| [Project](https://tactidex.github.io/) | Tactile-guided benchmark with tri-component reward for contact-level dexterous transfer |
 | [Industrial Dexterity Benchmark: A Hardware-Software Benchmarking Platform for Industrial Dexterous Manipulation](https://arxiv.org/abs/2607.14021) | — | 2026 | [Paper](https://arxiv.org/abs/2607.14021) | Hardware-software benchmark evaluates multimodal policies on industrial cable and assembly tasks |
+| [IMBench: A Benchmark for Intuitive Robotic Manipulation](https://arxiv.org/abs/2607.15641) | SemRob Workshop, RSS | 2026 | [Paper](https://arxiv.org/abs/2607.15641) \| [Project](https://imbench.org/) | 35-task benchmark evaluates integrated perception, physical reasoning, and manipulation execution |
 
 ### Data Engines
 
