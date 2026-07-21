@@ -486,6 +486,9 @@
 | [ChunkFlow: Towards Continuity-Consistent Chunked Policy Learning](https://arxiv.org/abs/2607.12992) | — | 2026 | [Paper](https://arxiv.org/abs/2607.12992) \| [Project](https://cytoderm-ai.github.io/chunkflow) | Seam-aware training prevents boundary jitter in chunked robot policies |
 | [DenseReward: Dense Reward Learning via Failure Synthesis for Robotic Manipulation](https://arxiv.org/abs/2607.13033) | — | 2026 | [Paper](https://arxiv.org/abs/2607.13033) \| [Project](https://dense-reward.github.io/) | Synthetic failures train dense vision-language rewards for manipulation |
 | [Learning Robust Execution in Robotic Manipulation with Agentic Reinforcement Learning](https://arxiv.org/abs/2607.13818) | — | 2026 | [Paper](https://arxiv.org/abs/2607.13818) | Agentic RL selects recovery modes to stabilize disturbed long-horizon manipulation |
+| [Data and Learning Where it Matters for Contact-Rich Manipulation](https://arxiv.org/abs/2607.15982) | — | 2026 | [Paper](https://arxiv.org/abs/2607.15982) \| [Project](https://anonymous.4open.science/w/data_and_learning_where_it_matters/) | Targeted autonomous data collection and offline RL achieve 96% contact-rich task success |
+| [BayesContact: Uncertain Pose Estimation via Visuo-Tactile Proposals and Simulation-based Inference](https://arxiv.org/abs/2607.16123) | — | 2026 | [Paper](https://arxiv.org/abs/2607.16123) | Simulation-based visuo-tactile inference improves insertion success without offline training |
+| [Handroid: Bridging Dexterous Hand and Humanoid](https://arxiv.org/abs/2607.16187) | — | 2026 | [Paper](https://arxiv.org/abs/2607.16187) \| [Project](https://handroid.org) | Reconfigurable 27-DoF platform unifies dexterous manipulation and humanoid locomotion |
 
 ---
 
