@@ -285,6 +285,8 @@
 | [Lights, Camera, Malfunction: When Illumination Robustness Leaves VLA Models Blind to Color](https://arxiv.org/abs/2607.14698) | — | 2026 | [Paper](https://arxiv.org/abs/2607.14698) | Chroma-preserving training defends physical illumination attacks without sacrificing color perception |
 | [Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories](https://arxiv.org/abs/2607.15330) | — | 2026 | [Paper](https://arxiv.org/abs/2607.15330) \| [Project](https://robotics.xiaomi.com/xiaomi-robotics-1.html) | 100K-hour UMI pretraining scales VLA generalization and sets RoboCasa365 state of the art |
 | [AC-VLA: Robust Out-of-Distribution Action Execution via Compositional Learning](https://arxiv.org/abs/2607.15714) | — | 2026 | [Paper](https://arxiv.org/abs/2607.15714) | Plug-and-play compositional learning improves VLA OOD generalization by 28% |
+| [FM-VLA: Force-based Memory for VLA Models in Contact-Rich Manipulation](https://arxiv.org/abs/2607.18231) | — | 2026 | [Paper](https://arxiv.org/abs/2607.18231) \| [Project](https://qft-333.github.io/FM-VLA-Page/) | Force memory tokens via VAE enable non-Markovian contact-rich VLA manipulation |
+| [Foresight Residual RL for Long-Horizon Robot Manipulation with VLA Models](https://arxiv.org/abs/2607.16506) | IROS | 2026 | [Paper](https://arxiv.org/abs/2607.16506) \| [Project](https://jaysparrow.github.io/foresight-residual-rl) | Foresight value rewards improve residual RL over frozen VLA for long-horizon assembly |
 
 ---
 
@@ -489,6 +491,8 @@
 | [Data and Learning Where it Matters for Contact-Rich Manipulation](https://arxiv.org/abs/2607.15982) | — | 2026 | [Paper](https://arxiv.org/abs/2607.15982) \| [Project](https://anonymous.4open.science/w/data_and_learning_where_it_matters/) | Targeted autonomous data collection and offline RL achieve 96% contact-rich task success |
 | [BayesContact: Uncertain Pose Estimation via Visuo-Tactile Proposals and Simulation-based Inference](https://arxiv.org/abs/2607.16123) | — | 2026 | [Paper](https://arxiv.org/abs/2607.16123) | Simulation-based visuo-tactile inference improves insertion success without offline training |
 | [Handroid: Bridging Dexterous Hand and Humanoid](https://arxiv.org/abs/2607.16187) | — | 2026 | [Paper](https://arxiv.org/abs/2607.16187) \| [Project](https://handroid.org) | Reconfigurable 27-DoF platform unifies dexterous manipulation and humanoid locomotion |
+| [Patch Policy: Efficient Embodied Control via Dense Visual Representations](https://arxiv.org/abs/2607.18236) | — | 2026 | [Paper](https://arxiv.org/abs/2607.18236) \| [Project](https://patch-policy.github.io) | Dense ViT patch tokens beat OpenVLA-OFT with 0.7% params; NYU LeCun/Pinto |
+| [LAG-Fusion: Asynchronous Multimodal Diffusion Policy via Latency-Aware Guidance](https://arxiv.org/abs/2607.17257) | — | 2026 | [Paper](https://arxiv.org/abs/2607.17257) | Latency-aware fusion composes async vision and force diffusion policies; SJTU |
 
 ---
 
@@ -521,6 +525,7 @@
 | [Embodied.cpp: Portable C++ Inference Runtime for Embodied AI Models](https://arxiv.org/abs/2607.02501) | — | 2026 | [Paper](https://arxiv.org/abs/2607.02501) \| [Code](https://github.com/SEU-PAISys/Embodied.cpp) | Unified C++ runtime deploying VLA/WAM models on heterogeneous edge robots |
 | [ASPIRE: Agentic Skill Programming through Iterative Robot Exploration](https://arxiv.org/abs/2607.00272) | — | 2026 | [Paper](https://arxiv.org/abs/2607.00272) | Continual code-as-policy skill discovery with evolutionary search; NVIDIA/Berkeley |
 | [Scaling Behavior Foundation Model for Humanoid Robots](https://arxiv.org/abs/2607.15163) | — | 2026 | [Paper](https://arxiv.org/abs/2607.15163) | Coordinated data, rollout, and architecture scaling yields general-purpose humanoid control |
+| [RynnBrain 1.1: Towards More Capable and Generalizable Embodied Foundation Model](https://arxiv.org/abs/2607.17977) | Alibaba DAMO | 2026 | [Paper](https://arxiv.org/abs/2607.17977) \| [Project](https://alibaba-damo-academy.github.io/RynnBrain) | Multi-scale (2B–122B) embodied FM with VLA deployed on Unitree G1 and Astribot-S1 |
 
 ---
 
