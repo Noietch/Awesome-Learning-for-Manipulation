@@ -287,6 +287,7 @@
 | [AC-VLA: Robust Out-of-Distribution Action Execution via Compositional Learning](https://arxiv.org/abs/2607.15714) | — | 2026 | [Paper](https://arxiv.org/abs/2607.15714) | Plug-and-play compositional learning improves VLA OOD generalization by 28% |
 | [FM-VLA: Force-based Memory for VLA Models in Contact-Rich Manipulation](https://arxiv.org/abs/2607.18231) | — | 2026 | [Paper](https://arxiv.org/abs/2607.18231) \| [Project](https://qft-333.github.io/FM-VLA-Page/) | Force memory tokens via VAE enable non-Markovian contact-rich VLA manipulation |
 | [Foresight Residual RL for Long-Horizon Robot Manipulation with VLA Models](https://arxiv.org/abs/2607.16506) | IROS | 2026 | [Paper](https://arxiv.org/abs/2607.16506) \| [Project](https://jaysparrow.github.io/foresight-residual-rl) | Foresight value rewards improve residual RL over frozen VLA for long-horizon assembly |
+| [POT-VLA: Persistent 3D Object Tokens for Verifiable Humanoid Loco-Manipulation](https://arxiv.org/abs/2607.18016) | — | 2026 | [Paper](https://arxiv.org/abs/2607.18016) | Persistent 3D object tokenization enables verifiable closed-loop humanoid VLA execution |
 
 ---
 
@@ -343,6 +344,7 @@
 | [WAM-TTT: Steering World-Action Models by Watching Human Play at Test Time](https://arxiv.org/abs/2607.06988) | — | 2026 | [Paper](https://arxiv.org/abs/2607.06988) | Test-time training adapts frozen WAM from human videos via lightweight memory |
 | [Native Video-Action Pretraining for Generalizable Robot Control (LingBot-VA 2.0)](https://arxiv.org/abs/2607.08639) | — | 2026 | [Paper](https://arxiv.org/abs/2607.08639) \| [Project](https://technology.robbyant.com/lingbot-va-v2) | Native semantic video-action pretraining enables real-time few-shot robot control at 225 Hz |
 | [Understanding and Mitigating the Video-Action Generalization Gap via Temporal Ratio](https://arxiv.org/abs/2607.08127) | — | 2026 | [Paper](https://arxiv.org/abs/2607.08127) \| [Project](https://umishra.me/temporal-ratio/) | Temporal Ratio diagnoses and mitigates compositional generalization loss in video-action models |
+| [Masked Visual Actions for Unified World Modeling](https://arxiv.org/abs/2607.19343) | — | 2026 | [Paper](https://arxiv.org/abs/2607.19343) \| [Project](https://masked-visual-actions.github.io) | Pixel-space masked action interface unifies forward dynamics and inverse modeling; Stanford |
 
 ---
 
@@ -493,6 +495,7 @@
 | [Handroid: Bridging Dexterous Hand and Humanoid](https://arxiv.org/abs/2607.16187) | — | 2026 | [Paper](https://arxiv.org/abs/2607.16187) \| [Project](https://handroid.org) | Reconfigurable 27-DoF platform unifies dexterous manipulation and humanoid locomotion |
 | [Patch Policy: Efficient Embodied Control via Dense Visual Representations](https://arxiv.org/abs/2607.18236) | — | 2026 | [Paper](https://arxiv.org/abs/2607.18236) \| [Project](https://patch-policy.github.io) | Dense ViT patch tokens beat OpenVLA-OFT with 0.7% params; NYU LeCun/Pinto |
 | [LAG-Fusion: Asynchronous Multimodal Diffusion Policy via Latency-Aware Guidance](https://arxiv.org/abs/2607.17257) | — | 2026 | [Paper](https://arxiv.org/abs/2607.17257) | Latency-aware fusion composes async vision and force diffusion policies; SJTU |
+| [HOST: One-Shot Skill Acquisition from a Single Human Video in Seconds](https://arxiv.org/abs/2607.20033) | — | 2026 | [Paper](https://arxiv.org/abs/2607.20033) | Self-grounded cascade acquires manipulation skills in 29s from one human video |
 
 ---
 
@@ -627,6 +630,7 @@
 | [GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch](https://arxiv.org/abs/2607.13960) | — | 2026 | [Paper](https://arxiv.org/abs/2607.13960) \| [Project](https://open-gigaai.github.io/giga-world-policy/) | Action-centered WAM achieves local real-time control at 85-millisecond latency |
 | [DriftWorld: Fast World Modeling through Drifting](https://arxiv.org/abs/2607.15065) | — | 2026 | [Paper](https://arxiv.org/abs/2607.15065) \| [Project](https://susie-lu.github.io/driftworld/) | Single-pass drifting generates action-conditioned robot futures at over 30 fps |
 | [Steering Robustness into World Action Models via Mechanistic Interpretability and Optimal Control](https://arxiv.org/abs/2607.14943) | — | 2026 | [Paper](https://arxiv.org/abs/2607.14943) | Mechanistic activation steering improves WAM robustness under distribution shifts |
+| [WorldScape Policy 2.0: Steerable WAM with Reasoning-Augmented Memory](https://arxiv.org/abs/2607.18840) | — | 2026 | [Paper](https://arxiv.org/abs/2607.18840) | Reasoning-augmented long-short memory enables controllable world action modeling |
 
 ---
 
@@ -678,6 +682,7 @@
 | [TactiDex: A Real-World Tactile-Guided Benchmark for Human-Like Dexterous Manipulation](https://arxiv.org/abs/2607.09190) | — | 2026 | [Paper](https://arxiv.org/abs/2607.09190) \| [Project](https://tactidex.github.io/) | Tactile-guided benchmark with tri-component reward for contact-level dexterous transfer |
 | [Industrial Dexterity Benchmark: A Hardware-Software Benchmarking Platform for Industrial Dexterous Manipulation](https://arxiv.org/abs/2607.14021) | — | 2026 | [Paper](https://arxiv.org/abs/2607.14021) | Hardware-software benchmark evaluates multimodal policies on industrial cable and assembly tasks |
 | [IMBench: A Benchmark for Intuitive Robotic Manipulation](https://arxiv.org/abs/2607.15641) | SemRob Workshop, RSS | 2026 | [Paper](https://arxiv.org/abs/2607.15641) \| [Project](https://imbench.org/) | 35-task benchmark evaluates integrated perception, physical reasoning, and manipulation execution |
+| [KineBench: Benchmarking Embodied World Models via IDM-Free Kinematic Grounding](https://arxiv.org/abs/2607.19876) | ECCV | 2026 | [Paper](https://arxiv.org/abs/2607.19876) | IDM-free closed-loop benchmark evaluates embodied world models via kinematic grounding |
 
 ### Data Engines
 
