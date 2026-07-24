@@ -288,6 +288,7 @@
 | [FM-VLA: Force-based Memory for VLA Models in Contact-Rich Manipulation](https://arxiv.org/abs/2607.18231) | — | 2026 | [Paper](https://arxiv.org/abs/2607.18231) \| [Project](https://qft-333.github.io/FM-VLA-Page/) | Force memory tokens via VAE enable non-Markovian contact-rich VLA manipulation |
 | [Foresight Residual RL for Long-Horizon Robot Manipulation with VLA Models](https://arxiv.org/abs/2607.16506) | IROS | 2026 | [Paper](https://arxiv.org/abs/2607.16506) \| [Project](https://jaysparrow.github.io/foresight-residual-rl) | Foresight value rewards improve residual RL over frozen VLA for long-horizon assembly |
 | [POT-VLA: Persistent 3D Object Tokens for Verifiable Humanoid Loco-Manipulation](https://arxiv.org/abs/2607.18016) | — | 2026 | [Paper](https://arxiv.org/abs/2607.18016) | Persistent 3D object tokenization enables verifiable closed-loop humanoid VLA execution |
+| [Emergent Compositional Skills in Mixture-of-Experts VLAs](https://arxiv.org/abs/2607.20771) | ICML Workshop | 2026 | [Paper](https://arxiv.org/abs/2607.20771) | MoE action head enables emergent compositional skill decomposition in VLAs |
 
 ---
 
@@ -496,6 +497,7 @@
 | [Patch Policy: Efficient Embodied Control via Dense Visual Representations](https://arxiv.org/abs/2607.18236) | — | 2026 | [Paper](https://arxiv.org/abs/2607.18236) \| [Project](https://patch-policy.github.io) | Dense ViT patch tokens beat OpenVLA-OFT with 0.7% params; NYU LeCun/Pinto |
 | [LAG-Fusion: Asynchronous Multimodal Diffusion Policy via Latency-Aware Guidance](https://arxiv.org/abs/2607.17257) | — | 2026 | [Paper](https://arxiv.org/abs/2607.17257) | Latency-aware fusion composes async vision and force diffusion policies; SJTU |
 | [HOST: One-Shot Skill Acquisition from a Single Human Video in Seconds](https://arxiv.org/abs/2607.20033) | — | 2026 | [Paper](https://arxiv.org/abs/2607.20033) | Self-grounded cascade acquires manipulation skills in 29s from one human video |
+| [FELT: Generating Tactile Signals from Vision for Visuo-Tactile Manipulation](https://arxiv.org/abs/2607.20683) | — | 2026 | [Paper](https://arxiv.org/abs/2607.20683) \| [Project](https://felt-tactile.github.io/) | Vision-to-tactile synthesis enables visuo-tactile manipulation without tactile sensors |
 
 ---
 
@@ -631,6 +633,7 @@
 | [DriftWorld: Fast World Modeling through Drifting](https://arxiv.org/abs/2607.15065) | — | 2026 | [Paper](https://arxiv.org/abs/2607.15065) \| [Project](https://susie-lu.github.io/driftworld/) | Single-pass drifting generates action-conditioned robot futures at over 30 fps |
 | [Steering Robustness into World Action Models via Mechanistic Interpretability and Optimal Control](https://arxiv.org/abs/2607.14943) | — | 2026 | [Paper](https://arxiv.org/abs/2607.14943) | Mechanistic activation steering improves WAM robustness under distribution shifts |
 | [WorldScape Policy 2.0: Steerable WAM with Reasoning-Augmented Memory](https://arxiv.org/abs/2607.18840) | — | 2026 | [Paper](https://arxiv.org/abs/2607.18840) | Reasoning-augmented long-short memory enables controllable world action modeling |
+| [PhysCoRe: Physics-Corrected Residual World Models for Deformable Dynamics](https://arxiv.org/abs/2607.20653) | — | 2026 | [Paper](https://arxiv.org/abs/2607.20653) | Differentiable MPM + neural residuals model material-aware deformable object dynamics |
 
 ---
 
@@ -648,6 +651,8 @@
 | [BOSS: Benchmark for Observation Space Shift in Long-Horizon Tasks](https://arxiv.org/abs/2502.15679) | — | 2025 | [Paper](https://arxiv.org/abs/2502.15679) | Benchmark for handling observation distribution shift |
 | [VLABench: Large-Scale Benchmark for Language-Conditioned Robotics Manipulation](https://arxiv.org/abs/2412.18194) | — | 2024 | [Paper](https://arxiv.org/abs/2412.18194) | Long-horizon language-conditioned manipulation evaluation |
 | [ManiSkill3: GPU Parallelized Robotics Simulation and Rendering](https://arxiv.org/abs/2410.00425) | — | 2024 | [Paper](https://arxiv.org/abs/2410.00425) \| [Code](https://github.com/haosulab/ManiSkill) | GPU-accelerated simulation benchmark; v1-v3 series |
+| [AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation](https://arxiv.org/abs/2607.21588) | — | 2026 | [Paper](https://arxiv.org/abs/2607.21588) \| [Project](https://axisaiorg.github.io/AXIS-V1/) | 207-task 50K+ trajectory community data engine; improves π₀.₅ by 5.8% |
+| [TableVerse: Large-scale Tabletop Dataset with Real-world Grounded Layouts](https://arxiv.org/abs/2607.21017) | — | 2026 | [Paper](https://arxiv.org/abs/2607.21017) | Real2Sim pipeline generating 100K physically consistent tabletop environments |
 | [RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins](https://arxiv.org/abs/2409.02920) | CVPR | 2025 | [Paper](https://arxiv.org/abs/2409.02920) \| [Code](https://github.com/TianxingChen/RoboTwin) | Dual-arm manipulation with generative digital twin data |
 | [SimplerEnv: Simulated Manipulation Policy Evaluation Environments for Real Robot Setups](https://arxiv.org/abs/2405.05941) | CoRL 2024 | 2024 | [Paper](https://arxiv.org/abs/2405.05941) \| [Code](https://github.com/simpler-env/SimplerEnv) | Sim evaluation mirroring real-world robot setups |
 | [Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://arxiv.org/abs/2310.08864) | ICRA | 2024 | [Paper](https://arxiv.org/abs/2310.08864) \| [Project](https://robotics-transformer-x.github.io/) | Cross-embodiment dataset with 500k+ real-robot demos |
