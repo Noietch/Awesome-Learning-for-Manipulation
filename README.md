@@ -288,6 +288,7 @@
 | [FM-VLA: Force-based Memory for VLA Models in Contact-Rich Manipulation](https://arxiv.org/abs/2607.18231) | — | 2026 | [Paper](https://arxiv.org/abs/2607.18231) \| [Project](https://qft-333.github.io/FM-VLA-Page/) | Force memory tokens via VAE enable non-Markovian contact-rich VLA manipulation |
 | [Foresight Residual RL for Long-Horizon Robot Manipulation with VLA Models](https://arxiv.org/abs/2607.16506) | IROS | 2026 | [Paper](https://arxiv.org/abs/2607.16506) \| [Project](https://jaysparrow.github.io/foresight-residual-rl) | Foresight value rewards improve residual RL over frozen VLA for long-horizon assembly |
 | [POT-VLA: Persistent 3D Object Tokens for Verifiable Humanoid Loco-Manipulation](https://arxiv.org/abs/2607.18016) | — | 2026 | [Paper](https://arxiv.org/abs/2607.18016) | Persistent 3D object tokenization enables verifiable closed-loop humanoid VLA execution |
+| [Scale Up Strategically: Compositional Generalization via Bias-Aware Data Collection](https://arxiv.org/abs/2607.21582) | — | 2026 | [Paper](https://arxiv.org/abs/2607.21582) | Diagnoses instruction factor bias in VLAs; bias-aware data halves demos needed |
 | [Emergent Compositional Skills in Mixture-of-Experts VLAs](https://arxiv.org/abs/2607.20771) | ICML Workshop | 2026 | [Paper](https://arxiv.org/abs/2607.20771) | MoE action head enables emergent compositional skill decomposition in VLAs |
 
 ---
@@ -498,6 +499,7 @@
 | [LAG-Fusion: Asynchronous Multimodal Diffusion Policy via Latency-Aware Guidance](https://arxiv.org/abs/2607.17257) | — | 2026 | [Paper](https://arxiv.org/abs/2607.17257) | Latency-aware fusion composes async vision and force diffusion policies; SJTU |
 | [HOST: One-Shot Skill Acquisition from a Single Human Video in Seconds](https://arxiv.org/abs/2607.20033) | — | 2026 | [Paper](https://arxiv.org/abs/2607.20033) | Self-grounded cascade acquires manipulation skills in 29s from one human video |
 | [FELT: Generating Tactile Signals from Vision for Visuo-Tactile Manipulation](https://arxiv.org/abs/2607.20683) | — | 2026 | [Paper](https://arxiv.org/abs/2607.20683) \| [Project](https://felt-tactile.github.io/) | Vision-to-tactile synthesis enables visuo-tactile manipulation without tactile sensors |
+| [BiCompoDiff: Bimanual Object Reorientation via Compositional Diffusion](https://arxiv.org/abs/2607.21341) | IROS | 2026 | [Paper](https://arxiv.org/abs/2607.21341) | Compositional diffusion + energy-based optimization for bimanual reorientation |
 
 ---
 
@@ -755,6 +757,7 @@
 | [PhysX-Omni: Simulation-Ready 3D Generation for Rigid, Deformable, and Articulated Objects](https://arxiv.org/abs/2605.21572) | — | 2026 | [Paper](https://arxiv.org/abs/2605.21572) | NTU (Ziwei Liu) generates simulation-ready 3D assets for rigid, deformable, and articulated objects |
 | [EmbodiedGen V2: An Agentic, Simulation-Ready 3D World Engine for Embodied AI](https://arxiv.org/abs/2607.07459) | — | 2026 | [Paper](https://arxiv.org/abs/2607.07459) \| [Code](https://github.com/HorizonRobotics/EmbodiedGen) \| [Project](https://horizonrobotics.github.io/EmbodiedGen) | Agentic engine generates editable simulation-ready worlds for embodied policy learning |
 | [PhysClaw-0: A Symbiotic Agentic System for Robot Autonomy via Language Corrections](https://arxiv.org/abs/2607.14047) | — | 2026 | [Paper](https://arxiv.org/abs/2607.14047) \| [Code](https://github.com/open-gigaai/PhysClaw) \| [Project](https://open-gigaai.github.io/PhysClaw/) | Persistent language corrections reduce human effort in autonomous manipulation data collection |
+| [GS-Agent: Creating 4D Physical Worlds With Generative Simulation](https://arxiv.org/abs/2607.21522) | — | 2026 | [Paper](https://arxiv.org/abs/2607.21522) \| [Project](https://umass-embodied-agi.github.io/gs-agent/) | Multi-agent framework generates physically plausible 4D worlds from language |
 
 ---
 
