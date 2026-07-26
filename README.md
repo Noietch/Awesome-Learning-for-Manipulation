@@ -290,6 +290,7 @@
 | [POT-VLA: Persistent 3D Object Tokens for Verifiable Humanoid Loco-Manipulation](https://arxiv.org/abs/2607.18016) | — | 2026 | [Paper](https://arxiv.org/abs/2607.18016) | Persistent 3D object tokenization enables verifiable closed-loop humanoid VLA execution |
 | [Scale Up Strategically: Compositional Generalization via Bias-Aware Data Collection](https://arxiv.org/abs/2607.21582) | — | 2026 | [Paper](https://arxiv.org/abs/2607.21582) | Diagnoses instruction factor bias in VLAs; bias-aware data halves demos needed |
 | [Emergent Compositional Skills in Mixture-of-Experts VLAs](https://arxiv.org/abs/2607.20771) | ICML Workshop | 2026 | [Paper](https://arxiv.org/abs/2607.20771) | MoE action head enables emergent compositional skill decomposition in VLAs |
+| [DEED: Data-Efficient Post-Training and Experience-Driven Learning VLA Framework](https://arxiv.org/abs/2607.20345) | — | 2026 | [Paper](https://arxiv.org/abs/2607.20345) | Data-efficient post-training adapts GR00T VLA for real-world retail humanoid tasks |
 
 ---
 
@@ -500,6 +501,7 @@
 | [HOST: One-Shot Skill Acquisition from a Single Human Video in Seconds](https://arxiv.org/abs/2607.20033) | — | 2026 | [Paper](https://arxiv.org/abs/2607.20033) | Self-grounded cascade acquires manipulation skills in 29s from one human video |
 | [FELT: Generating Tactile Signals from Vision for Visuo-Tactile Manipulation](https://arxiv.org/abs/2607.20683) | — | 2026 | [Paper](https://arxiv.org/abs/2607.20683) \| [Project](https://felt-tactile.github.io/) | Vision-to-tactile synthesis enables visuo-tactile manipulation without tactile sensors |
 | [BiCompoDiff: Bimanual Object Reorientation via Compositional Diffusion](https://arxiv.org/abs/2607.21341) | IROS | 2026 | [Paper](https://arxiv.org/abs/2607.21341) | Compositional diffusion + energy-based optimization for bimanual reorientation |
+| [HCPG-Flow: Hierarchical Contact-Progress Guidance for Flow-Policy Manipulation](https://arxiv.org/abs/2607.17651) | — | 2026 | [Paper](https://arxiv.org/abs/2607.17651) \| [Project](https://hitxraz.github.io/HCPG-Flow/) | Contact-progress guidance improves flow-policy action selection for manipulation |
 
 ---
 
@@ -758,6 +760,7 @@
 | [EmbodiedGen V2: An Agentic, Simulation-Ready 3D World Engine for Embodied AI](https://arxiv.org/abs/2607.07459) | — | 2026 | [Paper](https://arxiv.org/abs/2607.07459) \| [Code](https://github.com/HorizonRobotics/EmbodiedGen) \| [Project](https://horizonrobotics.github.io/EmbodiedGen) | Agentic engine generates editable simulation-ready worlds for embodied policy learning |
 | [PhysClaw-0: A Symbiotic Agentic System for Robot Autonomy via Language Corrections](https://arxiv.org/abs/2607.14047) | — | 2026 | [Paper](https://arxiv.org/abs/2607.14047) \| [Code](https://github.com/open-gigaai/PhysClaw) \| [Project](https://open-gigaai.github.io/PhysClaw/) | Persistent language corrections reduce human effort in autonomous manipulation data collection |
 | [GS-Agent: Creating 4D Physical Worlds With Generative Simulation](https://arxiv.org/abs/2607.21522) | — | 2026 | [Paper](https://arxiv.org/abs/2607.21522) \| [Project](https://umass-embodied-agi.github.io/gs-agent/) | Multi-agent framework generates physically plausible 4D worlds from language |
+| [MEVION: Low-Cost Open-Source Data Collection for High-Force Dual-Arm Manipulation](https://arxiv.org/abs/2607.17970) | RA-Practice | 2026 | [Paper](https://arxiv.org/abs/2607.17970) \| [Code](https://github.com/haraduka/mevion) \| [Project](https://haraduka.github.io/mevion-hardware/) | Open-source USD 14K dual-arm system enables high-force high-speed manipulation demos |
 
 ---
 
