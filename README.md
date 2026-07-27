@@ -291,6 +291,7 @@
 | [Scale Up Strategically: Compositional Generalization via Bias-Aware Data Collection](https://arxiv.org/abs/2607.21582) | — | 2026 | [Paper](https://arxiv.org/abs/2607.21582) | Diagnoses instruction factor bias in VLAs; bias-aware data halves demos needed |
 | [Emergent Compositional Skills in Mixture-of-Experts VLAs](https://arxiv.org/abs/2607.20771) | ICML Workshop | 2026 | [Paper](https://arxiv.org/abs/2607.20771) | MoE action head enables emergent compositional skill decomposition in VLAs |
 | [DEED: Data-Efficient Post-Training and Experience-Driven Learning VLA Framework](https://arxiv.org/abs/2607.20345) | — | 2026 | [Paper](https://arxiv.org/abs/2607.20345) | Data-efficient post-training adapts GR00T VLA for real-world retail humanoid tasks |
+| [Pigey: Addressing the Orchestration Gap in Generalist Robots via Physical Agency](https://arxiv.org/abs/2607.21725) | — | 2026 | [Paper](https://arxiv.org/abs/2607.21725) | Agentic orchestrator lifts frozen VLA policies from 12.8% to 53.3% on LIBERO-PRO |
 
 ---
 
@@ -502,6 +503,8 @@
 | [FELT: Generating Tactile Signals from Vision for Visuo-Tactile Manipulation](https://arxiv.org/abs/2607.20683) | — | 2026 | [Paper](https://arxiv.org/abs/2607.20683) \| [Project](https://felt-tactile.github.io/) | Vision-to-tactile synthesis enables visuo-tactile manipulation without tactile sensors |
 | [BiCompoDiff: Bimanual Object Reorientation via Compositional Diffusion](https://arxiv.org/abs/2607.21341) | IROS | 2026 | [Paper](https://arxiv.org/abs/2607.21341) | Compositional diffusion + energy-based optimization for bimanual reorientation |
 | [HCPG-Flow: Hierarchical Contact-Progress Guidance for Flow-Policy Manipulation](https://arxiv.org/abs/2607.17651) | — | 2026 | [Paper](https://arxiv.org/abs/2607.17651) \| [Project](https://hitxraz.github.io/HCPG-Flow/) | Contact-progress guidance improves flow-policy action selection for manipulation |
+| [OAT: Ordered Action Tokens for Visuomotor Policy Learning](https://arxiv.org/abs/2607.21670) | — | 2026 | [Paper](https://arxiv.org/abs/2607.21670) | Ordered action tokenization enables anytime inference-cost vs. fidelity tradeoff |
+| [DynaMAC: Dynamic Multi-Agent Cooperation for Bimanual Manipulation](https://arxiv.org/abs/2607.22119) | — | 2026 | [Paper](https://arxiv.org/abs/2607.22119) | Dynamic reference frames enable zero-shot bimanual transfer from static demos |
 
 ---
 
@@ -638,6 +641,8 @@
 | [Steering Robustness into World Action Models via Mechanistic Interpretability and Optimal Control](https://arxiv.org/abs/2607.14943) | — | 2026 | [Paper](https://arxiv.org/abs/2607.14943) | Mechanistic activation steering improves WAM robustness under distribution shifts |
 | [WorldScape Policy 2.0: Steerable WAM with Reasoning-Augmented Memory](https://arxiv.org/abs/2607.18840) | — | 2026 | [Paper](https://arxiv.org/abs/2607.18840) | Reasoning-augmented long-short memory enables controllable world action modeling |
 | [PhysCoRe: Physics-Corrected Residual World Models for Deformable Dynamics](https://arxiv.org/abs/2607.20653) | — | 2026 | [Paper](https://arxiv.org/abs/2607.20653) | Differentiable MPM + neural residuals model material-aware deformable object dynamics |
+| [Robot-Factored World Models via Robot Rendering](https://arxiv.org/abs/2607.22535) | — | 2026 | [Paper](https://arxiv.org/abs/2607.22535) \| [Project](https://bjkim95.github.io/rofacto/) | Factored robot rendering enables cross-embodiment world model generalization |
+| [ViTacWorld: Scaling Visuo-Tactile World Models for Contact-Rich Manipulation](https://arxiv.org/abs/2607.22530) | — | 2026 | [Paper](https://arxiv.org/abs/2607.22530) \| [Project](https://vitacworld.github.io/) | First visuo-tactile world model for trajectory generation and policy evaluation |
 
 ---
 
