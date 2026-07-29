@@ -292,6 +292,7 @@
 | [Emergent Compositional Skills in Mixture-of-Experts VLAs](https://arxiv.org/abs/2607.20771) | ICML Workshop | 2026 | [Paper](https://arxiv.org/abs/2607.20771) | MoE action head enables emergent compositional skill decomposition in VLAs |
 | [DEED: Data-Efficient Post-Training and Experience-Driven Learning VLA Framework](https://arxiv.org/abs/2607.20345) | — | 2026 | [Paper](https://arxiv.org/abs/2607.20345) | Data-efficient post-training adapts GR00T VLA for real-world retail humanoid tasks |
 | [Pigey: Addressing the Orchestration Gap in Generalist Robots via Physical Agency](https://arxiv.org/abs/2607.21725) | — | 2026 | [Paper](https://arxiv.org/abs/2607.21725) | Agentic orchestrator lifts frozen VLA policies from 12.8% to 53.3% on LIBERO-PRO |
+| [τ: Learning Touch-Augmented Vision-Language-Action Models from Future Visual Supervision](https://arxiv.org/abs/2607.24485) | — | 2026 | [Paper](https://arxiv.org/abs/2607.24485) | JEPA-inspired tactile VLA learns spatiotemporal touch from future visual supervision |
 
 ---
 
@@ -349,6 +350,8 @@
 | [Native Video-Action Pretraining for Generalizable Robot Control (LingBot-VA 2.0)](https://arxiv.org/abs/2607.08639) | — | 2026 | [Paper](https://arxiv.org/abs/2607.08639) \| [Project](https://technology.robbyant.com/lingbot-va-v2) | Native semantic video-action pretraining enables real-time few-shot robot control at 225 Hz |
 | [Understanding and Mitigating the Video-Action Generalization Gap via Temporal Ratio](https://arxiv.org/abs/2607.08127) | — | 2026 | [Paper](https://arxiv.org/abs/2607.08127) \| [Project](https://umishra.me/temporal-ratio/) | Temporal Ratio diagnoses and mitigates compositional generalization loss in video-action models |
 | [Masked Visual Actions for Unified World Modeling](https://arxiv.org/abs/2607.19343) | — | 2026 | [Paper](https://arxiv.org/abs/2607.19343) \| [Project](https://masked-visual-actions.github.io) | Pixel-space masked action interface unifies forward dynamics and inverse modeling; Stanford |
+| [DeVA: Decoupled Video-Action Model with Physical Guidance for Robot Policy Learning](https://arxiv.org/abs/2607.24159) | — | 2026 | [Paper](https://arxiv.org/abs/2607.24159) \| [Project](https://deva-model.github.io/) | Decoupled video-action experts with multi-level feature transfer for manipulation |
+| [DC-WAM: Dynamic-Centric Visual Supervision and Reasoning for World-Action Models](https://arxiv.org/abs/2607.25918) | — | 2026 | [Paper](https://arxiv.org/abs/2607.25918) | Redirects WAM supervision from appearance to interaction-induced visual dynamics |
 
 ---
 
@@ -505,6 +508,8 @@
 | [HCPG-Flow: Hierarchical Contact-Progress Guidance for Flow-Policy Manipulation](https://arxiv.org/abs/2607.17651) | — | 2026 | [Paper](https://arxiv.org/abs/2607.17651) \| [Project](https://hitxraz.github.io/HCPG-Flow/) | Contact-progress guidance improves flow-policy action selection for manipulation |
 | [OAT: Ordered Action Tokens for Visuomotor Policy Learning](https://arxiv.org/abs/2607.21670) | — | 2026 | [Paper](https://arxiv.org/abs/2607.21670) | Ordered action tokenization enables anytime inference-cost vs. fidelity tradeoff |
 | [DynaMAC: Dynamic Multi-Agent Cooperation for Bimanual Manipulation](https://arxiv.org/abs/2607.22119) | — | 2026 | [Paper](https://arxiv.org/abs/2607.22119) | Dynamic reference frames enable zero-shot bimanual transfer from static demos |
+| [πR²: Reactive Real-time Flow Policies](https://arxiv.org/abs/2607.26055) | — | 2026 | [Paper](https://arxiv.org/abs/2607.26055) | Fast/slow channel split enables 4× faster closed-loop replanning on GR00T-N1.7; CMU |
+| [HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone](https://arxiv.org/abs/2607.25895) | — | 2026 | [Paper](https://arxiv.org/abs/2607.25895) \| [Project](https://cloud.simpleai.tech/simple-world-lab/hifi-umi/) | High-fidelity UMI data with 2K-trajectory dataset for deployable manipulation policies |
 
 ---
 
@@ -645,6 +650,8 @@
 | [ViTacWorld: Scaling Visuo-Tactile World Models for Contact-Rich Manipulation](https://arxiv.org/abs/2607.22530) | — | 2026 | [Paper](https://arxiv.org/abs/2607.22530) \| [Project](https://vitacworld.github.io/) | First visuo-tactile world model for trajectory generation and policy evaluation |
 | [Agentic Real2Sim: Physics-based World Modeling with Vision-Language Agents](https://arxiv.org/abs/2607.19190) | — | 2026 | [Paper](https://arxiv.org/abs/2607.19190) | Real2Sim pipeline with physics world model + VLM agents for scalable robot simulation; Columbia/JHU |
 | [PhyAgentOS: A Self-Evolving Operating System for Embodied Agents with Decoupled Cognitive Planning and Physical Execution](https://arxiv.org/abs/2607.16636) | — | 2026 | [Paper](https://arxiv.org/abs/2607.16636) | Decoupled planning-execution OS with shared state, semantic verification, and persistent experience for embodied agents |
+| [INTACT: Isomorphic Intent-to-Action Learning for Search-Free World Models](https://arxiv.org/abs/2607.26056) | — | 2026 | [Paper](https://arxiv.org/abs/2607.26056) | End-to-end JEPA turns intent into actions without test-time search; 97.67% on LeWM |
+| [N₀-TWAM: Scaling Tactile-Native World-Action Model for Contact-Rich Manipulation](https://arxiv.org/abs/2607.23783) | — | 2026 | [Paper](https://arxiv.org/abs/2607.23783) | First large-scale tactile world-action model across 6 embodiments and 450 tasks |
 
 ---
 
