@@ -293,6 +293,9 @@
 | [DEED: Data-Efficient Post-Training and Experience-Driven Learning VLA Framework](https://arxiv.org/abs/2607.20345) | — | 2026 | [Paper](https://arxiv.org/abs/2607.20345) | Data-efficient post-training adapts GR00T VLA for real-world retail humanoid tasks |
 | [Pigey: Addressing the Orchestration Gap in Generalist Robots via Physical Agency](https://arxiv.org/abs/2607.21725) | — | 2026 | [Paper](https://arxiv.org/abs/2607.21725) | Agentic orchestrator lifts frozen VLA policies from 12.8% to 53.3% on LIBERO-PRO |
 | [τ: Learning Touch-Augmented Vision-Language-Action Models from Future Visual Supervision](https://arxiv.org/abs/2607.24485) | — | 2026 | [Paper](https://arxiv.org/abs/2607.24485) | JEPA-inspired tactile VLA learns spatiotemporal touch from future visual supervision |
+| [TurboVLA: Real-Time VLA Model at 32 Hz on an RTX 4090 with <1 GB VRAM](https://arxiv.org/abs/2607.27205) | — | 2026 | [Paper](https://arxiv.org/abs/2607.27205) \| [Code](https://github.com/H-EmbodVis/TurboVLA) | Direct V+L→A mapping achieves 97.7% LIBERO with 0.2B params at 32Hz |
+| [RL²-VLA: Adaptive RL Latent Compositional Steering with Test-Time Scaling for VLA Models](https://arxiv.org/abs/2607.26991) | — | 2026 | [Paper](https://arxiv.org/abs/2607.26991) \| [Project](https://rl2-vla.github.io) | Offline RL latent steering boosts VLA success by up to +17.3% OOD |
+| [KinRT: Kinematics-Supervised Expert Routing in MoE-Augmented VLA](https://arxiv.org/abs/2607.26807) | — | 2026 | [Paper](https://arxiv.org/abs/2607.26807) | Explicit kinematics-guided MoE routing distills action priors into observation space |
 
 ---
 
@@ -652,6 +655,7 @@
 | [PhyAgentOS: A Self-Evolving Operating System for Embodied Agents with Decoupled Cognitive Planning and Physical Execution](https://arxiv.org/abs/2607.16636) | — | 2026 | [Paper](https://arxiv.org/abs/2607.16636) | Decoupled planning-execution OS with shared state, semantic verification, and persistent experience for embodied agents |
 | [INTACT: Isomorphic Intent-to-Action Learning for Search-Free World Models](https://arxiv.org/abs/2607.26056) | — | 2026 | [Paper](https://arxiv.org/abs/2607.26056) | End-to-end JEPA turns intent into actions without test-time search; 97.67% on LeWM |
 | [N₀-TWAM: Scaling Tactile-Native World-Action Model for Contact-Rich Manipulation](https://arxiv.org/abs/2607.23783) | — | 2026 | [Paper](https://arxiv.org/abs/2607.23783) | First large-scale tactile world-action model across 6 embodiments and 450 tasks |
+| [Enfold: Folding World-Generator Computation into Predictive Representations for Efficient Embodied Control](https://arxiv.org/abs/2607.26657) | — | 2026 | [Paper](https://arxiv.org/abs/2607.26657) | Internalizes world-generator computation into current-frame representations; 3.7× faster |
 
 ---
 
