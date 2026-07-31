@@ -296,6 +296,8 @@
 | [TurboVLA: Real-Time VLA Model at 32 Hz on an RTX 4090 with <1 GB VRAM](https://arxiv.org/abs/2607.27205) | — | 2026 | [Paper](https://arxiv.org/abs/2607.27205) \| [Code](https://github.com/H-EmbodVis/TurboVLA) | Direct V+L→A mapping achieves 97.7% LIBERO with 0.2B params at 32Hz |
 | [RL²-VLA: Adaptive RL Latent Compositional Steering with Test-Time Scaling for VLA Models](https://arxiv.org/abs/2607.26991) | — | 2026 | [Paper](https://arxiv.org/abs/2607.26991) \| [Project](https://rl2-vla.github.io) | Offline RL latent steering boosts VLA success by up to +17.3% OOD |
 | [KinRT: Kinematics-Supervised Expert Routing in MoE-Augmented VLA](https://arxiv.org/abs/2607.26807) | — | 2026 | [Paper](https://arxiv.org/abs/2607.26807) | Explicit kinematics-guided MoE routing distills action priors into observation space |
+| [Cross-Embodiment Transfer via Behavior-Aligned Representations](https://arxiv.org/abs/2607.27549) | — | 2026 | [Paper](https://arxiv.org/abs/2607.27549) \| [Project](https://ajaysridhar.com/barx/) | Behavior-aligned representations enable cross-embodiment VLA transfer; Stanford |
+| [CheckVLA: Execution-Time Verification with Action-Conditioned World Model](https://arxiv.org/abs/2607.26789) | — | 2026 | [Paper](https://arxiv.org/abs/2607.26789) | Action-conditioned world model verifies VLA execution for long-horizon manipulation |
 
 ---
 
@@ -513,6 +515,7 @@
 | [DynaMAC: Dynamic Multi-Agent Cooperation for Bimanual Manipulation](https://arxiv.org/abs/2607.22119) | — | 2026 | [Paper](https://arxiv.org/abs/2607.22119) | Dynamic reference frames enable zero-shot bimanual transfer from static demos |
 | [πR²: Reactive Real-time Flow Policies](https://arxiv.org/abs/2607.26055) | — | 2026 | [Paper](https://arxiv.org/abs/2607.26055) | Fast/slow channel split enables 4× faster closed-loop replanning on GR00T-N1.7; CMU |
 | [HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone](https://arxiv.org/abs/2607.25895) | — | 2026 | [Paper](https://arxiv.org/abs/2607.25895) \| [Project](https://cloud.simpleai.tech/simple-world-lab/hifi-umi/) | High-fidelity UMI data with 2K-trajectory dataset for deployable manipulation policies |
+| [FA-RDP: Frequency-Adaptive Reactive Diffusion Policy for Contact-Rich Manipulation](https://arxiv.org/abs/2607.28596) | — | 2026 | [Paper](https://arxiv.org/abs/2607.28596) \| [Project](https://fa-rdp.github.io) | Adaptive-frequency diffusion policy balances multimodality and reactivity in contact |
 
 ---
 
@@ -656,6 +659,7 @@
 | [INTACT: Isomorphic Intent-to-Action Learning for Search-Free World Models](https://arxiv.org/abs/2607.26056) | — | 2026 | [Paper](https://arxiv.org/abs/2607.26056) | End-to-end JEPA turns intent into actions without test-time search; 97.67% on LeWM |
 | [N₀-TWAM: Scaling Tactile-Native World-Action Model for Contact-Rich Manipulation](https://arxiv.org/abs/2607.23783) | — | 2026 | [Paper](https://arxiv.org/abs/2607.23783) | First large-scale tactile world-action model across 6 embodiments and 450 tasks |
 | [Enfold: Folding World-Generator Computation into Predictive Representations for Efficient Embodied Control](https://arxiv.org/abs/2607.26657) | — | 2026 | [Paper](https://arxiv.org/abs/2607.26657) | Internalizes world-generator computation into current-frame representations; 3.7× faster |
+| [ContactFlow: Embodiment-Agnostic Video World Model via 3D Contact Points](https://arxiv.org/abs/2607.26579) | — | 2026 | [Paper](https://arxiv.org/abs/2607.26579) | 3D contact-point action conditioning enables cross-embodiment video world model |
 
 ---
 
