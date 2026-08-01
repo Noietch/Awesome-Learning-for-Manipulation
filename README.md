@@ -298,6 +298,8 @@
 | [KinRT: Kinematics-Supervised Expert Routing in MoE-Augmented VLA](https://arxiv.org/abs/2607.26807) | — | 2026 | [Paper](https://arxiv.org/abs/2607.26807) | Explicit kinematics-guided MoE routing distills action priors into observation space |
 | [Cross-Embodiment Transfer via Behavior-Aligned Representations](https://arxiv.org/abs/2607.27549) | — | 2026 | [Paper](https://arxiv.org/abs/2607.27549) \| [Project](https://ajaysridhar.com/barx/) | Behavior-aligned representations enable cross-embodiment VLA transfer; Stanford |
 | [CheckVLA: Execution-Time Verification with Action-Conditioned World Model](https://arxiv.org/abs/2607.26789) | — | 2026 | [Paper](https://arxiv.org/abs/2607.26789) | Action-conditioned world model verifies VLA execution for long-horizon manipulation |
+| [RedFlow: Redirect Failure into Action-Level Corrections for Flow-matching VLA Policy](https://arxiv.org/abs/2607.27782) | — | 2026 | [Paper](https://arxiv.org/abs/2607.27782) | Action-level failure correction via offline RL improves flow-matching VLA robustness |
+| [RoboBRIDGE: A Modular Framework for Bridging Policies to Robust Real-World Robotic Agents](https://arxiv.org/abs/2607.27881) | IROS | 2026 | [Paper](https://arxiv.org/abs/2607.27881) | Modular orchestration layer transforms pretrained VLAs into robust real-world agents |
 
 ---
 
@@ -516,6 +518,7 @@
 | [πR²: Reactive Real-time Flow Policies](https://arxiv.org/abs/2607.26055) | — | 2026 | [Paper](https://arxiv.org/abs/2607.26055) | Fast/slow channel split enables 4× faster closed-loop replanning on GR00T-N1.7; CMU |
 | [HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone](https://arxiv.org/abs/2607.25895) | — | 2026 | [Paper](https://arxiv.org/abs/2607.25895) \| [Project](https://cloud.simpleai.tech/simple-world-lab/hifi-umi/) | High-fidelity UMI data with 2K-trajectory dataset for deployable manipulation policies |
 | [FA-RDP: Frequency-Adaptive Reactive Diffusion Policy for Contact-Rich Manipulation](https://arxiv.org/abs/2607.28596) | — | 2026 | [Paper](https://arxiv.org/abs/2607.28596) \| [Project](https://fa-rdp.github.io) | Adaptive-frequency diffusion policy balances multimodality and reactivity in contact |
+| [UniCross: Unified Cross-Skill Dexterous Manipulation Synthesis](https://arxiv.org/abs/2607.28198) | — | 2026 | [Paper](https://arxiv.org/abs/2607.28198) \| [Project](https://zdchan.github.io/UniCross/) | Unified framework distills single cross-skill policy for dexterous manipulation |
 
 ---
 
@@ -660,6 +663,8 @@
 | [N₀-TWAM: Scaling Tactile-Native World-Action Model for Contact-Rich Manipulation](https://arxiv.org/abs/2607.23783) | — | 2026 | [Paper](https://arxiv.org/abs/2607.23783) | First large-scale tactile world-action model across 6 embodiments and 450 tasks |
 | [Enfold: Folding World-Generator Computation into Predictive Representations for Efficient Embodied Control](https://arxiv.org/abs/2607.26657) | — | 2026 | [Paper](https://arxiv.org/abs/2607.26657) | Internalizes world-generator computation into current-frame representations; 3.7× faster |
 | [ContactFlow: Embodiment-Agnostic Video World Model via 3D Contact Points](https://arxiv.org/abs/2607.26579) | — | 2026 | [Paper](https://arxiv.org/abs/2607.26579) | 3D contact-point action conditioning enables cross-embodiment video world model |
+| [TacWAM: Anchor-Guided World Action Model with Mechanics-Aware Tactile Prediction](https://arxiv.org/abs/2607.28391) | — | 2026 | [Paper](https://arxiv.org/abs/2607.28391) | Mechanics-aware tactile futures supervise contact-rich world-action model training |
+| [World Action Planner: Generalizable Decision-Making with Action-Conditioned World Models](https://arxiv.org/abs/2607.27599) | — | 2026 | [Paper](https://arxiv.org/abs/2607.27599) \| [Project](http://worldactionplanner.github.io) | VLM + action-conditioned world model enables zero-shot generalizable manipulation |
 
 ---
 
