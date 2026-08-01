@@ -359,6 +359,7 @@
 | [Masked Visual Actions for Unified World Modeling](https://arxiv.org/abs/2607.19343) | — | 2026 | [Paper](https://arxiv.org/abs/2607.19343) \| [Project](https://masked-visual-actions.github.io) | Pixel-space masked action interface unifies forward dynamics and inverse modeling; Stanford |
 | [DeVA: Decoupled Video-Action Model with Physical Guidance for Robot Policy Learning](https://arxiv.org/abs/2607.24159) | — | 2026 | [Paper](https://arxiv.org/abs/2607.24159) \| [Project](https://deva-model.github.io/) | Decoupled video-action experts with multi-level feature transfer for manipulation |
 | [DC-WAM: Dynamic-Centric Visual Supervision and Reasoning for World-Action Models](https://arxiv.org/abs/2607.25918) | — | 2026 | [Paper](https://arxiv.org/abs/2607.25918) | Redirects WAM supervision from appearance to interaction-induced visual dynamics |
+| [DLAM: Distributional Latent Actions with Temporal Constraints](https://arxiv.org/abs/2607.27138) | — | 2026 | [Paper](https://arxiv.org/abs/2607.27138) | Distributional Gaussian latent actions improve π₀ transfer on MetaWorld and LIBERO |
 
 ---
 
@@ -519,6 +520,7 @@
 | [HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone](https://arxiv.org/abs/2607.25895) | — | 2026 | [Paper](https://arxiv.org/abs/2607.25895) \| [Project](https://cloud.simpleai.tech/simple-world-lab/hifi-umi/) | High-fidelity UMI data with 2K-trajectory dataset for deployable manipulation policies |
 | [FA-RDP: Frequency-Adaptive Reactive Diffusion Policy for Contact-Rich Manipulation](https://arxiv.org/abs/2607.28596) | — | 2026 | [Paper](https://arxiv.org/abs/2607.28596) \| [Project](https://fa-rdp.github.io) | Adaptive-frequency diffusion policy balances multimodality and reactivity in contact |
 | [UniCross: Unified Cross-Skill Dexterous Manipulation Synthesis](https://arxiv.org/abs/2607.28198) | — | 2026 | [Paper](https://arxiv.org/abs/2607.28198) \| [Project](https://zdchan.github.io/UniCross/) | Unified framework distills single cross-skill policy for dexterous manipulation |
+| [SIDO: Counterfactual Action Augmentation for Moving Object Manipulation](https://arxiv.org/abs/2607.27890) | — | 2026 | [Paper](https://arxiv.org/abs/2607.27890) \| [Project](https://sido-staticindynamicout.github.io/) | Static-demo training transfers to dynamic objects via counterfactual pose morphing |
 
 ---
 
@@ -665,6 +667,7 @@
 | [ContactFlow: Embodiment-Agnostic Video World Model via 3D Contact Points](https://arxiv.org/abs/2607.26579) | — | 2026 | [Paper](https://arxiv.org/abs/2607.26579) | 3D contact-point action conditioning enables cross-embodiment video world model |
 | [TacWAM: Anchor-Guided World Action Model with Mechanics-Aware Tactile Prediction](https://arxiv.org/abs/2607.28391) | — | 2026 | [Paper](https://arxiv.org/abs/2607.28391) | Mechanics-aware tactile futures supervise contact-rich world-action model training |
 | [World Action Planner: Generalizable Decision-Making with Action-Conditioned World Models](https://arxiv.org/abs/2607.27599) | — | 2026 | [Paper](https://arxiv.org/abs/2607.27599) \| [Project](http://worldactionplanner.github.io) | VLM + action-conditioned world model enables zero-shot generalizable manipulation |
+| [ODEWorld: A Continuous Predictive Architecture via Physical-Time Flow](https://arxiv.org/abs/2607.27924) | — | 2026 | [Paper](https://arxiv.org/abs/2607.27924) \| [Project](https://dstate.github.io/odeworld_website/) | Continuous-time ODE latent world model enables arbitrary-resolution robot planning |
 
 ---
 
