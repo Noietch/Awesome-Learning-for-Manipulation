@@ -300,6 +300,7 @@
 | [CheckVLA: Execution-Time Verification with Action-Conditioned World Model](https://arxiv.org/abs/2607.26789) | — | 2026 | [Paper](https://arxiv.org/abs/2607.26789) | Action-conditioned world model verifies VLA execution for long-horizon manipulation |
 | [RedFlow: Redirect Failure into Action-Level Corrections for Flow-matching VLA Policy](https://arxiv.org/abs/2607.27782) | — | 2026 | [Paper](https://arxiv.org/abs/2607.27782) | Action-level failure correction via offline RL improves flow-matching VLA robustness |
 | [RoboBRIDGE: A Modular Framework for Bridging Policies to Robust Real-World Robotic Agents](https://arxiv.org/abs/2607.27881) | IROS | 2026 | [Paper](https://arxiv.org/abs/2607.27881) | Modular orchestration layer transforms pretrained VLAs into robust real-world agents |
+| [IDR: Causality-aware Infer-Diagnose-Refine for Test-Time Modality Adaptation in VLAs](https://arxiv.org/abs/2607.25516) | — | 2026 | [Paper](https://arxiv.org/abs/2607.25516) | Causal counterfactual visual importance refines VLA actions at test time training-free |
 
 ---
 
@@ -521,6 +522,9 @@
 | [FA-RDP: Frequency-Adaptive Reactive Diffusion Policy for Contact-Rich Manipulation](https://arxiv.org/abs/2607.28596) | — | 2026 | [Paper](https://arxiv.org/abs/2607.28596) \| [Project](https://fa-rdp.github.io) | Adaptive-frequency diffusion policy balances multimodality and reactivity in contact |
 | [UniCross: Unified Cross-Skill Dexterous Manipulation Synthesis](https://arxiv.org/abs/2607.28198) | — | 2026 | [Paper](https://arxiv.org/abs/2607.28198) \| [Project](https://zdchan.github.io/UniCross/) | Unified framework distills single cross-skill policy for dexterous manipulation |
 | [SIDO: Counterfactual Action Augmentation for Moving Object Manipulation](https://arxiv.org/abs/2607.27890) | — | 2026 | [Paper](https://arxiv.org/abs/2607.27890) \| [Project](https://sido-staticindynamicout.github.io/) | Static-demo training transfers to dynamic objects via counterfactual pose morphing |
+| [SemAnCorr: Semantic Anchored Correspondence for Zero-Shot Manipulation Skill Transfer](https://arxiv.org/abs/2607.28382) | — | 2026 | [Paper](https://arxiv.org/abs/2607.28382) | Semantic anchor correspondence enables zero-shot skill transfer across object geometries |
+| [Transformer Transformer: Unified Model for Motion-Conditioned Robot Co-design](https://arxiv.org/abs/2607.25798) | — | 2026 | [Paper](https://arxiv.org/abs/2607.25798) \| [Project](https://transformer-transformer.github.io/) | Diffusion transformer co-designs robot embodiments conditioned on target motions; Stanford |
+| [KAI: Kinematic-Aware Interface for Data-Efficient Articulated Object Manipulation](https://arxiv.org/abs/2607.24493) | — | 2026 | [Paper](https://arxiv.org/abs/2607.24493) \| [Project](https://li-yaping.github.io/KAI/) | Kinematic priors halve demo needs for articulated manipulation; CUHK |
 
 ---
 
@@ -668,6 +672,7 @@
 | [TacWAM: Anchor-Guided World Action Model with Mechanics-Aware Tactile Prediction](https://arxiv.org/abs/2607.28391) | — | 2026 | [Paper](https://arxiv.org/abs/2607.28391) | Mechanics-aware tactile futures supervise contact-rich world-action model training |
 | [World Action Planner: Generalizable Decision-Making with Action-Conditioned World Models](https://arxiv.org/abs/2607.27599) | — | 2026 | [Paper](https://arxiv.org/abs/2607.27599) \| [Project](http://worldactionplanner.github.io) | VLM + action-conditioned world model enables zero-shot generalizable manipulation |
 | [ODEWorld: A Continuous Predictive Architecture via Physical-Time Flow](https://arxiv.org/abs/2607.27924) | — | 2026 | [Paper](https://arxiv.org/abs/2607.27924) \| [Project](https://dstate.github.io/odeworld_website/) | Continuous-time ODE latent world model enables arbitrary-resolution robot planning |
+| [FeelWorld: Visuo-Tactile World Model for Hierarchical Contact Prediction and Planning](https://arxiv.org/abs/2607.24267) | — | 2026 | [Paper](https://arxiv.org/abs/2607.24267) | Hierarchical visuo-tactile world model jointly predicts visual and tactile futures |
 
 ---
 
