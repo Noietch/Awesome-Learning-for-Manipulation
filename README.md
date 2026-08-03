@@ -301,6 +301,8 @@
 | [RedFlow: Redirect Failure into Action-Level Corrections for Flow-matching VLA Policy](https://arxiv.org/abs/2607.27782) | — | 2026 | [Paper](https://arxiv.org/abs/2607.27782) | Action-level failure correction via offline RL improves flow-matching VLA robustness |
 | [RoboBRIDGE: A Modular Framework for Bridging Policies to Robust Real-World Robotic Agents](https://arxiv.org/abs/2607.27881) | IROS | 2026 | [Paper](https://arxiv.org/abs/2607.27881) | Modular orchestration layer transforms pretrained VLAs into robust real-world agents |
 | [IDR: Causality-aware Infer-Diagnose-Refine for Test-Time Modality Adaptation in VLAs](https://arxiv.org/abs/2607.25516) | — | 2026 | [Paper](https://arxiv.org/abs/2607.25516) | Causal counterfactual visual importance refines VLA actions at test time training-free |
+| [WCM: A World Critic Model for Vision-Language-Action Reinforcement Learning](https://arxiv.org/abs/2607.29613) | — | 2026 | [Paper](https://arxiv.org/abs/2607.29613) | LeJEPA world critic jointly predicts latent states and values for VLA RL post-training |
+| [FibVLA: An Efficient Temporal Vision-Language-Action Model with Fibonacci Sampling](https://arxiv.org/abs/2607.29596) | — | 2026 | [Paper](https://arxiv.org/abs/2607.29596) | Logarithmic history sampling + Fibonacci recurrent inference for efficient temporal VLA |
 
 ---
 
@@ -525,6 +527,8 @@
 | [SemAnCorr: Semantic Anchored Correspondence for Zero-Shot Manipulation Skill Transfer](https://arxiv.org/abs/2607.28382) | — | 2026 | [Paper](https://arxiv.org/abs/2607.28382) | Semantic anchor correspondence enables zero-shot skill transfer across object geometries |
 | [Transformer Transformer: Unified Model for Motion-Conditioned Robot Co-design](https://arxiv.org/abs/2607.25798) | — | 2026 | [Paper](https://arxiv.org/abs/2607.25798) \| [Project](https://transformer-transformer.github.io/) | Diffusion transformer co-designs robot embodiments conditioned on target motions; Stanford |
 | [KAI: Kinematic-Aware Interface for Data-Efficient Articulated Object Manipulation](https://arxiv.org/abs/2607.24493) | — | 2026 | [Paper](https://arxiv.org/abs/2607.24493) \| [Project](https://li-yaping.github.io/KAI/) | Kinematic priors halve demo needs for articulated manipulation; CUHK |
+| [Temporal Policy: History-Initialized Action Generation for Robotic Learning from Demonstration](https://arxiv.org/abs/2607.29482) | — | 2026 | [Paper](https://arxiv.org/abs/2607.29482) \| [Code](https://github.com/dmiller12/TemporalPolicy) | History-coupled flow matching cuts transport cost 10× at 19ms inference latency |
+| [TRACT: Temporally Routed Action Chunks for Contact-Rich Manipulation](https://arxiv.org/abs/2607.29285) | — | 2026 | [Paper](https://arxiv.org/abs/2607.29285) | Phase-aware temporal routing achieves 10/10 real-robot contact-rich manipulation |
 
 ---
 
@@ -673,6 +677,7 @@
 | [World Action Planner: Generalizable Decision-Making with Action-Conditioned World Models](https://arxiv.org/abs/2607.27599) | — | 2026 | [Paper](https://arxiv.org/abs/2607.27599) \| [Project](http://worldactionplanner.github.io) | VLM + action-conditioned world model enables zero-shot generalizable manipulation |
 | [ODEWorld: A Continuous Predictive Architecture via Physical-Time Flow](https://arxiv.org/abs/2607.27924) | — | 2026 | [Paper](https://arxiv.org/abs/2607.27924) \| [Project](https://dstate.github.io/odeworld_website/) | Continuous-time ODE latent world model enables arbitrary-resolution robot planning |
 | [FeelWorld: Visuo-Tactile World Model for Hierarchical Contact Prediction and Planning](https://arxiv.org/abs/2607.24267) | — | 2026 | [Paper](https://arxiv.org/abs/2607.24267) | Hierarchical visuo-tactile world model jointly predicts visual and tactile futures |
+| [BWM: A Low-Cost High-Fidelity World Simulator for Robot Learning](https://arxiv.org/abs/2607.29302) | — | 2026 | [Paper](https://arxiv.org/abs/2607.29302) | Open-source action-conditioned world model; WorldArena Challenge Track 1 winner |
 
 ---
 
